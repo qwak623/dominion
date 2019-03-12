@@ -24,6 +24,7 @@ namespace GameCore.Cards
                 new Pile(Smithy.Get(), 10),
                 new Pile(Market.Get(), 10),
                 new Pile(Mine.Get(), 10),
+                new Pile(Laboratory.Get(), 10),
             }.Concat(VictoryAndTreasures(two)).ToList();
         }
 
