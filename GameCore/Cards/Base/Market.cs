@@ -1,0 +1,25 @@
+﻿namespace GameCore.Cards.Base
+{
+    public class Market : Card
+    {
+        static Market market = null;
+        private Market() : base
+        (
+            id: 28,
+            name: "Market",
+            price: 5,
+            addActions: 1,
+            addBuys: 1,
+            addCoins: 1,
+            drawCards: 1,
+            isVictory: false,
+            isTreasure: false,
+            isAction: true,
+            isReaction: false,
+            isAttack: false
+        )
+        { }
+
+        public static Market Get() => market ?? new Market();
+    }
+}

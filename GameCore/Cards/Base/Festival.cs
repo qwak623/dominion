@@ -1,0 +1,25 @@
+﻿namespace GameCore.Cards.Base
+{
+    public class Festival : Card
+    {
+        static Festival festival = null;
+        private Festival() : base
+        (
+            id: 25,
+            name: "Festival",
+            price: 5,
+            addActions: 2,
+            addBuys: 1,
+            addCoins: 2,
+            drawCards: 0,
+            isVictory: false,
+            isTreasure: false,
+            isAction: true,
+            isReaction: false,
+            isAttack: false
+        )
+        { }
+
+        public static Festival Get() => festival ?? new Festival();
+    }
+}
