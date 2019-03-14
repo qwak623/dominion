@@ -13,9 +13,25 @@ namespace GameCore
         public List<Cards.Pile> Kingdom;
         public List<Card> Trash;
         public Logger logger;
-        bool endOfTheGame = false;
 
-        public Game (User[] users, List<Cards.Pile> kingdom, Logger logger)
+        private bool _endOfTheGame;
+        private bool EndOfTheGame
+        {
+            get => _endOfTheGame;
+            set
+            {
+                _endOfTheGame = value;
+
+                //Call event on game end
+                if (!EndOfTheGame)
+                    OnGameEnd?.Invoke(this, null);
+            }
+        }
+
+        public event EventHandler OnGameEnd;
+        public event EventHandler OnGameStart;
+
+        public Game(User[] users, List<Cards.Pile> kingdom, Logger logger)
         {
             this.logger = logger;
             Kingdom = kingdom;
@@ -25,6 +41,7 @@ namespace GameCore
 
         public void Run()
         {
+            OnGameStart?.Invoke(this, null);
             Task.Run(() =>
             {
                 logger.Log("New game has started.");
@@ -73,7 +90,7 @@ namespace GameCore
                     // next player
                     i = (i + 1) % Players.Count;
                 }
-            });   
+            });
         }
 
         // todo vyresit konec taky

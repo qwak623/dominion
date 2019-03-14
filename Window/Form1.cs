@@ -33,13 +33,19 @@ namespace Window
             var human = new Human(PlayCard, Choice, AlternativeChoice, job);
             var provincial = new Provincial();
             Game game = new Game(new User[] { human, provincial }, kingdom, new WindowLogger(Log));
+
+            //Enable button play on end game
+            game.OnGameEnd += (o, args) => StartGameBtn.Enabled = true;
+
+            //Disable button play on start game
+            game.OnGameStart += (o, args) => StartGameBtn.Enabled = false;
             game.Run();
         }
 
         // todo mozna nejak systemove vyresit ktere karty se hraji a ktere ne
         void PlayCard(IEnumerable<Card> c, PlayerState s, Phase p)
         {
-            Action<IEnumerable<Card>, PlayerState, Phase> function = (cards, ps, phase) => 
+            Action<IEnumerable<Card>, PlayerState, Phase> function = (cards, ps, phase) =>
             {
                 ShowKingdom();
 
@@ -104,7 +110,7 @@ namespace Window
                 AddDoneButton(ref y, SelectCard);
             };
 
-            this.Invoke(function, new object[] {p == Phase.Buy ? c : s.Hand, s, p });
+            this.Invoke(function, new object[] { p == Phase.Buy ? c : s.Hand, s, p });
         }
 
         void Choice(IEnumerable<Card> c, PlayerState g, int mininum, int maximum)
