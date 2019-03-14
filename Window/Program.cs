@@ -16,7 +16,7 @@ namespace Window
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new StartGameBtn());
+            Application.Run(new MainWindow());
         }
     }
 }

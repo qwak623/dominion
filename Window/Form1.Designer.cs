@@ -1,6 +1,6 @@
 ﻿namespace Window
 {
-    partial class StartGameBtn
+    partial class MainWindow
     {
         /// <summary>
         /// Required designer variable.
@@ -32,7 +32,7 @@
             this.KingdomLabel = new System.Windows.Forms.Label();
             this.SetKingdom = new System.Windows.Forms.Button();
             this.Header = new System.Windows.Forms.Panel();
-            this.StartGame = new System.Windows.Forms.Button();
+            this.StartGameBtn = new System.Windows.Forms.Button();
             this.GamePanel = new System.Windows.Forms.Panel();
             this.LogPanel = new System.Windows.Forms.Panel();
             this.LogTextBox = new System.Windows.Forms.TextBox();
@@ -87,7 +87,7 @@
             // Header
             // 
             this.Header.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.Header.Controls.Add(this.StartGame);
+            this.Header.Controls.Add(this.StartGameBtn);
             this.Header.Controls.Add(this.SetKingdom);
             this.Header.Location = new System.Drawing.Point(0, 0);
             this.Header.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
@@ -95,16 +95,16 @@
             this.Header.Size = new System.Drawing.Size(704, 30);
             this.Header.TabIndex = 2;
             // 
-            // StartGame
+            // StartGameBtn
             // 
-            this.StartGame.Location = new System.Drawing.Point(157, 2);
-            this.StartGame.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.StartGame.Name = "StartGame";
-            this.StartGame.Size = new System.Drawing.Size(150, 24);
-            this.StartGame.TabIndex = 2;
-            this.StartGame.Text = "Play";
-            this.StartGame.UseVisualStyleBackColor = true;
-            this.StartGame.Click += new System.EventHandler(this.StartGame_Click);
+            this.StartGameBtn.Location = new System.Drawing.Point(157, 2);
+            this.StartGameBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.StartGameBtn.Name = "StartGameBtn";
+            this.StartGameBtn.Size = new System.Drawing.Size(150, 24);
+            this.StartGameBtn.TabIndex = 2;
+            this.StartGameBtn.Text = "Play";
+            this.StartGameBtn.UseVisualStyleBackColor = true;
+            this.StartGameBtn.Click += new System.EventHandler(this.StartGame_Click);
             // 
             // GamePanel
             // 
@@ -241,7 +241,7 @@
             this.ActionLabel.TabIndex = 0;
             this.ActionLabel.Text = "Actions: 1";
             // 
-            // StartGameBtn
+            // MainWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -250,7 +250,7 @@
             this.Controls.Add(this.Header);
             this.Controls.Add(this.KingdomPanel);
             this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.Name = "StartGameBtn";
+            this.Name = "MainWindow";
             this.Text = "Muj nazev aplikace";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.KingdomPanel.ResumeLayout(false);
@@ -271,7 +271,7 @@
         private System.Windows.Forms.Label KingdomLabel;
         private System.Windows.Forms.Button SetKingdom;
         private System.Windows.Forms.Panel Header;
-        private System.Windows.Forms.Button StartGame;
+        private System.Windows.Forms.Button StartGameBtn;
         private System.Windows.Forms.Panel GamePanel;
         private System.Windows.Forms.Label PlayAreaLabel;
         private System.Windows.Forms.Label CoinLabel;

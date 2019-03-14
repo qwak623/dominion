@@ -10,13 +10,13 @@ using GameCore.Cards;
 
 namespace Window
 {
-    public partial class StartGameBtn : Form
+    public partial class MainWindow : Form
     {
         Job job = new Job();
         List<GameCore.Cards.Pile> kingdom;
         int min, max;
 
-        public StartGameBtn()
+        public MainWindow()
         {
             InitializeComponent();
         }
