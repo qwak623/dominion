@@ -142,6 +142,7 @@
             this.LogTextBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.LogTextBox.Multiline = true;
             this.LogTextBox.Name = "LogTextBox";
+            this.LogTextBox.ReadOnly = true;
             this.LogTextBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.LogTextBox.Size = new System.Drawing.Size(238, 318);
             this.LogTextBox.TabIndex = 4;
