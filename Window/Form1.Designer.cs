@@ -1,6 +1,6 @@
 ﻿namespace Window
 {
-    partial class MyForm
+    partial class StartGameBtn
     {
         /// <summary>
         /// Required designer variable.
@@ -55,9 +55,10 @@
             // 
             this.KingdomPanel.BackColor = System.Drawing.SystemColors.ControlLight;
             this.KingdomPanel.Controls.Add(this.KingdomLabel);
-            this.KingdomPanel.Location = new System.Drawing.Point(3, 43);
+            this.KingdomPanel.Location = new System.Drawing.Point(2, 35);
+            this.KingdomPanel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.KingdomPanel.Name = "KingdomPanel";
-            this.KingdomPanel.Size = new System.Drawing.Size(200, 495);
+            this.KingdomPanel.Size = new System.Drawing.Size(150, 402);
             this.KingdomPanel.TabIndex = 0;
             // 
             // KingdomLabel
@@ -66,17 +67,19 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KingdomLabel.AutoSize = true;
             this.KingdomLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.KingdomLabel.Location = new System.Drawing.Point(51, 10);
+            this.KingdomLabel.Location = new System.Drawing.Point(38, 8);
+            this.KingdomLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.KingdomLabel.Name = "KingdomLabel";
-            this.KingdomLabel.Size = new System.Drawing.Size(97, 25);
+            this.KingdomLabel.Size = new System.Drawing.Size(78, 20);
             this.KingdomLabel.TabIndex = 0;
             this.KingdomLabel.Text = "Kingdom";
             // 
             // SetKingdom
             // 
-            this.SetKingdom.Location = new System.Drawing.Point(3, 3);
+            this.SetKingdom.Location = new System.Drawing.Point(2, 2);
+            this.SetKingdom.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.SetKingdom.Name = "SetKingdom";
-            this.SetKingdom.Size = new System.Drawing.Size(200, 30);
+            this.SetKingdom.Size = new System.Drawing.Size(150, 24);
             this.SetKingdom.TabIndex = 1;
             this.SetKingdom.Text = "Set Kingdom";
             this.SetKingdom.UseVisualStyleBackColor = true;
@@ -87,15 +90,17 @@
             this.Header.Controls.Add(this.StartGame);
             this.Header.Controls.Add(this.SetKingdom);
             this.Header.Location = new System.Drawing.Point(0, 0);
+            this.Header.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Header.Name = "Header";
-            this.Header.Size = new System.Drawing.Size(938, 37);
+            this.Header.Size = new System.Drawing.Size(704, 30);
             this.Header.TabIndex = 2;
             // 
             // StartGame
             // 
-            this.StartGame.Location = new System.Drawing.Point(209, 3);
+            this.StartGame.Location = new System.Drawing.Point(157, 2);
+            this.StartGame.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.StartGame.Name = "StartGame";
-            this.StartGame.Size = new System.Drawing.Size(200, 30);
+            this.StartGame.Size = new System.Drawing.Size(150, 24);
             this.StartGame.TabIndex = 2;
             this.StartGame.Text = "Play";
             this.StartGame.UseVisualStyleBackColor = true;
@@ -110,9 +115,10 @@
             this.GamePanel.Controls.Add(this.CoinLabel);
             this.GamePanel.Controls.Add(this.BuyLabel);
             this.GamePanel.Controls.Add(this.ActionLabel);
-            this.GamePanel.Location = new System.Drawing.Point(209, 43);
+            this.GamePanel.Location = new System.Drawing.Point(157, 35);
+            this.GamePanel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.GamePanel.Name = "GamePanel";
-            this.GamePanel.Size = new System.Drawing.Size(729, 498);
+            this.GamePanel.Size = new System.Drawing.Size(547, 405);
             this.GamePanel.TabIndex = 3;
             this.GamePanel.Visible = false;
             // 
@@ -123,19 +129,21 @@
             this.LogPanel.BackColor = System.Drawing.SystemColors.ControlLight;
             this.LogPanel.Controls.Add(this.LogTextBox);
             this.LogPanel.Controls.Add(this.LogLabel);
-            this.LogPanel.Location = new System.Drawing.Point(393, 64);
+            this.LogPanel.Location = new System.Drawing.Point(295, 52);
+            this.LogPanel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.LogPanel.Name = "LogPanel";
-            this.LogPanel.Size = new System.Drawing.Size(333, 431);
+            this.LogPanel.Size = new System.Drawing.Size(250, 350);
             this.LogPanel.TabIndex = 7;
             // 
             // LogTextBox
             // 
             this.LogTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.LogTextBox.Location = new System.Drawing.Point(8, 38);
+            this.LogTextBox.Location = new System.Drawing.Point(6, 31);
+            this.LogTextBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.LogTextBox.Multiline = true;
             this.LogTextBox.Name = "LogTextBox";
             this.LogTextBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.LogTextBox.Size = new System.Drawing.Size(316, 390);
+            this.LogTextBox.Size = new System.Drawing.Size(238, 318);
             this.LogTextBox.TabIndex = 4;
             // 
             // LogLabel
@@ -143,9 +151,10 @@
             this.LogLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.LogLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.LogLabel.Location = new System.Drawing.Point(3, 10);
+            this.LogLabel.Location = new System.Drawing.Point(2, 8);
+            this.LogLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LogLabel.Name = "LogLabel";
-            this.LogLabel.Size = new System.Drawing.Size(327, 25);
+            this.LogLabel.Size = new System.Drawing.Size(245, 20);
             this.LogLabel.TabIndex = 3;
             this.LogLabel.Text = "Log";
             this.LogLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -156,9 +165,10 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.PlayAreaPanel.BackColor = System.Drawing.SystemColors.ControlLight;
             this.PlayAreaPanel.Controls.Add(this.PlayAreaLabel);
-            this.PlayAreaPanel.Location = new System.Drawing.Point(3, 64);
+            this.PlayAreaPanel.Location = new System.Drawing.Point(2, 52);
+            this.PlayAreaPanel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.PlayAreaPanel.Name = "PlayAreaPanel";
-            this.PlayAreaPanel.Size = new System.Drawing.Size(387, 431);
+            this.PlayAreaPanel.Size = new System.Drawing.Size(290, 350);
             this.PlayAreaPanel.TabIndex = 6;
             // 
             // PlayAreaLabel
@@ -166,9 +176,10 @@
             this.PlayAreaLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.PlayAreaLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.PlayAreaLabel.Location = new System.Drawing.Point(3, 10);
+            this.PlayAreaLabel.Location = new System.Drawing.Point(2, 8);
+            this.PlayAreaLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.PlayAreaLabel.Name = "PlayAreaLabel";
-            this.PlayAreaLabel.Size = new System.Drawing.Size(381, 25);
+            this.PlayAreaLabel.Size = new System.Drawing.Size(286, 20);
             this.PlayAreaLabel.TabIndex = 3;
             this.PlayAreaLabel.Text = "Hand";
             this.PlayAreaLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -177,9 +188,10 @@
             // 
             this.PhaseDescription.AutoSize = true;
             this.PhaseDescription.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.PhaseDescription.Location = new System.Drawing.Point(4, 38);
+            this.PhaseDescription.Location = new System.Drawing.Point(3, 31);
+            this.PhaseDescription.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.PhaseDescription.Name = "PhaseDescription";
-            this.PhaseDescription.Size = new System.Drawing.Size(95, 20);
+            this.PhaseDescription.Size = new System.Drawing.Size(79, 17);
             this.PhaseDescription.TabIndex = 5;
             this.PhaseDescription.Text = "Description";
             // 
@@ -189,9 +201,10 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.PhaseLabel.AutoSize = true;
             this.PhaseLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.PhaseLabel.Location = new System.Drawing.Point(3, 10);
+            this.PhaseLabel.Location = new System.Drawing.Point(2, 8);
+            this.PhaseLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.PhaseLabel.Name = "PhaseLabel";
-            this.PhaseLabel.Size = new System.Drawing.Size(73, 25);
+            this.PhaseLabel.Size = new System.Drawing.Size(59, 20);
             this.PhaseLabel.TabIndex = 4;
             this.PhaseLabel.Text = "Phase";
             // 
@@ -199,9 +212,10 @@
             // 
             this.CoinLabel.AutoSize = true;
             this.CoinLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.CoinLabel.Location = new System.Drawing.Point(646, 40);
+            this.CoinLabel.Location = new System.Drawing.Point(484, 32);
+            this.CoinLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.CoinLabel.Name = "CoinLabel";
-            this.CoinLabel.Size = new System.Drawing.Size(71, 20);
+            this.CoinLabel.Size = new System.Drawing.Size(59, 17);
             this.CoinLabel.TabIndex = 2;
             this.CoinLabel.Text = "Coins: 0";
             // 
@@ -209,9 +223,10 @@
             // 
             this.BuyLabel.AutoSize = true;
             this.BuyLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.BuyLabel.Location = new System.Drawing.Point(651, 20);
+            this.BuyLabel.Location = new System.Drawing.Point(488, 16);
+            this.BuyLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.BuyLabel.Name = "BuyLabel";
-            this.BuyLabel.Size = new System.Drawing.Size(66, 20);
+            this.BuyLabel.Size = new System.Drawing.Size(55, 17);
             this.BuyLabel.TabIndex = 1;
             this.BuyLabel.Text = "Buys: 1";
             // 
@@ -219,21 +234,23 @@
             // 
             this.ActionLabel.AutoSize = true;
             this.ActionLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.ActionLabel.Location = new System.Drawing.Point(633, 0);
+            this.ActionLabel.Location = new System.Drawing.Point(475, 0);
+            this.ActionLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.ActionLabel.Name = "ActionLabel";
-            this.ActionLabel.Size = new System.Drawing.Size(84, 20);
+            this.ActionLabel.Size = new System.Drawing.Size(70, 17);
             this.ActionLabel.TabIndex = 0;
             this.ActionLabel.Text = "Actions: 1";
             // 
-            // MyForm
+            // StartGameBtn
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(938, 544);
+            this.ClientSize = new System.Drawing.Size(704, 442);
             this.Controls.Add(this.GamePanel);
             this.Controls.Add(this.Header);
             this.Controls.Add(this.KingdomPanel);
-            this.Name = "MyForm";
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Name = "StartGameBtn";
             this.Text = "Muj nazev aplikace";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.KingdomPanel.ResumeLayout(false);
