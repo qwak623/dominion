@@ -38,12 +38,12 @@
             this.LogTextBox = new System.Windows.Forms.TextBox();
             this.LogLabel = new System.Windows.Forms.Label();
             this.PlayAreaPanel = new System.Windows.Forms.Panel();
-            this.PlayAreaLabel = new System.Windows.Forms.Label();
             this.PhaseDescription = new System.Windows.Forms.Label();
             this.PhaseLabel = new System.Windows.Forms.Label();
             this.CoinLabel = new System.Windows.Forms.Label();
             this.BuyLabel = new System.Windows.Forms.Label();
             this.ActionLabel = new System.Windows.Forms.Label();
+            this.PlayAreaLabel = new System.Windows.Forms.Label();
             this.KingdomPanel.SuspendLayout();
             this.Header.SuspendLayout();
             this.GamePanel.SuspendLayout();
@@ -56,7 +56,7 @@
             this.KingdomPanel.BackColor = System.Drawing.SystemColors.ControlLight;
             this.KingdomPanel.Controls.Add(this.KingdomLabel);
             this.KingdomPanel.Location = new System.Drawing.Point(2, 35);
-            this.KingdomPanel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.KingdomPanel.Margin = new System.Windows.Forms.Padding(2);
             this.KingdomPanel.Name = "KingdomPanel";
             this.KingdomPanel.Size = new System.Drawing.Size(150, 402);
             this.KingdomPanel.TabIndex = 0;
@@ -77,7 +77,7 @@
             // SetKingdom
             // 
             this.SetKingdom.Location = new System.Drawing.Point(2, 2);
-            this.SetKingdom.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.SetKingdom.Margin = new System.Windows.Forms.Padding(2);
             this.SetKingdom.Name = "SetKingdom";
             this.SetKingdom.Size = new System.Drawing.Size(150, 24);
             this.SetKingdom.TabIndex = 1;
@@ -90,7 +90,7 @@
             this.Header.Controls.Add(this.StartGameBtn);
             this.Header.Controls.Add(this.SetKingdom);
             this.Header.Location = new System.Drawing.Point(0, 0);
-            this.Header.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Header.Margin = new System.Windows.Forms.Padding(2);
             this.Header.Name = "Header";
             this.Header.Size = new System.Drawing.Size(704, 30);
             this.Header.TabIndex = 2;
@@ -98,7 +98,7 @@
             // StartGameBtn
             // 
             this.StartGameBtn.Location = new System.Drawing.Point(157, 2);
-            this.StartGameBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.StartGameBtn.Margin = new System.Windows.Forms.Padding(2);
             this.StartGameBtn.Name = "StartGameBtn";
             this.StartGameBtn.Size = new System.Drawing.Size(150, 24);
             this.StartGameBtn.TabIndex = 2;
@@ -116,7 +116,7 @@
             this.GamePanel.Controls.Add(this.BuyLabel);
             this.GamePanel.Controls.Add(this.ActionLabel);
             this.GamePanel.Location = new System.Drawing.Point(157, 35);
-            this.GamePanel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.GamePanel.Margin = new System.Windows.Forms.Padding(2);
             this.GamePanel.Name = "GamePanel";
             this.GamePanel.Size = new System.Drawing.Size(547, 405);
             this.GamePanel.TabIndex = 3;
@@ -130,7 +130,7 @@
             this.LogPanel.Controls.Add(this.LogTextBox);
             this.LogPanel.Controls.Add(this.LogLabel);
             this.LogPanel.Location = new System.Drawing.Point(295, 52);
-            this.LogPanel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.LogPanel.Margin = new System.Windows.Forms.Padding(2);
             this.LogPanel.Name = "LogPanel";
             this.LogPanel.Size = new System.Drawing.Size(250, 350);
             this.LogPanel.TabIndex = 7;
@@ -139,7 +139,7 @@
             // 
             this.LogTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.LogTextBox.Location = new System.Drawing.Point(6, 31);
-            this.LogTextBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.LogTextBox.Margin = new System.Windows.Forms.Padding(2);
             this.LogTextBox.Multiline = true;
             this.LogTextBox.Name = "LogTextBox";
             this.LogTextBox.ReadOnly = true;
@@ -167,23 +167,10 @@
             this.PlayAreaPanel.BackColor = System.Drawing.SystemColors.ControlLight;
             this.PlayAreaPanel.Controls.Add(this.PlayAreaLabel);
             this.PlayAreaPanel.Location = new System.Drawing.Point(2, 52);
-            this.PlayAreaPanel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.PlayAreaPanel.Margin = new System.Windows.Forms.Padding(2);
             this.PlayAreaPanel.Name = "PlayAreaPanel";
             this.PlayAreaPanel.Size = new System.Drawing.Size(290, 350);
             this.PlayAreaPanel.TabIndex = 6;
-            // 
-            // PlayAreaLabel
-            // 
-            this.PlayAreaLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.PlayAreaLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.PlayAreaLabel.Location = new System.Drawing.Point(2, 8);
-            this.PlayAreaLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.PlayAreaLabel.Name = "PlayAreaLabel";
-            this.PlayAreaLabel.Size = new System.Drawing.Size(286, 20);
-            this.PlayAreaLabel.TabIndex = 3;
-            this.PlayAreaLabel.Text = "Hand";
-            this.PlayAreaLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // PhaseDescription
             // 
@@ -242,6 +229,19 @@
             this.ActionLabel.TabIndex = 0;
             this.ActionLabel.Text = "Actions: 1";
             // 
+            // PlayAreaLabel
+            // 
+            this.PlayAreaLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.PlayAreaLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.PlayAreaLabel.Location = new System.Drawing.Point(2, 8);
+            this.PlayAreaLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.PlayAreaLabel.Name = "PlayAreaLabel";
+            this.PlayAreaLabel.Size = new System.Drawing.Size(286, 20);
+            this.PlayAreaLabel.TabIndex = 3;
+            this.PlayAreaLabel.Text = "Hand";
+            this.PlayAreaLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // MainWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -250,7 +250,7 @@
             this.Controls.Add(this.GamePanel);
             this.Controls.Add(this.Header);
             this.Controls.Add(this.KingdomPanel);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "MainWindow";
             this.Text = "Muj nazev aplikace";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -274,7 +274,6 @@
         private System.Windows.Forms.Panel Header;
         private System.Windows.Forms.Button StartGameBtn;
         private System.Windows.Forms.Panel GamePanel;
-        private System.Windows.Forms.Label PlayAreaLabel;
         private System.Windows.Forms.Label CoinLabel;
         private System.Windows.Forms.Label BuyLabel;
         private System.Windows.Forms.Label ActionLabel;
@@ -284,6 +283,7 @@
         private System.Windows.Forms.Panel LogPanel;
         private System.Windows.Forms.Label LogLabel;
         private System.Windows.Forms.TextBox LogTextBox;
+        private System.Windows.Forms.Label PlayAreaLabel;
     }
 }
 

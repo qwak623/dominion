@@ -27,7 +27,7 @@ namespace GameCore
             if (card == null)
                 return Color.DarkGray;
             if (card.IsTreasure)
-                return Color.Yellow;
+                return Color.Gold;
             if (card.IsVictory)
                 return Color.LightGreen;
             if (card.IsReaction)

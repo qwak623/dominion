@@ -86,14 +86,22 @@ namespace Window
                     {
                         Text = card.Name + (phase == Phase.Buy ? " $" + card.Price.ToString() : string.Empty),
                         Tag = card,
-                        Location = new Point(3 + x * 145, y += (x == 0 ? 1 : 0) * 28),
+                        Location = new Point(3 + x * 145, y += (x == 0 ? 1 : 0) * 38),
                         Size = new Size(138, 23),
                         Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
-                        ForeColor = Color.DarkGray,
+                        //ForeColor = Color.DarkGray,
                         BackColor = card.ToBackColor(),
-                    };
-                    button.FlatAppearance.BorderSize = 0;
-                    button.FlatStyle = FlatStyle.Flat;
+                        TextImageRelation = TextImageRelation.ImageBeforeText,
+                        Image = Properties.Resources.ResourceManager.GetObject(card.Name) as  Bitmap,
+                        ImageAlign = ContentAlignment.MiddleRight,
+                        Height = 31,
+                        UseVisualStyleBackColor = false,
+                        FlatStyle = FlatStyle.Flat,
+                        FlatAppearance = { BorderColor = Color.DarkGray}
+                };
+
+                 
+              
                     x = x == 0 ? 1 : 0;
 
                     // selecting which card can be played (or bought)
@@ -167,7 +175,7 @@ namespace Window
             var button = new Button()
             {
                 Text = $"Done",
-                Location = new Point(80, y += 28),
+                Location = new Point(80, y += 40),
                 Size = new Size(138, 23),
                 Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
                 BackColor = Color.DarkGray,

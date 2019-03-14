@@ -66,6 +66,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -89,6 +90,39 @@
       <Project>{f3219f54-ddee-42af-a417-7e9670953046}</Project>
       <Name>GameCore</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Village.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Market.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WoodCutter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Workshop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Militia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Silver.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
