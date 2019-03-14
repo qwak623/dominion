@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GameCore.Cards;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -32,11 +33,11 @@ namespace GameCore
            
             // gain copper
             for (int i = 0; i < 7; i++)
-                ps.DrawPile.Add(game.Kingdom.Where(p => p.CardId == 1).Single().GainCard());
+                ps.DrawPile.Add(game.Kingdom.Where(p => p.Type == CardType.Copper).Single().GainCard());
             
             // gain estate
             for (int i = 0; i < 3; i++)
-                ps.DrawPile.Add(game.Kingdom.Where(p => p.CardId == 4).Single().GainCard());
+                ps.DrawPile.Add(game.Kingdom.Where(p => p.Type == CardType.Estate).Single().GainCard());
         }
 
         /// <summary>
@@ -99,13 +100,13 @@ namespace GameCore
                 return null;
 
             // buy
-            var card = user.PlayCard(game.Kingdom.Where(k => k.CardPrice <= ps.Coins).Select(k => k.Card), ps, Phase.Buy);
+            var card = user.PlayCard(game.Kingdom.Where(k => !k.Empty && k.Price <= ps.Coins).Select(k => k.Card), ps, Phase.Buy);
             if (card == null)
                 return null;
 
             game.logger.Log($"{Name} pays ${card.Price}.");
 
-            Gain(card);
+            Gain(card.Type);
             ps.Buys--;
             ps.Coins -= card.Price;
             
@@ -172,24 +173,29 @@ namespace GameCore
             ps.DiscardPile.Add(card);
         }
 
-        public void Gain(Card card)
+        public void Gain(CardType type)
         {
+            var card = game.Gain(type);
             if (card == null)
                 return;
             game.logger.Log($"{Name} gains '{card.Name}'.");
-            ps.PlayedCards.Add(game.Kingdom.Single(p => p.CardId == card.Id).GainCard());
+            ps.PlayedCards.Add(card);
         }
 
-        public void GainToHand(Card card)
+        public void GainToHand(CardType type)
         {
+            var card = game.Gain(type);
             if (card == null)
                 return;
             game.logger.Log($"{Name} gains '{card.Name}' to hand.");
-            ps.Hand.Add(game.Kingdom.Single(p => p.CardId == card.Id).GainCard());
+            ps.Hand.Add(card);
         }
 
-        public void GainToDrawPile(Card card)
+        public void GainToDrawPile(CardType type)
         {
+            var card = game.Gain(type);
+            if (card == null)
+                return;
             game.logger.Log($"{Name} gains '{card.Name}' up to draw pile.");
             ps.DrawPile.Add(card);
         }

@@ -5,8 +5,8 @@
         static Chapel chapel = null;
         private Chapel() : base
         (
-            id: 8,
             name: "Chapel",
+            type: CardType.Chapel,
             price: 2,
             addActions: 0,
             addBuys: 0,

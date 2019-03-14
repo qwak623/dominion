@@ -7,8 +7,8 @@ namespace GameCore.Cards.Base
         static Workshop workshop = null;
         private Workshop() : base
         (
-            id: 11,
             name: "Workshop",
+            type: CardType.Workshop,
             price: 3,
             addActions: 0,
             addBuys: 0,
@@ -26,8 +26,8 @@ namespace GameCore.Cards.Base
 
         protected override void SpecialPlayEffect(Player player)
         {
-            var card = player.user.Choose(player.game.Kingdom.Where(p => p.CardPrice <= 4).Select(p => p.Card), player.ps, 0, 1).SingleOrDefault();
-            player.Gain(card);
+            var card = player.user.Choose(player.game.Kingdom.Where(p => p.Price <= 4).Select(p => p.Card), player.ps, 0, 1).SingleOrDefault();
+            player.Gain(card.Type);
         }
     }
 }

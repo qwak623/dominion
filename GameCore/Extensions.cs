@@ -1,9 +1,7 @@
-﻿using System;
+﻿using GameCore.Cards;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GameCore
 {
@@ -26,6 +24,8 @@ namespace GameCore
         // todo bude potreba predelat na list<Color>
         public static Color ToBackColor(this Card card)
         {
+            if (card == null)
+                return Color.DarkGray;
             if (card.IsTreasure)
                 return Color.Yellow;
             if (card.IsVictory)

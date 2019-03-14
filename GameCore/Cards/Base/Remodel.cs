@@ -7,8 +7,8 @@ namespace GameCore.Cards.Base
         static Remodel remodel = null;
         private Remodel() : base
         (
-            id: 18,
             name: "Remodel",
+            type: CardType.Remodel,
             price: 4,
             addActions: 0,
             addBuys: 0,
@@ -29,8 +29,8 @@ namespace GameCore.Cards.Base
             var oldCard = player.user.Choose(player.ps.Hand, player.ps, 1).Single();
             player.Trash(oldCard);
 
-            var newCard = player.user.Choose(player.game.Kingdom.Where(p => p.CardPrice <= oldCard.Price + 2).Select(p => p.Card), player.ps, 1).SingleOrDefault();
-            player.Gain(newCard);
+            var newCard = player.user.Choose(player.game.Kingdom.Where(p => p.Price <= oldCard.Price + 2).Select(p => p.Card), player.ps, 1).SingleOrDefault();
+            player.Gain(newCard.Type);
         }
     }
 }

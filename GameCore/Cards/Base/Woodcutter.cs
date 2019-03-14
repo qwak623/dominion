@@ -5,8 +5,8 @@
         static Woodcutter woodcutter = null;
         private Woodcutter() : base
         (
-            id: 13,
             name: "Woodcutter",
+            type: CardType.Woodcutter,
             price: 3,
             addActions: 0,
             addBuys: 1,

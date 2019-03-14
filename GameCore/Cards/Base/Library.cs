@@ -7,8 +7,8 @@ namespace GameCore.Cards.Base
         static Library library = null;
         private Library() : base
         (
-            id: 27,
             name: "Library",
+            type: CardType.Library,
             price: 5,
             addActions: 0,
             addBuys: 0,

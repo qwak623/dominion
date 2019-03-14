@@ -7,8 +7,8 @@ namespace GameCore.Cards.Base
         static CouncilRoom councilRoom = null;
         private CouncilRoom() : base
         (
-            id: 24,
             name: "Council Room",
+            type: CardType.CouncilRoom,
             price: 5,
             addActions: 0,
             addBuys: 1,

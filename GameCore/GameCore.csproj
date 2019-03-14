@@ -55,6 +55,7 @@
     <Compile Include="Cards\Base\Mine.cs" />
     <Compile Include="Cards\Base\Moat.cs" />
     <Compile Include="Cards\Base\Moneylender.cs" />
+    <Compile Include="Cards\CardType.cs" />
     <Compile Include="Cards\Base\Remodel.cs" />
     <Compile Include="Cards\Base\Smithy.cs" />
     <Compile Include="Cards\Base\Spy.cs" />
@@ -78,9 +79,8 @@
     <Compile Include="Game.cs" />
     <Compile Include="GameState.cs" />
     <Compile Include="Logger.cs" />
-    <Compile Include="Pile.cs" />
+    <Compile Include="Cards\Pile.cs" />
     <Compile Include="Player.cs" />
-    <Compile Include="Human.cs" />
     <Compile Include="User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

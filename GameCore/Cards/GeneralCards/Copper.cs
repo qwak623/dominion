@@ -5,8 +5,8 @@
         static Copper copper = null;
         private Copper() : base
         (
-            id: 1,
             name: "Copper",
+            type: CardType.Copper,
             price: 0,
             addBuys: 0,
             victoryPoints: 0,

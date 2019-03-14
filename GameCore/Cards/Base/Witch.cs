@@ -7,8 +7,8 @@ namespace GameCore.Cards.Base
         static Witch witch = null;
         private Witch() : base
         (
-            id: 30,
             name: "Witch",
+            type: CardType.Witch,
             price: 5,
             addActions: 0,
             addBuys: 0,
@@ -26,7 +26,7 @@ namespace GameCore.Cards.Base
 
         public override void Attack(Player defender, Player attacker)
         {
-            defender.Gain(defender.game.Kingdom.Where(p => p.CardId == 31).Select(p => p.Card).SingleOrDefault());
+            defender.Gain(defender.game.Kingdom.Where(p => p.Type == CardType.Curse).Select(p => p.Type).SingleOrDefault());
         }
     }
 }

@@ -5,8 +5,8 @@
         static Curse curse = null;
         private Curse() : base
         (
-            id: 31,
             name: "Curse",
+            type: CardType.Curse,
             price: 0,
             addBuys: 0,
             victoryPoints: -1,

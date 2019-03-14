@@ -5,8 +5,8 @@
         static Village village = null;
         private Village() : base
         (
-            id: 10,
             name: "Village",
+            type: CardType.Village,
             price: 3,
             addActions: 2,
             addBuys: 0,

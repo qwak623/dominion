@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GameCore.Cards;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,11 +10,12 @@ namespace GameCore
     public class Game
     {
         public List<Player> Players;
-        public List<Pile> Kingdom;
+        public List<Cards.Pile> Kingdom;
         public List<Card> Trash;
         public Logger logger;
+        bool endOfTheGame = false;
 
-        public Game (User[] users, List<Pile> kingdom, Logger logger)
+        public Game (User[] users, List<Cards.Pile> kingdom, Logger logger)
         {
             this.logger = logger;
             Kingdom = kingdom;
@@ -72,6 +74,26 @@ namespace GameCore
                     i = (i + 1) % Players.Count;
                 }
             });   
+        }
+
+        // todo vyresit konec taky
+        public Card Gain(CardType type)
+        {
+            var pile = Kingdom.SingleOrDefault(p => p.Type == type);
+            if (pile == null)
+                return null;
+            var card = pile.GainCard();
+
+            //if (pile.Count == 0)  TODO
+            //{
+            //    if (card.Type == CardType.Province)
+            //        endOfTheGame = true;
+            //    if (card.IsAction)
+            //        emptyPiles++;
+            //    if (emptyPiles >= 3)
+            //        endOfTheGame = true;
+            //}
+            return card;
         }
     }
 }

@@ -7,8 +7,8 @@ namespace GameCore.Cards.Base
         static Spy spy = null;
         private Spy() : base
         (
-            id: 22,
             name: "Spy",
+            type: CardType.Spy,
             price: 4,
             addActions: 1,
             addBuys: 0,

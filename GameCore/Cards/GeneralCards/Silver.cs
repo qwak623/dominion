@@ -5,8 +5,8 @@
         static Silver silver = null;
         private Silver() : base
         (
-            id: 2,
             name: "Silver",
+            type: CardType.Silver,
             price: 3,
             addBuys: 0,
             victoryPoints: 0,

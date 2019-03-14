@@ -5,8 +5,8 @@
         static Gardens gardens = null;
         private Gardens() : base
         (
-            id: 15,
             name: "Gardens",
+            type: CardType.Gardens,
             price: 4,
             addActions: 0,
             addBuys: 0,

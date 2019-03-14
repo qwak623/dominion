@@ -5,8 +5,8 @@
         static Gold gold = null;
         private Gold() : base
         (
-            id: 3,
             name: "Gold",
+            type: CardType.Gold,
             price: 6,
             addBuys: 0,
             victoryPoints: 0,

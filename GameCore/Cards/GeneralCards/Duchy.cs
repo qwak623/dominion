@@ -5,8 +5,8 @@
         static Duchy duchy = null;
         private Duchy() : base
         (
-            id: 5,
             name: "Duchy",
+            type: CardType.Duchy,
             price: 5,
             addBuys: 0,
             victoryPoints: 3,

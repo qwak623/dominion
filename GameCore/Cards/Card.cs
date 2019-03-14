@@ -1,34 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace GameCore
+namespace GameCore.Cards
 {
     public abstract class Card
     {
-        public readonly int Id;    // id of card type
-        public readonly string Name;
-        public readonly int Price;
-        public readonly int AddActions;
-        public readonly int AddBuys;
-        public readonly int AddCoins;
-        public readonly int DrawCards;
-        public readonly int Coins;
+        public string Name { get; protected set; }
+        public CardType Type;
+        public int Price;
+        public int AddActions;
+        public int AddBuys;
+        public int AddCoins;
+        public int DrawCards;
+        public int Coins;
 
+        public  bool IsVictory;
+        public  bool IsTreasure;
+        public  bool IsAction;
+        public  bool IsReaction;
+        public  bool IsAttack;
         public int VictoryPoints { get; protected set; }
 
-        public readonly bool IsVictory;
-        public readonly bool IsTreasure;
-        public readonly bool IsAction;
-        public readonly bool IsReaction;
-        public readonly bool IsAttack;
-
-        public Card(int id, string name, int price, int addActions, int addBuys, int addCoins, int drawCards, bool isVictory, bool isTreasure, bool isAction, bool isReaction, bool isAttack)
+        protected Card(string name, CardType type, int price, int addActions, int addBuys, int addCoins, int drawCards, bool isVictory, bool isTreasure, bool isAction, bool isReaction, bool isAttack)
         {
-            Id = id;
             Name = name;
+            Type = type;
             Price = price;
             AddActions = addActions;
             AddBuys = addBuys;
@@ -41,10 +36,10 @@ namespace GameCore
             IsAttack = isAttack;
         }
 
-        public Card(int id, string name, int price, int addBuys, int victoryPoints, int coins, bool isVictory, bool isTreasure)
+        protected Card(string name, CardType type, int price, int addBuys, int victoryPoints, int coins, bool isVictory, bool isTreasure)
         {
-            Id = id;
             Name = name;
+            Type = type;
             Price = price;
             AddBuys = addBuys;
             VictoryPoints = victoryPoints;

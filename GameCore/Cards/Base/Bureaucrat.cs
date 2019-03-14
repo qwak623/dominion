@@ -5,10 +5,11 @@ namespace GameCore.Cards.Base
     public class Bureaucrat : Card
     {
         static Bureaucrat bureaucrat = null;
+
         private Bureaucrat() : base
         (
-            id: 14,
             name: "Bureaucrat",
+            type: CardType.Bureaucrat,
             price: 4,
             addActions: 0,
             addBuys: 0,
@@ -26,7 +27,7 @@ namespace GameCore.Cards.Base
 
         protected override void SpecialPlayEffect(Player player)
         {
-            player.GainToDrawPile(player.game.Kingdom.SingleOrDefault(p => p.CardId == 2)?.GainCard());
+            player.GainToDrawPile(player.game.Kingdom.SingleOrDefault(p => p.Type == CardType.Silver).Type);
         }
 
         public override void Attack(Player defender, Player attacker)

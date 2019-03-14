@@ -5,8 +5,8 @@
         static Militia militia = null;
         private Militia() : base
         (
-            id: 16,
             name: "Militia",
+            type: CardType.Militia,
             price: 4,
             addActions: 0,
             addBuys: 0,

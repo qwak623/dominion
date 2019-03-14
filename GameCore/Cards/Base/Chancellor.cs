@@ -5,8 +5,8 @@
         static Chancellor chancellor = null;
         private Chancellor() : base
         (
-            id: 12,
             name: "Chancellor",
+            type: CardType.Chancelor,
             price: 3,
             addActions: 0,
             addBuys: 0,

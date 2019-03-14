@@ -5,8 +5,8 @@
         static Province province = null;
         private Province() : base
         (
-            id: 6,
             name: "Province",
+            type: CardType.Province,
             price: 8,
             addBuys: 0,
             victoryPoints: 6,

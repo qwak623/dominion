@@ -5,8 +5,8 @@
         static Festival festival = null;
         private Festival() : base
         (
-            id: 25,
             name: "Festival",
+            type: CardType.Festival,
             price: 5,
             addActions: 2,
             addBuys: 1,

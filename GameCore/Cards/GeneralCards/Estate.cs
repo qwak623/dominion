@@ -5,8 +5,8 @@
         static Estate estate = null;
         private Estate() : base
         (
-            id: 4,
             name: "Estate",
+            type: CardType.Estate,
             price: 2,
             addBuys: 0,
             victoryPoints: 1, 

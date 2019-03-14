@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCore", "GameCore\GameCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Window", "Window\Window.csproj", "{EAAB4287-C2BC-4843-93F5-EECDA119B1EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI", "AI\AI.csproj", "{A74DB5C5-1EE8-4474-B200-508893BBC976}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EAAB4287-C2BC-4843-93F5-EECDA119B1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAAB4287-C2BC-4843-93F5-EECDA119B1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAAB4287-C2BC-4843-93F5-EECDA119B1EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74DB5C5-1EE8-4474-B200-508893BBC976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74DB5C5-1EE8-4474-B200-508893BBC976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74DB5C5-1EE8-4474-B200-508893BBC976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74DB5C5-1EE8-4474-B200-508893BBC976}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

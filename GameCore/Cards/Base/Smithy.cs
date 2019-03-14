@@ -5,8 +5,8 @@
         static Smithy smithy = null;
         private Smithy() : base
         (
-            id: 19,
             name: "Smithy",
+            type: CardType.Smithy,
             price: 4,
             addActions: 0,
             addBuys: 0,

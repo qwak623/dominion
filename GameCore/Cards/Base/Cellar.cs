@@ -7,8 +7,8 @@ namespace GameCore.Cards.Base
         static Cellar cellar = null;
         private Cellar() : base
         (
-            id: 7,
             name: "Cellar",
+            type: CardType.Cellar,
             price: 2,
             addActions: 1,
             addBuys: 0,

@@ -1,17 +1,19 @@
-﻿using GameCore;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Threading;
 using System.Drawing;
 using System.Windows.Forms;
 using System.Linq;
+using AI;
+using GameCore;
+using GameCore.Cards;
 
 namespace Window
 {
     public partial class MyForm : Form
     {
         Job job = new Job();
-        List<Pile> kingdom;
+        List<GameCore.Cards.Pile> kingdom;
         int min, max;
 
         public MyForm()
@@ -29,7 +31,8 @@ namespace Window
             GamePanel.Visible = true;
             LogTextBox.Text = "";
             var human = new Human(PlayCard, Choice, AlternativeChoice, job);
-            Game game = new Game(new User[] { human }, kingdom, new WindowLogger(Log));
+            var provincial = new Provincial();
+            Game game = new Game(new User[] { human, provincial }, kingdom, new WindowLogger(Log));
             game.Run();
         }
 
@@ -52,12 +55,12 @@ namespace Window
                 {
                     case Phase.Action:
                         PhaseLabel.Text = "Action phase";
-                        PhaseDescription.Text = "Select action card to play.";
+                        PhaseDescription.Text = "Select an action card to play.";
                         PlayAreaLabel.Text = "Hand";
                         break;
                     case Phase.Treasure:
                         PhaseLabel.Text = "Buy phase";
-                        PhaseDescription.Text = "Select treasure to play.";
+                        PhaseDescription.Text = "Select a treasure to play.";
                         PlayAreaLabel.Text = "Hand";
                         break;
                     case Phase.Buy:
@@ -71,7 +74,7 @@ namespace Window
 
                 // todo tohle je nutné opravdu předělat jinak se to rozbije při resize
                 int y = 8, x = 0;
-                foreach (var card in cards.OrderBy(a => a.Id).OrderBy(a => a.Price))
+                foreach (var card in cards.OrderBy(a => a.Name).OrderBy(a => a.Price))
                 {
                     var button = new Button()
                     {
@@ -122,7 +125,7 @@ namespace Window
 
                 // todo tohle je nutné opravdu předělat jinak se to rozbije při resize
                 int y = 8, x = 0;
-                foreach (var card in cards.OrderBy(a => a.Id).OrderBy(a => a.Price))
+                foreach (var card in cards.OrderBy(a => a.Name).OrderBy(a => a.Price))
                 {
                     var checkBox = new CheckBox()
                     {
@@ -176,6 +179,7 @@ namespace Window
                 job.Result = (sender as Control).Tag;
                 job.Done = true;
                 Monitor.Pulse(job);
+                PlayAreaPanel.Controls.Clear();
             }
         }
 
@@ -197,6 +201,7 @@ namespace Window
                 job.Result = cards;
                 job.Done = true;
                 Monitor.Pulse(job);
+                PlayAreaPanel.Controls.Clear();
             }
         }
 
@@ -209,7 +214,7 @@ namespace Window
             {
                 KingdomPanel.Controls.Add(new Label
                 {
-                    Text = $"{kingdom[i].Card.Name} ${kingdom[i].Card.Price} ({kingdom[i].Count})",
+                    Text = kingdom[i].ToString(),
                     Location = new Point(3, 38 + i * 20),
                     Size = new Size(142, 17),
                     Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,

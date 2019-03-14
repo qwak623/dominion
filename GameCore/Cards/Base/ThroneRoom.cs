@@ -7,8 +7,8 @@ namespace GameCore.Cards.Base
         static ThroneRoom throneRoom = null;
         private ThroneRoom() : base
         (
-            id: 20,
             name: "Throne Room",
+            type: CardType.ThroneRoom,
             price: 4,
             addActions: 0,
             addBuys: 0,

@@ -5,8 +5,8 @@
         static Moneylender moneylender = null;
         private Moneylender() : base
         (
-            id: 17,
             name: "Moneylender",
+            type: CardType.Moneylender,
             price: 4,
             addActions: 0,
             addBuys: 0,
@@ -24,7 +24,7 @@
 
         protected override void SpecialPlayEffect(Player player)
         {
-            var copper = player.ps.Hand.Find(c => c.Id == 1);
+            var copper = player.ps.Hand.Find(c => c.Name == "Copper");
             if (copper == null)
                 return;
             player.Trash(copper);

@@ -7,8 +7,8 @@ namespace GameCore.Cards.Base
         static Thief thief = null;
         private Thief() : base
         (
-            id: 23,
             name: "Thief",
+            type: CardType.Thief,
             price: 4,
             addActions: 0,
             addBuys: 0,
@@ -45,7 +45,7 @@ namespace GameCore.Cards.Base
                 if (attacker.user.Choose())
                 {  // he will steal
                     defender.ps.Hand.Remove(card);
-                    attacker.Gain(card);
+                    attacker.ps.PlayedCards.Add(card);
                 }
                 else
                 {  // he will trash

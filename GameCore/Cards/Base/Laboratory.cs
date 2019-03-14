@@ -5,8 +5,8 @@
         static Laboratory laboratory = null;
         private Laboratory() : base
         (
-            id: 26,
             name: "Laboratory",
+            type: CardType.Laboratory,
             price: 5,
             addActions: 1,
             addBuys: 0,

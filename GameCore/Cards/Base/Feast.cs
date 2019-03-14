@@ -7,8 +7,8 @@ namespace GameCore.Cards.Base
         static Feast feast = null;
         private Feast() : base
         (
-            id: 21,
             name: "Feast",
+            type: CardType.Feast,
             price: 4,
             addActions: 0,
             addBuys: 0,
@@ -27,8 +27,8 @@ namespace GameCore.Cards.Base
         protected override void SpecialPlayEffect(Player player)
         {
             player.Discard(this);
-            var card = player.user.Choose(player.game.Kingdom.Where(p => p.CardPrice <= 5).Select(p => p.Card), player.ps, 1).SingleOrDefault();
-            player.Gain(card);
+            var card = player.user.Choose(player.game.Kingdom.Where(p => p.Price <= 5).Select(p => p.Card), player.ps, 1).SingleOrDefault();
+            player.Gain(card.Type);
         }
     }
 }

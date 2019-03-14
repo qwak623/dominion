@@ -5,8 +5,8 @@
         static Moat moat = null;
         private Moat() : base
         (
-            id: 9,
             name: "Moat",
+            type: CardType.Moat,
             price: 2,
             addActions: 0,
             addBuys: 0,

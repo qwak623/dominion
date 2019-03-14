@@ -7,8 +7,8 @@ namespace GameCore.Cards.Base
         static Mine mine = null;
         private Mine() : base
         (
-            id: 29,
             name: "Mine",
+            type: CardType.Mine,
             price: 5,
             addActions: 0,
             addBuys: 0,
@@ -30,8 +30,8 @@ namespace GameCore.Cards.Base
             if (oldCard == null)
                 return;
             player.Trash(oldCard);
-            var newCard = player.user.Choose(player.game.Kingdom.Where(p => p.Card.IsTreasure && p.CardPrice <= oldCard.Price + 3).Select(p => p.Card), player.ps, 1).SingleOrDefault();
-            player.GainToHand(newCard);
+            var newCard = player.user.Choose(player.game.Kingdom.Where(p => p.Card.IsTreasure && p.Price <= oldCard.Price + 3).Select(p => p.Card), player.ps, 1).SingleOrDefault();
+            player.GainToHand(newCard.Type);
         }
     }
 }

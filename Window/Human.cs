@@ -1,14 +1,20 @@
-﻿using System;
+﻿using GameCore.Cards;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace GameCore
 {
     public class Human : User
     {
+        Action<IEnumerable<Card>, PlayerState, Phase> playCard;
+        // set, min, max
+        Action<IEnumerable<Card>, PlayerState, int, int> choice;
+        Action alternativeChoice;
+        Job job;
+
+        public override string GetName() => "Human";
+
         public Human(Action<IEnumerable<Card>, PlayerState, Phase> playCard, Action<IEnumerable<Card>, PlayerState, int, int> choice, Action alternativeChoice, Job job)
         {
             this.playCard = playCard;
@@ -54,8 +60,6 @@ namespace GameCore
                 return (bool)job.Result;
             }
         }
-
-        public override string GetName() => "Human";
     }
 
     public class Job
