@@ -22,7 +22,7 @@
 
         public static Moneylender Get() => moneylender ?? new Moneylender();
 
-        protected override void SpecialPlayEffect(Player player)
+        protected override void ActionEffect(Player player)
         {
             var copper = player.ps.Hand.Find(c => c.Name == "Copper");
             if (copper == null)

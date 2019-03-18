@@ -24,7 +24,7 @@ namespace GameCore.Cards.Base
 
         public static Spy Get() => spy ?? new Spy();
 
-        protected override void SpecialPlayEffect(Player player)
+        protected override void ActionEffect(Player player)
         {
             var card = player.Show(1).SingleOrDefault();
             if (card == null)

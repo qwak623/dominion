@@ -10,21 +10,26 @@ namespace GameCore
     public class Game
     {
         public List<Player> Players;
-        public List<Cards.Pile> Kingdom;
+        public Kingdom Kingdom;
         public List<Card> Trash;
         public Logger logger;
-        bool endOfTheGame = false;
 
-        public Game (User[] users, List<Cards.Pile> kingdom, Logger logger)
+        public event EventHandler OnGameStart;
+
+        public bool GameEnd { get; private set; }
+
+        public Game (User[] users, Kingdom kingdom, Logger logger)
         {
             this.logger = logger;
             Kingdom = kingdom;
+            Kingdom.Reset(users.Length == 2);
             Players = users.Select(u => new Player(this, u)).ToList();
             Trash = new List<Card>();
         }
 
         public void Run()
         {
+            OnGameStart?.Invoke(this, null);
             Task.Run(() =>
             {
                 logger.Log("New game has started.");
@@ -70,30 +75,34 @@ namespace GameCore
                     // draw phase
                     Players[i].Draw(5);
 
+                    GameEnd = isGameEnd();
+
+                    if (GameEnd)
+                    {
+                        logger.Log("/n__results__");
+                        // todo informace o endgame pro ai
+                        foreach (Player player in Players.OrderBy(p => p.VictoryPoints))
+                            logger.Log($"{player.Name} has {player.VictoryPoints}.");
+                        return;
+                    }
+
                     // next player
                     i = (i + 1) % Players.Count;
                 }
             });   
         }
 
-        // todo vyresit konec taky
+        // todo tohle asi vrarim zpet do playera...
         public Card Gain(CardType type)
         {
-            var pile = Kingdom.SingleOrDefault(p => p.Type == type);
-            if (pile == null)
-                return null;
-            var card = pile.GainCard();
+            return Kingdom.SingleOrDefault(p => p.Type == type)?.GainCard();
+        }
 
-            //if (pile.Count == 0)  TODO
-            //{
-            //    if (card.Type == CardType.Province)
-            //        endOfTheGame = true;
-            //    if (card.IsAction)
-            //        emptyPiles++;
-            //    if (emptyPiles >= 3)
-            //        endOfTheGame = true;
-            //}
-            return card;
+        private bool isGameEnd()
+        {  // todo pridat kolonie
+            if (Kingdom.Single(k => k.Type == CardType.Province).Count == 0)
+                return true;
+            return Kingdom.Where(k => k.Count == 0).Count() >= 3;
         }
     }
 }

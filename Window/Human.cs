@@ -7,15 +7,17 @@ namespace GameCore
 {
     public class Human : User
     {
-        Action<IEnumerable<Card>, PlayerState, Phase> playCard;
+        Action<IEnumerable<Card>, PlayerState, Phase, string> playCard;
         // set, min, max
-        Action<IEnumerable<Card>, PlayerState, int, int> choice;
+        Action<IEnumerable<Card>, PlayerState, int, int, Phase, string> choice;
         Action alternativeChoice;
         Job job;
 
         public override string GetName() => "Human";
 
-        public Human(Action<IEnumerable<Card>, PlayerState, Phase> playCard, Action<IEnumerable<Card>, PlayerState, int, int> choice, Action alternativeChoice, Job job)
+        public Human(Action<IEnumerable<Card>, PlayerState, Phase, string> playCard, 
+                     Action<IEnumerable<Card>, PlayerState, int, int, Phase, string> choice, 
+                     Action alternativeChoice, Job job)
         {
             this.playCard = playCard;
             this.choice = choice;
@@ -23,13 +25,13 @@ namespace GameCore
             this.job = job;
         }
 
-        public override Card PlayCard(IEnumerable<Card> cards, PlayerState gs, Phase phase)
+        public override Card PlayCard(IEnumerable<Card> cards, PlayerState ps, Phase phase, string cardName = null)
         {
             Card selectedCard;
             lock (job)
             {
                 job.Done = false;
-                playCard(cards, gs, phase);
+                playCard(cards, ps, phase, cardName);
                 while (!job.Done)
                     Monitor.Wait(job);
                 selectedCard = job.Result as Card;
@@ -37,12 +39,12 @@ namespace GameCore
             return selectedCard;
         }
 
-        public override IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState gs, int min, int max)
+        public override IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState gs, int min, int max, Phase phase, string desc)
         {
             lock (job)
             {
                 job.Done = false;
-                choice(cards, gs, min, max);
+                choice(cards, gs, min, max, phase, desc);
                 while (!job.Done)
                     Monitor.Wait(job);
                 return job.Result as IEnumerable<Card>;

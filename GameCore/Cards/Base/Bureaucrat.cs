@@ -25,7 +25,7 @@ namespace GameCore.Cards.Base
 
         public static Bureaucrat Get() => bureaucrat ?? new Bureaucrat();
 
-        protected override void SpecialPlayEffect(Player player)
+        protected override void ActionEffect(Player player)
         {
             player.GainToDrawPile(player.game.Kingdom.SingleOrDefault(p => p.Type == CardType.Silver).Type);
         }
@@ -34,7 +34,7 @@ namespace GameCore.Cards.Base
         {
             if (!defender.ps.Hand.Any(c => c.IsVictory))
                 return;
-            var card = defender.user.Choose(defender.ps.Hand.Where(c => c.IsVictory), defender.ps, 1).Single();
+            var card = defender.user.Choose(defender.ps.Hand.Where(c => c.IsVictory), defender.ps, 1, Phase.Attack, null).Single();
             defender.ReturnToDrawPile(card);
         }
     }

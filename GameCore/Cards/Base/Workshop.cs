@@ -24,9 +24,9 @@ namespace GameCore.Cards.Base
 
         public static Workshop Get() => workshop ?? new Workshop();
 
-        protected override void SpecialPlayEffect(Player player)
+        protected override void ActionEffect(Player player)
         {
-            var card = player.user.Choose(player.game.Kingdom.Where(p => p.Price <= 4).Select(p => p.Card), player.ps, 0, 1).SingleOrDefault();
+            var card = player.user.Choose(player.game.Kingdom.Where(p => p.Price <= 4).Select(p => p.Card), player.ps, 0, 1, Phase.Action, null).SingleOrDefault();
             player.Gain(card.Type);
         }
     }

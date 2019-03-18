@@ -13,8 +13,9 @@ namespace Window
     public partial class MyForm : Form
     {
         Job job = new Job();
-        List<GameCore.Cards.Pile> kingdom;
+        Kingdom kingdom;
         int min, max;
+        const int dy = 30, dx = 145;
 
         public MyForm()
         {
@@ -23,13 +24,14 @@ namespace Window
 
         void Form1_Load(object sender, EventArgs e)
         {
-            kingdom = GameCore.Cards.Kingdom.TheFirstGame(true);
+            kingdom = GameCore.Cards.Kingdom.TheFirstGame();
         }
 
         void StartGame_Click(object sender, EventArgs e)
         {
             GamePanel.Visible = true;
             LogTextBox.Text = "";
+            StartGame.Text = "Restart";
             var human = new Human(PlayCard, Choice, AlternativeChoice, job);
             var provincial = new Provincial();
             Game game = new Game(new User[] { human, provincial }, kingdom, new WindowLogger(Log));
@@ -37,62 +39,38 @@ namespace Window
         }
 
         // todo mozna nejak systemove vyresit ktere karty se hraji a ktere ne
-        void PlayCard(IEnumerable<Card> c, PlayerState s, Phase p)
+        void PlayCard(IEnumerable<Card> c, PlayerState s, Phase p, string cardName)
         {
-            Action<IEnumerable<Card>, PlayerState, Phase> function = (cards, ps, phase) => 
+            Action<IEnumerable<Card>, PlayerState, Phase, string> function = (cards, ps, phase, name) =>
             {
-                ShowKingdom();
+                RefreshWindow(ps, phase, name);
 
-                ActionLabel.Text = $"Actions: {ps.Actions}";
-                BuyLabel.Text = $"Buys: {ps.Buys}";
-                CoinLabel.Text = $"Coins: {ps.Coins}";
-
-                // clearing old card buttons
-                PlayAreaPanel.Controls.Clear();
-                PlayAreaPanel.Controls.Add(PlayAreaLabel);
-
-                switch (phase)
-                {
-                    case Phase.Action:
-                        PhaseLabel.Text = "Action phase";
-                        PhaseDescription.Text = "Select an action card to play.";
-                        PlayAreaLabel.Text = "Hand";
-                        break;
-                    case Phase.Treasure:
-                        PhaseLabel.Text = "Buy phase";
-                        PhaseDescription.Text = "Select a treasure to play.";
-                        PlayAreaLabel.Text = "Hand";
-                        break;
-                    case Phase.Buy:
-                        PhaseLabel.Text = "Buy phase";
-                        PhaseDescription.Text = "Buy card.";
-                        PlayAreaLabel.Text = "Cards";
-                        break;
-                    default:
-                        throw new NotSupportedException();
-                }
+                
 
                 // todo tohle je nutné opravdu předělat jinak se to rozbije při resize
-                int y = 8, x = 0;
+                int y = 0, x = 0;
                 foreach (var card in cards.OrderBy(a => a.Name).OrderBy(a => a.Price))
                 {
                     var button = new Button()
                     {
                         Text = card.Name + (phase == Phase.Buy ? " $" + card.Price.ToString() : string.Empty),
+                        Location = new Point(3 + x * dx, y += (x == 0 ? 1 : 0) * dy),
                         Tag = card,
-                        Location = new Point(3 + x * 145, y += (x == 0 ? 1 : 0) * 28),
-                        Size = new Size(138, 23),
                         Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
                         ForeColor = Color.DarkGray,
                         BackColor = card.ToBackColor(),
+                        Width = 138,
+                        Height = 25,
+                        UseVisualStyleBackColor = false,
+                        FlatStyle = FlatStyle.Flat,
+                        FlatAppearance = { BorderColor = Color.DarkGray }
                     };
-                    button.FlatAppearance.BorderSize = 0;
-                    button.FlatStyle = FlatStyle.Flat;
                     x = x == 0 ? 1 : 0;
 
                     // selecting which card can be played (or bought)
                     if (phase == Phase.Action && card.IsAction ||
                         phase == Phase.Treasure && card.IsTreasure ||
+                        phase == Phase.Reaction && card.IsReaction ||
                         phase == Phase.Buy)
                     {
                         button.Click += SelectCard;
@@ -104,23 +82,20 @@ namespace Window
                 AddDoneButton(ref y, SelectCard);
             };
 
-            this.Invoke(function, new object[] {p == Phase.Buy ? c : s.Hand, s, p });
+            this.Invoke(function, new object[] {p == Phase.Buy ? c : s.Hand, s, p , cardName});
         }
 
-        void Choice(IEnumerable<Card> c, PlayerState g, int mininum, int maximum)
+        void Choice(IEnumerable<Card> c, PlayerState g, int mininum, int maximum, Phase p, string desc)
         {
-            Action<IEnumerable<Card>, PlayerState, int, int> function = (cards, gs, min, max) =>
+            Action<IEnumerable<Card>, PlayerState, int, int, Phase, string> function = (cards, ps, min, max, phase, description) =>
             {
-                ActionLabel.Text = $"Actions: {gs.Actions}";
-                BuyLabel.Text = $"Buys: {gs.Buys}";
-                CoinLabel.Text = $"Coins: {gs.Coins}";
                 this.min = min;
                 this.max = max;
-
-                // clearing old card buttons
-                PlayAreaPanel.Controls.Clear();
-                PlayAreaPanel.Controls.Add(PlayAreaLabel);
-                PhaseDescription.Text = min == max ? $"Select {min} cards." : $"Select {min} to {max} cards.";
+                RefreshWindow(ps, phase, null);
+   
+                if (description == null)
+                    PhaseDescription.Text = min == max ? $"Select {min} cards." : $"Select {min} to {max} cards. ";
+                PhaseDescription.Text = description;
                 PlayAreaLabel.Text = "Choice";
 
                 // todo tohle je nutné opravdu předělat jinak se to rozbije při resize
@@ -129,7 +104,7 @@ namespace Window
                 {
                     var checkBox = new CheckBox()
                     {
-                        Location = new Point(5 + x * 145, y += (x == 0 ? 1 : 0) * 28),
+                        Location = new Point(5 + x * dx, y += (x == 0 ? 1 : 0) * dy),
                         Tag = card,
                         Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
                     };
@@ -142,8 +117,10 @@ namespace Window
                         Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
                         BackColor = card.ToBackColor(),
                         TextAlign = ContentAlignment.MiddleCenter,
+                        FlatStyle = FlatStyle.Flat,
+                        BorderStyle = BorderStyle.FixedSingle,
                     };
-
+                   
                     x = x == 0 ? 1 : 0;
 
                     PlayAreaPanel.Controls.Add(label);
@@ -153,7 +130,55 @@ namespace Window
                 AddDoneButton(ref y, SelectCardSet);
             };
 
-            this.Invoke(function, new object[] { c, g, mininum, maximum });
+            this.Invoke(function, new object[] { c, g, mininum, maximum, p, desc });
+        }
+
+        private void RefreshWindow(PlayerState ps, Phase phase, string name)
+        {
+            ShowKingdom();
+
+            ActionLabel.Text = $"Actions: {ps.Actions}";
+            BuyLabel.Text = $"Buys: {ps.Buys}";
+            CoinLabel.Text = $"Coins: {ps.Coins}";
+
+            // clearing old card buttons
+            PlayAreaPanel.Controls.Clear();
+            PlayAreaPanel.Controls.Add(PlayAreaLabel);
+
+            switch (phase)
+            {
+                case Phase.Action:
+                    PhaseLabel.Text = "Action phase";
+                    PhaseDescription.Text = "Select an action card to play.";
+                    PhasePanel.BackColor = Color.FromArgb(255, 227, 227, 227);
+                    PlayAreaLabel.Text = "Hand";
+                    break;
+                case Phase.Treasure:
+                    PhaseLabel.Text = "Buy phase";
+                    PhaseDescription.Text = "Select a treasure to play.";
+                    PhasePanel.BackColor = Color.Yellow;
+                    PlayAreaLabel.Text = "Treasures";
+                    break;
+                case Phase.Buy:
+                    PhaseLabel.Text = "Buy phase";
+                    PhaseDescription.Text = "Buy card.";
+                    PhasePanel.BackColor = Color.SandyBrown;
+                    PlayAreaLabel.Text = "Cards to buy";
+                    break;
+                case Phase.Reaction:
+                    PhaseLabel.Text = "Reaction phase";
+                    PhaseDescription.Text = $"Card {name} was played. You can play some reaction cards.";
+                    PhasePanel.BackColor = Color.LightBlue;
+                    PlayAreaLabel.Text = "Hand";
+                    break;
+                case Phase.Attack:
+                    PhaseLabel.Text = "Attack";
+                    PhasePanel.BackColor = Color.Red;
+                    PlayAreaLabel.Text = "Choice";
+                    break;
+                default:
+                    throw new NotSupportedException();
+            }
         }
 
         void AddDoneButton(ref int y, EventHandler eventHandler)
@@ -161,8 +186,8 @@ namespace Window
             var button = new Button()
             {
                 Text = $"Done",
-                Location = new Point(80, y += 28),
-                Size = new Size(138, 23),
+                Location = new Point(80, y += dy),
+                Size = new Size(138, 25),
                 Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
                 BackColor = Color.DarkGray,
             };

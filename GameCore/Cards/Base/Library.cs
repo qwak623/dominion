@@ -24,7 +24,7 @@ namespace GameCore.Cards.Base
 
         public static Library Get() => library ?? new Library();
 
-        protected override void SpecialPlayEffect(Player player)
+        protected override void ActionEffect(Player player)
         {
             // todo potencionalne nekonecna smycka
             while (player.ps.Hand.Count < 7)

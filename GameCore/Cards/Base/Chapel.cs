@@ -21,9 +21,10 @@
 
         public static Chapel Get() => chapel ?? new Chapel();
 
-        protected override void SpecialPlayEffect(Player player)
+        protected override void ActionEffect(Player player)
         {
-            var selectedCards = player.user.Choose(player.ps.Hand, player.ps, 0, 4);
+            string desc = null; // TODO
+            var selectedCards = player.user.Choose(player.ps.Hand, player.ps, 0, 4, Phase.Action, desc);
             foreach (var card in selectedCards)
                 player.Trash(card);
         }

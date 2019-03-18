@@ -14,9 +14,24 @@ namespace GameCore
         
         public PlayerState ps;
 
-        // statistics
-        public int VictoryPoints = 0;
         public int CardCount => ps.DrawPile.Count + ps.DiscardPile.Count + ps.Hand.Count + ps.PlayedCards.Count;
+
+        private int? victoryPoints;
+
+        public int VictoryPoints
+        {
+            get
+            {   // points can be counted only at the end of the game
+                if (game.GameEnd && victoryPoints == null)
+                {
+                    // it will be better to have all cards in discard pile before counting
+                    Cleanup();
+                    DiscardDrawPile();
+                    victoryPoints = ps.DiscardPile.Select(c => c.CountPoints(this)).Sum();
+                }
+                return victoryPoints.GetValueOrDefault();
+            }
+        }
 
         public Player(Game game, User user)
         {
@@ -33,11 +48,11 @@ namespace GameCore
            
             // gain copper
             for (int i = 0; i < 7; i++)
-                ps.DrawPile.Add(game.Kingdom.Where(p => p.Type == CardType.Copper).Single().GainCard());
+                ps.DrawPile.Add(Cards.GeneralCards.Copper.Get());
             
             // gain estate
             for (int i = 0; i < 3; i++)
-                ps.DrawPile.Add(game.Kingdom.Where(p => p.Type == CardType.Estate).Single().GainCard());
+                ps.DrawPile.Add(Cards.GeneralCards.Estate.Get());
         }
 
         /// <summary>
@@ -62,11 +77,11 @@ namespace GameCore
             ps.PlayedCards.Add(card);
             ps.Actions--;
 
-            card?.PlayEffect(this);
+            card.WhenPlayAction(this);
 
             if (card.IsAttack)
                 foreach (var player in game.Players.Where(p => p != this))
-                    player.DealAttack(card.Attack, this);
+                    player.DealAttack(card.Attack, this, card.Name);
 
             return card;
         }
@@ -81,7 +96,7 @@ namespace GameCore
 
             ps.Hand.Remove(treasure);
             ps.PlayedCards.Add(treasure);
-            ps.Coins += treasure.Coins;
+            treasure.WhenPlayTreasure(this);
             return treasure;
         }
 
@@ -244,15 +259,22 @@ namespace GameCore
             return list;
         }
 
-        public void DealAttack(Action<Player, Player> attack, Player attacker)
+        public void DealAttack(Action<Player, Player> attack, Player attacker, string cardName)
         {
             game.logger.Log($"{Name} deals attack.");
 
-            var selectedCard = user.Choose(ps.Hand.Where(c => c.IsReaction), ps, 0, ps.Hand.Count); // todo mozna tady dat reaction.count
-            // todo vyresit co s namestim, to bude prdel
+            // before attack is executed defender can select some reaction cards.
+            Card card = null;
+            bool defended = false;
+            while (true)
+            {
+                card = user.PlayCard(ps.Hand.Where(c => c.IsReaction), ps, Phase.Reaction, cardName);
+                if (card == null)
+                    break;
+                defended |= card.Reaction(this);
+            }
 
-            // call all reactionEffects and returns true if any of them returns true
-            if (!selectedCard.All(c => !c.ReactionEffect(this)))
+            if (!defended)
                 attack(this, attacker);
         }
     }

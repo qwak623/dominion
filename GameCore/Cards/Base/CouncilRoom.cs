@@ -24,7 +24,7 @@ namespace GameCore.Cards.Base
 
         public static CouncilRoom Get() => councilRoom ?? new CouncilRoom();
 
-        protected override void SpecialPlayEffect(Player player)
+        protected override void ActionEffect(Player player)
         {
             foreach (var plr in player.game.Players.Where(p => p != player))
                 plr.Draw(1);

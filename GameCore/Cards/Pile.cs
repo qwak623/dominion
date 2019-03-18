@@ -20,7 +20,7 @@ namespace GameCore.Cards
             return top;
         }  
 
-        public Pile(Card card, int count)
+        public Pile(Card card, int count = 1)
         {
             cards = new Stack<Card>();
             for (int i = 0; i < count; i++)

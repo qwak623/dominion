@@ -24,9 +24,10 @@ namespace GameCore.Cards.Base
 
         public static Cellar Get() => cellar ?? new Cellar();
 
-        protected override void SpecialPlayEffect(Player player)
+        protected override void ActionEffect(Player player)
         {
-            var selectedCards = player.user.Choose(player.ps.Hand, player.ps, 0, player.ps.Hand.Count);
+            // TODO napis tu spravny desc pro cellar
+            var selectedCards = player.user.Choose(player.ps.Hand, player.ps, 0, player.ps.Hand.Count, Phase.Action, null);
             foreach (var card in selectedCards)
                 player.Discard(card);
             player.Draw(selectedCards.Count());

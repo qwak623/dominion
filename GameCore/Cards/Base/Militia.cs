@@ -26,7 +26,8 @@
         {
             if (defender.ps.Hand.Count <= 3)
                 return;
-            var cards = defender.user.Choose(defender.ps.Hand, defender.ps, defender.ps.Hand.Count - 3);
+            string desc = "You have to discard 2 cards.";
+            var cards = defender.user.Choose(defender.ps.Hand, defender.ps, defender.ps.Hand.Count - 3, Phase.Attack, desc);
             foreach (var card in cards)
                 defender.Discard(card);
         }

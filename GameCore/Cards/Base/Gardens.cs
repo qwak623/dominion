@@ -22,6 +22,6 @@
 
         public static Gardens Get() => gardens ?? new Gardens();
 
-        public override void EndOfGameEffect(Player player) => player.VictoryPoints += player.CardCount / 10;
+        public override int CountPoints(Player player) => player.CardCount / 10;
     }
 }

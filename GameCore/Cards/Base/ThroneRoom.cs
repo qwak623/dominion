@@ -24,19 +24,19 @@ namespace GameCore.Cards.Base
 
         public static ThroneRoom Get() => throneRoom ?? new ThroneRoom();
 
-        protected override void SpecialPlayEffect(Player player)
+        protected override void ActionEffect(Player player)
         {
-            var card = player.user.Choose(player.ps.Hand.Where(c => c.IsAction), player.ps, 1, 1).SingleOrDefault();
+            var card = player.user.Choose(player.ps.Hand.Where(c => c.IsAction), player.ps, 1, Phase.Action, null).SingleOrDefault();
             if (card == null)
                 return;
             player.ps.Hand.Remove(card);
             player.ps.PlayedCards.Add(card);
             for (int i = 0; i < 2; i++)
             {
-                card.PlayEffect(player);
+                card.WhenPlayAction(player);
                 if (card.IsAttack)
                     foreach (var defender in player.game.Players.Where(p => p != player))
-                        defender.DealAttack(card.Attack, player);
+                        defender.DealAttack(card.Attack, player, card.Name);
             }
         }
     }

@@ -24,12 +24,14 @@ namespace GameCore.Cards.Base
 
         public static Remodel Get() => remodel ?? new Remodel();
 
-        protected override void SpecialPlayEffect(Player player)
+        protected override void ActionEffect(Player player)
         {
-            var oldCard = player.user.Choose(player.ps.Hand, player.ps, 1).Single();
+            var oldCard = player.user.Choose(player.ps.Hand, player.ps, 1, Phase.Action, null).Single();
             player.Trash(oldCard);
 
-            var newCard = player.user.Choose(player.game.Kingdom.Where(p => p.Price <= oldCard.Price + 2).Select(p => p.Card), player.ps, 1).SingleOrDefault();
+            var newCard = player.user.Choose(player.game.Kingdom.Where(p => p.Price <= oldCard.Price + 2)
+                                                                .Select(p => p.Card), 
+                                             player.ps, 1, Phase.Action, null).SingleOrDefault();
             player.Gain(newCard.Type);
         }
     }

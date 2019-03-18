@@ -22,6 +22,6 @@
 
         public static Moat Get() => moat ?? new Moat();
 
-        public override bool ReactionEffect(Player player) => true;
+        public override bool Reaction(Player player) => true;
     }
 }

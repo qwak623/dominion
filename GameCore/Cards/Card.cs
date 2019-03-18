@@ -50,7 +50,7 @@ namespace GameCore.Cards
 
         public Card Get() => this;
 
-        public void PlayEffect(Player player)
+        public void WhenPlayAction(Player player)
         {
             player.ps.Actions += AddActions;
             player.ps.Coins += AddCoins;
@@ -58,20 +58,20 @@ namespace GameCore.Cards
             if (DrawCards != 0)
                 player.Draw(DrawCards);
 
-            SpecialPlayEffect(player);
+            ActionEffect(player);
         }
 
-        protected virtual void SpecialPlayEffect(Player player) { }
+        protected virtual void ActionEffect(Player player) { }
 
-        public void BuyEffect(Player player)
+        public void WhenPlayTreasure(Player player)
         {
             player.ps.Buys += AddBuys;
-            player.ps.Coins += AddCoins;
+            player.ps.Coins += Coins;
 
-            SpecialBuyEffect(player);
+            TreasureEffect(player);
         }
 
-        protected virtual void SpecialBuyEffect(Player player) { }
+        protected virtual void TreasureEffect(Player player) { }
 
         /// <summary>
         /// Returns true if attack was defended.
@@ -80,9 +80,9 @@ namespace GameCore.Cards
         /// <param name="player"></param>
         /// <param name="user"></param>
         /// <returns></returns>
-        public virtual bool ReactionEffect(Player player) => false;
+        public virtual bool Reaction(Player player) => false;
 
-        public virtual void EndOfGameEffect(Player player) { }
+        public virtual int CountPoints(Player player) => VictoryPoints;
 
         public virtual void Attack(Player defender, Player attacker) { }
 
