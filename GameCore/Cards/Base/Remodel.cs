@@ -22,16 +22,16 @@ namespace GameCore.Cards.Base
         )
         { }
 
-        public static Remodel Get() => remodel ?? new Remodel();
+        public static new Remodel Get() => remodel ?? new Remodel();
 
         protected override void ActionEffect(Player player)
         {
-            var oldCard = player.user.Choose(player.ps.Hand, player.ps, 1, Phase.Action, null).Single();
+            // todo neco jako trash choice zase
+            var oldCard = player.user.Choose(player.ps.Hand, player.ps, player.Game.Kingdom, 1, Phase.Action, null).Single();
             player.Trash(oldCard);
 
-            var newCard = player.user.Choose(player.game.Kingdom.Where(p => p.Price <= oldCard.Price + 2)
-                                                                .Select(p => p.Card), 
-                                             player.ps, 1, Phase.Action, null).SingleOrDefault();
+            var newCard = player.user.SelectCardToGain(player.Game.Kingdom
+                .Where(p => p.Price <= oldCard.Price + 2).Select(p => p.Card), player.ps, player.Game.Kingdom);
             player.Gain(newCard.Type);
         }
     }

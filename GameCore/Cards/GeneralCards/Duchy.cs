@@ -16,6 +16,6 @@
         )
         { }
 
-        public static Duchy Get() => duchy ?? new Duchy();
+        public static new Duchy Get() => duchy ?? new Duchy();
     }
 }

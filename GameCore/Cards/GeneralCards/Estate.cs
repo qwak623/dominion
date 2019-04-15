@@ -16,6 +16,6 @@
         )
         { }
 
-        public static Estate Get() => estate ?? new Estate();
+        public static new Estate Get() => estate ?? new Estate();
     }
 }

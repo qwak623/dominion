@@ -16,6 +16,6 @@
         )
         { }
 
-        public static Silver Get() => silver ?? new Silver();
+        public static new Silver Get() => silver ?? new Silver();
     }
 }

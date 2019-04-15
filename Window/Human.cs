@@ -7,44 +7,56 @@ namespace GameCore
 {
     public class Human : User
     {
-        Action<IEnumerable<Card>, PlayerState, Phase, string> playCard;
-        // set, min, max
-        Action<IEnumerable<Card>, PlayerState, int, int, Phase, string> choice;
+        Action<IEnumerable<Card>, PlayerState, Kingdom, Phase, Card> playCard;
+        Action<IEnumerable<Card>, PlayerState, Kingdom> selectCartToGain;
+        Action<IEnumerable<Card>, PlayerState, Kingdom, int, int, Phase, Card> choice;
         Action alternativeChoice;
         Job job;
 
         public override string GetName() => "Human";
 
-        public Human(Action<IEnumerable<Card>, PlayerState, Phase, string> playCard, 
-                     Action<IEnumerable<Card>, PlayerState, int, int, Phase, string> choice, 
+        public Human(Action<IEnumerable<Card>, PlayerState, Kingdom, Phase, Card> playCard,
+                     Action<IEnumerable<Card>, PlayerState, Kingdom> selectCartToGain,
+                     Action<IEnumerable<Card>, PlayerState, Kingdom, int, int, Phase, Card> choice, 
                      Action alternativeChoice, Job job)
         {
             this.playCard = playCard;
+            this.selectCartToGain = selectCartToGain;
             this.choice = choice;
             this.alternativeChoice = alternativeChoice;
             this.job = job;
         }
 
-        public override Card PlayCard(IEnumerable<Card> cards, PlayerState ps, Phase phase, string cardName = null)
+        public override Card PlayCard(IEnumerable<Card> cards, PlayerState ps, Kingdom k, Phase phase, Card card = null)
         {
-            Card selectedCard;
             lock (job)
             {
                 job.Done = false;
-                playCard(cards, ps, phase, cardName);
+                playCard(cards, ps, k, phase, card);
                 while (!job.Done)
                     Monitor.Wait(job);
-                selectedCard = job.Result as Card;
+                return job.Result as Card;
             }
-            return selectedCard;
         }
 
-        public override IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState gs, int min, int max, Phase phase, string desc)
+        public override Card SelectCardToGain(IEnumerable<Card> cards, PlayerState ps, Kingdom k)
         {
             lock (job)
             {
                 job.Done = false;
-                choice(cards, gs, min, max, phase, desc);
+                selectCartToGain(cards, ps, k);
+                while (!job.Done)
+                    Monitor.Wait(job);
+                return job.Result as Card;
+            }
+        }
+
+        public override IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState gs, Kingdom k, int min, int max, Phase phase, Card card = null)
+        {
+            lock (job)
+            {
+                job.Done = false;
+                choice(cards, gs, k, min, max, phase, card);
                 while (!job.Done)
                     Monitor.Wait(job);
                 return job.Result as IEnumerable<Card>;

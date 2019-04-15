@@ -22,13 +22,15 @@ namespace GameCore.Cards.Base
         )
         { }
 
-        public static Cellar Get() => cellar ?? new Cellar();
+        public static new Cellar Get() => cellar ?? new Cellar();
 
         protected override void ActionEffect(Player player)
         {
             // TODO napis tu spravny desc pro cellar
-            var selectedCards = player.user.Choose(player.ps.Hand, player.ps, 0, player.ps.Hand.Count, Phase.Action, null);
-            foreach (var card in selectedCards)
+            var selectedCards = player.user.Choose(player.ps.Hand, player.ps, player.Game.Kingdom, 0, player.ps.Hand.Count, Phase.Action, null);
+
+            // TODO discard po karte je neefektivni
+            foreach (var card in selectedCards.ToList())
                 player.Discard(card);
             player.Draw(selectedCards.Count());
         }

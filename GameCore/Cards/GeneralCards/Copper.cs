@@ -16,6 +16,6 @@
         )
         { }
 
-        public static Copper Get() => copper ?? new Copper();
+        public static new Copper Get() => copper ?? new Copper();
     }
 }

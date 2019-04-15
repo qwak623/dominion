@@ -16,6 +16,6 @@
         )
         { }
 
-        public static Curse Get() => curse ?? new Curse();
+        public static new Curse Get() => curse ?? new Curse();
     }
 }

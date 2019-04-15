@@ -19,12 +19,11 @@
             isAttack: false
         ) { }
 
-        public static Chapel Get() => chapel ?? new Chapel();
+        public static new Chapel Get() => chapel ?? new Chapel();
 
         protected override void ActionEffect(Player player)
         {
-            string desc = null; // TODO
-            var selectedCards = player.user.Choose(player.ps.Hand, player.ps, 0, 4, Phase.Action, desc);
+            var selectedCards = player.user.Choose(player.ps.Hand, player.ps, player.Game.Kingdom, 0, 4, Phase.Action);
             foreach (var card in selectedCards)
                 player.Trash(card);
         }

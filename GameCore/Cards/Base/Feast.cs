@@ -22,12 +22,12 @@ namespace GameCore.Cards.Base
         )
         { }
 
-        public static Feast Get() => feast ?? new Feast();
+        public static new Feast Get() => feast ?? new Feast();
 
         protected override void ActionEffect(Player player)
         {
             player.Discard(this);
-            var card = player.user.Choose(player.game.Kingdom.Where(p => p.Price <= 5).Select(p => p.Card), player.ps, 1, Phase.Action, null).SingleOrDefault();
+            var card = player.user.SelectCardToGain(player.Game.Kingdom.Where(p => !p.Empty && p.Price <= 5).Select(p => p.Card), player.ps, player.Game.Kingdom);
             player.Gain(card.Type);
         }
     }

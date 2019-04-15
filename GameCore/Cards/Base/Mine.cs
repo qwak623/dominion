@@ -22,16 +22,19 @@ namespace GameCore.Cards.Base
         )
         { }
 
-        public static Mine Get() => mine ?? new Mine();
+        public static new Mine Get() => mine ?? new Mine();
 
         protected override void ActionEffect(Player player)
         {
-            var oldCard = player.user.Choose(player.ps.Hand.Where(c => c.IsTreasure), player.ps, 1, Phase.Action, null).SingleOrDefault();
+            // todo tady by melo mozna byt neco jako trash choice
+            var oldCard = player.user.Choose(player.ps.Hand.Where(c => c.IsTreasure), player.ps, player.Game.Kingdom, 1, Phase.Action, null).SingleOrDefault();
             if (oldCard == null)
                 return;
             player.Trash(oldCard);
-            var newCard = player.user.Choose(player.game.Kingdom.Where(p => p.Card.IsTreasure && p.Price <= oldCard.Price + 3)
-                                                                .Select(p => p.Card), player.ps, 1, Phase.Action, null).SingleOrDefault();
+            var newCard = player.user.SelectCardToGain(player.Game.Kingdom
+                .Where(p => !p.Empty && p.Card.IsTreasure && p.Price <= oldCard.Price + 3).Select(p => p.Card), 
+                player.ps,
+                player.Game.Kingdom);
             player.GainToHand(newCard.Type);
         }
     }

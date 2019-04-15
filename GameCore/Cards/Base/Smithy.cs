@@ -20,6 +20,6 @@
         )
         { }
 
-        public static Smithy Get() => smithy ?? new Smithy();
+        public static new Smithy Get() => smithy ?? new Smithy();
     }
 }

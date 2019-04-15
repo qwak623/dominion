@@ -22,7 +22,7 @@ namespace GameCore.Cards.Base
         )
         { }
 
-        public static Library Get() => library ?? new Library();
+        public static new Library Get() => library ?? new Library();
 
         protected override void ActionEffect(Player player)
         {

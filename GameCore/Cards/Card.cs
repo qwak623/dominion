@@ -13,11 +13,12 @@ namespace GameCore.Cards
         public int DrawCards;
         public int Coins;
 
-        public  bool IsVictory;
-        public  bool IsTreasure;
-        public  bool IsAction;
-        public  bool IsReaction;
-        public  bool IsAttack;
+        public bool IsVictory;
+        public bool IsTreasure;
+        public bool IsAction;
+        public bool IsReaction;
+        public bool IsAttack;
+        public string Destciption;
         public int VictoryPoints { get; protected set; }
 
         protected Card(string name, CardType type, int price, int addActions, int addBuys, int addCoins, int drawCards, bool isVictory, bool isTreasure, bool isAction, bool isReaction, bool isAttack)
@@ -74,7 +75,7 @@ namespace GameCore.Cards
         protected virtual void TreasureEffect(Player player) { }
 
         /// <summary>
-        /// Returns true if attack was defended.
+        /// Returns true if attack was repulsed.
         /// </summary>
         /// <param name="game"></param>
         /// <param name="player"></param>

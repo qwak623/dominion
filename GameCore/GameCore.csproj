@@ -29,6 +29,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -75,8 +78,10 @@
     <Compile Include="Cards\GeneralCards\Silver.cs" />
     <Compile Include="Cards\Base\Thief.cs" />
     <Compile Include="Cards\Kingdom.cs" />
+    <Compile Include="Cards\NamedGames.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="Game.cs" />
+    <Compile Include="GameResults.cs" />
     <Compile Include="GameState.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="Cards\Pile.cs" />

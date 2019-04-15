@@ -22,11 +22,13 @@ namespace GameCore.Cards.Base
         )
         { }
 
-        public static Witch Get() => witch ?? new Witch();
+        public static new Witch Get() => witch ?? new Witch();
 
         public override void Attack(Player defender, Player attacker)
         {
-            defender.Gain(defender.game.Kingdom.Where(p => p.Type == CardType.Curse).Select(p => p.Type).SingleOrDefault());
+            // todo problem kdyz dojdou kletby, bylo by hezke udelat z kingdomu dictionary...
+            // todo u vybirani kralovstvi by bylo dobre automaticky vybrat kletby kdyz vybiram carodejnici, zalarnika a tak
+            defender.Gain(defender.Game.Kingdom.Where(p => p.Type == CardType.Curse).Select(p => p.Type).SingleOrDefault());
         }
     }
 }

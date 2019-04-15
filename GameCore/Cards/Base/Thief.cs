@@ -22,7 +22,7 @@ namespace GameCore.Cards.Base
         )
         { }
 
-        public static Thief Get() => thief ?? new Thief();
+        public static new Thief Get() => thief ?? new Thief();
 
         public override void Attack(Player defender, Player attacker)
         {
@@ -35,7 +35,7 @@ namespace GameCore.Cards.Base
             if (treasures.Count() > 0)
             {
                 // attacker have to pick one
-                var card = attacker.user.Choose(treasures, defender.ps, 1, treasures.Count(), Phase.Action, null).Single();
+                var card = attacker.user.Choose(treasures, defender.ps, attacker.Game.Kingdom, 1, treasures.Count(), Phase.Action, null).Single();
                 // the other one is discarded (if there is)
                 cards.Remove(card);
                 foreach (var item in cards)

@@ -20,6 +20,6 @@
         )
         { }
 
-        public static Market Get() => market ?? new Market();
+        public static new Market Get() => market ?? new Market();
     }
 }

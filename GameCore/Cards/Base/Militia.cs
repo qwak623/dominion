@@ -20,14 +20,13 @@
         )
         { }
 
-        public static Militia Get() => militia ?? new Militia();
+        public static new Militia Get() => militia ?? new Militia();
 
         public override void Attack(Player defender, Player attacker)
         {
             if (defender.ps.Hand.Count <= 3)
                 return;
-            string desc = "You have to discard 2 cards.";
-            var cards = defender.user.Choose(defender.ps.Hand, defender.ps, defender.ps.Hand.Count - 3, Phase.Attack, desc);
+            var cards = defender.user.Choose(defender.ps.Hand, defender.ps, defender.Game.Kingdom, defender.ps.Hand.Count - 3, Phase.Attack, this);
             foreach (var card in cards)
                 defender.Discard(card);
         }

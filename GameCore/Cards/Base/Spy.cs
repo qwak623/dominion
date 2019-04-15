@@ -22,7 +22,7 @@ namespace GameCore.Cards.Base
         )
         { }
 
-        public static Spy Get() => spy ?? new Spy();
+        public static new Spy Get() => spy ?? new Spy();
 
         protected override void ActionEffect(Player player)
         {

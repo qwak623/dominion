@@ -1,12 +1,12 @@
 ﻿using GameCore.Cards;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace GameCore
 {
+    // todo hra by asi mela sama vice kontrolovat spravnost tahu
+    // pravdepodobne to trochu zpomali, ale kdo vi co si pak ty inteligence budou delat jinak
     public class Game
     {
         public List<Player> Players;
@@ -14,32 +14,31 @@ namespace GameCore
         public List<Card> Trash;
         public Logger logger;
 
-        public event EventHandler OnGameStart;
-
         public bool GameEnd { get; private set; }
+
+        const int drawCount = 5;
 
         public Game (User[] users, Kingdom kingdom, Logger logger)
         {
             this.logger = logger;
             Kingdom = kingdom;
-            Kingdom.Reset(users.Length == 2);
             Players = users.Select(u => new Player(this, u)).ToList();
             Trash = new List<Card>();
         }
 
-        public void Run()
+        public Task<GameResults> Play()
         {
-            OnGameStart?.Invoke(this, null);
-            Task.Run(() =>
+            return Task.Run(() =>
             {
                 logger.Log("New game has started.");
 
                 // intitial drawing
                 foreach (var player in Players)
-                    player.Draw(5);
+                    player.Draw(drawCount);
 
                 // player index
                 int i = 0;
+                int round = 0;
 
                 // one turn of one player
                 while (true)
@@ -73,26 +72,41 @@ namespace GameCore
                     Players[i].Cleanup();
 
                     // draw phase
-                    Players[i].Draw(5);
+                    Players[i].Draw(drawCount);
 
                     GameEnd = isGameEnd();
 
                     if (GameEnd)
                     {
-                        logger.Log("/n__results__");
-                        // todo informace o endgame pro ai
+                        logger.Log("\r\n__Results__");
                         foreach (Player player in Players.OrderBy(p => p.VictoryPoints))
                             logger.Log($"{player.Name} has {player.VictoryPoints}.");
-                        return;
+                        return new GameResults
+                        {
+                            Players = Players,
+                            Score = Players.Select(p => p.VictoryPoints).ToList()
+                        };
                     }
-
                     // next player
                     i = (i + 1) % Players.Count;
+
+                    // stopping too long games
+                    if (i == 0)
+                        round++;
+                    if (round >= 50)
+                    {
+                        logger.Log("\r\nGame was terminated, number of rounds exceeded 50.");
+                        return new GameResults
+                        {
+                            Players = Players,
+                            Score = new List<int> { 0, 0 }
+                        };
+                    }
                 }
-            });   
+            });
         }
 
-        // todo tohle asi vrarim zpet do playera...
+        // todo tohle asi vratim zpet do playera...
         public Card Gain(CardType type)
         {
             return Kingdom.SingleOrDefault(p => p.Type == type)?.GainCard();

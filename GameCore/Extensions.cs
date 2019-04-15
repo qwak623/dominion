@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Linq;
 
 namespace GameCore
 {
@@ -21,18 +22,10 @@ namespace GameCore
             }
         }
 
-        // todo bude potreba predelat na list<Color>
-        public static Color ToBackColor(this Card card)
+        public static Kingdom GetKingdom(this List<Card> cards, bool two)
         {
-            if (card == null)
-                return Color.DarkGray;
-            if (card.IsTreasure)
-                return Color.Yellow;
-            if (card.IsVictory)
-                return Color.LightGreen;
-            if (card.IsReaction)
-                return Color.LightBlue;
-            else return Color.White;
+            // this should be correct, since list of cards wont change at this point
+            return new Kingdom(cards.Select(c => new Pile(c)).ToList(), two);
         }
     }
 }

@@ -20,6 +20,6 @@
         )
         { }
 
-        public static Woodcutter Get() => woodcutter ?? new Woodcutter();
+        public static new Woodcutter Get() => woodcutter ?? new Woodcutter();
     }
 }

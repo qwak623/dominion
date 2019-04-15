@@ -22,11 +22,11 @@ namespace GameCore.Cards.Base
         )
         { }
 
-        public static ThroneRoom Get() => throneRoom ?? new ThroneRoom();
+        public static new ThroneRoom Get() => throneRoom ?? new ThroneRoom();
 
         protected override void ActionEffect(Player player)
         {
-            var card = player.user.Choose(player.ps.Hand.Where(c => c.IsAction), player.ps, 1, Phase.Action, null).SingleOrDefault();
+            var card = player.user.Choose(player.ps.Hand.Where(c => c.IsAction), player.ps, player.Game.Kingdom, 1, Phase.Action, null).SingleOrDefault();
             if (card == null)
                 return;
             player.ps.Hand.Remove(card);
@@ -35,8 +35,8 @@ namespace GameCore.Cards.Base
             {
                 card.WhenPlayAction(player);
                 if (card.IsAttack)
-                    foreach (var defender in player.game.Players.Where(p => p != player))
-                        defender.DealAttack(card.Attack, player, card.Name);
+                    foreach (var defender in player.Game.Players.Where(p => p != player))
+                        defender.DealAttack(card.Attack, player, card);
             }
         }
     }

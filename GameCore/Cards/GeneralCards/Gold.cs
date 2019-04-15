@@ -16,6 +16,6 @@
         )
         { }
 
-        public static Gold Get() => gold ?? new Gold();
+        public static new Gold Get() => gold ?? new Gold();
     }
 }

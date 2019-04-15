@@ -22,11 +22,11 @@ namespace GameCore.Cards.Base
         )
         { }
 
-        public static CouncilRoom Get() => councilRoom ?? new CouncilRoom();
+        public static new CouncilRoom Get() => councilRoom ?? new CouncilRoom();
 
         protected override void ActionEffect(Player player)
         {
-            foreach (var plr in player.game.Players.Where(p => p != player))
+            foreach (var plr in player.Game.Players.Where(p => p != player))
                 plr.Draw(1);
         }
     }

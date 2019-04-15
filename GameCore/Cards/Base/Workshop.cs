@@ -22,11 +22,12 @@ namespace GameCore.Cards.Base
         )
         { }
 
-        public static Workshop Get() => workshop ?? new Workshop();
+        public static new Workshop Get() => workshop ?? new Workshop();
 
         protected override void ActionEffect(Player player)
         {
-            var card = player.user.Choose(player.game.Kingdom.Where(p => p.Price <= 4).Select(p => p.Card), player.ps, 0, 1, Phase.Action, null).SingleOrDefault();
+            var card = player.user.SelectCardToGain(player.Game.Kingdom.Where(p => !p.Empty && p.Price <= 4)
+                .Select(p => p.Card), player.ps, player.Game.Kingdom);
             player.Gain(card.Type);
         }
     }

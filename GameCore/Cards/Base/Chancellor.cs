@@ -20,7 +20,7 @@
         )
         { }
 
-        public static Chancellor Get() => chancellor ?? new Chancellor();
+        public static new Chancellor Get() => chancellor ?? new Chancellor();
 
         protected override void ActionEffect(Player player)
         {  // todo ta choose by mela byt s nejakym textem asi... obecne vsechny asi...

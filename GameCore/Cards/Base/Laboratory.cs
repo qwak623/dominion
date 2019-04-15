@@ -20,6 +20,6 @@
         )
         { }
 
-        public static Laboratory Get() => laboratory ?? new Laboratory();
+        public static new Laboratory Get() => laboratory ?? new Laboratory();
     }
 }

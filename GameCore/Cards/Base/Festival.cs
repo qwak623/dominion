@@ -20,6 +20,6 @@
         )
         { }
 
-        public static Festival Get() => festival ?? new Festival();
+        public static new Festival Get() => festival ?? new Festival();
     }
 }

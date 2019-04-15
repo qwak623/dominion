@@ -16,6 +16,6 @@
         )
         { }
 
-        public static Province Get() => province ?? new Province();
+        public static new Province Get() => province ?? new Province();
     }
 }

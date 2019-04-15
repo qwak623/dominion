@@ -20,6 +20,6 @@
         )
         { }
 
-        public static Village Get() => village ?? new Village();
+        public static new Village Get() => village ?? new Village();
     }
 }

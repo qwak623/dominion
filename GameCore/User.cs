@@ -5,14 +5,16 @@ namespace GameCore
 {
     public abstract class User
     {
-        public abstract Card PlayCard(IEnumerable<Card> cards, PlayerState ps, Phase phase, string cardName = null);
-
         public abstract string GetName();
 
-        // todo hodil by se tady string s popisem volby...
-        public abstract IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState ps, int min, int max, Phase phase, string desc);
+        public abstract Card PlayCard(IEnumerable<Card> cards, PlayerState ps, Kingdom k, Phase phase, Card card = null);
 
-        public IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState ps, int count, Phase phase, string desc) => Choose(cards, ps, count, count, phase, desc);
+        public abstract Card SelectCardToGain(IEnumerable<Card> cards, PlayerState ps, Kingdom k);
+
+        // todo pak nekdy udelat test na tuto metodu...
+        public abstract IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState ps, Kingdom k, int min, int max, Phase phase, Card card = null);
+
+        public IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState ps, Kingdom k, int count, Phase phase, Card card = null) => Choose(cards, ps, k, count, count, phase, card);
 
         public abstract bool Choose();
     }
