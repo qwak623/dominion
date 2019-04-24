@@ -12,10 +12,13 @@ namespace GameCore.Cards
     public class Kingdom : IEnumerable<Pile>
     {
         List<Pile> piles;
+        Dictionary<CardType, int> cardTypeToIndex = new Dictionary<CardType, int>();
 
         public Kingdom (List<Pile> piles, bool two)
         {
             this.piles = piles;
+            for (int i = 0; i < piles.Count; i++)
+                cardTypeToIndex.Add(piles[i].Card.Type, i);
             Reset(two);
         }
 
@@ -41,7 +44,7 @@ namespace GameCore.Cards
             }
         }
 
-        
+        public Pile GetPile(CardType type) => piles[cardTypeToIndex[type]];
 
         public Pile this[int index] => piles[index];
 

@@ -1,12 +1,10 @@
-﻿using AI.Shared;
+﻿
 using GameCore.Cards;
-using GameCore.Cards.GeneralCards;
+using GameCore;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AI.Provincial.Evolution
 {
@@ -78,7 +76,7 @@ namespace AI.Provincial.Evolution
                 writer.WriteLine(Duchies);
                 writer.WriteLine(Estates);
                 foreach (var item in BuyMenu)
-                    writer.WriteLine($"{item.Card.ToString()}, {item.Number}");
+                    writer.WriteLine($"{item.Card.ToString()} {item.Number}");
             }
         }
 
@@ -98,8 +96,7 @@ namespace AI.Provincial.Evolution
                     while (!reader.EndOfStream)
                     {
                         var line = reader.ReadLine().Split();
-                        CardType type;
-                        Enum.TryParse(line[0], out type);
+                        Enum.TryParse(line[0], out CardType type);
 
                         agenda.BuyMenu.Add((type, int.Parse(line[1])));
                     }

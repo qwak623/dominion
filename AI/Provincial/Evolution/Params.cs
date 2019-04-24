@@ -1,19 +1,16 @@
 ﻿using GameCore.Cards;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AI.Provincial.Evolution
 {
     public class Params
     {
         public List<Card> Kingdom;
-        public int MinGames = 1;
-        public int MaxGames = 1;
+        public int MinGames = 50;
+        public int MaxGames = 100;
         public int LeaderCount = 5;
-        public int PoolCount = 5;
-        public double Mutate = 0.2;
+        public int PoolCount = 100;
+        public int Generations = 10;
+        public double Mutate = 0.5;
     }
 }

@@ -23,7 +23,7 @@ namespace AI.Provincial.PlayAgenda
 
         public ProvincialAI(BuyAgenda buyAgenda)
         {
-            this.buyAgenda = buyAgenda;
+            this.buyAgenda = buyAgenda.Clone();
         }
 
         public override IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState ps, Kingdom k, int min, int max, Phase phase, Card card = null)
@@ -68,17 +68,17 @@ namespace AI.Provincial.PlayAgenda
         {
             // todo colonies
             // todo bylo by hezke mit primo reference na piles ale to se mi ted nechce delat
-            // todo asi stejne jako nad timto, bylo by hezke mit kingdom jako dictionary
 
-            // balicek nesmi byt prazdny
-            if (!k.Single(p => p.Type == CardType.Province).Empty && 
-                buyAgenda.Provinces > k.Where(p => p.Type == CardType.Province).Single().Count)
+            var provinces = k.GetPile(CardType.Province);
+            if (buyAgenda.Provinces > provinces.Count && !provinces.Empty && cards.Contains(CardType.Province))
                 return Province.Get();
-            if (!k.Single(p => p.Type == CardType.Duchy).Empty && 
-                buyAgenda.Duchies > k.Where(p => p.Type == CardType.Duchy).Single().Count)
+
+            var duchies = k.GetPile(CardType.Duchy);
+            if (buyAgenda.Duchies > provinces.Count && !duchies.Empty && cards.Contains(CardType.Duchy))
                 return Duchy.Get();
-            if (!k.Single(p => p.Type == CardType.Estate).Empty && 
-                buyAgenda.Estates > k.Where(p => p.Type == CardType.Estate).Single().Count)
+
+            var estates = k.GetPile(CardType.Estate);
+            if (buyAgenda.Estates > provinces.Count && !estates.Empty && cards.Contains(CardType.Estate))
                 return Estate.Get();
 
             for (int i = 0; i < buyAgenda.BuyMenu.Count; i++)

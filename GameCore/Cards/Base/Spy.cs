@@ -29,7 +29,7 @@ namespace GameCore.Cards.Base
             var card = player.Show(1).SingleOrDefault();
             if (card == null)
                 return;
-            if (player.user.Choose())
+            if (player.User.Choose())
             {
                 player.Draw(1);
                 player.Discard(card);
@@ -39,7 +39,7 @@ namespace GameCore.Cards.Base
         public override void Attack(Player defender, Player attacker)
         {
             var card = defender.Show(1).SingleOrDefault();
-            if (attacker.user.Choose())
+            if (attacker.User.Choose())
             {
                 defender.Draw(1);
                 defender.Discard(card);

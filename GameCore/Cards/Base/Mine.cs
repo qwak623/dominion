@@ -27,11 +27,11 @@ namespace GameCore.Cards.Base
         protected override void ActionEffect(Player player)
         {
             // todo tady by melo mozna byt neco jako trash choice
-            var oldCard = player.user.Choose(player.ps.Hand.Where(c => c.IsTreasure), player.ps, player.Game.Kingdom, 1, Phase.Action, null).SingleOrDefault();
+            var oldCard = player.User.Choose(player.ps.Hand.Where(c => c.IsTreasure), player.ps, player.Game.Kingdom, 1, Phase.Action, null).SingleOrDefault();
             if (oldCard == null)
                 return;
             player.Trash(oldCard);
-            var newCard = player.user.SelectCardToGain(player.Game.Kingdom
+            var newCard = player.User.SelectCardToGain(player.Game.Kingdom
                 .Where(p => !p.Empty && p.Card.IsTreasure && p.Price <= oldCard.Price + 3).Select(p => p.Card), 
                 player.ps,
                 player.Game.Kingdom);

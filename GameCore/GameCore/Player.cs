@@ -9,8 +9,9 @@ namespace GameCore
     public class Player
     {
         public readonly string Name;
-        public User user;
+        public User User;
         public Game Game;
+        ThreadSafeRandom rnd;
         
         public PlayerState ps;
 
@@ -33,11 +34,12 @@ namespace GameCore
             }
         }
 
-        public Player(Game game, User user)
+        public Player(Game game, User user, ThreadSafeRandom rnd)
         {
             this.Name = user.GetName();
             this.Game = game;
-            this.user = user;
+            this.User = user;
+            this.rnd = rnd;
 
             ps = new PlayerState()
             {
@@ -67,11 +69,11 @@ namespace GameCore
                 return null;
 
             // user selects card to play, card is removed from hand and added to played cards
-            var card = user.PlayCard(ps.Hand.Where(c => c.IsAction), ps, Game.Kingdom, Phase.Action);
+            var card = User.PlayCard(ps.Hand.Where(c => c.IsAction), ps, Game.Kingdom, Phase.Action);
             if (card == null)
                 return null;
 
-            Game.logger.Log($"{Name} plays '{card.Name}'.");
+            Game.Logger?.Log($"{Name} plays '{card.Name}'.");
 
             ps.Hand.Remove(card);
             ps.PlayedCards.Add(card);
@@ -92,11 +94,11 @@ namespace GameCore
             if (ps.Hand.All(c => !c.IsTreasure))
                 return null;
 
-            var treasure = user.PlayCard(ps.Hand.Where(c => c.IsTreasure), ps, Game.Kingdom, Phase.Treasure);
+            var treasure = User.PlayCard(ps.Hand.Where(c => c.IsTreasure), ps, Game.Kingdom, Phase.Treasure);
             if (treasure == null)
                 return null;
 
-            Game.logger.Log($"{Name} plays '{treasure.Name}'.");
+            Game.Logger?.Log($"{Name} plays '{treasure.Name}'.");
 
             ps.Hand.Remove(treasure);
             ps.PlayedCards.Add(treasure);
@@ -119,11 +121,11 @@ namespace GameCore
                 return null;
 
             // buy
-            var card = user.SelectCardToGain(Game.Kingdom.Where(k => !k.Empty && k.Price <= ps.Coins).Select(k => k.Card), ps, Game.Kingdom);
+            var card = User.SelectCardToGain(Game.Kingdom.Where(k => !k.Empty && k.Price <= ps.Coins).Select(k => k.Card), ps, Game.Kingdom);
             if (card == null)
                 return null;
 
-            Game.logger.Log($"{Name} pays ${card.Price}.");
+            Game.Logger?.Log($"{Name} pays ${card.Price}.");
 
             Gain(card.Type);
             ps.Buys--;
@@ -152,7 +154,7 @@ namespace GameCore
         /// <param name="count"></param>
         public void Draw(int count)
         {
-            Game.logger.Log($"{Name} draws {count} cards.");
+            Game.Logger?.Log($"{Name} draws {count} cards.");
 
             for (; count > 0; count--)
             {
@@ -169,73 +171,75 @@ namespace GameCore
                     ps.DiscardPile = pile;
 
                     // shuffle
-                    ps.DrawPile.Shuffle();
+                    ps.DrawPile.Shuffle(rnd);
                 }
 
                 // draw one card
-                ps.Hand.Add(ps.DrawPile[ps.DrawPile.Count - 1]);
+                ps.Hand.AddFirst(ps.DrawPile[ps.DrawPile.Count - 1]);
                 ps.DrawPile.RemoveAt(ps.DrawPile.Count - 1);
             }
         }
 
         public void Trash(Card card)
         {
-            Game.logger.Log($"{Name} trashes '{card.Name}'.");
+            Game.Logger?.Log($"{Name} trashes '{card.Name}'.");
             ps.Hand.Remove(card);
             Game.Trash.Add(card);
         }
 
         public void Discard(Card card)
         {
-            Game.logger.Log($"{Name} discards '{card.Name}'.");
+            Game.Logger?.Log($"{Name} discards '{card.Name}'.");
             ps.Hand.Remove(card);
             ps.DiscardPile.Add(card);
         }
 
         public void Gain(CardType type)
         {
-            var card = Game.Gain(type);
+            var card = gainCard(type);
             if (card == null)
                 return;
-            Game.logger.Log($"{Name} gains '{card.Name}'.");
+            Game.Logger?.Log($"{Name} gains '{card.Name}'.");
             ps.PlayedCards.Add(card);
         }
 
         public void GainToHand(CardType type)
         {
-            var card = Game.Gain(type);
+            var card = gainCard(type);
             if (card == null)
                 return;
-            Game.logger.Log($"{Name} gains '{card.Name}' to hand.");
-            ps.Hand.Add(card);
+            Game.Logger?.Log($"{Name} gains '{card.Name}' to hand.");
+            ps.Hand.AddFirst(card);
         }
 
         public void GainToDrawPile(CardType type)
         {
-            var card = Game.Gain(type);
+            var card = gainCard(type);
             if (card == null)
                 return;
-            Game.logger.Log($"{Name} gains '{card.Name}' up to draw pile.");
+            Game.Logger?.Log($"{Name} gains '{card.Name}' up to draw pile.");
             ps.DrawPile.Add(card);
         }
 
+        private Card gainCard(CardType type) => Game.Kingdom.GetPile(type)?.GainCard();
+
         public void ReturnToDrawPile(Card card)
         {
-            Game.logger.Log($"{Name} returns '{card.Name}' up to draw pile.");
+            Game.Logger?.Log($"{Name} returns '{card.Name}' up to draw pile.");
             ps.Hand.Remove(card);
             ps.DrawPile.Add(card);
         }
 
         public void DiscardDrawPile()
         {
-            Game.logger.Log($"{Name} discards draw pile.");
+            Game.Logger?.Log($"{Name} discards draw pile.");
             ps.DiscardPile.AddRange(ps.DrawPile);
             ps.DrawPile.Clear();
         }
 
         public List<Card> Show(int count)
         {
-            Game.logger.Log($"{Name} shows {count} cards.");
+            Game.Logger?.Log($"{Name} shows {count} cards.");
 
             var list = new List<Card>(count);
 
@@ -254,7 +258,7 @@ namespace GameCore
                     ps.DiscardPile = pile;
 
                     // shuffle
-                    ps.DrawPile.Shuffle();
+                    ps.DrawPile.Shuffle(rnd);
                 }
 
                 // showOneCard
@@ -265,7 +269,7 @@ namespace GameCore
 
         public void DealAttack(Action<Player, Player> attack, Player attacker, Card attackCard)
         {
-            Game.logger.Log($"{Name} deals attack.");
+            Game.Logger?.Log($"{Name} deals attack.");
 
             // before attack is executed defender can select some reaction cards.
             Card card = null;
@@ -275,7 +279,7 @@ namespace GameCore
             {
                 if (reactions.Count == 0)
                     break;
-                card = user.PlayCard(reactions, ps, Game.Kingdom, Phase.Reaction, attackCard);
+                card = User.PlayCard(reactions, ps, Game.Kingdom, Phase.Reaction, attackCard);
                 reactions.Remove(card);
                 if (card == null)
                     break;
@@ -286,6 +290,6 @@ namespace GameCore
                 attack(this, attacker);
         }
 
-        public override string ToString() => user.GetName();
+        public override string ToString() => User.GetName();
     }
 }

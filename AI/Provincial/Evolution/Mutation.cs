@@ -1,10 +1,8 @@
-﻿using AI.Shared;
-using GameCore.Cards;
+﻿using GameCore.Cards;
+using GameCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AI.Provincial.Evolution
 {
@@ -40,7 +38,7 @@ namespace AI.Provincial.Evolution
 
             // if number = 0 card is never bought anyway
             if (tuple.Number == 0)
-                agenda.BuyMenu = agenda.BuyMenu.Where(t => t.Number != 0).ToList();
+                agenda.BuyMenu.RemoveAt(i);
 
             agenda.BuyMenu[i] = tuple;
         }
@@ -89,7 +87,7 @@ namespace AI.Provincial.Evolution
             int i = rnd.Next(agenda.BuyMenu.Count);
             int j = rnd.Next(kingdom.Count);
 
-            agenda.BuyMenu.Insert(i, (kingdom[j].Type, rnd.Next(10)));
+            agenda.BuyMenu.Insert(i, (kingdom[j].Type, rnd.Next(9) + 1));
         }
     }
 }

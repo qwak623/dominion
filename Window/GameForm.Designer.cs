@@ -32,6 +32,7 @@
             this.KingdomLabel = new System.Windows.Forms.Label();
             this.SetKingdom = new System.Windows.Forms.Button();
             this.Header = new System.Windows.Forms.Panel();
+            this.DuelButton = new System.Windows.Forms.Button();
             this.Settings = new System.Windows.Forms.Button();
             this.StartGame = new System.Windows.Forms.Button();
             this.GamePanel = new System.Windows.Forms.Panel();
@@ -96,6 +97,7 @@
             // Header
             // 
             this.Header.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.Header.Controls.Add(this.DuelButton);
             this.Header.Controls.Add(this.Settings);
             this.Header.Controls.Add(this.StartGame);
             this.Header.Controls.Add(this.SetKingdom);
@@ -103,6 +105,16 @@
             this.Header.Name = "Header";
             this.Header.Size = new System.Drawing.Size(938, 37);
             this.Header.TabIndex = 2;
+            // 
+            // DuelButton
+            // 
+            this.DuelButton.Location = new System.Drawing.Point(735, 4);
+            this.DuelButton.Name = "DuelButton";
+            this.DuelButton.Size = new System.Drawing.Size(200, 30);
+            this.DuelButton.TabIndex = 4;
+            this.DuelButton.Text = "Duel";
+            this.DuelButton.UseVisualStyleBackColor = true;
+            this.DuelButton.Click += new System.EventHandler(this.Duel_Click);
             // 
             // Settings
             // 
@@ -359,6 +371,7 @@
         private System.Windows.Forms.Panel NewCardsPanel;
         private System.Windows.Forms.Panel SetKingdomPanel;
         private System.Windows.Forms.Panel ExtensionsPanel;
+        private System.Windows.Forms.Button DuelButton;
     }
 }
 

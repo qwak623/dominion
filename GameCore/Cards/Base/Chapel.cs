@@ -23,7 +23,7 @@
 
         protected override void ActionEffect(Player player)
         {
-            var selectedCards = player.user.Choose(player.ps.Hand, player.ps, player.Game.Kingdom, 0, 4, Phase.Action);
+            var selectedCards = player.User.Choose(player.ps.Hand, player.ps, player.Game.Kingdom, 0, 4, Phase.Action);
             foreach (var card in selectedCards)
                 player.Trash(card);
         }

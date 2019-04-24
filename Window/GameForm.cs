@@ -35,11 +35,11 @@ namespace Window
             Settings.Enabled = false;
 
             var human = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job);
-            var militial = new MilitialAI();
-            var ai = aiParams.User ?? new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
-            var ai2 = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
+            //var militial = new MilitialAI();
+            var ai = aiParams.GetUser(cards);
+            //var ai2 = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
 
-            Game game = new Game(new User[] { ai, ai2}, cards.GetKingdom(true), new WindowLogger(Log));
+            Game game = new Game(new User[] { human, ai}, cards.GetKingdom(true), new WindowLogger(Log));
             game.Play();
         }
 
@@ -341,6 +341,22 @@ namespace Window
             settingForm.Show();
         }
 
+        void Duel_Click(object sender, EventArgs e)
+        {
+            var sw = new System.Diagnostics.Stopwatch();
+            sw.Start();
+            System.Threading.Tasks.Parallel.For(0, 40000, i =>
+            {
+                var x = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
+                var y = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
+                //var m = new MilitialAI();
+                var got = new Game(new User[] { x, y }, cards.GetKingdom(true));
+                var task = got.Play();
+                var actualResults = task.Result;
+            });
+            sw.Stop();
+            var s = sw.Elapsed;
+        }
         #endregion
     }
 }

@@ -11,17 +11,7 @@ namespace Window
     class WindowLogger : Logger
     {
         Action<string> log;
-        StreamWriter writer = new StreamWriter("log.txt");
-        public WindowLogger(Action<string> log)
-        {
-            this.log = log;
-        }
-
-        public override void Log(string str)
-        {
-            log(str + "\n");
-            writer.WriteLine(str);
-            writer.Flush();
-        }
+        public WindowLogger(Action<string> log) => this.log = log;
+        public override void Log(string str) => log(str + "\n");
     }
 }

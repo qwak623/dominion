@@ -35,14 +35,14 @@ namespace GameCore.Cards.Base
             if (treasures.Count() > 0)
             {
                 // attacker have to pick one
-                var card = attacker.user.Choose(treasures, defender.ps, attacker.Game.Kingdom, 1, treasures.Count(), Phase.Action, null).Single();
+                var card = attacker.User.Choose(treasures, defender.ps, attacker.Game.Kingdom, 1, treasures.Count(), Phase.Action, null).Single();
                 // the other one is discarded (if there is)
                 cards.Remove(card);
                 foreach (var item in cards)
                     defender.Discard(card);
 
                 // attaker chooses if he will trash or steal
-                if (attacker.user.Choose())
+                if (attacker.User.Choose())
                 {  // he will steal
                     defender.ps.Hand.Remove(card);
                     attacker.ps.PlayedCards.Add(card);

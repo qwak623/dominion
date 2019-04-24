@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AI.Shared
+namespace GameCore
 {
 
     public class ThreadSafeRandom
     {
-        // todo všechny randomy prevest na thread safe random, aby bylo mozne deterministicky pouzivat seed
-        private static readonly Random _global = new Random();
+        private static readonly Random _global = new Random(0);
         [ThreadStatic] private static Random _local;
 
         public ThreadSafeRandom()
@@ -28,19 +27,10 @@ namespace AI.Shared
             }
         }
 
-        public int Next()
-        {
-            return _local.Next();
-        }
+        public int Next() => _local.Next();
 
-        public int Next(int max)
-        {
-            return (int)((uint)_local.Next()) % max;
-        }
+        public int Next(int max) => (int)((uint)_local.Next()) % max;
 
-        public double NextDouble()
-        {
-            return _local.NextDouble();
-        }
+        public double NextDouble() => _local.NextDouble();
     }
 }

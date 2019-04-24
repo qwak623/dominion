@@ -8,8 +8,7 @@ namespace GameCore
 {
     public static class Extensions
     {
-        static Random rnd = new Random();
-        public static void Shuffle<T>(this List<T> list)
+        public static void Shuffle<T>(this List<T> list, ThreadSafeRandom rnd)
         {
             int n = list.Count;
             while (n > 1)
@@ -26,6 +25,14 @@ namespace GameCore
         {
             // this should be correct, since list of cards wont change at this point
             return new Kingdom(cards.Select(c => new Pile(c)).ToList(), two);
+        }
+
+        public static bool Contains(this IEnumerable<Card> cards, CardType type)
+        {
+            foreach (var card in cards)
+                if (card.Type == type)
+                    return true;
+            return false;
         }
     }
 }

@@ -28,7 +28,7 @@ namespace GameCore.Cards.Base
         {
             // todo problem kdyz dojdou kletby, bylo by hezke udelat z kingdomu dictionary...
             // todo u vybirani kralovstvi by bylo dobre automaticky vybrat kletby kdyz vybiram carodejnici, zalarnika a tak
-            defender.Gain(defender.Game.Kingdom.Where(p => p.Type == CardType.Curse).Select(p => p.Type).SingleOrDefault());
+            defender.Gain(CardType.Curse);
         }
     }
 }

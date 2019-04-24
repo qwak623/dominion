@@ -42,11 +42,8 @@ namespace AI.Provincial.PlayAgenda
             var array = new int[Enum.GetNames(typeof(CardType)).Length];
 
             for (int i = 0; i < list.Count; i++)
-            {
-                CardType type;
-                Enum.TryParse(list[i], out type);
-                array[(int)type] = list.Count - i;
-            }
+                if (Enum.TryParse(list[i], out CardType type))
+                    array[(int)type] = list.Count - i;
             return array;
         }
     }

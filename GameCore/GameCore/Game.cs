@@ -9,28 +9,34 @@ namespace GameCore
     // pravdepodobne to trochu zpomali, ale kdo vi co si pak ty inteligence budou delat jinak
     public class Game
     {
+        public const int maxRounds = 50;
+
+        User[] users;
         public List<Player> Players;
         public Kingdom Kingdom;
         public List<Card> Trash;
-        public Logger logger;
+        public Logger Logger;
 
         public bool GameEnd { get; private set; }
 
         const int drawCount = 5;
 
-        public Game (User[] users, Kingdom kingdom, Logger logger)
+        public Game (User[] users, Kingdom kingdom, Logger logger = null)
         {
-            this.logger = logger;
+            this.Logger = logger;
             Kingdom = kingdom;
-            Players = users.Select(u => new Player(this, u)).ToList();
-            Trash = new List<Card>();
+            this.users = users;Trash = new List<Card>();
         }
 
         public Task<GameResults> Play()
         {
             return Task.Run(() =>
             {
-                logger.Log("New game has started.");
+                // random needs to be instantiated and used in the same thread
+                var rnd = new ThreadSafeRandom();
+                Players = users.Select(u => new Player(this, u, rnd)).ToList();
+
+                Logger?.Log("New game has started.");
 
                 // intitial drawing
                 foreach (var player in Players)
@@ -43,7 +49,7 @@ namespace GameCore
                 // one turn of one player
                 while (true)
                 {
-                    logger.Log("\n");
+                    Logger?.Log("\n");
 
                     Players[i].ps.Buys = 1;
                     Players[i].ps.Actions = 1;
@@ -62,6 +68,8 @@ namespace GameCore
                         card = Players[i].PlayTreasure();
                     } while (card != null);
 
+                    Logger?.Log($"{Players[i].Name} has ${Players[i].ps.Coins}.");
+
                     // buy phase
                     do
                     {
@@ -78,9 +86,9 @@ namespace GameCore
 
                     if (GameEnd)
                     {
-                        logger.Log("\r\n__Results__");
+                        Logger?.Log("\n\n__Results__");
                         foreach (Player player in Players.OrderBy(p => p.VictoryPoints))
-                            logger.Log($"{player.Name} has {player.VictoryPoints}.");
+                            Logger?.Log($"{player.Name} has {player.VictoryPoints}.");
                         return new GameResults
                         {
                             Players = Players,
@@ -93,9 +101,9 @@ namespace GameCore
                     // stopping too long games
                     if (i == 0)
                         round++;
-                    if (round >= 50)
+                    if (round >= maxRounds)
                     {
-                        logger.Log("\r\nGame was terminated, number of rounds exceeded 50.");
+                        Logger?.Log("\n\nGame was terminated, number of rounds exceeded 50.");
                         return new GameResults
                         {
                             Players = Players,
@@ -106,15 +114,11 @@ namespace GameCore
             });
         }
 
-        // todo tohle asi vratim zpet do playera...
-        public Card Gain(CardType type)
-        {
-            return Kingdom.SingleOrDefault(p => p.Type == type)?.GainCard();
-        }
+        
 
         private bool isGameEnd()
         {  // todo pridat kolonie
-            if (Kingdom.Single(k => k.Type == CardType.Province).Count == 0)
+            if (Kingdom.GetPile(CardType.Province).Count == 0)
                 return true;
             return Kingdom.Where(k => k.Count == 0).Count() >= 3;
         }

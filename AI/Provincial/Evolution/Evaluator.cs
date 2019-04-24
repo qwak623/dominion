@@ -2,8 +2,6 @@
 using AI.Provincial.PlayAgenda;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using GameCore.Cards;
 
@@ -16,9 +14,8 @@ namespace AI.Provincial.Evolution
             double fitness = 0;
             object obj = new object();
 
-            // TODO parallel
-            //Parallel.ForEach(leaders, leader =>
-            foreach (var leader in leaders)
+            //foreach (var leader in leaders)
+            Parallel.ForEach(leaders, leader =>
             {
                 int wins = 0;
                 int gameIndex;
@@ -28,7 +25,7 @@ namespace AI.Provincial.Evolution
                     Kingdom kingdom = k.GetKingdom(true);
                     User[] users = { new ProvincialAI(agenda), new ProvincialAI(leader) };
 
-                    var game = new Game(users, kingdom, new FakeLogger());
+                    var game = new Game(users, kingdom);
                     var task = game.Play();
                     var result = task.Result;
 
@@ -43,16 +40,12 @@ namespace AI.Provincial.Evolution
                     }
                 }
 
+                // TODO
                 lock (obj)
                     fitness += wins / (double)gameIndex;
-            }
-            //});
+            //}
+            });
             return fitness;
         }
-    }
-
-    class FakeLogger : Logger
-    {
-        public override void Log(string str) => System.Diagnostics.Debug.WriteLine(str);
     }
 }

@@ -27,7 +27,7 @@ namespace GameCore.Cards.Base
         protected override void ActionEffect(Player player)
         {
             // TODO napis tu spravny desc pro cellar
-            var selectedCards = player.user.Choose(player.ps.Hand, player.ps, player.Game.Kingdom, 0, player.ps.Hand.Count, Phase.Action, null);
+            var selectedCards = player.User.Choose(player.ps.Hand, player.ps, player.Game.Kingdom, 0, player.ps.Hand.Count, Phase.Action, null);
 
             // TODO discard po karte je neefektivni
             foreach (var card in selectedCards.ToList())

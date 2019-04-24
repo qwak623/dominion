@@ -34,7 +34,7 @@ namespace GameCore.Cards.Base
                     break;
                 player.Draw(1);
                 // if user wishes to discard action card
-                if (card.IsAction && player.user.Choose()) 
+                if (card.IsAction && player.User.Choose()) 
                     player.Discard(card);
             }
         }

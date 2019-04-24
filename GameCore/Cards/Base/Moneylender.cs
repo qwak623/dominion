@@ -1,4 +1,6 @@
-﻿namespace GameCore.Cards.Base
+﻿using GameCore.Cards.GeneralCards;
+
+namespace GameCore.Cards.Base
 {
     public class Moneylender : Card
     {
@@ -24,11 +26,12 @@
 
         protected override void ActionEffect(Player player)
         {
-            var copper = player.ps.Hand.Find(c => c.Name == "Copper");
-            if (copper == null)
-                return;
-            player.Trash(copper);
-            player.ps.Coins += 3;
+            // todo choice u 
+            if (player.ps.Hand.Remove(Copper.Get()))
+            {
+                player.Game.Logger.Log($"{player.Name} trashes Copper and gains +3$");
+                player.ps.Coins += 3;
+            }
         }
     }
 }

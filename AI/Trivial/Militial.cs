@@ -34,7 +34,7 @@ namespace AI.Trivial
 
         public override Card SelectCardToGain(IEnumerable<Card> cards, PlayerState ps, Kingdom k)
         {
-            if (cards.Select(c => c.Type).Contains(CardType.Militia))
+            if (cards.Contains(CardType.Militia))
                 return GameCore.Cards.Base.Militia.Get();
             else return cards.OrderByDescending(c => c.Price).FirstOrDefault();
         }

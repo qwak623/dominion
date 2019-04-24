@@ -26,7 +26,7 @@
         {
             if (defender.ps.Hand.Count <= 3)
                 return;
-            var cards = defender.user.Choose(defender.ps.Hand, defender.ps, defender.Game.Kingdom, defender.ps.Hand.Count - 3, Phase.Attack, this);
+            var cards = defender.User.Choose(defender.ps.Hand, defender.ps, defender.Game.Kingdom, defender.ps.Hand.Count - 3, Phase.Attack, this);
             foreach (var card in cards)
                 defender.Discard(card);
         }

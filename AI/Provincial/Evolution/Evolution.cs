@@ -1,10 +1,7 @@
-﻿using AI.Shared;
-using GameCore.Cards;
+﻿using GameCore;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
+using System.Linq;
 
 namespace AI.Provincial.Evolution
 {
@@ -31,14 +28,18 @@ namespace AI.Provincial.Evolution
             mutations[4] = new AddCardMutation();
         }
 
-        public void Run(int generations)
+        public void Run()
         {
             SetUp();
 
-            for (int gen = 0; gen < generations; gen++)
+            for (int gen = 0; gen < par.Generations; gen++)
             {
+                var sw = new System.Diagnostics.Stopwatch();
+                sw.Start();
                 // evolution step
                 Evaluate();
+                sw.Stop();
+                var e = sw.Elapsed;
                 SetNewLeaders();
                 GenerateNewPool();
             }
@@ -59,9 +60,9 @@ namespace AI.Provincial.Evolution
         void Evaluate()
         {
             // todo parallel
-            //    Parallel.For(0, pool.Length, i => 
-            for (int i = 0; i < pool.Length; i++)
-                pool[i].Fitness = pool[i].Agenda.Evaluate(leaders, par.Kingdom, par.MinGames, par.MaxGames);
+            //for (int i = 0; i < pool.Length; i++)
+            Parallel.For(0, pool.Length, i => 
+                pool[i].Fitness = pool[i].Agenda.Evaluate(leaders, par.Kingdom, par.MinGames, par.MaxGames));
         }
 
         void SetNewLeaders()
@@ -74,8 +75,12 @@ namespace AI.Provincial.Evolution
 
         void GenerateNewPool()
         {
+            // first five members without changes
+            for (int i = 0; i < leaders.Length; i++)
+                pool[i] = (leaders[i], 0);
+
             // for each new member in pool
-            for (int i = 0; i < pool.Length; i++)
+            for (int i = leaders.Length; i < pool.Length; i++)
             {
                 var agenda = leaders[rnd.Next(leaders.Length)].Clone();
 
@@ -85,6 +90,9 @@ namespace AI.Provincial.Evolution
                 // sometimes there will be more mutations
                 while (rnd.NextDouble() < par.Mutate)
                     mutations[rnd.Next(mutations.Length)].Mutate(agenda, par.Kingdom);
+
+                if (agenda.BuyMenu.Any(m => m.Number == 0))
+                    agenda = agenda;
 
                 pool[i] = (agenda, 0);
             }

@@ -26,12 +26,15 @@ namespace GameCore.Cards.Base
 
         protected override void ActionEffect(Player player)
         {
-            // todo neco jako trash choice zase
-            var oldCard = player.user.Choose(player.ps.Hand, player.ps, player.Game.Kingdom, 1, Phase.Action, null).Single();
+            // if user didnt select card he wont gain any.
+            var oldCard = player.User.Choose(player.ps.Hand, player.ps, player.Game.Kingdom, 1, Phase.Action, null).SingleOrDefault();
+            if (oldCard == null)
+                return;
             player.Trash(oldCard);
 
-            var newCard = player.user.SelectCardToGain(player.Game.Kingdom
-                .Where(p => p.Price <= oldCard.Price + 2).Select(p => p.Card), player.ps, player.Game.Kingdom);
+            var newCard = player.User.SelectCardToGain(player.Game.Kingdom
+                .Where(p => p.Price <= oldCard.Price + 2 && p.Count != 0)
+                .Select(p => p.Card), player.ps, player.Game.Kingdom);
             player.Gain(newCard.Type);
         }
     }

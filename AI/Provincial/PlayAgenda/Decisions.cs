@@ -81,7 +81,7 @@ namespace AI.Provincial.PlayAgenda
                         while (discards.Count < min)
                         {
                             // first choice is random victory card
-                            card = cards.First(c => c.IsVictory);
+                            card = cards.FirstOrDefault(c => c.IsVictory);
 
                             // kdyz nemam victory tak vyberu nejzbytecnejsi kartu
                             if (card == null)
@@ -110,7 +110,7 @@ namespace AI.Provincial.PlayAgenda
                 case Phase.Attack:
                 case Phase.Action:
 
-                    if (card.Type == CardType.Moneylender && hand.Select(c => c.Type).Contains(CardType.Copper))
+                    if (card.Type == CardType.Moneylender && hand.Contains(CardType.Copper))
                         return -1;
                     // todo cardtype.mine
 
