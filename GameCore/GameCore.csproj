@@ -78,11 +78,12 @@
     <Compile Include="Cards\GeneralCards\Silver.cs" />
     <Compile Include="Cards\Base\Thief.cs" />
     <Compile Include="Cards\Kingdom.cs" />
+    <Compile Include="Cards\KingdomWrapper.cs" />
     <Compile Include="Cards\NamedGames.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="GameCore\Game.cs" />
     <Compile Include="GameCore\GameResults.cs" />
-    <Compile Include="GameCore\GameState.cs" />
+    <Compile Include="GameCore\PlayerState.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="Cards\Pile.cs" />
     <Compile Include="GameCore\Player.cs" />

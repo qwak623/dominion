@@ -7,17 +7,19 @@ using System.Linq;
 using AI.Trivial;
 using GameCore;
 using GameCore.Cards;
+using System.Threading.Tasks;
 
 namespace Window
 {
     public partial class GameForm : Form
     {
-        List<Card> cards = NamedGames.TheFirstGame();
+        List<Card> cards = NamedGames.Base.TheFirstGame();
 
         Job job = new Job();
         int min, max;
         const int dy = 30, dx = 145;
         AIParams aiParams = new AIParams();
+        Task task;
 
         public GameForm()
         {
@@ -29,6 +31,7 @@ namespace Window
         void StartGame_Click(object sender, EventArgs e)
         {
             GamePanel.Show();
+            SetKingdomPanel.Hide();
             LogTextBox.Text = "";
             StartGame.Enabled = false;  // todo konec hry nebo restart
             SetKingdom.Enabled = false;
@@ -37,10 +40,22 @@ namespace Window
             var human = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job);
             //var militial = new MilitialAI();
             var ai = aiParams.GetUser(cards);
-            //var ai2 = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
+            //var ai = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
 
             Game game = new Game(new User[] { human, ai}, cards.GetKingdom(true), new WindowLogger(Log));
-            game.Play();
+            task = game.Play().ContinueWith((results) => EnableNextGame(results));
+        }
+
+        void EnableNextGame(Task<GameResults> results)
+        {
+            Action<GameResults> function = (gr) =>
+            {
+                ShowKingdom(gr.Players[0].Game.Kingdom);
+                StartGame.Enabled = true;
+                SetKingdom.Enabled = true;
+                Settings.Enabled = true;
+            };
+            this.Invoke(function, new object[] { results.Result });
         }
 
         // todo mozna nejak systemove vyresit ktere karty se hraji a ktere ne
@@ -52,12 +67,12 @@ namespace Window
 
                 // todo tohle je nutné opravdu předělat jinak se to rozbije při resize
                 int y = 0, x = 0;
-                foreach (var card in cards.OrderBy(a => a.Name).OrderBy(a => a.Price))
+                foreach (var card in cards.OrderBy(a => a.Price).ThenBy(a => a.Name))
                 {
                     var button = new Button()
                     {
                         Text = card.Name + (phase == Phase.Buy ? " $" + card.Price.ToString() : string.Empty),
-                        Location = new Point(3 + x * dx, y += (x == 0 ? 1 : 0) * dy),
+                        Location = new Point(3 + x * dx, y += (x == 0 ? dy : 0)),
                         Tag = card,
                         Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
                         ForeColor = Color.DarkGray,
@@ -74,7 +89,8 @@ namespace Window
                     if (phase == Phase.Action && card.IsAction ||
                         phase == Phase.Treasure && card.IsTreasure ||
                         phase == Phase.Reaction && card.IsReaction ||
-                        phase == Phase.Buy)
+                        phase == Phase.Buy ||
+                        phase == Phase.Gain)
                     {
                         button.Click += SelectCard;
                         button.ForeColor = Color.Black;
@@ -85,12 +101,12 @@ namespace Window
                 AddDoneButton(ref y, SelectCard);
             };
 
-            this.Invoke(function, new object[] {p == Phase.Buy ? c : s.Hand, s, kingdom, p, attackCard?.Destciption});
+            this.Invoke(function, new object[] {p == Phase.Buy || p == Phase.Gain ? c : s.Hand, s, kingdom, p, attackCard?.Destciption});
         }
         
-        void GainCard(IEnumerable<Card> cards, PlayerState ps, Kingdom k)
+        void GainCard(IEnumerable<Card> cards, PlayerState ps, Kingdom k, Phase phase)
         {
-            PlayCard(cards, ps, k, Phase.Buy, null);
+            PlayCard(cards, ps, k, phase, null);
         }
 
         void Choice(IEnumerable<Card> c, PlayerState state, Kingdom kingdom, int mininum, int maximum, Phase p, Card attackCard)
@@ -141,7 +157,7 @@ namespace Window
             this.Invoke(function, new object[] { c, state, kingdom, mininum, maximum, p, attackCard?.Destciption });
         }
 
-        private void RefreshWindow(PlayerState ps, Kingdom kingdom, Phase phase, string name)
+        void RefreshWindow(PlayerState ps, Kingdom kingdom, Phase phase, string name)
         {
             ShowKingdom(kingdom);
 
@@ -172,6 +188,12 @@ namespace Window
                     PhaseDescription.Text = "Buy card.";
                     PhasePanel.BackColor = Color.SandyBrown;
                     PlayAreaLabel.Text = "Cards to buy";
+                    break;
+                case Phase.Gain:
+                    PhaseLabel.Text = "Gain phase";
+                    PhaseDescription.Text = "Gain card.";
+                    PhasePanel.BackColor = Color.SandyBrown;
+                    PlayAreaLabel.Text = "Cards to gain";
                     break;
                 case Phase.Reaction:
                     PhaseLabel.Text = "Reaction phase";
@@ -285,29 +307,76 @@ namespace Window
 
         #region Set kingdom
 
-        private void SetKingdom_Click(object sender, EventArgs e)
+        void SetKingdom_Click(object sender, EventArgs e)
         {
             SetKingdomPanel.Show();
+            ShowCurrentKingdomCards();
+            ShowExtensionCards();
+        }
 
-            // todo cele tohle pak nejak poradne poresit, jeste to bude drbacka
+        void ShowExtensionCards()
+        {
+            ExtensionsCardsPanel.Controls.Clear();
+            ExtensionsCardsPanel.Controls.Add(ExtensionsCardsLabel);
 
-            // todo tohle je nutné opravdu předělat jinak se to rozbije při resize
-            // todo nejakym zpusobem sjednotit s funkci nad tim
-            int y = 0, x = 0;
+            var bannedTypes = new[] { CardType.Copper, CardType.Silver, CardType.Gold, CardType.Estate, CardType.Duchy, CardType.Province };
+            var differentCards = NamedGames.Base.AllCards1stEdition().Where(c => !cards.Contains(c));
 
-            // todo tohle nejak vyresit
-            var changableKingdom = cards.Where(k => k.Type != CardType.Copper ||
-                                                      k.Type != CardType.Silver ||
-                                                      k.Type != CardType.Gold ||
-                                                      k.Type != CardType.Estate ||
-                                                      k.Type != CardType.Duchy ||
-                                                      k.Type != CardType.Province);
-            foreach (var card in changableKingdom.OrderBy(a => a.Name).OrderBy(a => a.Price))
+            var nec = differentCards.ToList();
+
+            int y = 5;
+            int x = 3;
+            foreach (var card in differentCards.OrderBy(a => a.Name).OrderBy(a => a.Price))
+            {
+                var button = new Button()
+                {
+                    Text = $"{card.Name} ${card.Price.ToString()}",
+                    Location = new Point(3 + x * dx, y += (x == 0 ? dy : 0)),
+                    Tag = card,
+                    Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
+                    ForeColor = Color.DarkGray,
+                    BackColor = card.ToBackColor(),
+                    Width = 138,
+                    Height = 25,
+                    UseVisualStyleBackColor = false,
+                    FlatStyle = FlatStyle.Flat,
+                    FlatAppearance = { BorderColor = Color.DarkGray }
+                };
+
+                if (y > 15 * dy)
+                {
+                    y = 5;
+                    x += dx;
+                }
+
+                button.Click += AddToKingdom;
+
+                ExtensionsCardsPanel.Controls.Add(button);
+            }
+        }
+
+        void AddToKingdom(object sender, EventArgs e)
+        {
+            cards.Add((sender as Control)?.Tag as Card);
+            ShowCurrentKingdomCards();
+            ShowExtensionCards();
+        }
+
+        void ShowCurrentKingdomCards()
+        {
+            CurrentKingdomPanel.Controls.Clear();
+            CurrentKingdomPanel.Controls.Add(CurrentKingdomLabel);
+
+            var bannedTypes = new []{ CardType.Copper, CardType.Silver, CardType.Gold, CardType.Estate, CardType.Duchy, CardType.Province };
+            var changableKingdom = cards.Where(k => !bannedTypes.Contains(k.Type));
+
+            int y = 5;
+            foreach (var card in changableKingdom.OrderBy(a => a.Price).ThenBy(a => a.Name))
             {
                 var button = new Button()
                 {
                     Text = card.Name + " $" + card.Price.ToString(),
-                    Location = new Point(3 + x * dx, y += (x == 0 ? 1 : 0) * dy),
+                    Location = new Point(3, y += dy),
                     Tag = card,
                     Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
                     BackColor = card.ToBackColor(),
@@ -317,18 +386,18 @@ namespace Window
                     FlatStyle = FlatStyle.Flat,
                     FlatAppearance = { BorderColor = Color.DarkGray }
                 };
-                x = x == 0 ? 1 : 0;
 
-             //   button.a todo
+                button.Click += RemoveFromKingdom;
 
                 CurrentKingdomPanel.Controls.Add(button);
             }
-            AddDoneButton(ref y, SelectCard);
         }
 
         void RemoveFromKingdom(object sender, EventArgs e)
         {
-            CurrentKingdomPanel.Controls.Remove(sender as Control);
+            cards.Remove((sender as Control)?.Tag as Card);
+            ShowCurrentKingdomCards();
+            ShowExtensionCards();
         }
 
         #endregion
@@ -345,15 +414,23 @@ namespace Window
         {
             var sw = new System.Diagnostics.Stopwatch();
             sw.Start();
-            System.Threading.Tasks.Parallel.For(0, 40000, i =>
+
+            for (int k = 0; k < 4; k++)
             {
-                var x = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
-                var y = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
-                //var m = new MilitialAI();
-                var got = new Game(new User[] { x, y }, cards.GetKingdom(true));
-                var task = got.Play();
-                var actualResults = task.Result;
-            });
+                System.Threading.Tasks.Parallel.For(0, 100, i =>
+                {
+                    for (int j = 0; j < 100; j++)
+                    {
+                        var x = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
+                        var y = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
+                        //var m = new MilitialAI();
+                        var got = new Game(new User[] { x, y }, cards.GetKingdom(true));
+                        var task = got.Play();
+                        var actualResults = task.Result;
+                    }
+                });
+            }
+
             sw.Stop();
             var s = sw.Elapsed;
         }

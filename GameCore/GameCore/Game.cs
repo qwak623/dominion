@@ -5,8 +5,7 @@ using System.Threading.Tasks;
 
 namespace GameCore
 {
-    // todo hra by asi mela sama vice kontrolovat spravnost tahu
-    // pravdepodobne to trochu zpomali, ale kdo vi co si pak ty inteligence budou delat jinak
+    // todo udelat nejake optional kontroly tahu 
     public class Game
     {
         public const int maxRounds = 50;
@@ -15,13 +14,13 @@ namespace GameCore
         public List<Player> Players;
         public Kingdom Kingdom;
         public List<Card> Trash;
-        public Logger Logger;
+        public ILogger Logger;
 
         public bool GameEnd { get; private set; }
 
         const int drawCount = 5;
 
-        public Game (User[] users, Kingdom kingdom, Logger logger = null)
+        public Game (User[] users, Kingdom kingdom, ILogger logger = null)
         {
             this.Logger = logger;
             Kingdom = kingdom;
@@ -50,6 +49,8 @@ namespace GameCore
                 while (true)
                 {
                     Logger?.Log("\n");
+
+                    Logger?.Log("Hand: " + Players[i].ps.Hand.Select(c => c.Name).Aggregate((a, b) => a + ", " + b));
 
                     Players[i].ps.Buys = 1;
                     Players[i].ps.Actions = 1;
@@ -86,7 +87,7 @@ namespace GameCore
 
                     if (GameEnd)
                     {
-                        Logger?.Log("\n\n__Results__");
+                        Logger?.Log("\r\n__Results__");
                         foreach (Player player in Players.OrderBy(p => p.VictoryPoints))
                             Logger?.Log($"{player.Name} has {player.VictoryPoints}.");
                         return new GameResults
@@ -103,7 +104,7 @@ namespace GameCore
                         round++;
                     if (round >= maxRounds)
                     {
-                        Logger?.Log("\n\nGame was terminated, number of rounds exceeded 50.");
+                        Logger?.Log("\r\nGame was terminated, number of rounds exceeded 50.");
                         return new GameResults
                         {
                             Players = Players,
@@ -114,13 +115,7 @@ namespace GameCore
             });
         }
 
-        
-
-        private bool isGameEnd()
-        {  // todo pridat kolonie
-            if (Kingdom.GetPile(CardType.Province).Count == 0)
-                return true;
-            return Kingdom.Where(k => k.Count == 0).Count() >= 3;
-        }
+        // todo pridat kolonie
+        private bool isGameEnd() => Kingdom.GetPile(CardType.Province).Empty || Kingdom.EmptyPiles >= 3;
     }
 }

@@ -15,15 +15,14 @@ namespace AI.Provincial.PlayAgenda
         BuyAgenda buyAgenda;
         int[] priorityList = Data.GetPriorityList();
         Stack<Decision> decisions = new Stack<Decision>();
+        string name;
 
-        // debug
-        Card lastPlayedCard;
+        public override string GetName() => name;
 
-        public override string GetName() => nameof(ProvincialAI);
-
-        public ProvincialAI(BuyAgenda buyAgenda)
+        public ProvincialAI(BuyAgenda buyAgenda, string name = nameof(ProvincialAI))
         {
             this.buyAgenda = buyAgenda.Clone();
+            this.name = name;
         }
 
         public override IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState ps, Kingdom k, int min, int max, Phase phase, Card card = null)
@@ -40,7 +39,7 @@ namespace AI.Provincial.PlayAgenda
             return true;
         }
 
-        public override Card PlayCard(IEnumerable<Card> cards, PlayerState ps, Kingdom k, Phase phase, Card card = null)
+        public override Card PlayCard(IEnumerable<Card> cards, PlayerState ps, Kingdom k, Phase phase, Card attackCard = null)
         {
             if (phase == Phase.Treasure)
                 return cards.FirstOrDefault(c => c.IsTreasure);
@@ -58,27 +57,26 @@ namespace AI.Provincial.PlayAgenda
             }
 
             // push decisions
-            decisions.SetComplexDecision(card, playerInfo);
+            decisions.SetComplexDecision(bestCard, playerInfo);
 
-            lastPlayedCard = card;
-            return card;
+            return bestCard;
         }
 
-        public override Card SelectCardToGain(IEnumerable<Card> cards, PlayerState ps, Kingdom k)
+        public override Card SelectCardToGain(KingdomWrapper wrapper, PlayerState ps, Kingdom k, Phase phase)
         {
             // todo colonies
             // todo bylo by hezke mit primo reference na piles ale to se mi ted nechce delat
 
             var provinces = k.GetPile(CardType.Province);
-            if (buyAgenda.Provinces > provinces.Count && !provinces.Empty && cards.Contains(CardType.Province))
+            if (buyAgenda.Provinces > provinces.Count && wrapper.GetCard(CardType.Province) != null)
                 return Province.Get();
 
             var duchies = k.GetPile(CardType.Duchy);
-            if (buyAgenda.Duchies > provinces.Count && !duchies.Empty && cards.Contains(CardType.Duchy))
+            if (buyAgenda.Duchies > provinces.Count && wrapper.GetCard(CardType.Duchy) != null)
                 return Duchy.Get();
 
             var estates = k.GetPile(CardType.Estate);
-            if (buyAgenda.Estates > provinces.Count && !estates.Empty && cards.Contains(CardType.Estate))
+            if (buyAgenda.Estates > provinces.Count && wrapper.GetCard(CardType.Estate) != null)
                 return Estate.Get();
 
             for (int i = 0; i < buyAgenda.BuyMenu.Count; i++)
@@ -86,11 +84,15 @@ namespace AI.Provincial.PlayAgenda
                 var tuple = buyAgenda.BuyMenu[i];
                 if (tuple.Number > 0)
                 {
-                    var card = cards.FirstOrDefault(c => c.Type == tuple.Card);
+                    var card = wrapper.GetCard(tuple.Card);
                     if (card != null)
                     {
                         tuple.Number--;
-                        buyAgenda.BuyMenu[i] = tuple; // this is a value type, i have to return the value back
+                        // todo, asi muze byt neefektivni, ale pri u dlouhych jedincu s nizkymy cisly asi pomuze
+                        if (tuple.Number == 0)
+                            buyAgenda.BuyMenu.RemoveAt(i);
+                        else
+                            buyAgenda.BuyMenu[i] = tuple; // this is a value type, i have to return the value back
                         return card;
                     }
                 }

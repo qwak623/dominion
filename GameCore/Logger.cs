@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace GameCore
 {
-    public abstract class Logger
+    public interface ILogger
     {
-        public abstract void Log(string str);
+        void Log(string str);
     }
 }

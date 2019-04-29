@@ -11,6 +11,8 @@ namespace GameCore.Cards
 {
     public class Kingdom : IEnumerable<Pile>
     {
+        public int EmptyPiles;
+
         List<Pile> piles;
         Dictionary<CardType, int> cardTypeToIndex = new Dictionary<CardType, int>();
 
@@ -22,8 +24,28 @@ namespace GameCore.Cards
             Reset(two);
         }
 
-        // todo nejaky card manager udelat aby se dalo hezky vymenovat kralovstvi
-        
+        public KingdomWrapper GetWrapper (int price, bool onlyTreasures = false)
+        {
+            var w = new KingdomWrapper();
+            w.kingdom = this;
+            w.price = price;
+            w.onlyTreasures = onlyTreasures;
+            return w;
+        }
+
+        public Pile GetPile(CardType type) => piles[cardTypeToIndex[type]];
+
+        public Pile this[int index] => piles[index];
+
+        public int Count => piles.Count;
+
+        public IEnumerator<Pile> GetEnumerator()
+        {
+            foreach (var pile in piles)
+                yield return pile;
+        }
+
+        IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
 
         private void Reset(bool two)
         {
@@ -43,19 +65,5 @@ namespace GameCore.Cards
                 piles[i] = new Pile(card.Get(), count);
             }
         }
-
-        public Pile GetPile(CardType type) => piles[cardTypeToIndex[type]];
-
-        public Pile this[int index] => piles[index];
-
-        public int Count => piles.Count;
-
-        public IEnumerator<Pile> GetEnumerator()
-        {
-            foreach (var pile in piles)
-                yield return pile;
-        }
-
-        IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
     }
 }

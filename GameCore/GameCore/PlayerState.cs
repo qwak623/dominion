@@ -14,7 +14,7 @@ namespace GameCore
 
         public List<Card> DrawPile = new List<Card>();
         public List<Card> DiscardPile = new List<Card>();
-        public LinkedList<Card> Hand = new LinkedList<Card>();
+        public List<Card> Hand = new List<Card>();
         public List<Card> PlayedCards = new List<Card>(10); 
     }
 }

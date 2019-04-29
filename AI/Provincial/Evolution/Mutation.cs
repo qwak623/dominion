@@ -90,4 +90,14 @@ namespace AI.Provincial.Evolution
             agenda.BuyMenu.Insert(i, (kingdom[j].Type, rnd.Next(9) + 1));
         }
     }
+
+    class RemoveCardMutation : Mutation
+    {
+        public override void Mutate(BuyAgenda agenda, List<Card> kingdom)
+        {
+            int i = rnd.Next(agenda.BuyMenu.Count);
+
+            agenda.BuyMenu.RemoveAt(i);
+        }
+    }
 }

@@ -32,11 +32,10 @@ namespace AI.Trivial
             return cards.OrderBy(x => rnd.Next()).FirstOrDefault();
         }
 
-        public override Card SelectCardToGain(IEnumerable<Card> cards, PlayerState ps, Kingdom k)
+        public override Card SelectCardToGain(KingdomWrapper wrapper, PlayerState ps, Kingdom k, Phase phase)
         {
-            if (cards.Contains(CardType.Militia))
-                return GameCore.Cards.Base.Militia.Get();
-            else return cards.OrderByDescending(c => c.Price).FirstOrDefault();
+            var militia = wrapper.GetCard(CardType.Militia);
+            return militia ?? wrapper.AvailableCards.OrderByDescending(c => c.Price).FirstOrDefault();
         }
     }
 }

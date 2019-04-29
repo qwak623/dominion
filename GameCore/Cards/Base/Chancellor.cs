@@ -6,7 +6,7 @@
         private Chancellor() : base
         (
             name: "Chancellor",
-            type: CardType.Chancelor,
+            type: CardType.Chancellor,
             price: 3,
             addActions: 0,
             addBuys: 0,

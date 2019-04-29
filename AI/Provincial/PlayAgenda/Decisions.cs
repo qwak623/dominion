@@ -25,7 +25,7 @@ namespace AI.Provincial.PlayAgenda
                         return hand.Where(c => c.IsVictory && !c.IsTreasure && !c.IsAction);
                     });
                     break;
-                case CardType.Chancelor:
+                case CardType.Chancellor:
                     break;
                 case CardType.Chapel:
                     decisions.Push((hand, ps, min, max, phase) =>

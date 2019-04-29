@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 
 namespace Window
 {
-    class WindowLogger : Logger
+    class WindowLogger : ILogger
     {
         Action<string> log;
         public WindowLogger(Action<string> log) => this.log = log;
-        public override void Log(string str) => log(str + "\n");
+        public void Log(string str) => log(str + "\n");
     }
 }

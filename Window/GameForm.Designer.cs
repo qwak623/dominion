@@ -48,10 +48,12 @@
             this.PlayAreaPanel = new System.Windows.Forms.Panel();
             this.PlayAreaLabel = new System.Windows.Forms.Label();
             this.CurrentKingdomPanel = new System.Windows.Forms.Panel();
-            this.SetKingdomLabel = new System.Windows.Forms.Label();
-            this.NewCardsPanel = new System.Windows.Forms.Panel();
+            this.CurrentKingdomLabel = new System.Windows.Forms.Label();
+            this.ExtensionsCardsPanel = new System.Windows.Forms.Panel();
+            this.ExtensionsCardsLabel = new System.Windows.Forms.Label();
             this.SetKingdomPanel = new System.Windows.Forms.Panel();
             this.ExtensionsPanel = new System.Windows.Forms.Panel();
+            this.ExtensionsLabel = new System.Windows.Forms.Label();
             this.KingdomPanel.SuspendLayout();
             this.Header.SuspendLayout();
             this.GamePanel.SuspendLayout();
@@ -59,7 +61,9 @@
             this.LogPanel.SuspendLayout();
             this.PlayAreaPanel.SuspendLayout();
             this.CurrentKingdomPanel.SuspendLayout();
+            this.ExtensionsCardsPanel.SuspendLayout();
             this.SetKingdomPanel.SuspendLayout();
+            this.ExtensionsPanel.SuspendLayout();
             this.SuspendLayout();
             // 
             // KingdomPanel
@@ -277,37 +281,50 @@
             // CurrentKingdomPanel
             // 
             this.CurrentKingdomPanel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.CurrentKingdomPanel.Controls.Add(this.SetKingdomLabel);
+            this.CurrentKingdomPanel.Controls.Add(this.CurrentKingdomLabel);
             this.CurrentKingdomPanel.Location = new System.Drawing.Point(3, 4);
             this.CurrentKingdomPanel.Name = "CurrentKingdomPanel";
-            this.CurrentKingdomPanel.Size = new System.Drawing.Size(390, 500);
+            this.CurrentKingdomPanel.Size = new System.Drawing.Size(196, 500);
             this.CurrentKingdomPanel.TabIndex = 4;
             // 
-            // SetKingdomLabel
+            // CurrentKingdomLabel
             // 
-            this.SetKingdomLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.CurrentKingdomLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.SetKingdomLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.SetKingdomLabel.Location = new System.Drawing.Point(0, 10);
-            this.SetKingdomLabel.Name = "SetKingdomLabel";
-            this.SetKingdomLabel.Size = new System.Drawing.Size(388, 25);
-            this.SetKingdomLabel.TabIndex = 1;
-            this.SetKingdomLabel.Text = "Kingdom";
-            this.SetKingdomLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.CurrentKingdomLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.CurrentKingdomLabel.Location = new System.Drawing.Point(0, 10);
+            this.CurrentKingdomLabel.Name = "CurrentKingdomLabel";
+            this.CurrentKingdomLabel.Size = new System.Drawing.Size(194, 25);
+            this.CurrentKingdomLabel.TabIndex = 1;
+            this.CurrentKingdomLabel.Text = "Kingdom";
+            this.CurrentKingdomLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // NewCardsPanel
+            // DifferentCardsPanel
             // 
-            this.NewCardsPanel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.NewCardsPanel.Location = new System.Drawing.Point(399, 139);
-            this.NewCardsPanel.Name = "NewCardsPanel";
-            this.NewCardsPanel.Size = new System.Drawing.Size(536, 365);
-            this.NewCardsPanel.TabIndex = 5;
+            this.ExtensionsCardsPanel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ExtensionsCardsPanel.Controls.Add(this.ExtensionsCardsLabel);
+            this.ExtensionsCardsPanel.Location = new System.Drawing.Point(205, 5);
+            this.ExtensionsCardsPanel.Name = "DifferentCardsPanel";
+            this.ExtensionsCardsPanel.Size = new System.Drawing.Size(529, 499);
+            this.ExtensionsCardsPanel.TabIndex = 5;
+            // 
+            // DifferentCardsLabel
+            // 
+            this.ExtensionsCardsLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.ExtensionsCardsLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.ExtensionsCardsLabel.Location = new System.Drawing.Point(3, 8);
+            this.ExtensionsCardsLabel.Name = "DifferentCardsLabel";
+            this.ExtensionsCardsLabel.Size = new System.Drawing.Size(525, 25);
+            this.ExtensionsCardsLabel.TabIndex = 2;
+            this.ExtensionsCardsLabel.Text = "Base cards";
+            this.ExtensionsCardsLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // SetKingdomPanel
             // 
             this.SetKingdomPanel.Controls.Add(this.ExtensionsPanel);
             this.SetKingdomPanel.Controls.Add(this.CurrentKingdomPanel);
-            this.SetKingdomPanel.Controls.Add(this.NewCardsPanel);
+            this.SetKingdomPanel.Controls.Add(this.ExtensionsCardsPanel);
             this.SetKingdomPanel.Location = new System.Drawing.Point(0, 39);
             this.SetKingdomPanel.Name = "SetKingdomPanel";
             this.SetKingdomPanel.Size = new System.Drawing.Size(938, 507);
@@ -316,10 +333,24 @@
             // 
             // ExtensionsPanel
             // 
-            this.ExtensionsPanel.Location = new System.Drawing.Point(399, 4);
+            this.ExtensionsPanel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ExtensionsPanel.Controls.Add(this.ExtensionsLabel);
+            this.ExtensionsPanel.Location = new System.Drawing.Point(739, 5);
             this.ExtensionsPanel.Name = "ExtensionsPanel";
-            this.ExtensionsPanel.Size = new System.Drawing.Size(536, 129);
+            this.ExtensionsPanel.Size = new System.Drawing.Size(196, 500);
             this.ExtensionsPanel.TabIndex = 6;
+            // 
+            // ExtensionsLabel
+            // 
+            this.ExtensionsLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.ExtensionsLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.ExtensionsLabel.Location = new System.Drawing.Point(0, 10);
+            this.ExtensionsLabel.Name = "ExtensionsLabel";
+            this.ExtensionsLabel.Size = new System.Drawing.Size(194, 25);
+            this.ExtensionsLabel.TabIndex = 1;
+            this.ExtensionsLabel.Text = "Extensions";
+            this.ExtensionsLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // GameForm
             // 
@@ -341,7 +372,9 @@
             this.LogPanel.PerformLayout();
             this.PlayAreaPanel.ResumeLayout(false);
             this.CurrentKingdomPanel.ResumeLayout(false);
+            this.ExtensionsCardsPanel.ResumeLayout(false);
             this.SetKingdomPanel.ResumeLayout(false);
+            this.ExtensionsPanel.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -367,11 +400,13 @@
         private System.Windows.Forms.Panel PhasePanel;
         private System.Windows.Forms.Button Settings;
         private System.Windows.Forms.Panel CurrentKingdomPanel;
-        private System.Windows.Forms.Label SetKingdomLabel;
-        private System.Windows.Forms.Panel NewCardsPanel;
+        private System.Windows.Forms.Label CurrentKingdomLabel;
+        private System.Windows.Forms.Panel ExtensionsCardsPanel;
         private System.Windows.Forms.Panel SetKingdomPanel;
-        private System.Windows.Forms.Panel ExtensionsPanel;
         private System.Windows.Forms.Button DuelButton;
+        private System.Windows.Forms.Label ExtensionsCardsLabel;
+        private System.Windows.Forms.Panel ExtensionsPanel;
+        private System.Windows.Forms.Label ExtensionsLabel;
     }
 }
 

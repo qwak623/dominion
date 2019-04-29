@@ -30,7 +30,7 @@ namespace AI.Dominex
             throw new NotImplementedException();
         }
 
-        public override Card SelectCardToGain(IEnumerable<Card> cards, PlayerState ps, Kingdom k)
+        public override Card SelectCardToGain(KingdomWrapper wrapper, PlayerState ps, Kingdom k, Phase phase)
         {
             throw new NotImplementedException();
         }

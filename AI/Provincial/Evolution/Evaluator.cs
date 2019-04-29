@@ -29,8 +29,8 @@ namespace AI.Provincial.Evolution
                     var task = game.Play();
                     var result = task.Result;
 
-                    // todo funguje jen u dvou hracu zatim
                     wins += result.Score[0].CompareTo(result.Score[1]);
+                    // todo funguje jen u dvou hracu zatim
 
                     if (gameIndex >= minGames && gameIndex % 200 == 0)
                     {
@@ -42,7 +42,7 @@ namespace AI.Provincial.Evolution
 
                 // TODO
                 lock (obj)
-                    fitness += wins / (double)gameIndex;
+                fitness += wins / (double)gameIndex;
             //}
             });
             return fitness;

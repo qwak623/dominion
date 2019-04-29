@@ -24,11 +24,11 @@ namespace GameCore.Cards.Base
 
         public static new Workshop Get() => workshop ?? new Workshop();
 
-        protected override void ActionEffect(Player player)
+        protected override void ActionEffect(Player p)
         {
-            var card = player.User.SelectCardToGain(player.Game.Kingdom.Where(p => !p.Empty && p.Price <= 4)
-                .Select(p => p.Card), player.ps, player.Game.Kingdom);
-            player.Gain(card.Type);
+            var card = p.User.SelectCardToGain(p.Game.Kingdom.GetWrapper(4), p.ps, p.Game.Kingdom, Phase.Gain);
+            if (card != null)
+                p.Gain(card.Type);
         }
     }
 }

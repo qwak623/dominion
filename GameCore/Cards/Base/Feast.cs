@@ -27,7 +27,7 @@ namespace GameCore.Cards.Base
         protected override void ActionEffect(Player player)
         {
             player.Discard(this);
-            var card = player.User.SelectCardToGain(player.Game.Kingdom.Where(p => !p.Empty && p.Price <= 5).Select(p => p.Card), player.ps, player.Game.Kingdom);
+            var card = player.User.SelectCardToGain(player.Game.Kingdom.GetWrapper(5), player.ps, player.Game.Kingdom, Phase.Gain);
             player.Gain(card.Type);
         }
     }

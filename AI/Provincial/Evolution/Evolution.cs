@@ -11,21 +11,12 @@ namespace AI.Provincial.Evolution
 
         BuyAgenda[] leaders;
         (BuyAgenda Agenda, double Fitness)[] pool;
-        readonly Mutation[] mutations; // todo asi by taky melo byt z venku nejak
 
         readonly ThreadSafeRandom rnd = new ThreadSafeRandom();
 
         public Evolution(Params par)
         {
             this.par = par;
-
-            // todo neco s mutation probability takto je to asi blbost...
-            mutations = new Mutation[5];
-            mutations[0] = new ReplaceSupplyCardMutation();
-            mutations[1] = new ModifyPurchaseCountMutation();
-            mutations[2] = new SwapSupplyCardsMutation();
-            mutations[3] = new VictoryCardPurchaseMutation();
-            mutations[4] = new AddCardMutation();
         }
 
         public void Run()
@@ -37,11 +28,11 @@ namespace AI.Provincial.Evolution
                 var sw = new System.Diagnostics.Stopwatch();
                 sw.Start();
                 // evolution step
+                GenerateNewPool();
                 Evaluate();
+                SetNewLeaders();
                 sw.Stop();
                 var e = sw.Elapsed;
-                SetNewLeaders();
-                GenerateNewPool();
             }
 
             leaders[0].Save(par.Kingdom);
@@ -53,8 +44,6 @@ namespace AI.Provincial.Evolution
             for (int i = 0; i < leaders.Length; i++)
                 leaders[i] = BuyAgenda.GetRandom(par.Kingdom);
             pool = new (BuyAgenda, double)[par.PoolCount];
-            for (int i = 0; i < pool.Length; i++)
-                pool[i].Agenda = BuyAgenda.GetRandom(par.Kingdom);
         }
 
         void Evaluate()
@@ -68,7 +57,11 @@ namespace AI.Provincial.Evolution
         void SetNewLeaders()
         {
             // TODO on tam dela neco jako ze pocita pouzivanost karet a tak nejak zajistuje diverzitu leaders
-            Array.Sort(pool, (a, b) => -a.Fitness.CompareTo(b.Fitness));
+            // comparing fitness and individual length
+
+            // TODO
+            //Array.Sort(pool, (a, b) => -a.Fitness.CompareTo(b.Fitness));
+            Array.Sort(pool, (a, b) => -2 * a.Fitness.CompareTo(b.Fitness) + a.Agenda.BuyMenu.Count.CompareTo(b.Agenda.BuyMenu.Count));
             for (int i = 0; i < leaders.Length; i++)
                 leaders[i] = pool[i].Agenda;
         }
@@ -85,14 +78,9 @@ namespace AI.Provincial.Evolution
                 var agenda = leaders[rnd.Next(leaders.Length)].Clone();
 
                 // at least one mutations always happens
-                mutations[rnd.Next(mutations.Length)].Mutate(agenda, par.Kingdom);
-
-                // sometimes there will be more mutations
-                while (rnd.NextDouble() < par.Mutate)
-                    mutations[rnd.Next(mutations.Length)].Mutate(agenda, par.Kingdom);
-
-                if (agenda.BuyMenu.Any(m => m.Number == 0))
-                    agenda = agenda;
+                do
+                    par.MutationSelector.SelectMutation(agenda.BuyMenu.Count).Mutate(agenda, par.Kingdom);
+                while (rnd.NextDouble() < par.Mutate);
 
                 pool[i] = (agenda, 0);
             }

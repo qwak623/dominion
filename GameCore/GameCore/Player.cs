@@ -90,20 +90,28 @@ namespace GameCore
 
         public Card PlayTreasure()
         {
+            foreach (var card in ps.Hand.Where(c => c.IsTreasure))
+                card.WhenPlayTreasure(this);
+
+            return null;
+            // TODO tohle je zbytečně pomalé, vymyslet jiný způsob, který hraje treasures
+
             // if player has no treasure we will not bother him with selecting nothing
-            if (ps.Hand.All(c => !c.IsTreasure))
-                return null;
+  
+            // TODO
+            //if (ps.Hand.All(c => !c.IsTreasure))
+            //    return null;
 
-            var treasure = User.PlayCard(ps.Hand.Where(c => c.IsTreasure), ps, Game.Kingdom, Phase.Treasure);
-            if (treasure == null)
-                return null;
+            //var treasure = User.PlayCard(ps.Hand.Where(c => c.IsTreasure), ps, Game.Kingdom, Phase.Treasure);
+            //if (treasure == null)
+            //    return null;
 
-            Game.Logger?.Log($"{Name} plays '{treasure.Name}'.");
+            //Game.Logger?.Log($"{Name} plays '{treasure.Name}'.");
 
-            ps.Hand.Remove(treasure);
-            ps.PlayedCards.Add(treasure);
-            treasure.WhenPlayTreasure(this);
-            return treasure;
+            //ps.Hand.Remove(treasure);
+            //ps.PlayedCards.Add(treasure);
+            //treasure.WhenPlayTreasure(this);
+            //return treasure;
         }
 
         /// <summary>
@@ -121,7 +129,7 @@ namespace GameCore
                 return null;
 
             // buy
-            var card = User.SelectCardToGain(Game.Kingdom.Where(k => !k.Empty && k.Price <= ps.Coins).Select(k => k.Card), ps, Game.Kingdom);
+            var card = User.SelectCardToGain(Game.Kingdom.GetWrapper(ps.Coins), ps, Game.Kingdom, Phase.Buy);
             if (card == null)
                 return null;
 
@@ -154,7 +162,8 @@ namespace GameCore
         /// <param name="count"></param>
         public void Draw(int count)
         {
-            Game.Logger?.Log($"{Name} draws {count} cards.");
+            // todo
+            //Game.Logger?.Log($"{Name} draws {count} cards.");
 
             for (; count > 0; count--)
             {
@@ -175,7 +184,9 @@ namespace GameCore
                 }
 
                 // draw one card
-                ps.Hand.AddFirst(ps.DrawPile[ps.DrawPile.Count - 1]);
+                var card = ps.DrawPile[ps.DrawPile.Count - 1];
+                Game.Logger?.Log($"{Name} draws {card.Name}");
+                ps.Hand.Add(card);
                 ps.DrawPile.RemoveAt(ps.DrawPile.Count - 1);
             }
         }
@@ -197,8 +208,6 @@ namespace GameCore
         public void Gain(CardType type)
         {
             var card = gainCard(type);
-            if (card == null)
-                return;
             Game.Logger?.Log($"{Name} gains '{card.Name}'.");
             ps.PlayedCards.Add(card);
         }
@@ -206,22 +215,27 @@ namespace GameCore
         public void GainToHand(CardType type)
         {
             var card = gainCard(type);
-            if (card == null)
-                return;
             Game.Logger?.Log($"{Name} gains '{card.Name}' to hand.");
-            ps.Hand.AddFirst(card);
+            ps.Hand.Add(card);
         }
 
         public void GainToDrawPile(CardType type)
         {
             var card = gainCard(type);
-            if (card == null)
-                return;
             Game.Logger?.Log($"{Name} gains '{card.Name}' up to draw pile.");
             ps.DrawPile.Add(card);
         }
 
-        private Card gainCard(CardType type) => Game.Kingdom.GetPile(type)?.GainCard();
+        private Card gainCard(CardType type)
+        {
+            var pile = Game.Kingdom.GetPile(type);
+            
+            // counts empty piles without enumerating 
+            if (pile.Count == 1)
+                Game.Kingdom.EmptyPiles++;
+
+            return Game.Kingdom.GetPile(type)?.GainCard();
+        }
 
         public void ReturnToDrawPile(Card card)
         {

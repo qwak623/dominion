@@ -20,7 +20,7 @@
         Feast = 11,
         Festival = 12,
         Gardens = 13,
-        Chancelor = 14,
+        Chancellor = 14,
         Chapel = 15,
         Laboratory = 16,
         Library = 17,

@@ -8,7 +8,7 @@ namespace GameCore
     public class Human : User
     {
         Action<IEnumerable<Card>, PlayerState, Kingdom, Phase, Card> playCard;
-        Action<IEnumerable<Card>, PlayerState, Kingdom> selectCartToGain;
+        Action<IEnumerable<Card>, PlayerState, Kingdom, Phase> selectCartToGain;
         Action<IEnumerable<Card>, PlayerState, Kingdom, int, int, Phase, Card> choice;
         Action alternativeChoice;
         Job job;
@@ -16,7 +16,7 @@ namespace GameCore
         public override string GetName() => "Human";
 
         public Human(Action<IEnumerable<Card>, PlayerState, Kingdom, Phase, Card> playCard,
-                     Action<IEnumerable<Card>, PlayerState, Kingdom> selectCartToGain,
+                     Action<IEnumerable<Card>, PlayerState, Kingdom, Phase> selectCartToGain,
                      Action<IEnumerable<Card>, PlayerState, Kingdom, int, int, Phase, Card> choice, 
                      Action alternativeChoice, Job job)
         {
@@ -39,12 +39,12 @@ namespace GameCore
             }
         }
 
-        public override Card SelectCardToGain(IEnumerable<Card> cards, PlayerState ps, Kingdom k)
+        public override Card SelectCardToGain(KingdomWrapper wrapper, PlayerState ps, Kingdom k, Phase phase)
         {
             lock (job)
             {
                 job.Done = false;
-                selectCartToGain(cards, ps, k);
+                selectCartToGain(wrapper.AvailableCards, ps, k, phase);
                 while (!job.Done)
                     Monitor.Wait(job);
                 return job.Result as Card;

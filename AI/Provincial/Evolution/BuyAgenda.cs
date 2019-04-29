@@ -10,6 +10,7 @@ namespace AI.Provincial.Evolution
 {
     public class BuyAgenda
     {
+        const string path = "..\\..\\..\\AI\\Provincial\\data\\kingdoms\\";
         public List<(CardType Card, int Number)> BuyMenu = new List<(CardType, int)>();
 
         public int Colonies;
@@ -69,7 +70,7 @@ namespace AI.Provincial.Evolution
         public void Save(List<Card> k)
         {
             var filename = k.OrderBy(c => c.Type).Select(c => (int)c.Type).Aggregate("kingdom", (a, b) => a + "_" + b);
-            using (var writer = new StreamWriter($"..\\..\\..\\AI\\Provincial\\data\\{filename}.txt"))
+            using (var writer = new StreamWriter($"{path}{filename}.txt"))
             {
                 writer.WriteLine(Colonies);
                 writer.WriteLine(Provinces);
@@ -80,13 +81,13 @@ namespace AI.Provincial.Evolution
             }
         }
 
-        public static BuyAgenda Load(List<Card> k)
+        public static BuyAgenda Load(List<Card> k, string filename = null)
         {
-            var filename = k.OrderBy(p => p.Type).Select(p => (int)p.Type).Aggregate("kingdom", (a, b) => a + "_" + b);
+            filename = filename ?? k.OrderBy(p => p.Type).Select(p => (int)p.Type).Aggregate("kingdom", (a, b) => a + "_" + b);
 
             try
             {
-                using (var reader = new StreamReader($"..\\..\\..\\AI\\Provincial\\data\\{filename}.txt"))
+                using (var reader = new StreamReader($"{path}{filename}.txt"))
                 {
                     var agenda = new BuyAgenda();
                     agenda.Colonies = int.Parse(reader.ReadLine());

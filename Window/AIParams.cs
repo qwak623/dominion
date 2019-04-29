@@ -13,6 +13,6 @@ namespace Window
     public class AIParams
     {
         public User User { private get; set; }
-        public User GetUser(List<Card> k) => new ProvincialAI(BuyAgenda.Load(k) ?? BuyAgenda.GetRandom(k));
+        public User GetUser(List<Card> k, string name = null) => new ProvincialAI(BuyAgenda.Load(k, name) ?? BuyAgenda.GetRandom(k));
     }
 }

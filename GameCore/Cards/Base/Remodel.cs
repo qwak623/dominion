@@ -24,18 +24,16 @@ namespace GameCore.Cards.Base
 
         public static new Remodel Get() => remodel ?? new Remodel();
 
-        protected override void ActionEffect(Player player)
+        protected override void ActionEffect(Player p)
         {
             // if user didnt select card he wont gain any.
-            var oldCard = player.User.Choose(player.ps.Hand, player.ps, player.Game.Kingdom, 1, Phase.Action, null).SingleOrDefault();
+            var oldCard = p.User.Choose(p.ps.Hand, p.ps, p.Game.Kingdom, 1, Phase.Action, null).SingleOrDefault();
             if (oldCard == null)
                 return;
-            player.Trash(oldCard);
+            p.Trash(oldCard);
 
-            var newCard = player.User.SelectCardToGain(player.Game.Kingdom
-                .Where(p => p.Price <= oldCard.Price + 2 && p.Count != 0)
-                .Select(p => p.Card), player.ps, player.Game.Kingdom);
-            player.Gain(newCard.Type);
+            var newCard = p.User.SelectCardToGain(p.Game.Kingdom.GetWrapper(oldCard.Price + 2), p.ps, p.Game.Kingdom, Phase.Gain);
+            p.Gain(newCard.Type);
         }
     }
 }
