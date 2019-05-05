@@ -18,10 +18,7 @@ namespace AI.Trivial
             return cards.OrderBy(x => rnd.Next()).Take(max);
         }
 
-        public override bool Choose()
-        {
-            return true;
-        }
+        public override bool Choose(PlayerState ps, Kingdom k, Phase p, string yup, string nay, Card c) => rnd.Next() > 0;
 
         public override Card PlayCard(IEnumerable<Card> cards, PlayerState gs, Kingdom k, Phase phase, Card card = null)
         {

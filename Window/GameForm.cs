@@ -13,7 +13,8 @@ namespace Window
 {
     public partial class GameForm : Form
     {
-        List<Card> cards = NamedGames.Base.TheFirstGame();
+        // todo nacist ze souboru idealne, at vim jakou hru jsem hral posledne
+        List<Card> cards = PresetGames.Get(Games.FirstGame);
 
         Job job = new Job();
         int min, max;
@@ -37,7 +38,10 @@ namespace Window
             SetKingdom.Enabled = false;
             Settings.Enabled = false;
 
+            cards = cards.Concat(PresetGames.VictoryAndTreasures()).ToList();
+
             var human = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job);
+            //var friend = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job, "Honza");
             //var militial = new MilitialAI();
             var ai = aiParams.GetUser(cards);
             //var ai = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
@@ -59,15 +63,15 @@ namespace Window
         }
 
         // todo mozna nejak systemove vyresit ktere karty se hraji a ktere ne
-        void PlayCard(IEnumerable<Card> c, PlayerState s, Kingdom kingdom, Phase p, Card attackCard)
+        void PlayCard(IEnumerable<Card> c, PlayerState s, Kingdom k, Phase p, Card a)
         {
-            Action<IEnumerable<Card>, PlayerState, Kingdom, Phase, string> function = (cards, ps, k, phase, name) =>
+            Action<IEnumerable<Card>, PlayerState, Kingdom, Phase, Card> function = (cards, ps, kingdom, phase, attackCard) =>
             {
-                RefreshWindow(ps, k, phase, name);
+                RefreshWindow(ps, kingdom, phase, attackCard);
 
                 // todo tohle je nutné opravdu předělat jinak se to rozbije při resize
                 int y = 0, x = 0;
-                foreach (var card in cards.OrderBy(a => a.Price).ThenBy(a => a.Name))
+                foreach (var card in cards.OrderBy(b => b.Price).ThenBy(b => b.Name))
                 {
                     var button = new Button()
                     {
@@ -92,16 +96,16 @@ namespace Window
                         phase == Phase.Buy ||
                         phase == Phase.Gain)
                     {
-                        button.Click += SelectCard;
+                        button.Click += SelectDecision;
                         button.ForeColor = Color.Black;
                     }
 
                     PlayAreaPanel.Controls.Add(button);
                 }
-                AddDoneButton(ref y, SelectCard);
+                AddDoneButton(ref y, SelectDecision);
             };
 
-            this.Invoke(function, new object[] {p == Phase.Buy || p == Phase.Gain ? c : s.Hand, s, kingdom, p, attackCard?.Destciption});
+            this.Invoke(function, new object[] {p == Phase.Buy || p == Phase.Gain ? c : s.Hand, s, k, p, a});
         }
         
         void GainCard(IEnumerable<Card> cards, PlayerState ps, Kingdom k, Phase phase)
@@ -109,22 +113,17 @@ namespace Window
             PlayCard(cards, ps, k, phase, null);
         }
 
-        void Choice(IEnumerable<Card> c, PlayerState state, Kingdom kingdom, int mininum, int maximum, Phase p, Card attackCard)
+        void Choice(IEnumerable<Card> c, PlayerState state, Kingdom k, int mininum, int maximum, Phase p, Card a)
         {
-            Action<IEnumerable<Card>, PlayerState, Kingdom, int, int, Phase, string> function = (cards, ps, k, min, max, phase, description) =>
+            Action<IEnumerable<Card>, PlayerState, Kingdom, int, int, Phase, Card> function = (cards, ps, kingdom, min, max, phase, attackCard) =>
             {
                 this.min = min;
                 this.max = max;
-                RefreshWindow(ps, k, phase, null);
-   
-                if (description == null)
-                    PhaseDescription.Text = min == max ? $"Select {min} cards." : $"Select {min} to {max} cards. ";
-                PhaseDescription.Text = description;
-                PlayAreaLabel.Text = "Choice";
+                RefreshWindow(ps, kingdom, phase, attackCard);
 
                 // todo tohle je nutné opravdu předělat jinak se to rozbije při resize
                 int y = 8, x = 0;
-                foreach (var card in cards.OrderBy(a => a.Name).OrderBy(a => a.Price))
+                foreach (var card in cards.OrderBy(b => b.Name).OrderBy(b => b.Price))
                 {
                     var checkBox = new CheckBox()
                     {
@@ -154,10 +153,10 @@ namespace Window
                 AddDoneButton(ref y, SelectCardSet);
             };
 
-            this.Invoke(function, new object[] { c, state, kingdom, mininum, maximum, p, attackCard?.Destciption });
+            this.Invoke(function, new object[] { c, state, k, mininum, maximum, p, a });
         }
 
-        void RefreshWindow(PlayerState ps, Kingdom kingdom, Phase phase, string name)
+        void RefreshWindow(PlayerState ps, Kingdom kingdom, Phase phase, Card card)
         {
             ShowKingdom(kingdom);
 
@@ -172,43 +171,48 @@ namespace Window
             switch (phase)
             {
                 case Phase.Action:
-                    PhaseLabel.Text = "Action phase";
+                    PhaseLabel.Text = ps.Name + ": Action phase";
                     PhaseDescription.Text = "Select an action card to play.";
                     PhasePanel.BackColor = Color.FromArgb(255, 227, 227, 227);
                     PlayAreaLabel.Text = "Hand";
                     break;
                 case Phase.Treasure:
-                    PhaseLabel.Text = "Buy phase";
+                    PhaseLabel.Text = ps.Name + ": Buy phase";
                     PhaseDescription.Text = "Select a treasure to play.";
                     PhasePanel.BackColor = Color.Yellow;
                     PlayAreaLabel.Text = "Treasures";
                     break;
                 case Phase.Buy:
-                    PhaseLabel.Text = "Buy phase";
+                    PhaseLabel.Text = ps.Name + ": Buy phase";
                     PhaseDescription.Text = "Buy card.";
                     PhasePanel.BackColor = Color.SandyBrown;
                     PlayAreaLabel.Text = "Cards to buy";
                     break;
                 case Phase.Gain:
-                    PhaseLabel.Text = "Gain phase";
+                    PhaseLabel.Text = ps.Name + ": Gain phase";
                     PhaseDescription.Text = "Gain card.";
                     PhasePanel.BackColor = Color.SandyBrown;
                     PlayAreaLabel.Text = "Cards to gain";
                     break;
                 case Phase.Reaction:
-                    PhaseLabel.Text = "Reaction phase";
-                    PhaseDescription.Text = $"Card {name} was played. You can play some reaction cards.";
+                    PhaseLabel.Text = ps.Name + ": Reaction phase";
+                    PhaseDescription.Text = $"Card {card.Name} was played. You can play some reaction cards.";
                     PhasePanel.BackColor = Color.LightBlue;
                     PlayAreaLabel.Text = "Hand";
                     break;
                 case Phase.Attack:
-                    PhaseLabel.Text = "Attack";
+                    PhaseLabel.Text = ps.Name + ": Attack";
                     PhasePanel.BackColor = Color.Red;
-                    PlayAreaLabel.Text = "Choice";
+                    PlayAreaLabel.Text = $"{card?.Message}";
                     break;
                 default:
                     throw new NotSupportedException();
             }
+
+            if (card == null)
+                PhaseDescription.Text = min == max ? $"Select {min} cards." : $"Select {min} to {max} cards. ";
+            PhaseDescription.Text = card?.Message;
+            PlayAreaLabel.Text = "Choice";
         }
 
         void AddDoneButton(ref int y, EventHandler eventHandler)
@@ -227,7 +231,7 @@ namespace Window
             PlayAreaPanel.Controls.Add(button);
         }
 
-        void SelectCard(object sender, EventArgs e)
+        void SelectDecision(object sender, EventArgs e)
         {
             lock (job)
             {
@@ -279,9 +283,50 @@ namespace Window
             }
         }
 
-        void AlternativeChoice()
+        void AlternativeChoice(PlayerState s, Kingdom k, Phase p, Card a, string y, string n)
         {
-            throw new NotImplementedException();
+            Action<PlayerState, Kingdom, Phase, Card, string, string> function = (ps, kingdom, phase, attackCard, yup, nay) =>
+            {
+                RefreshWindow(ps, kingdom, phase, attackCard);
+
+                var trueButton = new Button()
+                {
+                    Text = yup,
+                    Location = new Point(3, dy),
+                    Tag = true,
+                    Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
+                    ForeColor = Color.Black,
+                    BackColor = Color.WhiteSmoke,
+                    Width = 138,
+                    Height = 25,
+                    UseVisualStyleBackColor = false,
+                    FlatStyle = FlatStyle.Flat,
+                    FlatAppearance = { BorderColor = Color.DarkGray }
+                };
+
+                trueButton.Click += SelectDecision;
+                PlayAreaPanel.Controls.Add(trueButton);
+
+                var falseButton = new Button()
+                {
+                    Text = nay,
+                    Location = new Point(3 + dx, dy),
+                    Tag = false,
+                    Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
+                    ForeColor = Color.Black,
+                    BackColor = Color.WhiteSmoke,
+                    Width = 138,
+                    Height = 25,
+                    UseVisualStyleBackColor = false,
+                    FlatStyle = FlatStyle.Flat,
+                    FlatAppearance = { BorderColor = Color.DarkGray }
+                };
+
+                falseButton.Click += SelectDecision;
+                PlayAreaPanel.Controls.Add(falseButton);
+            };
+
+            this.Invoke(function, new object[] { s, k, p, a, y, n });
         }
 
         void SetVisible(Control button, bool visible)
@@ -319,13 +364,10 @@ namespace Window
             ExtensionsCardsPanel.Controls.Clear();
             ExtensionsCardsPanel.Controls.Add(ExtensionsCardsLabel);
 
-            var bannedTypes = new[] { CardType.Copper, CardType.Silver, CardType.Gold, CardType.Estate, CardType.Duchy, CardType.Province };
-            var differentCards = NamedGames.Base.AllCards1stEdition().Where(c => !cards.Contains(c));
-
+            var differentCards = PresetGames.Get(Games.AllCards1stEdition).Where(c => !cards.Contains(c));
             var nec = differentCards.ToList();
 
-            int y = 5;
-            int x = 3;
+            int y = 5, x = 0;
             foreach (var card in differentCards.OrderBy(a => a.Name).OrderBy(a => a.Price))
             {
                 var button = new Button()
@@ -334,7 +376,7 @@ namespace Window
                     Location = new Point(3 + x * dx, y += (x == 0 ? dy : 0)),
                     Tag = card,
                     Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
-                    ForeColor = Color.DarkGray,
+                    ForeColor = Color.Black,
                     BackColor = card.ToBackColor(),
                     Width = 138,
                     Height = 25,
@@ -343,14 +385,8 @@ namespace Window
                     FlatAppearance = { BorderColor = Color.DarkGray }
                 };
 
-                if (y > 15 * dy)
-                {
-                    y = 5;
-                    x += dx;
-                }
-
+                x = x == 0 ? 1 : 0;
                 button.Click += AddToKingdom;
-
                 ExtensionsCardsPanel.Controls.Add(button);
             }
         }
@@ -404,14 +440,21 @@ namespace Window
 
         #region Settings
 
-        private void Settings_Click(object sender, EventArgs e)
+        void Settings_Click(object sender, EventArgs e)
         {
             var settingForm = new SettingsForm(cards, aiParams);
             settingForm.Show();
         }
 
+        void SetPresetGame(object sender, EventArgs e)
+        {
+            cards = PresetGames.Get((Games)int.Parse((sender as Button).Tag as string));
+            ShowCurrentKingdomCards();
+        }
+
         void Duel_Click(object sender, EventArgs e)
         {
+            // TODO smazat
             var sw = new System.Diagnostics.Stopwatch();
             sw.Start();
 

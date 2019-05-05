@@ -18,9 +18,9 @@ namespace GameCore.Cards.Base
             isTreasure: false,
             isAction: true,
             isReaction: false,
-            isAttack: false
-        )
-        { }
+            isAttack: false,
+            message: "You may skip any action card you choose to."
+        ) => library = this;
 
         public static new Library Get() => library ?? new Library();
 
@@ -29,13 +29,27 @@ namespace GameCore.Cards.Base
             // todo potencionalne nekonecna smycka
             while (player.ps.Hand.Count < 7)
             {
-                var card = player.Show(1).SingleOrDefault();
-                if (card == null)
-                    break;
-                player.Draw(1);
-                // if user wishes to discard action card
-                if (card.IsAction && player.User.Choose()) 
-                    player.Discard(card);
+                try
+                {
+                    var card = player.Show(1).SingleOrDefault();
+                    if (card == null)
+                        break;
+                    
+                    //player.Draw(1);
+                    
+                    // if user wishes to discard action card
+                    string yup = $"Skip {card.Name}";
+                    string nay = $"Keep {card.Name}";
+
+                    if (card.IsAction && player.User.Choose(player.ps, player.Game.Kingdom, Phase.Action, yup, nay, this))
+                        player.ps.DiscardPile.Add(card);
+                    else
+                        player.ps.Hand.Add(card);
+                }
+                catch (System.Exception e)
+                { // TODO smazat throw
+                    throw e;
+                }
             }
         }
     }

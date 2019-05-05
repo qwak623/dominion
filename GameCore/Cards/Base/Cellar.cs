@@ -18,16 +18,16 @@ namespace GameCore.Cards.Base
             isTreasure: false,
             isAction: true,
             isReaction: false,
-            isAttack: false
-        )
-        { }
+            isAttack: false,
+            message: "Discard any number of cards, then draw that many."
+        ) => cellar = this;
 
         public static new Cellar Get() => cellar ?? new Cellar();
 
         protected override void ActionEffect(Player player)
         {
             // TODO napis tu spravny desc pro cellar
-            var selectedCards = player.User.Choose(player.ps.Hand, player.ps, player.Game.Kingdom, 0, player.ps.Hand.Count, Phase.Action, null).ToList();
+            var selectedCards = player.User.Choose(player.ps.Hand, player.ps, player.Game.Kingdom, 0, player.ps.Hand.Count, Phase.Action, this).ToList();
 
             // TODO discard po karte je neefektivni
             foreach (var card in selectedCards)

@@ -17,8 +17,7 @@
             isAction: true,
             isReaction: false,
             isAttack: false
-        )
-        { }
+        ) => festival = this;
 
         public static new Festival Get() => festival ?? new Festival();
     }

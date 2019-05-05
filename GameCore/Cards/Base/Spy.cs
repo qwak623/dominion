@@ -4,6 +4,7 @@ namespace GameCore.Cards.Base
 {
     public class Spy : Card
     {
+        // todo tady chybi vsechna rozhodnuti
         static Spy spy = null;
         private Spy() : base
         (
@@ -18,9 +19,8 @@ namespace GameCore.Cards.Base
             isTreasure: false,
             isAction: true,
             isReaction: false,
-            isAttack: true
-        )
-        { }
+            isAttack: true // TODO message
+        ) => spy = this;
 
         public static new Spy Get() => spy ?? new Spy();
 
@@ -29,21 +29,25 @@ namespace GameCore.Cards.Base
             var card = player.Show(1).SingleOrDefault();
             if (card == null)
                 return;
-            if (player.User.Choose())
-            {
-                player.Draw(1);
-                player.Discard(card);
-            }
+            string discard = $"Discard {card.Name}";
+            string back = $"Put it back";
+            if (player.User.Choose(player.ps, player.Game.Kingdom, Phase.Action, discard, back, this))
+                player.ps.DiscardPile.Add(card);
+            else
+                player.ps.DrawPile.Add(card);
         }
 
         public override void Attack(Player defender, Player attacker)
         {
             var card = defender.Show(1).SingleOrDefault();
-            if (attacker.User.Choose())
-            {
-                defender.Draw(1);
-                defender.Discard(card);
-            }
+            if (card == null)
+                return;
+            string discard = $"Discard {card.Name}";
+            string back = $"Put it back";
+            if (attacker.User.Choose(attacker.ps, attacker.Game.Kingdom, Phase.Action, discard, back, this))
+                defender.ps.DiscardPile.Add(card);
+            else
+                defender.ps.DrawPile.Add(card);
         }
     }
 }

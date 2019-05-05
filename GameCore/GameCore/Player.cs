@@ -45,7 +45,8 @@ namespace GameCore
             {
                 Actions = 1,
                 Buys = 1,
-                Coins = 0
+                Coins = 0,
+                Name = user.GetName(),
             };
            
             // gain copper
@@ -59,7 +60,7 @@ namespace GameCore
 
         /// <summary>
         ///     Null means end of action phase 
-        ///     Allowed actions, draws, discarts etc. player handles by himself
+        ///     Allowed actions, draws, discards etc. player handles by himself
         /// </summary>
         /// <returns> Played card </returns>
         public Card PlayCard()
@@ -143,7 +144,7 @@ namespace GameCore
         }
 
         /// <summary>
-        ///     Hand and all played and purchased cards are placed to discart pile
+        ///     Hand and all played and purchased cards are placed to discard pile
         /// </summary>
         public void Cleanup()
         {
@@ -162,9 +163,6 @@ namespace GameCore
         /// <param name="count"></param>
         public void Draw(int count)
         {
-            // todo
-            //Game.Logger?.Log($"{Name} draws {count} cards.");
-
             for (; count > 0; count--)
             {
                 // if drawPile is empty, we need to shuffle discard pile and place it instead of drawPile
@@ -253,11 +251,9 @@ namespace GameCore
 
         public List<Card> Show(int count)
         {
-            Game.Logger?.Log($"{Name} shows {count} cards.");
-
             var list = new List<Card>(count);
 
-            for (int i = ps.DrawPile.Count - 1; i >= ps.DrawPile.Count - count || i >= 0; i--)
+            for (; count > 0; count--)
             {
                 // if drawPile is empty, we need to shuffle discard pile and place it instead of drawPile
                 if (ps.DrawPile.Count == 0)
@@ -275,10 +271,36 @@ namespace GameCore
                     ps.DrawPile.Shuffle(rnd);
                 }
 
-                // showOneCard
-                list.Add(ps.DrawPile[ps.DrawPile.Count - 1]);
+                // draw one card
+                var card = ps.DrawPile[ps.DrawPile.Count - 1];
+                ps.DrawPile.RemoveAt(ps.DrawPile.Count - 1);
+                Game.Logger?.Log($"{Name} shows {card.Name}");
+                list.Add(card);
             }
             return list;
+
+            //for (int i = ps.DrawPile.Count - 1; i >= ps.DrawPile.Count - count && i >= 0; i--)
+            //{
+            //    // if drawPile is empty, we need to shuffle discard pile and place it instead of drawPile
+            //    if (ps.DrawPile.Count == 0)
+            //    {
+            //        // there are no cards to draw
+            //        if (ps.DiscardPile.Count == 0)
+            //            break;
+
+            //        // swap
+            //        var pile = ps.DrawPile;
+            //        ps.DrawPile = ps.DiscardPile;
+            //        ps.DiscardPile = pile;
+
+            //        // shuffle
+            //        ps.DrawPile.Shuffle(rnd);
+            //    }
+
+            //    // showOneCard
+            //    list.Add(ps.DrawPile[ps.DrawPile.Count - 1]);
+            //}
+            //return list;
         }
 
         public void DealAttack(Action<Player, Player> attack, Player attacker, Card attackCard)

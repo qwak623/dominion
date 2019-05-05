@@ -17,8 +17,7 @@
             isAction: true,
             isReaction: true,
             isAttack: false
-        )
-        { }
+        ) => moat = this;
 
         public static new Moat Get() => moat ?? new Moat();
 

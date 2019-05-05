@@ -4,6 +4,7 @@ namespace GameCore.Cards.Base
 {
     public class Thief : Card
     {
+        // todo tady chybi vsechna rozhodnuti
         static Thief thief = null;
         private Thief() : base
         (
@@ -18,9 +19,8 @@ namespace GameCore.Cards.Base
             isTreasure: false,
             isAction: true,
             isReaction: false,
-            isAttack: true
-        )
-        { }
+            isAttack: true // TODO message
+        ) => thief = this;
 
         public static new Thief Get() => thief ?? new Thief();
 
@@ -35,27 +35,24 @@ namespace GameCore.Cards.Base
             if (treasures.Count() > 0)
             {
                 // attacker have to pick one
-                var card = attacker.User.Choose(treasures, defender.ps, attacker.Game.Kingdom, 1, treasures.Count(), Phase.Action, null).Single();
+                var card = attacker.User.Choose(treasures, attacker.ps, attacker.Game.Kingdom, 1, treasures.Count(), Phase.Action).Single();
                 // the other one is discarded (if there is)
                 cards.Remove(card);
                 foreach (var item in cards)
-                    defender.Discard(card);
+                    defender.ps.DiscardPile.Add(card);
 
                 // attaker chooses if he will trash or steal
-                if (attacker.User.Choose())
-                {  // he will steal
-                    defender.ps.Hand.Remove(card);
+                string steal = $"Steal {card.Name}";
+                string let = $"Let {card.Name}";
+                if (attacker.User.Choose(attacker.ps, attacker.Game.Kingdom, Phase.Action, steal, let, this))
                     attacker.ps.PlayedCards.Add(card);
-                }
                 else
-                {  // he will trash
-                    defender.Trash(card);
-                }
+                    attacker.Game.Trash.Add(card);
             }
             else
             {
                 foreach (var card in cards)
-                    defender.Discard(card);
+                    defender.ps.DiscardPile.Add(card);
             }
         }
     }

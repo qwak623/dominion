@@ -20,7 +20,7 @@ namespace GameCore.Cards
         {
             this.piles = piles;
             for (int i = 0; i < piles.Count; i++)
-                cardTypeToIndex.Add(piles[i].Card.Type, i);
+                cardTypeToIndex.Add(piles[i].Card.Type, i); // todo pri vice hrach se tu deje neco divneho, bylo by hezke nejak recyklovat tuto tridu napric hrami
             Reset(two);
         }
 
@@ -33,7 +33,14 @@ namespace GameCore.Cards
             return w;
         }
 
-        public Pile GetPile(CardType type) => piles[cardTypeToIndex[type]];
+        public Pile GetPile(CardType type)
+        {
+            // TODO nevim jesli je tohle uplne efektivni, mozna by bylo lepsi nechat padat a zaridit aby nebyl nikdy volan se spatnymi parametry
+            // nebo pri vytvareni tam dat i vsechny ostatni karty
+            if (cardTypeToIndex.TryGetValue(type, out int index)) 
+                return piles[index];
+            return null;
+        }
 
         public Pile this[int index] => piles[index];
 

@@ -7,6 +7,7 @@ using System.Linq;
 namespace AI.Provincial.PlayAgenda
 {
     delegate IEnumerable<Card> Decision(IEnumerable<Card> cards, PlayerState ps, int min, int max, Phase phase);
+    delegate bool Binary(PlayerState ps, Phase phase);
 
     static class Decisions
     {
@@ -25,8 +26,6 @@ namespace AI.Provincial.PlayAgenda
                         return hand.Where(c => c.IsVictory && !c.IsTreasure && !c.IsAction);
                     });
                     break;
-                case CardType.Chancellor:
-                    break;
                 case CardType.Chapel:
                     decisions.Push((hand, ps, min, max, phase) =>
                     {  
@@ -37,7 +36,6 @@ namespace AI.Provincial.PlayAgenda
                             trash.Concat(hand.Where(c => c.Type == CardType.Estate));
                         return trash.Take(4);
                         // todo taky neco jestli se nezbavovat i dražších karet ktere už nepotřebuji
-                        // moneylender kdyz nemam copper v balicku
                         // mine kdyz uz mam jen zlataky
                         // dalsi chapel, kdyz už jsem se zbavil všeho co jsem chtěl
                         // pri market square se muze hodit zbavovat se skoro vseho
@@ -65,6 +63,31 @@ namespace AI.Provincial.PlayAgenda
                         return trash.Take(1);
                     });
                     break;
+                    // TODO library
+                default:
+                    break;
+            }
+        }
+
+        public static void SetComplexDecision(this Stack<Binary> decisions, Card card, PlayerInfo pi)
+        {
+            if (card == null)
+                return;
+
+            switch (card.Type)
+            {
+                case CardType.Adventurer:
+                    throw new NotImplementedException("Adventurer");
+                case CardType.Chancellor:
+                    decisions.Push((ps, phase) => false);
+                    break;
+                case CardType.Library:
+                    decisions.Push((ps, phase) => ps.Actions == 0 ? true : false);
+                    break;
+                case CardType.Spy:
+                    throw new NotImplementedException("Spy");
+                case CardType.Thief:
+                    throw new NotImplementedException("Thief");
                 default:
                     break;
             }
@@ -88,8 +111,8 @@ namespace AI.Provincial.PlayAgenda
                             {
                                 var prior = Data.GetPriorityList();
                                 card = (from c in cards
-                                        let m = cards.Min(a => Score(a, hand, prior, Phase.Attack))
-                                        where m == Score(c, hand, prior, Phase.Attack)
+                                        let m = cards.Min(a => Score(a, hand, ps, prior, Phase.Attack))
+                                        where m == Score(c, hand, ps, prior, Phase.Attack)
                                         select c).FirstOrDefault();
                             }
 
@@ -103,22 +126,28 @@ namespace AI.Provincial.PlayAgenda
             }
         }
 
-        public static int Score(this Card card, IEnumerable<Card> hand, int[] priorityList, Phase phase)
+        public static float Score(this Card card, IEnumerable<Card> cards, PlayerState ps, float[] priorityList, Phase phase)
         {
+            float result = 0;
+            if (card.AddActions >= 1 && ps.Actions == 1)
+                result += 100;
             switch (phase)
             {
                 case Phase.Attack:
                 case Phase.Action:
-
-                    if (card.Type == CardType.Moneylender && hand.Contains(CardType.Copper))
+                    if (card.Type == CardType.Library)
+                        return result = -1.5f + 3 * (7 - ps.Hand.Count);
+                    if (card.Type == CardType.Moneylender && ps.Hand.Contains(CardType.Copper))
+                        return -1;
+                    if (card.Type == CardType.ThroneRoom && ps.Hand.Where(c => c.IsAction).Count() < 2)
                         return -1;
                     // todo cardtype.mine
 
 
                     // todo ostatni karty co tam ma (soubor playerHeuristics.cpp)
 
-                    return priorityList[(int)card.Type] + 2;
 
+                    return priorityList[(int)card.Type];
                 case Phase.Treasure:
                     break;
                 case Phase.Buy:
@@ -127,6 +156,7 @@ namespace AI.Provincial.PlayAgenda
                     break;
                 default:
                     break;
+                    
             }
 
             return -1;

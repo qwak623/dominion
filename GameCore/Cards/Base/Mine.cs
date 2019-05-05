@@ -18,16 +18,16 @@ namespace GameCore.Cards.Base
             isTreasure: false,
             isAction: true,
             isReaction: false,
-            isAttack: false
-        )
-        { }
+            isAttack: false,
+            message: "Trash a treasure, gain a treasure to your hand costing up to $3 more."
+        ) => mine = this;
 
         public static new Mine Get() => mine ?? new Mine();
 
         protected override void ActionEffect(Player p)
         {
             // todo tady by melo mozna byt neco jako trash choice
-            var oldCard = p.User.Choose(p.ps.Hand.Where(c => c.IsTreasure), p.ps, p.Game.Kingdom, 0, 1, Phase.Action).SingleOrDefault();
+            var oldCard = p.User.Choose(p.ps.Hand.Where(c => c.IsTreasure), p.ps, p.Game.Kingdom, 0, 1, Phase.Action, this).SingleOrDefault();
             if (oldCard == null)
                 return;
             p.Trash(oldCard);

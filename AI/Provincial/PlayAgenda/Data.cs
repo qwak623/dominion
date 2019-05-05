@@ -7,12 +7,12 @@ namespace AI.Provincial.PlayAgenda
 {
     static class Data
     {
-        static int[] priorityList;
+        static float[] priorityList;
         static object obj = new object();
 
         // list is indexed by CardType
         // priority list is computed only once
-        public static int[] GetPriorityList()
+        public static float[] GetPriorityList()
         {
             // avoiding locking when its unnecesarry
             if (priorityList != null)
@@ -27,7 +27,7 @@ namespace AI.Provincial.PlayAgenda
         }
 
         // list is indexed by CardType
-        private static int[] getPriorityList()
+        private static float[] getPriorityList()
         {
             var list = new List<string>();
             using (var reader = new StreamReader("..\\..\\..\\AI\\Provincial\\data\\priority.txt"))
@@ -39,11 +39,11 @@ namespace AI.Provincial.PlayAgenda
                 }
             } 
 
-            var array = new int[Enum.GetNames(typeof(CardType)).Length];
+            var array = new float[Enum.GetNames(typeof(CardType)).Length];
 
             for (int i = 0; i < list.Count; i++)
                 if (Enum.TryParse(list[i], out CardType type))
-                    array[(int)type] = list.Count - i;
+                    array[(int)type] = (list.Count - i * 2);
             return array;
         }
     }

@@ -19,8 +19,7 @@ namespace GameCore.Cards.Base
             isAction: true,
             isReaction: false,
             isAttack: true
-        )
-        { }
+        ) => witch = this;
 
         public static new Witch Get() => witch ?? new Witch();
         

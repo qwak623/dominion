@@ -4,6 +4,7 @@ namespace GameCore.Cards.Base
 {
     public class ThroneRoom : Card
     {
+        // TODO
         static ThroneRoom throneRoom = null;
         private ThroneRoom() : base
         (
@@ -18,15 +19,15 @@ namespace GameCore.Cards.Base
             isTreasure: false,
             isAction: true,
             isReaction: false,
-            isAttack: false
-        )
-        { }
+            isAttack: false,
+            message: "You may play an Action card from your hand twice."
+        ) => throneRoom = this;
 
         public static new ThroneRoom Get() => throneRoom ?? new ThroneRoom();
 
         protected override void ActionEffect(Player player)
         {
-            var card = player.User.Choose(player.ps.Hand.Where(c => c.IsAction), player.ps, player.Game.Kingdom, 1, Phase.Action, null).SingleOrDefault();
+            var card = player.User.Choose(player.ps.Hand.Where(c => c.IsAction), player.ps, player.Game.Kingdom, 1, 0, Phase.Action, null).SingleOrDefault();
             if (card == null)
                 return;
             player.ps.Hand.Remove(card);

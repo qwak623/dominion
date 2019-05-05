@@ -13,8 +13,7 @@
             coins: 0,
             isVictory: true,
             isTreasure: false
-        )
-        { }
+        ) => duchy = this;
 
         public static new Duchy Get() => duchy ?? new Duchy();
     }

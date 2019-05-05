@@ -16,8 +16,9 @@
             isTreasure: false,
             isAction: true,
             isReaction: false,
-            isAttack: false
-        ) { }
+            isAttack: false,
+            message: "Trash up to 4 cards from your hand."
+        ) => chapel = this;
 
         public static new Chapel Get() => chapel ?? new Chapel();
 

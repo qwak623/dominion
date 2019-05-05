@@ -17,8 +17,7 @@
             isAction: true,
             isReaction: false,
             isAttack: false
-        )
-        { }
+        ) => laboratory = this;
 
         public static new Laboratory Get() => laboratory ?? new Laboratory();
     }

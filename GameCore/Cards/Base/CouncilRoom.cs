@@ -19,8 +19,7 @@ namespace GameCore.Cards.Base
             isAction: true,
             isReaction: false,
             isAttack: false
-        )
-        { }
+        ) => councilRoom = this;
 
         public static new CouncilRoom Get() => councilRoom ?? new CouncilRoom();
 

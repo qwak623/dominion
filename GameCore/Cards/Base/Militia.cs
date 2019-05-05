@@ -16,9 +16,9 @@
             isTreasure: false,
             isAction: true,
             isReaction: false,
-            isAttack: true
-        )
-        { }
+            isAttack: true,
+            message: "You have to discard down to 3 cards in your hand."
+        ) => militia = this;
 
         public static new Militia Get() => militia ?? new Militia();
 

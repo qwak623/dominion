@@ -19,8 +19,7 @@ namespace GameCore.Cards.Base
             isAction: true,
             isReaction: false,
             isAttack: false
-        )
-        { }
+        ) => feast = this;
 
         public static new Feast Get() => feast ?? new Feast();
 

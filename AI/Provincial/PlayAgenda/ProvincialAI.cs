@@ -13,8 +13,9 @@ namespace AI.Provincial.PlayAgenda
         Random rnd = new Random();
         PlayerInfo playerInfo = new PlayerInfo();
         BuyAgenda buyAgenda;
-        int[] priorityList = Data.GetPriorityList();
+        float[] priorityList = Data.GetPriorityList();
         Stack<Decision> decisions = new Stack<Decision>();
+        Stack<Binary> binary = new Stack<Binary>();
         string name;
 
         public override string GetName() => name;
@@ -25,30 +26,31 @@ namespace AI.Provincial.PlayAgenda
             this.name = name;
         }
 
-        public override IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState ps, Kingdom k, int min, int max, Phase phase, Card card = null)
+        public override IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState ps, Kingdom k, int min, int max, Phase phase, Card attackCard)
         {
             if (phase == Phase.Attack)
-                return Decisions.Decide(cards, ps, min, max, card);
+                return Decisions.Decide(cards, ps, min, max, attackCard);
             var decision = decisions.Pop();
             return decision(cards, ps, min, max, phase);
         }
 
-        public override bool Choose()
+        public override bool Choose(PlayerState ps, Kingdom k, Phase phase, string yup, string nay, Card attackCard)
         {
-            // todo better discrete choosing
-            return true;
+            var decision = binary.Pop();
+            return decision(ps, phase);
         }
 
-        public override Card PlayCard(IEnumerable<Card> cards, PlayerState ps, Kingdom k, Phase phase, Card attackCard = null)
+        public override Card PlayCard(IEnumerable<Card> cards, PlayerState ps, Kingdom k, Phase phase, Card attackCard)
         {
             if (phase == Phase.Treasure)
                 return cards.FirstOrDefault(c => c.IsTreasure);
 
-            int maxScore = 0;
+            float maxScore = 0;
             Card bestCard = null;
             foreach (var c in cards)
             {
-                int score = c.Score(cards, priorityList, phase);
+                // todo vypsat score a ruku pro testovani
+                float score = c.Score(cards, ps, priorityList, phase);
                 if (score > maxScore)
                 {
                     maxScore = score;

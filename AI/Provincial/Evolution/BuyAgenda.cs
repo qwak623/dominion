@@ -35,8 +35,6 @@ namespace AI.Provincial.Evolution
             foreach (var item in randomKingdom)
             {
                 agenda.BuyMenu.Add(item);
-                if (i == 0)
-                    agenda.BuyMenu.Add((CardType.Cellar, 2));
                 if (i == 2)
                     agenda.BuyMenu.Add((CardType.Gold, 99));
                 if (i == 7)

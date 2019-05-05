@@ -13,8 +13,7 @@
             coins: 0,
             isVictory: true,
             isTreasure: false
-        )
-        { }
+        ) => curse = this;
 
         public static new Curse Get() => curse ?? new Curse();
     }

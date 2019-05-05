@@ -16,15 +16,15 @@
             isTreasure: false,
             isAction: true,
             isReaction: false,
-            isAttack: false
-        )
-        { }
+            isAttack: false,
+            message: "You may immediately put your deck into your discard pile."
+        ) => chancellor = this;
 
         public static new Chancellor Get() => chancellor ?? new Chancellor();
 
         protected override void ActionEffect(Player player)
         {  // todo ta choose by mela byt s nejakym textem asi... obecne vsechny asi...
-            if (player.User.Choose())
+            if (player.User.Choose(player.ps, player.Game.Kingdom, Phase.Action, "Do", "Don't"))
                 player.DiscardDrawPile();
         }
     }

@@ -31,86 +31,96 @@ namespace GameCore
         {
             return Task.Run(() =>
             {
-                // random needs to be instantiated and used in the same thread
-                var rnd = new ThreadSafeRandom();
-                Players = users.Select(u => new Player(this, u, rnd)).ToList();
-
-                Logger?.Log("New game has started.");
-
-                // intitial drawing
-                foreach (var player in Players)
-                    player.Draw(drawCount);
-
-                // player index
-                int i = 0;
-                int round = 0;
-
-                // one turn of one player
-                while (true)
+                try
                 {
-                    Logger?.Log("\n");
 
-                    Logger?.Log("Hand: " + Players[i].ps.Hand.Select(c => c.Name).Aggregate((a, b) => a + ", " + b));
 
-                    Players[i].ps.Buys = 1;
-                    Players[i].ps.Actions = 1;
-                    Players[i].ps.Coins = 0;
+                    // random needs to be instantiated and used in the same thread
+                    var rnd = new ThreadSafeRandom();
+                    Players = users.Select(u => new Player(this, u, rnd)).ToList();
 
-                    // action phase
-                    Card card;
-                    do
+                    Logger?.Log("New game has started.");
+
+                    // intitial drawing
+                    foreach (var player in Players)
+                        player.Draw(drawCount);
+
+                    // player index
+                    int i = 0;
+                    int round = 0;
+
+                    // one turn of one player
+                    while (true)
                     {
-                        card = Players[i].PlayCard();
-                    } while (card != null);
+                        Logger?.Log("\n");
+                        Logger?.Log("Hand: " + Players[i].ps.Hand.Select(c => c.Name).Aggregate((a, b) => a + ", " + b));
 
-                    // treasure phase
-                    do
-                    {
-                        card = Players[i].PlayTreasure();
-                    } while (card != null);
+                        Players[i].ps.Buys = 1;
+                        Players[i].ps.Actions = 1;
+                        Players[i].ps.Coins = 0;
 
-                    Logger?.Log($"{Players[i].Name} has ${Players[i].ps.Coins}.");
-
-                    // buy phase
-                    do
-                    {
-                        card = Players[i].Buy();
-                    } while (card != null);
-
-                    // cleanup phase
-                    Players[i].Cleanup();
-
-                    // draw phase
-                    Players[i].Draw(drawCount);
-
-                    GameEnd = isGameEnd();
-
-                    if (GameEnd)
-                    {
-                        Logger?.Log("\r\n__Results__");
-                        foreach (Player player in Players.OrderBy(p => p.VictoryPoints))
-                            Logger?.Log($"{player.Name} has {player.VictoryPoints}.");
-                        return new GameResults
+                        // action phase
+                        Card card;
+                        do
                         {
-                            Players = Players,
-                            Score = Players.Select(p => p.VictoryPoints).ToList()
-                        };
-                    }
-                    // next player
-                    i = (i + 1) % Players.Count;
+                            card = Players[i].PlayCard();
+                        } while (card != null);
 
-                    // stopping too long games
-                    if (i == 0)
-                        round++;
-                    if (round >= maxRounds)
-                    {
-                        Logger?.Log("\r\nGame was terminated, number of rounds exceeded 50.");
-                        return new GameResults
+                        // treasure phase
+                        do
                         {
-                            Players = Players,
-                            Score = new List<int> { 0, 0 }
-                        };
+                            card = Players[i].PlayTreasure();
+                        } while (card != null);
+
+                        Logger?.Log("Hand: " + Players[i].ps.Hand.Select(c => c.Name).Aggregate((a, b) => a + ", " + b));
+                        Logger?.Log($"{Players[i].Name} has ${Players[i].ps.Coins}.");
+
+                        // buy phase
+                        do
+                        {
+                            card = Players[i].Buy();
+                        } while (card != null);
+
+                        // cleanup phase
+                        Players[i].Cleanup();
+
+                        // draw phase
+                        Players[i].Draw(drawCount);
+
+                        GameEnd = isGameEnd();
+                        if (GameEnd)
+                        {
+                            Logger?.Log("\r\n\tResults:");
+                            foreach (Player player in Players.OrderBy(p => p.VictoryPoints))
+                                Logger?.Log($"{player.Name} has {player.VictoryPoints}.");
+                            return new GameResults
+                            {
+                                Players = Players,
+                                Score = Players.Select(p => p.VictoryPoints).ToList()
+                            };
+                        }
+
+                        // next player
+                        i = (i + 1) % Players.Count;
+
+                        // stopping too long games
+                        if (i == 0)
+                            round++;
+                        if (round >= maxRounds)
+                        {
+                            Logger?.Log("\r\nGame was terminated, number of rounds exceeded 50.");
+                            return new GameResults
+                            {
+                                Players = Players,
+                                Score = new List<int> { 0, 0 }
+                            };
+                        }
                     }
+
+                }
+                catch (System.Exception e) // TODO smazat ten try
+                {
+                    throw e;
                 }
             });
         }

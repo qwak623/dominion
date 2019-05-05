@@ -20,8 +20,7 @@ namespace GameCore.Cards.Base
             isAction: true,
             isReaction: false,
             isAttack: true
-        )
-        { }
+        ) => bureaucrat = this;
 
         public static new Bureaucrat Get() => bureaucrat ?? new Bureaucrat();
 

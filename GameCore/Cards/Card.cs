@@ -4,24 +4,27 @@ namespace GameCore.Cards
 {
     public abstract class Card
     {
-        public string Name { get; protected set; }
-        public CardType Type;
-        public int Price;
-        public int AddActions;
-        public int AddBuys;
-        public int AddCoins;
-        public int DrawCards;
-        public int Coins;
+        public readonly string Name;
+        public readonly CardType Type;
+        public readonly int Price;
+        public readonly int AddActions;
+        public readonly int AddBuys;
+        public readonly int AddCoins;
+        public readonly int DrawCards;
+        public readonly int Coins;
 
-        public bool IsVictory;
-        public bool IsTreasure;
-        public bool IsAction;
-        public bool IsReaction;
-        public bool IsAttack;
-        public string Destciption;
+        public readonly bool IsVictory;
+        public readonly bool IsTreasure;
+        public readonly bool IsAction;
+        public readonly bool IsReaction;
+        public readonly bool IsAttack;
+
+        public readonly string Message;
+        public readonly string Destciption;
+
         public int VictoryPoints { get; protected set; }
 
-        protected Card(string name, CardType type, int price, int addActions, int addBuys, int addCoins, int drawCards, bool isVictory, bool isTreasure, bool isAction, bool isReaction, bool isAttack)
+        protected Card(string name, CardType type, int price, int addActions, int addBuys, int addCoins, int drawCards, bool isVictory, bool isTreasure, bool isAction, bool isReaction, bool isAttack, string message = null)
         {
             Name = name;
             Type = type;
@@ -35,6 +38,7 @@ namespace GameCore.Cards
             IsAction = isAction;
             IsReaction = isReaction;
             IsAttack = isAttack;
+            Message = message;
         }
 
         protected Card(string name, CardType type, int price, int addBuys, int victoryPoints, int coins, bool isVictory, bool isTreasure)

@@ -15,7 +15,7 @@ namespace GameCore.Cards
         public Card GetCard(CardType type)
         {
             var pile = kingdom.GetPile(type);
-            if (isAvailable(pile))
+            if (pile != null && isAvailable(pile))
                 return kingdom.GetPile(type).Card;
             return null;
         }

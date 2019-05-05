@@ -17,8 +17,7 @@
             isAction: true,
             isReaction: false,
             isAttack: false
-        )
-        { }
+        ) => village = this;
 
         public static new Village Get() => village ?? new Village();
     }

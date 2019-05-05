@@ -17,8 +17,7 @@
             isAction: true,
             isReaction: false,
             isAttack: false
-        )
-        { }
+        ) => smithy = this;
 
         public static new Smithy Get() => smithy ?? new Smithy();
     }

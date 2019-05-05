@@ -16,7 +16,7 @@ namespace TestApp
         const int gameCount = 1;
         static void Main(string[] args)
         {
-            List<Card> cards = NamedGames.Base.TheFirstGame();
+            List<Card> cards = PresetGames.Get(Games.FirstGame).Concat(PresetGames.VictoryAndTreasures()).ToList();
 
             for (int i = 0; i < gameCount; i++)
             {

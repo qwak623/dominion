@@ -17,8 +17,7 @@
             isAction: true,
             isReaction: false,
             isAttack: false
-        )
-        { }
+        ) => market = this;
 
         public static new Market Get() => market ?? new Market();
     }

@@ -19,8 +19,7 @@ namespace GameCore.Cards.Base
             isAction: true,
             isReaction: false,
             isAttack: false
-        )
-        { }
+        ) => moneylender = this;
 
         public static new Moneylender Get() => moneylender ?? new Moneylender();
 
@@ -29,7 +28,7 @@ namespace GameCore.Cards.Base
             // todo choice u 
             if (player.ps.Hand.Remove(Copper.Get()))
             {
-                player.Game.Logger.Log($"{player.Name} trashes Copper and gains +3$");
+                player.Game.Logger.Log($"{player.Name} trashes Copper and gains 3$");
                 player.ps.Coins += 3;
             }
         }

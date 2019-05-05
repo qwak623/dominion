@@ -8,6 +8,7 @@ namespace GameCore
     /// </summary>
     public class PlayerState
     {
+        public string Name;
         public int Actions;
         public int Buys;
         public int Coins;

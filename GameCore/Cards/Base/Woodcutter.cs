@@ -17,8 +17,7 @@
             isAction: true,
             isReaction: false,
             isAttack: false
-        )
-        { }
+        ) => woodcutter = this;
 
         public static new Woodcutter Get() => woodcutter ?? new Woodcutter();
     }

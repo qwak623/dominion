@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cards\Base\Adventurer.cs" />
     <Compile Include="Cards\Base\Bureaucrat.cs" />
     <Compile Include="Cards\Base\Cellar.cs" />
     <Compile Include="Cards\Base\Chancellor.cs" />
@@ -79,7 +80,7 @@
     <Compile Include="Cards\Base\Thief.cs" />
     <Compile Include="Cards\Kingdom.cs" />
     <Compile Include="Cards\KingdomWrapper.cs" />
-    <Compile Include="Cards\NamedGames.cs" />
+    <Compile Include="Cards\PresetGames.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="GameCore\Game.cs" />
     <Compile Include="GameCore\GameResults.cs" />

@@ -17,8 +17,7 @@
             isAction: false,
             isReaction: false,
             isAttack: false
-        )
-        { }
+        ) => gardens = this;
 
         public static new Gardens Get() => gardens ?? new Gardens();
 

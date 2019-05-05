@@ -13,8 +13,7 @@
             coins: 3,
             isVictory: false,
             isTreasure: true
-        )
-        { }
+        ) => gold = this;
 
         public static new Gold Get() => gold ?? new Gold();
     }

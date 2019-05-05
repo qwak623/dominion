@@ -19,8 +19,7 @@ namespace GameCore.Cards.Base
             isAction: true,
             isReaction: false,
             isAttack: false
-        )
-        { }
+        ) => remodel = this;
 
         public static new Remodel Get() => remodel ?? new Remodel();
 

@@ -19,8 +19,7 @@ namespace GameCore.Cards.Base
             isAction: true,
             isReaction: false,
             isAttack: false
-        )
-        { }
+        ) => workshop = this;
 
         public static new Workshop Get() => workshop ?? new Workshop();
 

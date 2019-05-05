@@ -13,8 +13,7 @@
             coins: 0,
             isVictory: true,
             isTreasure: false
-        )
-        { }
+        ) => province = this;
 
         public static new Province Get() => province ?? new Province();
     }
