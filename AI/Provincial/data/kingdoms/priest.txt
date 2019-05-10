@@ -1,0 +1,15 @@
+0
+6
+4
+2
+Witch 1
+Chapel 1
+Gold 2
+Province 10
+Laboratory 2
+Gold 10
+Silver 3
+Village 5
+Chapel 2
+Duchy 5
+Chapel 10

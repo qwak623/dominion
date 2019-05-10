@@ -1,0 +1,15 @@
+0
+8
+4
+2
+Gold 100
+Witch 1
+Laboratory 2
+Witch 3
+Laboratory 3
+Feast 3
+Silver 3
+Village 3
+Silver 1
+Village 5
+Chapel 4

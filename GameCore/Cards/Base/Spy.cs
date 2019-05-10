@@ -4,7 +4,6 @@ namespace GameCore.Cards.Base
 {
     public class Spy : Card
     {
-        // todo tady chybi vsechna rozhodnuti
         static Spy spy = null;
         private Spy() : base
         (
@@ -19,7 +18,8 @@ namespace GameCore.Cards.Base
             isTreasure: false,
             isAction: true,
             isReaction: false,
-            isAttack: true // TODO message
+            isAttack: true,
+            message: "You may discard card at top of the draw pile."
         ) => spy = this;
 
         public static new Spy Get() => spy ?? new Spy();
@@ -44,7 +44,7 @@ namespace GameCore.Cards.Base
                 return;
             string discard = $"Discard {card.Name}";
             string back = $"Put it back";
-            if (attacker.User.Choose(attacker.ps, attacker.Game.Kingdom, Phase.Action, discard, back, this))
+            if (attacker.User.Choose(attacker.ps, attacker.Game.Kingdom, Phase.Attack, discard, back, this))
                 defender.ps.DiscardPile.Add(card);
             else
                 defender.ps.DrawPile.Add(card);

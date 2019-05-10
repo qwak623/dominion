@@ -26,12 +26,12 @@ namespace GameCore.Cards.Base
 
         protected override void ActionEffect(Player player) => player.GainToDrawPile(CardType.Silver);
 
-        public override void Attack(Player defender, Player attacker)
+        public override void Attack(Player def, Player att)
         {
-            if (!defender.ps.Hand.Any(c => c.IsVictory))
+            if (!def.ps.Hand.Any(c => c.IsVictory))
                 return;
-            var card = defender.User.Choose(defender.ps.Hand.Where(c => c.IsVictory), defender.ps, attacker.Game.Kingdom, 1, Phase.Attack, null).Single();
-            defender.ReturnToDrawPile(card);
+            var card = def.User.Choose(def.ps.Hand.Where(c => c.IsVictory), def.ps, att.Game.Kingdom, 1, Phase.Attack, this).Single();
+            def.ReturnToDrawPile(card);
         }
     }
 }

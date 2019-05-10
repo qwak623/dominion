@@ -5,12 +5,12 @@ namespace Window
 {
     static class Extensions
     {
-        // todo bude potreba predelat na list<Color>
-        // todo aby by bylo heske kdyby to bylo ve window projektu
         public static Color ToBackColor(this Card card)
         {
             if (card == null)
                 return Color.DarkGray;
+            if (card.Type == CardType.Curse)
+                return Color.Violet;
             if (card.IsTreasure)
                 return Color.Yellow;
             if (card.IsVictory)

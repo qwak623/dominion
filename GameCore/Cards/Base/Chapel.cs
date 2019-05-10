@@ -1,4 +1,6 @@
-﻿namespace GameCore.Cards.Base
+﻿using System.Linq;
+
+namespace GameCore.Cards.Base
 {
     public class Chapel : Card
     {
@@ -24,7 +26,7 @@
 
         protected override void ActionEffect(Player player)
         {
-            var selectedCards = player.User.Choose(player.ps.Hand, player.ps, player.Game.Kingdom, 0, 4, Phase.Action);
+            var selectedCards = player.User.ChapelTrash(player.ps, player.Game.Kingdom);
             foreach (var card in selectedCards)
                 player.Trash(card);
         }

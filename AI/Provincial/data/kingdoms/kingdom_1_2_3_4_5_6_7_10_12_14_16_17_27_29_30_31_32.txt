@@ -1,0 +1,15 @@
+7
+3
+0
+4
+Province 11
+Gardens 6
+Thief 7
+Gold 100
+Witch 7
+Workshop 8
+Silver 3
+Estate 8
+Feast 7
+Copper 10
+Cellar 10

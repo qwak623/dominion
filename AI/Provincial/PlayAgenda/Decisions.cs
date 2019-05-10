@@ -7,96 +7,24 @@ using System.Linq;
 namespace AI.Provincial.PlayAgenda
 {
     delegate IEnumerable<Card> Decision(IEnumerable<Card> cards, PlayerState ps, int min, int max, Phase phase);
-    delegate bool Binary(PlayerState ps, Phase phase);
+    delegate bool Binary(PlayerState ps, Card card, Phase phase);
 
     static class Decisions
     {
-        // todo mozna by bylo hezke vyresit visitorem ale zase se mi nelibi aby karty neco vedely o ui
-        public static void SetComplexDecision(this Stack<Decision> decisions, Card card, PlayerInfo pi)
+        public static IEnumerable<Card> Decide(this Card card, IEnumerable<Card> cards, PlayerState ps, PlayerInfo pi, Phase phase, int min, int max)
         {
             if (card == null)
-                return;
+                return null;
 
             switch (card.Type)
             {
+                case CardType.Bureaucrat:
+                    return cards.Where(c => c.IsVictory).Take(1);
                 case CardType.Cellar:
-                    decisions.Push((hand, ps, min, max, phase) =>
-                    {
-                        // todo obcas se hodi zahodit i jine karty nez jen body
-                        return hand.Where(c => c.IsVictory && !c.IsTreasure && !c.IsAction);
-                    });
-                    break;
+                    return cards.Where(c => c.IsVictory && !c.IsTreasure && !c.IsAction);
                 case CardType.Chapel:
-                    decisions.Push((hand, ps, min, max, phase) =>
-                    {  
-                        var trash = hand.Where(c => c.Type == CardType.Curse);
-                        if (pi.TreasureTotal >= 7)
-                            trash.Concat(hand.Where(c => c.Type == CardType.Copper));
-                        if (true) // todo tady by to chtělo nejakou parametrickou podminku jestli se chceme zbavovat statku nebo ne
-                            trash.Concat(hand.Where(c => c.Type == CardType.Estate));
-                        return trash.Take(4);
-                        // todo taky neco jestli se nezbavovat i dražších karet ktere už nepotřebuji
-                        // mine kdyz uz mam jen zlataky
-                        // dalsi chapel, kdyz už jsem se zbavil všeho co jsem chtěl
-                        // pri market square se muze hodit zbavovat se skoro vseho
-                    });
-                    break;
-                case CardType.Mine:
-                    decisions.Push((treasures, ps, min, max, phase) =>
-                    {
-                        var c = treasures.Where(a => a.Type == CardType.Silver).Take(1);
-                        if (c == null)
-                            return treasures.OrderBy(a => a.Price).Take(1);
-                        return c;
-                    });
-                    break;
-                case CardType.Remodel:
-                    decisions.Push((hand, ps, min, max, phase) =>
-                    {
-                        var trash = hand.Where(c => c.Type == CardType.Curse);
-                        if (pi.TreasureTotal >= 7)
-                            trash.Concat(hand.Where(c => c.Type == CardType.Copper));
-                        if (true) // todo tady by to chtělo nejakou parametrickou podminku jestli se chceme zbavovat statku nebo ne
-                            trash.Concat(hand.Where(c => c.Type == CardType.Estate));
-                        // todo neco s priority at muzu predelavat i jine veci
-                        // treba milice ke konci hry uz vůbec neskodi => predelat na zlatak nebo vevodstvi
-                        return trash.Take(1);
-                    });
-                    break;
-                    // TODO library
-                default:
-                    break;
-            }
-        }
-
-        public static void SetComplexDecision(this Stack<Binary> decisions, Card card, PlayerInfo pi)
-        {
-            if (card == null)
-                return;
-
-            switch (card.Type)
-            {
-                case CardType.Adventurer:
-                    throw new NotImplementedException("Adventurer");
-                case CardType.Chancellor:
-                    decisions.Push((ps, phase) => false);
-                    break;
-                case CardType.Library:
-                    decisions.Push((ps, phase) => ps.Actions == 0 ? true : false);
-                    break;
-                case CardType.Spy:
-                    throw new NotImplementedException("Spy");
-                case CardType.Thief:
-                    throw new NotImplementedException("Thief");
-                default:
-                    break;
-            }
-        }
-
-        public static IEnumerable<Card> Decide(IEnumerable<Card> cards, PlayerState ps, int min, int max, Card card)
-        {
-            switch (card.Type)
-            {
+                    // todo smazat pak
+                    throw new NotSupportedException();
                 case CardType.Militia:
                     {
                         var hand = cards.ToList();
@@ -109,10 +37,9 @@ namespace AI.Provincial.PlayAgenda
                             // kdyz nemam victory tak vyberu nejzbytecnejsi kartu
                             if (card == null)
                             {
-                                var prior = Data.GetPriorityList();
                                 card = (from c in cards
-                                        let m = cards.Min(a => Score(a, hand, ps, prior, Phase.Attack))
-                                        where m == Score(c, hand, ps, prior, Phase.Attack)
+                                        let m = cards.Min(a => Score(a, hand, ps, Phase.Attack))
+                                        where m == Score(c, hand, ps, Phase.Attack)
                                         select c).FirstOrDefault();
                             }
 
@@ -121,12 +48,63 @@ namespace AI.Provincial.PlayAgenda
                         }
                         return discards;
                     }
+                case CardType.Mine:
+                    { // todo neefektivni a nepromyslene
+                        var c = cards.Where(a => a.Type == CardType.Silver).Take(1);
+                        if (c == null)
+                            return cards.OrderBy(a => a.Price).Take(1);
+                        return c;
+                    };
+                case CardType.Remodel:
+                    {
+                        var trash = cards.Where(c => c.Type == CardType.Curse);
+                        if (pi.TreasureTotal >= 7)
+                            trash.Concat(cards.Where(c => c.Type == CardType.Copper));
+                        if (true) // todo tady by to chtělo nejakou parametrickou podminku jestli se chceme zbavovat statku nebo ne
+                            trash.Concat(cards.Where(c => c.Type == CardType.Estate));
+                        // todo neco s priority at muzu predelavat i jine veci
+                        // treba milice ke konci hry uz vůbec neskodi => predelat na zlatak nebo vevodstvi
+                        return trash.Take(1);
+                    }
+                case CardType.Thief:
+                    return cards.OrderByDescending(c => c.Price).Take(1);
+                case CardType.ThroneRoom:
+                    {
+                        var selected = (from c in cards
+                                        let m = cards.Min(a => Score(a, cards, ps, Phase.Attack))
+                                        where m == Score(c, cards, ps, Phase.Attack)
+                                        select c).Take(1);
+                        return selected;
+                    }
                 default:
                     throw new NotImplementedException();
             }
         }
 
-        public static float Score(this Card card, IEnumerable<Card> cards, PlayerState ps, float[] priorityList, Phase phase)
+        public static bool Decide(this Card card, PlayerState ps, PlayerInfo pi, Phase phase, Card decision)
+        {
+            switch (card.Type)
+            {
+                case CardType.Chancellor:
+                    return false;
+                case CardType.Library:
+                    return ps.Actions == 0;
+                case CardType.Spy:
+                    // todo is victory nebude fungovat az tu budou body s akcemi a tak
+                    if (phase == Phase.Attack)
+                        return !(card.IsVictory || card.Type == CardType.Copper);
+                    else if (phase == Phase.Action)
+                        return (card.IsVictory || card.Type == CardType.Copper);
+                    else
+                        throw new NotSupportedException();
+                case CardType.Thief:
+                    return card.Price >= 3;
+                default:
+                    throw new NotImplementedException();
+            }
+        }
+
+        public static float Score(this Card card, IEnumerable<Card> cards, PlayerState ps, Phase phase)
         {
             float result = 0;
             if (card.AddActions >= 1 && ps.Actions == 1)
@@ -135,19 +113,18 @@ namespace AI.Provincial.PlayAgenda
             {
                 case Phase.Attack:
                 case Phase.Action:
+                    if (card.Type == CardType.Chapel)
+                        return result + cards.Where(c => c.Type == CardType.Curse).Count() * 3 + Data.GetPriorityList()[(int)card.Type];
                     if (card.Type == CardType.Library)
-                        return result = -1.5f + 3 * (7 - ps.Hand.Count);
+                        return result + -1.5f + 3 * (7 - ps.Hand.Count);
                     if (card.Type == CardType.Moneylender && ps.Hand.Contains(CardType.Copper))
                         return -1;
-                    if (card.Type == CardType.ThroneRoom && ps.Hand.Where(c => c.IsAction).Count() < 2)
-                        return -1;
+           
                     // todo cardtype.mine
-
 
                     // todo ostatni karty co tam ma (soubor playerHeuristics.cpp)
 
-
-                    return priorityList[(int)card.Type];
+                    return Data.GetPriorityList()[(int)card.Type];
                 case Phase.Treasure:
                     break;
                 case Phase.Buy:

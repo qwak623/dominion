@@ -25,10 +25,9 @@ namespace GameCore.Cards.Base
 
         protected override void ActionEffect(Player player)
         {
-            // todo choice u 
             if (player.ps.Hand.Remove(Copper.Get()))
             {
-                player.Game.Logger.Log($"{player.Name} trashes Copper and gains 3$");
+                player.Game.Logger?.Log($"{player.Name} trashes Copper and gains 3$");
                 player.ps.Coins += 3;
             }
         }

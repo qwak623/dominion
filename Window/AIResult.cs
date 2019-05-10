@@ -10,9 +10,8 @@ using System.Threading.Tasks;
 
 namespace Window
 {
-    public class AIParams
+    public class AIResult
     {
-        public User User { private get; set; }
         public User GetUser(List<Card> k, string name = null) => new ProvincialAI(BuyAgenda.Load(k, name) ?? BuyAgenda.GetRandom(k));
     }
 }

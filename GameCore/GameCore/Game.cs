@@ -31,7 +31,7 @@ namespace GameCore
         {
             return Task.Run(() =>
             {
-                try
+               try
                 {
 
 
@@ -53,40 +53,61 @@ namespace GameCore
                     while (true)
                     {
                         Logger?.Log("\n");
-                        Logger?.Log("Hand: " + Players[i].ps.Hand.Select(c => c.Name).Aggregate((a, b) => a + ", " + b));
+                        Logger?.Log($"Round {round}:");
+                        Logger?.Log("Hand: " + string.Join(", ", Players[i].ps.Hand.Select(c => c.Name)));
 
                         Players[i].ps.Buys = 1;
                         Players[i].ps.Actions = 1;
                         Players[i].ps.Coins = 0;
 
+                        
                         // action phase
                         Card card;
-                        do
+                        try
                         {
-                            card = Players[i].PlayCard();
-                        } while (card != null);
+                            do
+                                card = Players[i].PlayCard();
+                            while (card != null);
+                        }
+                        catch (System.Exception e) // TODO
+                        {
+                            var str = e.StackTrace;
+                            throw e;
+                        }
 
                         // treasure phase
-                        do
+                        try
                         {
-                            card = Players[i].PlayTreasure();
-                        } while (card != null);
+                            do
+                                card = Players[i].PlayTreasure();
+                            while (card != null);
+                        }
+                        catch (System.Exception e) // TODO
+                        {
+                            throw e;
+                        }
 
-                        Logger?.Log("Hand: " + Players[i].ps.Hand.Select(c => c.Name).Aggregate((a, b) => a + ", " + b));
+                        Logger?.Log("Hand: " + string.Join(", ", Players[i].ps.Hand.Select(c => c.Name)));
                         Logger?.Log($"{Players[i].Name} has ${Players[i].ps.Coins}.");
 
                         // buy phase
-                        do
+                        try
                         {
-                            card = Players[i].Buy();
-                        } while (card != null);
+                            do
+                                card = Players[i].Buy();
+                            while (card != null);
+                        }
+                        catch (System.Exception e) // TODO
+                        {
+                            throw e;
+                        }
 
                         // cleanup phase
                         Players[i].Cleanup();
 
                         // draw phase
                         Players[i].Draw(drawCount);
-
+                        
                         GameEnd = isGameEnd();
                         if (GameEnd)
                         {
@@ -109,6 +130,8 @@ namespace GameCore
                         if (round >= maxRounds)
                         {
                             Logger?.Log("\r\nGame was terminated, number of rounds exceeded 50.");
+                            foreach (Player player in Players.OrderBy(p => p.VictoryPoints))
+                                Logger?.Log($"{player.Name} has {player.VictoryPoints}.");
                             return new GameResults
                             {
                                 Players = Players,
@@ -120,6 +143,7 @@ namespace GameCore
                 }
                 catch (System.Exception e) // TODO smazat ten try
                 {
+                    var str = e.StackTrace;
                     throw e;
                 }
             });

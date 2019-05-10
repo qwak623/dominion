@@ -24,11 +24,25 @@ namespace GameCore.Cards.Base
 
         public static new Adventurer Get() => adventurer ?? new Adventurer();
 
-        protected override void ActionEffect(Player player) => player.GainToDrawPile(CardType.Silver);
-
-        public override void Attack(Player defender, Player attacker)
+        protected override void ActionEffect(Player player)
         {
-            throw new System.Exception();
+            for (int i = 0; i < 2;)
+            {
+                var card = player.Show(1).SingleOrDefault();
+                if (card == null)
+                    break;
+                if (card.IsTreasure)
+                {
+                    player.Game.Logger?.Log($"{Name} draws {card.Name}");
+                    player.ps.Hand.Add(card);
+                    i++;
+                }
+                else
+                {
+                    player.Game.Logger?.Log($"{Name} discards {card.Name}");
+                    player.ps.DiscardPile.Add(card);
+                }
+            } 
         }
     }
 }

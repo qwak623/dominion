@@ -16,36 +16,38 @@ namespace TestApp
         const int gameCount = 5000;
         static void Main(string[] args)
         {
-            List<Card> cards = PresetGames.Get(Games.FirstGame).Concat(PresetGames.VictoryAndTreasures()).ToList();
-            int result = 0;
+            List<Card> cards = PresetGames.Get(Games.SizeDistortion).AddRequiredCards();
 
+            string first = "kaca";
+            string second = "honza";
+            User getFirst() => new ProvincialAI(BuyAgenda.Load(cards, first), first);
+            User getSecond() => new ProvincialAI(BuyAgenda.Load(cards, second), second);
+
+            int[] result = new int[2];
             for (int i = 0; i < gameCount; i++)
             {
-                //var militial = new MilitialAI();
-                var evolved = new ProvincialAI(BuyAgenda.Load(cards), "Short");
-                //var random = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
-                var villageSmithy = new ProvincialAI(BuyAgenda.Load(cards, "overnight"), "Long");
-
-                Game game = new Game(new User[] { evolved, villageSmithy }, cards.GetKingdom(true));
+                Game game = new Game(new User[] { getFirst(), getSecond() }, cards.GetKingdom(2));
                 var task = game.Play();
                 var results = task.Result;
-                result += results.Score[0].CompareTo(results.Score[1]);
+                if (results.Score[0] > results.Score[1])
+                    result[0]++;
+                if (results.Score[0] < results.Score[1])
+                    result[1]++;
             }
 
             for (int i = 0; i < gameCount; i++)
             {
-                //var militial = new MilitialAI();
-                var evolved = new ProvincialAI(BuyAgenda.Load(cards), "Short");
-                //var random = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
-                var villageSmithy = new ProvincialAI(BuyAgenda.Load(cards, "overnight"), "Long");
-
-                Game game = new Game(new User[] { villageSmithy, evolved }, cards.GetKingdom(true));
+                Game game = new Game(new User[] { getSecond(), getFirst() }, cards.GetKingdom(2));
                 var task = game.Play();
                 var results = task.Result;
-                result += results.Score[1].CompareTo(results.Score[0]);
+                if (results.Score[0] > results.Score[1])
+                    result[1]++;
+                if (results.Score[0] < results.Score[1])
+                    result[0]++;
             }
 
-            WriteLine(result);
+            WriteLine($"{first}: {result[0]}");
+            WriteLine($"{second}: {result[1]}");
             ReadLine();
         }
     }

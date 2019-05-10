@@ -4,16 +4,18 @@ using System.Collections.Generic;
 using System.Windows.Forms;
 using AI.Provincial.PlayAgenda;
 using GameCore.Cards;
+using System.Linq;
+using GameCore;
 
 namespace Window
 {
     public partial class SettingsForm : Form
     {
         List<Card> kingdom;
-        AIParams aipar;
-        public SettingsForm(List<Card> kingdom, AIParams aipar)
+        AIResult aipar;
+        public SettingsForm(List<Card> kingdom, AIResult aipar)
         {
-            this.kingdom = kingdom;
+            this.kingdom = kingdom.AddRequiredCards();
             this.aipar = aipar;
             InitializeComponent();
         }
@@ -29,7 +31,6 @@ namespace Window
             var agenda = BuyAgenda.Load(kingdom);
             if (agenda == null)
                 agenda = BuyAgenda.GetRandom(kingdom);
-            aipar.User = new ProvincialAI(agenda);
         }
 
         private void Run(object sender, EventArgs e)

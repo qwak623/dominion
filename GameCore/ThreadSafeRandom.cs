@@ -9,11 +9,14 @@ namespace GameCore
 
     public class ThreadSafeRandom
     {
-        private static readonly Random _global = new Random(0);
+        private static readonly Random _global = new Random(0); // todo zrusit determinismus
         [ThreadStatic] private static Random _local;
 
         public ThreadSafeRandom()
         {
+            //_local = _global;
+            //return; // todo smazat
+
             if (_local == null)
             {
                 lock (_global)

@@ -14,16 +14,16 @@ namespace AI.Provincial.Evolution
             double fitness = 0;
             object obj = new object();
 
-            //foreach (var leader in leaders)
-            Parallel.ForEach(leaders, leader =>
+            foreach (var leader in leaders)
+            //Parallel.ForEach(leaders, leader =>
             {
                 int wins = 0;
                 int gameIndex;
                 bool significantDifferenceFound = false;
                 for (gameIndex = 0; gameIndex < maxGames && !significantDifferenceFound; gameIndex++)
                 {
-                    Kingdom kingdom = k.GetKingdom(true);
                     User[] users = { new ProvincialAI(agenda), new ProvincialAI(leader) };
+                    Kingdom kingdom = k.GetKingdom(users.Length);
 
                     var game = new Game(users, kingdom);
                     var task = game.Play();
@@ -43,8 +43,8 @@ namespace AI.Provincial.Evolution
                 // TODO
                 lock (obj)
                 fitness += wins / (double)gameIndex;
-            //}
-            });
+            }
+            //});
             return fitness;
         }
     }

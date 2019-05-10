@@ -66,7 +66,7 @@ namespace GameCore
             }
         }
 
-        public override bool Choose(PlayerState ps, Kingdom k, Phase phase, string yup, string nay, Card card)
+        public override bool Choose(PlayerState ps, Kingdom k, Phase phase, string yup, string nay, Card card, Card decisionCard)
         {
             lock (job)
             {
@@ -77,6 +77,8 @@ namespace GameCore
                 return (bool)job.Result;
             }
         }
+
+        public override IEnumerable<Card> ChapelTrash(PlayerState ps, Kingdom k) => Choose(ps.Hand, ps, k, 0, 4, Phase.Action, Cards.Base.Chapel.Get());
     }
 
     public class Job

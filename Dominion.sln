@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAppLog", "TestApp\TestA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAppTournament", "TestAppTournament\TestAppTournament.csproj", "{7F8618CE-B877-4070-BA2A-0CEA3CC9B252}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolution", "KingdomEvolution\Evolution.csproj", "{8C9E7CF0-FB7C-407F-ACC4-5689DD1E24F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7F8618CE-B877-4070-BA2A-0CEA3CC9B252}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F8618CE-B877-4070-BA2A-0CEA3CC9B252}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F8618CE-B877-4070-BA2A-0CEA3CC9B252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C9E7CF0-FB7C-407F-ACC4-5689DD1E24F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9E7CF0-FB7C-407F-ACC4-5689DD1E24F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9E7CF0-FB7C-407F-ACC4-5689DD1E24F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9E7CF0-FB7C-407F-ACC4-5689DD1E24F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

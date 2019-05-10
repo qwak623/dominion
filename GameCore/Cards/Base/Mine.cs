@@ -26,7 +26,6 @@ namespace GameCore.Cards.Base
 
         protected override void ActionEffect(Player p)
         {
-            // todo tady by melo mozna byt neco jako trash choice
             var oldCard = p.User.Choose(p.ps.Hand.Where(c => c.IsTreasure), p.ps, p.Game.Kingdom, 0, 1, Phase.Action, this).SingleOrDefault();
             if (oldCard == null)
                 return;

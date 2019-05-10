@@ -12,10 +12,13 @@ namespace GameCore.Cards
         public CardType Type => top.Type;
         public string Name => top.Name;
         public int Price => top.Price;
-        public Card Card => cards.Count > 0 ? cards.Peek() : null;
+        public Card Card => cards.Count > 0 ? top : null;
 
         public Card GainCard()
         {
+            if (Empty)
+                return null;
+
             top = cards.Pop();
             return top;
         }

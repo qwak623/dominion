@@ -13,7 +13,7 @@ namespace AI.Provincial.Evolution
         public int MaxGames = 100;
         public int LeaderCount = 10;
         public int PoolCount = 50;
-        public int Generations = 1000; 
+        public int Generations = 10; 
         public double Mutate = 0.5;
     }
 

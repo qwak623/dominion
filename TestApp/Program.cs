@@ -13,22 +13,16 @@ namespace TestApp
 {
     class Program
     {
-        const int gameCount = 1;
         static void Main(string[] args)
         {
-            List<Card> cards = PresetGames.Get(Games.FirstGame).Concat(PresetGames.VictoryAndTreasures()).ToList();
+            List<Card> cards = PresetGames.Get(Games.SizeDistortion).AddRequiredCards();
 
-            for (int i = 0; i < gameCount; i++)
-            {
-                //var militial = new MilitialAI();
-                var evolved = new ProvincialAI(BuyAgenda.Load(cards), "Evolved");
-                //var random = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
-                var villageSmithy = new ProvincialAI(BuyAgenda.Load(cards, "village_smithy"), "Villager");
+            User getFirst() => new ProvincialAI(BuyAgenda.Load(cards, "kaca"), "Kaca");
+            User getSecond() => new ProvincialAI(BuyAgenda.Load(cards, "honza"), "Honza");
 
-                Game game = new Game(new User[] { evolved, villageSmithy }, cards.GetKingdom(true), new MyLogger());
-                var task = game.Play();
-                var results = task.Result;
-            }
+            Game game = new Game(new User[] { getFirst(), getSecond() }, cards.GetKingdom(2), new MyLogger());
+            var task = game.Play();
+            var results = task.Result;
 
             ReadLine();
         }

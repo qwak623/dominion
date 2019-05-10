@@ -21,7 +21,6 @@
 
         public static new Moat Get() => moat ?? new Moat();
 
-        // todo nějakym zpusobem ukazat ze uz byl zahrany (a taky kvuli inteligenci... aby se necyklina navždy)
         public override bool Reaction(Player player) => true;
     }
 }

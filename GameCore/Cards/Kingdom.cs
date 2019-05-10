@@ -16,12 +16,12 @@ namespace GameCore.Cards
         List<Pile> piles;
         Dictionary<CardType, int> cardTypeToIndex = new Dictionary<CardType, int>();
 
-        public Kingdom (List<Pile> piles, bool two)
+        public Kingdom (List<Pile> piles, int players)
         {
             this.piles = piles;
             for (int i = 0; i < piles.Count; i++)
-                cardTypeToIndex.Add(piles[i].Card.Type, i); // todo pri vice hrach se tu deje neco divneho, bylo by hezke nejak recyklovat tuto tridu napric hrami
-            Reset(two);
+                cardTypeToIndex.Add(piles[i].Card.Type, i); 
+            Reset(players);
         }
 
         public KingdomWrapper GetWrapper (int price, bool onlyTreasures = false)
@@ -54,20 +54,22 @@ namespace GameCore.Cards
 
         IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
 
-        private void Reset(bool two)
+        private void Reset(int players)
         {
             for (int i = 0; i < piles.Count; i++)
             {// todo dodelat kolonie a platinu
                 // replaces all piles with standart size pile for game start.
                 var card = piles[i].Card;
                 int count = 10;
-                if (card.IsVictory)
-                    count = two ? 8 : 12;
-                if (card.Type == CardType.Copper)
+                if (card.Type == CardType.Curse)
+                    count = (players - 1) * 10;
+                else if (card.IsVictory)
+                    count = players == 2 ? 8 : 12;
+                else if (card.Type == CardType.Copper)
                     count = 60;
-                if (card.Type == CardType.Silver)
+                else if (card.Type == CardType.Silver)
                     count = 40;
-                if (card.Type == CardType.Gold)
+                else if (card.Type == CardType.Gold)
                     count = 30;
                 piles[i] = new Pile(card.Get(), count);
             }

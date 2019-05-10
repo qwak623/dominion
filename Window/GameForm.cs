@@ -4,7 +4,6 @@ using System.Threading;
 using System.Drawing;
 using System.Windows.Forms;
 using System.Linq;
-using AI.Trivial;
 using GameCore;
 using GameCore.Cards;
 using System.Threading.Tasks;
@@ -13,13 +12,12 @@ namespace Window
 {
     public partial class GameForm : Form
     {
-        // todo nacist ze souboru idealne, at vim jakou hru jsem hral posledne
-        List<Card> cards = PresetGames.Get(Games.FirstGame);
+        GameParams gameParams = GameParams.Load();
 
         Job job = new Job();
         int min, max;
         const int dy = 30, dx = 145;
-        AIParams aiParams = new AIParams();
+        AIResult aiParams = new AIResult();
         Task task;
 
         public GameForm()
@@ -38,15 +36,15 @@ namespace Window
             SetKingdom.Enabled = false;
             Settings.Enabled = false;
 
-            cards = cards.Concat(PresetGames.VictoryAndTreasures()).ToList();
+            gameParams.Save();
+            var cards = gameParams.Cards.AddRequiredCards();
 
             var human = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job);
             //var friend = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job, "Honza");
-            //var militial = new MilitialAI();
-            var ai = aiParams.GetUser(cards);
-            //var ai = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
+            //var ai = aiParams.GetUser(cards);
+            var ai = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.Load(cards, "honza"));
 
-            Game game = new Game(new User[] { human, ai}, cards.GetKingdom(true), new WindowLogger(Log));
+            Game game = new Game(new User[] { human, ai}, cards.GetKingdom(2), new WindowLogger(Log));
             task = game.Play().ContinueWith((results) => EnableNextGame(results));
         }
 
@@ -190,7 +188,7 @@ namespace Window
                     break;
                 case Phase.Gain:
                     PhaseLabel.Text = ps.Name + ": Gain phase";
-                    PhaseDescription.Text = "Gain card.";
+                    PhaseDescription.Text = "Gain card without buying it.";
                     PhasePanel.BackColor = Color.SandyBrown;
                     PlayAreaLabel.Text = "Cards to gain";
                     break;
@@ -209,10 +207,8 @@ namespace Window
                     throw new NotSupportedException();
             }
 
-            if (card == null)
-                PhaseDescription.Text = min == max ? $"Select {min} cards." : $"Select {min} to {max} cards. ";
-            PhaseDescription.Text = card?.Message;
-            PlayAreaLabel.Text = "Choice";
+            if (card != null)
+                PhaseDescription.Text = card.Message;
         }
 
         void AddDoneButton(ref int y, EventHandler eventHandler)
@@ -364,7 +360,7 @@ namespace Window
             ExtensionsCardsPanel.Controls.Clear();
             ExtensionsCardsPanel.Controls.Add(ExtensionsCardsLabel);
 
-            var differentCards = PresetGames.Get(Games.AllCards1stEdition).Where(c => !cards.Contains(c));
+            var differentCards = PresetGames.Get(Games.AllCards1stEdition).Where(c => !gameParams.Cards.Contains(c));
             var nec = differentCards.ToList();
 
             int y = 5, x = 0;
@@ -393,7 +389,7 @@ namespace Window
 
         void AddToKingdom(object sender, EventArgs e)
         {
-            cards.Add((sender as Control)?.Tag as Card);
+            gameParams.Cards.Add((sender as Control)?.Tag as Card);
             ShowCurrentKingdomCards();
             ShowExtensionCards();
         }
@@ -404,7 +400,7 @@ namespace Window
             CurrentKingdomPanel.Controls.Add(CurrentKingdomLabel);
 
             var bannedTypes = new []{ CardType.Copper, CardType.Silver, CardType.Gold, CardType.Estate, CardType.Duchy, CardType.Province };
-            var changableKingdom = cards.Where(k => !bannedTypes.Contains(k.Type));
+            var changableKingdom = gameParams.Cards.Where(k => !bannedTypes.Contains(k.Type));
 
             int y = 5;
             foreach (var card in changableKingdom.OrderBy(a => a.Price).ThenBy(a => a.Name))
@@ -431,7 +427,7 @@ namespace Window
 
         void RemoveFromKingdom(object sender, EventArgs e)
         {
-            cards.Remove((sender as Control)?.Tag as Card);
+            gameParams.Cards.Remove((sender as Control)?.Tag as Card);
             ShowCurrentKingdomCards();
             ShowExtensionCards();
         }
@@ -442,40 +438,32 @@ namespace Window
 
         void Settings_Click(object sender, EventArgs e)
         {
-            var settingForm = new SettingsForm(cards, aiParams);
+            var settingForm = new SettingsForm(gameParams.Cards, aiParams);
             settingForm.Show();
         }
 
         void SetPresetGame(object sender, EventArgs e)
         {
-            cards = PresetGames.Get((Games)int.Parse((sender as Button).Tag as string));
+            gameParams.Cards = PresetGames.Get((Games)int.Parse((sender as Button).Tag as string));
             ShowCurrentKingdomCards();
+            ShowExtensionCards();
         }
 
-        void Duel_Click(object sender, EventArgs e)
+        void SetRandomGame(object sender, EventArgs e)
         {
-            // TODO smazat
-            var sw = new System.Diagnostics.Stopwatch();
-            sw.Start();
+            var cards = new List<Card>();
+            var rnd = new ThreadSafeRandom();
 
-            for (int k = 0; k < 4; k++)
-            {
-                System.Threading.Tasks.Parallel.For(0, 100, i =>
-                {
-                    for (int j = 0; j < 100; j++)
-                    {
-                        var x = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
-                        var y = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.GetRandom(cards));
-                        //var m = new MilitialAI();
-                        var got = new Game(new User[] { x, y }, cards.GetKingdom(true));
-                        var task = got.Play();
-                        var actualResults = task.Result;
-                    }
-                });
-            }
+            // get random 10 cards
+            gameParams.Cards = Enumerable.Range((int)CardType.Adventurer, 25)
+                .Select(t => ((t, r: rnd.NextDouble())))
+                .OrderBy(a => a.r)
+                .Take(10)
+                .Select(((int type, double) a) => Card.Get((CardType)a.type))
+                .ToList();
 
-            sw.Stop();
-            var s = sw.Elapsed;
+            ShowCurrentKingdomCards();
+            ShowExtensionCards();
         }
         #endregion
     }

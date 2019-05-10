@@ -32,7 +32,6 @@
             this.KingdomLabel = new System.Windows.Forms.Label();
             this.SetKingdom = new System.Windows.Forms.Button();
             this.Header = new System.Windows.Forms.Panel();
-            this.DuelButton = new System.Windows.Forms.Button();
             this.Settings = new System.Windows.Forms.Button();
             this.StartGame = new System.Windows.Forms.Button();
             this.GamePanel = new System.Windows.Forms.Panel();
@@ -53,14 +52,14 @@
             this.ExtensionsCardsLabel = new System.Windows.Forms.Label();
             this.SetKingdomPanel = new System.Windows.Forms.Panel();
             this.ExtensionsPanel = new System.Windows.Forms.Panel();
-            this.ExtensionsLabel = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.ExtensionsLabel = new System.Windows.Forms.Label();
             this.KingdomPanel.SuspendLayout();
             this.Header.SuspendLayout();
             this.GamePanel.SuspendLayout();
@@ -108,7 +107,6 @@
             // Header
             // 
             this.Header.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.Header.Controls.Add(this.DuelButton);
             this.Header.Controls.Add(this.Settings);
             this.Header.Controls.Add(this.StartGame);
             this.Header.Controls.Add(this.SetKingdom);
@@ -116,16 +114,6 @@
             this.Header.Name = "Header";
             this.Header.Size = new System.Drawing.Size(938, 37);
             this.Header.TabIndex = 2;
-            // 
-            // DuelButton
-            // 
-            this.DuelButton.Location = new System.Drawing.Point(735, 4);
-            this.DuelButton.Name = "DuelButton";
-            this.DuelButton.Size = new System.Drawing.Size(200, 30);
-            this.DuelButton.TabIndex = 4;
-            this.DuelButton.Text = "Duel";
-            this.DuelButton.UseVisualStyleBackColor = true;
-            this.DuelButton.Click += new System.EventHandler(this.Duel_Click);
             // 
             // Settings
             // 
@@ -354,72 +342,16 @@
             this.ExtensionsPanel.Size = new System.Drawing.Size(196, 500);
             this.ExtensionsPanel.TabIndex = 6;
             // 
-            // ExtensionsLabel
+            // button7
             // 
-            this.ExtensionsLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.ExtensionsLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.ExtensionsLabel.Location = new System.Drawing.Point(0, 10);
-            this.ExtensionsLabel.Name = "ExtensionsLabel";
-            this.ExtensionsLabel.Size = new System.Drawing.Size(194, 25);
-            this.ExtensionsLabel.TabIndex = 1;
-            this.ExtensionsLabel.Text = "Preset games";
-            this.ExtensionsLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(3, 44);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(188, 30);
-            this.button1.TabIndex = 5;
-            this.button1.Tag = "-1";
-            this.button1.Text = "Random";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.SetPresetGame);
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(3, 80);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(188, 30);
-            this.button2.TabIndex = 6;
-            this.button2.Tag = "1";
-            this.button2.Text = "First game";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.SetPresetGame);
-            // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(3, 116);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(188, 30);
-            this.button3.TabIndex = 7;
-            this.button3.Tag = "2";
-            this.button3.Text = "Big money";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.SetPresetGame);
-            // 
-            // button4
-            // 
-            this.button4.Location = new System.Drawing.Point(3, 152);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(188, 30);
-            this.button4.TabIndex = 8;
-            this.button4.Tag = "3";
-            this.button4.Text = "Interaction";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.SetPresetGame);
-            // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(7, 188);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(188, 30);
-            this.button5.TabIndex = 9;
-            this.button5.Tag = "4";
-            this.button5.Text = "Size distortion";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.SetPresetGame);
+            this.button7.Location = new System.Drawing.Point(3, 260);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(188, 30);
+            this.button7.TabIndex = 11;
+            this.button7.Tag = "6";
+            this.button7.Text = "Trash heap";
+            this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.SetPresetGame);
             // 
             // button6
             // 
@@ -432,16 +364,72 @@
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.SetPresetGame);
             // 
-            // button7
+            // button5
             // 
-            this.button7.Location = new System.Drawing.Point(3, 260);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(188, 30);
-            this.button7.TabIndex = 11;
-            this.button7.Tag = "6";
-            this.button7.Text = "Trash heap";
-            this.button7.UseVisualStyleBackColor = true;
-            this.button7.Click += new System.EventHandler(this.SetPresetGame);
+            this.button5.Location = new System.Drawing.Point(7, 188);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(188, 30);
+            this.button5.TabIndex = 9;
+            this.button5.Tag = "4";
+            this.button5.Text = "Size distortion";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.SetPresetGame);
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(3, 152);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(188, 30);
+            this.button4.TabIndex = 8;
+            this.button4.Tag = "3";
+            this.button4.Text = "Interaction";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.SetPresetGame);
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(3, 116);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(188, 30);
+            this.button3.TabIndex = 7;
+            this.button3.Tag = "2";
+            this.button3.Text = "Big money";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.SetPresetGame);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(3, 80);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(188, 30);
+            this.button2.TabIndex = 6;
+            this.button2.Tag = "1";
+            this.button2.Text = "First game";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.SetPresetGame);
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(3, 44);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(188, 30);
+            this.button1.TabIndex = 5;
+            this.button1.Tag = "";
+            this.button1.Text = "Random";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.SetRandomGame);
+            // 
+            // ExtensionsLabel
+            // 
+            this.ExtensionsLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.ExtensionsLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.ExtensionsLabel.Location = new System.Drawing.Point(0, 10);
+            this.ExtensionsLabel.Name = "ExtensionsLabel";
+            this.ExtensionsLabel.Size = new System.Drawing.Size(194, 25);
+            this.ExtensionsLabel.TabIndex = 1;
+            this.ExtensionsLabel.Text = "Preset games";
+            this.ExtensionsLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // GameForm
             // 
@@ -494,7 +482,6 @@
         private System.Windows.Forms.Label CurrentKingdomLabel;
         private System.Windows.Forms.Panel ExtensionsCardsPanel;
         private System.Windows.Forms.Panel SetKingdomPanel;
-        private System.Windows.Forms.Button DuelButton;
         private System.Windows.Forms.Label ExtensionsCardsLabel;
         private System.Windows.Forms.Panel ExtensionsPanel;
         private System.Windows.Forms.Label ExtensionsLabel;

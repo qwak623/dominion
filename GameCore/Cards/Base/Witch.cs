@@ -1,6 +1,4 @@
-﻿using System.Linq;
-
-namespace GameCore.Cards.Base
+﻿namespace GameCore.Cards.Base
 {
     public class Witch : Card
     {
@@ -22,8 +20,9 @@ namespace GameCore.Cards.Base
         ) => witch = this;
 
         public static new Witch Get() => witch ?? new Witch();
-        
-        // todo u vybirani kralovstvi by bylo dobre automaticky vybrat kletby kdyz vybiram carodejnici, zalarnika a tak
+
+        public override Card RequiredCards => GeneralCards.Curse.Get();
+
         public override void Attack(Player defender, Player attacker) => defender.Gain(CardType.Curse);
     }
 }

@@ -43,7 +43,7 @@ namespace AI.Provincial.PlayAgenda
 
             for (int i = 0; i < list.Count; i++)
                 if (Enum.TryParse(list[i], out CardType type))
-                    array[(int)type] = (list.Count - i * 2);
+                    array[(int)type] = (list.Count - i) * 2;
             return array;
         }
     }

@@ -74,7 +74,7 @@ namespace GameCore
             if (card == null)
                 return null;
 
-            Game.Logger?.Log($"{Name} plays '{card.Name}'.");
+            Game.Logger?.Log($"{Name} plays {card.Name}.");
 
             ps.Hand.Remove(card);
             ps.PlayedCards.Add(card);
@@ -107,7 +107,7 @@ namespace GameCore
             //if (treasure == null)
             //    return null;
 
-            //Game.Logger?.Log($"{Name} plays '{treasure.Name}'.");
+            //Game.Logger?.Log($"{Name} plays {treasure.Name}.");
 
             //ps.Hand.Remove(treasure);
             //ps.PlayedCards.Add(treasure);
@@ -139,7 +139,7 @@ namespace GameCore
             Gain(card.Type);
             ps.Buys--;
             ps.Coins -= card.Price;
-            
+
             return card;
         }
 
@@ -170,7 +170,12 @@ namespace GameCore
                 {
                     // there are no cards to draw
                     if (ps.DiscardPile.Count == 0)
+                    {
+                        Game.Logger?.Log($"{Name} doesn't have any cards left.");
                         break;
+                    }
+
+                    Game.Logger?.Log($"{Name} shuffles the pile.");
 
                     // swap
                     var pile = ps.DrawPile;
@@ -191,14 +196,14 @@ namespace GameCore
 
         public void Trash(Card card)
         {
-            Game.Logger?.Log($"{Name} trashes '{card.Name}'.");
+            Game.Logger?.Log($"{Name} trashes {card.Name}.");
             ps.Hand.Remove(card);
             Game.Trash.Add(card);
         }
 
         public void Discard(Card card)
         {
-            Game.Logger?.Log($"{Name} discards '{card.Name}'.");
+            Game.Logger?.Log($"{Name} discards {card.Name}.");
             ps.Hand.Remove(card);
             ps.DiscardPile.Add(card);
         }
@@ -206,38 +211,44 @@ namespace GameCore
         public void Gain(CardType type)
         {
             var card = gainCard(type);
-            Game.Logger?.Log($"{Name} gains '{card.Name}'.");
+            if (card == null)
+                return;
+            Game.Logger?.Log($"{Name} gains {card.Name}.");
             ps.PlayedCards.Add(card);
         }
 
         public void GainToHand(CardType type)
         {
             var card = gainCard(type);
-            Game.Logger?.Log($"{Name} gains '{card.Name}' to hand.");
+            if (card == null)
+                return;
+            Game.Logger?.Log($"{Name} gains {card.Name} to hand.");
             ps.Hand.Add(card);
         }
 
         public void GainToDrawPile(CardType type)
         {
             var card = gainCard(type);
-            Game.Logger?.Log($"{Name} gains '{card.Name}' up to draw pile.");
+            if (card == null)
+                return;
+            Game.Logger?.Log($"{Name} gains {card.Name} up to draw pile.");
             ps.DrawPile.Add(card);
         }
 
         private Card gainCard(CardType type)
         {
             var pile = Game.Kingdom.GetPile(type);
-            
+
             // counts empty piles without enumerating 
             if (pile.Count == 1)
                 Game.Kingdom.EmptyPiles++;
 
-            return Game.Kingdom.GetPile(type)?.GainCard();
+            return pile.GainCard();
         }
 
         public void ReturnToDrawPile(Card card)
         {
-            Game.Logger?.Log($"{Name} returns '{card.Name}' up to draw pile.");
+            Game.Logger?.Log($"{Name} returns {card.Name} up to draw pile.");
             ps.Hand.Remove(card);
             ps.DrawPile.Add(card);
         }

@@ -1,0 +1,11 @@
+Provincial
+Cellar
+Chapel
+Feast
+Gardens
+Laboratory
+Thief
+Village
+Witch
+Woodcutter
+Workshop

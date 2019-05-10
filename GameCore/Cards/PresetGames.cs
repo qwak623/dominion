@@ -17,6 +17,7 @@ namespace GameCore.Cards
         { 
             games.Add(Games.AllCards1stEdition, new List<Card>
             {
+                Adventurer.Get(),
                 Bureaucrat.Get(),
                 Cellar.Get(),
                 CouncilRoom.Get(),
@@ -143,6 +144,15 @@ namespace GameCore.Cards
             };
         }
     }
-    public enum Games { AllCards1stEdition, FirstGame, BigMoney, Interaction, SizeDistortion, VillageSquare, ThrashHeap }
+    public enum Games
+    {
+        AllCards1stEdition = 0,
+        FirstGame = 1,
+        BigMoney = 2,
+        Interaction = 3,
+        SizeDistortion = 4,
+        VillageSquare = 5,
+        ThrashHeap = 6,
+    }
 
 }

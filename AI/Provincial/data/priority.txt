@@ -4,10 +4,9 @@ Market
 Festival
 Spy
 Village
-Chapel
 Cellar
-Moneylender
 Witch
+Moneylender
 CouncilRoom
 Adventurer
 Feast
@@ -18,6 +17,7 @@ Remodel
 Library
 Militia
 Moat
+Chapel
 Woodcutter
 Workshop
 Thief

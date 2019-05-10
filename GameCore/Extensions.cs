@@ -21,10 +21,16 @@ namespace GameCore
             }
         }
 
-        public static Kingdom GetKingdom(this List<Card> cards, bool two)
+        public static Kingdom GetKingdom(this List<Card> cards, int players)
         {
             // this should be correct, since list of cards wont change at this point
-            return new Kingdom(cards.Select(c => new Pile(c)).ToList(), two);
+            return new Kingdom(cards.Select(c => new Pile(c)).ToList(), players);
+        }
+
+        public static List<Card> AddRequiredCards(this List<Card> cards)
+        {
+            return cards.Concat(PresetGames.VictoryAndTreasures())
+                .Concat(cards.Select(c => c.RequiredCards).Where(c => c != null).Distinct()).ToList();
         }
 
         public static bool Contains(this IEnumerable<Card> cards, CardType type)
