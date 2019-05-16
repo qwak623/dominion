@@ -1,0 +1,13 @@
+2
+16
+8
+8
+Gold 15
+Gold 103
+Witch 16
+Duchy 14
+Silver 14
+Bureaucrat 10
+Copper 9
+Feast 12
+Curse 9
