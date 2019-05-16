@@ -40,7 +40,7 @@ namespace Eva
                         .AddRequiredCards();
 
                     var kingdomName = cards.OrderBy(p => p.Type).Select(p => (int)p.Type).Aggregate("kingdom", (a, b) => a + " " + b);
-                    WriteLine(kingdomName);
+                    WriteLine($"kingdom {i}: {kingdomName}");
                     var evolution = new Evolution(new Params { Kingdom = cards }, new Logger());
                     evolution.Run();
 
