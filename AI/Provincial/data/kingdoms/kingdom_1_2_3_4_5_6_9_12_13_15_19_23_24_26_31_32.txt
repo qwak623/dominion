@@ -1,0 +1,15 @@
+3
+6
+8
+8
+Province 11
+Gold 100
+Silver 15
+Market 10
+Feast 2
+Spy 11
+Gold 7
+Workshop 8
+Chancellor 10
+Woodcutter 5
+Feast 9

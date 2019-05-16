@@ -28,9 +28,7 @@ namespace Window
         private void ProvincialShow(object sender, EventArgs e)
         {
             // todo label napis neco jako toto kingdom jeste nema vygenerovanou inteligenci
-            var agenda = BuyAgenda.Load(kingdom);
-            if (agenda == null)
-                agenda = BuyAgenda.GetRandom(kingdom);
+            var agenda = BuyAgenda.Load(kingdom) ?? BuyAgenda.GetRandom(kingdom);
         }
 
         private void Run(object sender, EventArgs e)

@@ -10,15 +10,11 @@ namespace AI.Provincial.PlayAgenda
 {
     // todo 
     // pet leading strategies ukladat
-    // varinance v leadrech
     public class ProvincialAI : User
     {
         PlayerInfo playerInfo = new PlayerInfo();
         BuyAgenda buyAgenda;
         string name;
-
-        // todo smazat pak
-        Card lastCard;
 
         public override string GetName() => name;
 
@@ -26,16 +22,6 @@ namespace AI.Provincial.PlayAgenda
         {
             this.buyAgenda = buyAgenda.Clone();
             this.name = name;
-        }
-
-        public override IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState ps, Kingdom k, int min, int max, Phase phase, Card card)
-        {
-            return card.Decide(cards, ps, playerInfo, phase, min, max).ToList();
-        }
-
-        public override bool Choose(PlayerState ps, Kingdom k, Phase phase, string yup, string nay, Card card, Card decision)
-        {
-            return card.Decide(ps, playerInfo, phase, decision);
         }
 
         public override Card PlayCard(IEnumerable<Card> cards, PlayerState ps, Kingdom k, Phase phase, Card attackCard)
@@ -58,7 +44,6 @@ namespace AI.Provincial.PlayAgenda
                 }
             }
 
-            lastCard = bestCard;
             return bestCard;
         }
 
@@ -67,7 +52,6 @@ namespace AI.Provincial.PlayAgenda
             // todo colonies
 
             var provinces = k.GetPile(CardType.Province);
-            playerInfo.TrashEstate = buyAgenda.Estates <= provinces.Count; // modifies if estate will be trashed
             if (buyAgenda.Provinces > provinces.Count && wrapper.GetCard(CardType.Province) != null)
                 return Province.Get();
 
@@ -90,22 +74,15 @@ namespace AI.Provincial.PlayAgenda
                     continue;
 
                 tuple.Number--;
-                // todo, asi muze byt neefektivni, ale pri u dlouhych jedincu s nizkymy cisly asi pomuze
                 if (tuple.Number == 0)
                     buyAgenda.BuyMenu.RemoveAt(i);
                 else
                     buyAgenda.BuyMenu[i] = tuple; // this is a value type, i have to return the value back
-                if (card.IsTreasure)
-                    playerInfo.TreasureTotal += card.Coins; // todo u moneylendera se nesnizi
 
                 // todo vyresit na pricitani a odcitani pri trash / gain
-                if (card.Type == CardType.Gold)
-                    playerInfo.TreasureTotal += 3;
-                else if (card.Type == CardType.Silver)
-                    playerInfo.TreasureTotal += 2;
-                else if (card.Type == CardType.Copper)
-                    playerInfo.TreasureTotal += 1;
-                else if (card.Type == CardType.Moneylender)
+                if (card.IsTreasure)
+                    playerInfo.TreasureTotal += card.Coins; // todo u moneylendera se nesnizi
+                if (card.Type == CardType.Moneylender)
                     playerInfo.TreasureTotal -= 1;
                 else if (card.Type == CardType.Bureaucrat)
                     playerInfo.TreasureTotal += 2;
@@ -117,6 +94,13 @@ namespace AI.Provincial.PlayAgenda
             return null;
         }
 
+        #region cards base
+        public override Card BureaucratDiscard(PlayerState ps, Kingdom k) => ps.Hand.Where(c => c.IsVictory).First();
+
+        public override IEnumerable<Card> CellarDiscard(PlayerState ps, Kingdom k) => ps.Hand.Where(c => c.IsVictory && !c.IsTreasure && !c.IsAction).ToList();
+
+        public override bool ChancellorDiscard(PlayerState ps, Kingdom k) => false;
+
         public override IEnumerable<Card> ChapelTrash(PlayerState ps, Kingdom k)
         {
             var cards = ps.Hand;
@@ -127,7 +111,8 @@ namespace AI.Provincial.PlayAgenda
             var neco = trash.ToString();
 
             // in the beginnig trash estate as well
-            if (playerInfo.TrashEstate)
+            var provinces = k.GetPile(CardType.Province);
+            if (buyAgenda.Estates <= provinces.Count)
                 trash = trash.Concat(cards.Where(c => c.Type == CardType.Estate));
 
             if (trash.Count() >= 4)
@@ -148,5 +133,94 @@ namespace AI.Provincial.PlayAgenda
 
             return trash.Take(4).ToList();
         }
+
+        public override bool LibrarySkip(PlayerState ps, Kingdom k, Card card)
+        {
+            if (ps.Actions == 0)
+                return true;
+            if (ps.Actions == 1)
+            {
+                if (card.AddActions > 0)
+                    return false;
+                if (ps.Hand.Any(c => c.AddActions > 1))
+                    return false;
+                if (ps.Hand.Any(c => c.AddActions == 0))
+                    return true;
+                return false;
+            }
+            return false;
+        }
+
+        public override IEnumerable<Card> MilitiaDiscard(PlayerState ps, Kingdom k, int discardCount)
+        {
+            // TODO mozna by slo odebirat rovnou z ruky... je to rychlejsi ale neni to uplne korektni navrh
+
+            var hand = ps.Hand.ToList();
+            var discards = new LinkedList<Card>();
+            while (discards.Count < discardCount)
+            {
+                // first choice is random victory card
+                var card = hand.FirstOrDefault(c => c.IsVictory);
+
+                // kdyz nemam victory tak vyberu nejzbytecnejsi kartu
+                if (card == null)
+                    card = (from c in hand
+                            let m = hand.Min(a => a.Score(hand, ps, Phase.Attack))
+                            where m == c.Score(hand, ps, Phase.Attack)
+                            select c).FirstOrDefault();
+
+                discards.AddLast(card);
+                hand.Remove(card);
+            }
+
+            return discards;
+        }
+
+        public override Card MineTrash(PlayerState ps, Kingdom k)
+        {   // todo nebude fungovat kdyz budou jine treasures
+            var c = ps.Hand.Where(a => a.Type == CardType.Copper).FirstOrDefault();
+            return c ?? ps.Hand.Where(a => a.Type == CardType.Silver).FirstOrDefault();
+        }
+
+        public override Card RemodelTrash(PlayerState ps, Kingdom k)
+        {
+            var trash = ps.Hand.Where(c => c.Type == CardType.Curse);
+
+            // TODO tady se zbytecne delaji vsechny enumeratory
+
+            // at the end it will transform gold to province
+            var provinces = k.GetPile(CardType.Province);
+            if (buyAgenda.Provinces > provinces.Count && provinces.Count > 0)
+                trash = trash.Concat(ps.Hand.Where(c => c.Type == CardType.Gold));
+
+            if (buyAgenda.Estates <= provinces.Count)
+                trash = trash.Concat(ps.Hand.Where(c => c.Type == CardType.Estate));
+
+            trash = trash.Concat(ps.Hand.Where(c => c.Type == CardType.Copper));
+            trash = trash.Concat(ps.Hand.OrderBy(c => c.Score(ps.Hand, ps, Phase.Action)));
+
+            return trash.FirstOrDefault();
+        }
+
+        public override bool SpyDiscard(PlayerState ps, Kingdom k, Card c, Phase p)
+        {  // todo is victory nebude fungovat az tu budou body s akcemi a tak
+            if (p == Phase.Attack)
+                return !(c.IsVictory || c.Type == CardType.Copper);
+            else // if (p == Phase.Action)
+                return (c.IsVictory || c.Type == CardType.Copper);
+        }
+
+        public override Card ThiefChoose(PlayerState ps, Kingdom k, IEnumerable<Card> cards) => cards.OrderByDescending(c => c.Price).First();
+
+        public override bool ThiefSteal(PlayerState ps, Kingdom k, Card c) => c.Price >= 3;
+
+        public override Card ThroneRoomPlay(PlayerState ps, Kingdom k, IEnumerable<Card> cards)
+        {
+            return (from c in cards
+                    let m = cards.Max(a => a.Score(ps.Hand, ps, Phase.Action))
+                    where m == c.Score(ps.Hand, ps, Phase.Action)
+                    select c).FirstOrDefault();
+        }
+        #endregion
     }
 }

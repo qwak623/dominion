@@ -1,0 +1,15 @@
+4
+14
+8
+7
+Silver 6
+Province 11
+Gardens 10
+Duchy 6
+Silver 11
+Silver 3
+Copper 2
+Chancellor 5
+Estate 4
+Province 17
+Moneylender 8

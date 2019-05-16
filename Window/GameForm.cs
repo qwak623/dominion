@@ -39,12 +39,12 @@ namespace Window
             gameParams.Save();
             var cards = gameParams.Cards.AddRequiredCards();
 
-            var human = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job);
-            //var friend = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job, "Honza");
-            //var ai = aiParams.GetUser(cards);
-            var ai = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.Load(cards, "honza"));
+            var human = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job, "Kaca");
+            var friend = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job, "Honza");
+            var ai = aiParams.GetUser(cards);
+            //var ai = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.Load(cards, "honza"));
 
-            Game game = new Game(new User[] { human, ai}, cards.GetKingdom(2), new WindowLogger(Log));
+            Game game = new Game(new User[] { human, friend}, cards.GetKingdom(2), new WindowLogger(Log));
             task = game.Play().ContinueWith((results) => EnableNextGame(results));
         }
 
@@ -60,7 +60,6 @@ namespace Window
             this.Invoke(function, new object[] { results.Result });
         }
 
-        // todo mozna nejak systemove vyresit ktere karty se hraji a ktere ne
         void PlayCard(IEnumerable<Card> c, PlayerState s, Kingdom k, Phase p, Card a)
         {
             Action<IEnumerable<Card>, PlayerState, Kingdom, Phase, Card> function = (cards, ps, kingdom, phase, attackCard) =>

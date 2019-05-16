@@ -1,0 +1,13 @@
+5
+14
+8
+7
+Gold 6
+Witch 5
+Silver 14
+Duchy 11
+Duchy 9
+Laboratory 9
+Gold 102
+Moneylender 2
+Festival 11

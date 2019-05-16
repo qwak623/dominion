@@ -1,0 +1,19 @@
+0
+18
+8
+4
+Gold 4
+Silver 6
+Gardens 6
+Market 13
+Gold 1
+Militia 9
+Feast 11
+Gold 4
+Mine 5
+Gardens 1
+Silver 12
+Market 9
+Remodel 10
+Gold 100
+Remodel 9

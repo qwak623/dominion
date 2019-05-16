@@ -1,0 +1,16 @@
+7
+18
+8
+7
+Market 9
+Province 7
+Silver 3
+Province 8
+Gardens 10
+Copper 9
+Duchy 8
+Laboratory 6
+Estate 9
+Silver 10
+Chancellor 4
+Gold 101

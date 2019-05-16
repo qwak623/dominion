@@ -32,13 +32,13 @@ namespace GameCore.Cards.Base
                 if (card == null)
                     break;
 
-                string yup = $"Skip {card.Name}";
-                string nay = $"Keep {card.Name}";
-
-                if (card.IsAction && player.User.Choose(player.ps, player.Game.Kingdom, Phase.Action, yup, nay, this))
-                    player.ps.DiscardPile.Add(card);
+                if (card.IsAction && player.User.LibrarySkip(player.ps, player.Game.Kingdom, card))
+                    player.ps.PlayedCards.Add(card);
                 else
+                {
+                    player.Game.Logger?.Log($"{Name} draws {card.Name}");
                     player.ps.Hand.Add(card);
+                }
             }
         }
     }

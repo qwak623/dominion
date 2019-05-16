@@ -1,0 +1,17 @@
+6
+12
+5
+4
+Laboratory 8
+Silver 13
+Library 12
+Province 9
+Gardens 4
+Province 6
+Feast 8
+Chapel 7
+Province 6
+Estate 3
+Woodcutter 12
+Moat 9
+Spy 4

@@ -1,6 +1,8 @@
 ﻿using GameCore.Cards;
+using GameCore.Cards.Base;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading;
 
 namespace GameCore
@@ -54,19 +56,19 @@ namespace GameCore
             }
         }
 
-        public override IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState gs, Kingdom k, int min, int max, Phase phase, Card card)
+        private IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState ps, Kingdom k, int min, int max, Phase phase, Card card)
         {
             lock (job)
             {
                 job.Done = false;
-                choice(cards, gs, k, min, max, phase, card);
+                choice(cards, ps, k, min, max, phase, card);
                 while (!job.Done)
                     Monitor.Wait(job);
                 return job.Result as IEnumerable<Card>;
             }
         }
 
-        public override bool Choose(PlayerState ps, Kingdom k, Phase phase, string yup, string nay, Card card, Card decisionCard)
+        private bool Choose(PlayerState ps, Kingdom k, Phase phase, string yup, string nay, Card card, Card decisionCard = null)
         {
             lock (job)
             {
@@ -78,7 +80,31 @@ namespace GameCore
             }
         }
 
-        public override IEnumerable<Card> ChapelTrash(PlayerState ps, Kingdom k) => Choose(ps.Hand, ps, k, 0, 4, Phase.Action, Cards.Base.Chapel.Get());
+        #region cards base
+        public override Card BureaucratDiscard(PlayerState ps, Kingdom k) => Choose(ps.Hand.Where(c => c.IsVictory), ps, k, 1, 1, Phase.Attack, Bureaucrat.Get()).Single();
+
+        public override IEnumerable<Card> CellarDiscard(PlayerState ps, Kingdom k) => Choose(ps.Hand, ps, k, 0, ps.Hand.Count, Phase.Action, Cellar.Get());
+
+        public override bool ChancellorDiscard(PlayerState ps, Kingdom k) => Choose(ps, k, Phase.Action, "Do", "Don't", Chancellor.Get());
+
+        public override IEnumerable<Card> ChapelTrash(PlayerState ps, Kingdom k) => Choose(ps.Hand, ps, k, 0, 4, Phase.Action, Chapel.Get());
+
+        public override bool LibrarySkip(PlayerState ps, Kingdom k, Card c) => Choose(ps, k, Phase.Action, $"Skip {c.Name}", $"Keep {c.Name}", Library.Get());
+
+        public override IEnumerable<Card> MilitiaDiscard(PlayerState ps, Kingdom k, int discardCount) => Choose(ps.Hand, ps, k, discardCount, discardCount, Phase.Attack, Militia.Get());
+
+        public override Card MineTrash(PlayerState ps, Kingdom k) => Choose(ps.Hand.Where(c => c.IsTreasure), ps, k, 0, 1, Phase.Action, Mine.Get()).SingleOrDefault();
+
+        public override Card RemodelTrash(PlayerState ps, Kingdom k) => Choose(ps.Hand, ps, k, 0, 1, Phase.Action, Remodel.Get()).SingleOrDefault();
+
+        public override bool SpyDiscard(PlayerState ps, Kingdom k, Card c, Phase p) => Choose(ps, k, p, $"Discard {c.Name}", "Put it back", Spy.Get());
+
+        public override Card ThiefChoose(PlayerState ps, Kingdom k, IEnumerable<Card> cards) => Choose(cards, ps, k, 1, 1, Phase.Action, Thief.Get()).Single();
+
+        public override bool ThiefSteal(PlayerState ps, Kingdom k, Card c) => Choose(ps, k, Phase.Action, $"Steal {c.Name}", $"Trash {c.Name}", Thief.Get());
+
+        public override Card ThroneRoomPlay(PlayerState ps, Kingdom k, IEnumerable<Card> cards) => Choose(cards, ps, k, 0, 1, Phase.Action, ThroneRoom.Get()).SingleOrDefault();
+        #endregion
     }
 
     public class Job

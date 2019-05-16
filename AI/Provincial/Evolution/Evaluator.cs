@@ -14,8 +14,8 @@ namespace AI.Provincial.Evolution
             double fitness = 0;
             object obj = new object();
 
-            foreach (var leader in leaders)
-            //Parallel.ForEach(leaders, leader =>
+            //foreach (var leader in leaders)
+            Parallel.ForEach(leaders, leader =>
             {
                 int wins = 0;
                 int gameIndex;
@@ -43,8 +43,8 @@ namespace AI.Provincial.Evolution
                 // TODO
                 lock (obj)
                 fitness += wins / (double)gameIndex;
-            }
-            //});
+            //}
+            });
             return fitness;
         }
     }

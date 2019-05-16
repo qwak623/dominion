@@ -24,7 +24,7 @@
 
         protected override void ActionEffect(Player player)
         { 
-            if (player.User.Choose(player.ps, player.Game.Kingdom, Phase.Action, "Do", "Don't", this))
+            if (player.User.ChancellorDiscard(player.ps, player.Game.Kingdom))
                 player.DiscardDrawPile();
         }
     }

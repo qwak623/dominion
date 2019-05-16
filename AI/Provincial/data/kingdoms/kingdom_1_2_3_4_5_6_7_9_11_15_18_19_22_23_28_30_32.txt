@@ -1,0 +1,15 @@
+4
+12
+8
+7
+Gold 100
+Province 11
+Witch 2
+Silver 9
+Silver 11
+ThroneRoom 9
+Bureaucrat 4
+ThroneRoom 13
+Library 7
+Duchy 2
+Copper 7

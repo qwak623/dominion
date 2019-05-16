@@ -1,0 +1,17 @@
+3
+14
+13
+8
+Province 2
+Gold 9
+Market 7
+Militia 12
+Gold 6
+Gold 102
+Silver 14
+Copper 5
+Province 4
+Village 4
+Feast 2
+Copper 6
+Silver 12

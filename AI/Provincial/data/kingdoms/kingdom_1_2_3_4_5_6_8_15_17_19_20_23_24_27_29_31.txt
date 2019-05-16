@@ -1,0 +1,13 @@
+3
+13
+12
+8
+Duchy 11
+Province 5
+Gold 102
+Market 6
+Militia 12
+Militia 10
+Silver 11
+Remodel 11
+Moneylender 2

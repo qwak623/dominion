@@ -1,0 +1,15 @@
+4
+2
+6
+6
+Province 13
+Witch 9
+Duchy 106
+Silver 11
+CouncilRoom 6
+Adventurer 8
+Witch 14
+Silver 7
+Workshop 5
+CouncilRoom 5
+Mine 5

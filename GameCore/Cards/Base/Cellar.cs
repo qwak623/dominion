@@ -26,7 +26,7 @@ namespace GameCore.Cards.Base
 
         protected override void ActionEffect(Player player)
         {
-            var selectedCards = player.User.Choose(player.ps.Hand, player.ps, player.Game.Kingdom, 0, player.ps.Hand.Count, Phase.Action, this);
+            var selectedCards = player.User.CellarDiscard(player.ps, player.Game.Kingdom);
 
             foreach (var card in selectedCards)
                 player.Discard(card);

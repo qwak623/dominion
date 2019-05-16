@@ -29,10 +29,11 @@ namespace GameCore.Cards.Base
             var card = player.Show(1).SingleOrDefault();
             if (card == null)
                 return;
-            string discard = $"Discard {card.Name}";
-            string back = $"Put it back";
-            if (player.User.Choose(player.ps, player.Game.Kingdom, Phase.Action, discard, back, this))
+            if (player.User.SpyDiscard(player.ps, player.Game.Kingdom, card, Phase.Action))
+            {
+                player.Game.Logger?.Log($"{player.Name} discards {card.Name}");
                 player.ps.DiscardPile.Add(card);
+            }
             else
                 player.ps.DrawPile.Add(card);
         }
@@ -42,10 +43,11 @@ namespace GameCore.Cards.Base
             var card = defender.Show(1).SingleOrDefault();
             if (card == null)
                 return;
-            string discard = $"Discard {card.Name}";
-            string back = $"Put it back";
-            if (attacker.User.Choose(attacker.ps, attacker.Game.Kingdom, Phase.Attack, discard, back, this))
+            if (attacker.User.SpyDiscard(attacker.ps, attacker.Game.Kingdom, card, Phase.Attack))
+            {
+                defender.Game.Logger?.Log($"{defender.Name} discards {card.Name}");
                 defender.ps.DiscardPile.Add(card);
+            }
             else
                 defender.ps.DrawPile.Add(card);
         }

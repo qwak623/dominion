@@ -30,29 +30,42 @@ namespace GameCore.Cards.Base
             var cards = defender.Show(2);
             // selecting treasures
             var treasures = cards.Where(c => c.IsTreasure);
-            defender.Draw(cards.Count);
             // if there are treasure cards
             if (treasures.Count() > 0)
             {
                 // attacker have to pick one
-                var card = attacker.User.Choose(treasures, attacker.ps, attacker.Game.Kingdom, 1, treasures.Count(), Phase.Action, this).Single();
+                var card = attacker.User.ThiefChoose(attacker.ps, attacker.Game.Kingdom, treasures);
                 // the other one is discarded (if there is)
                 cards.Remove(card);
-                foreach (var item in cards)
-                    defender.ps.DiscardPile.Add(card);
+
+                var otherCard = cards.SingleOrDefault();
+                if (otherCard != null)
+                {
+                    attacker.Game.Logger?.Log($"{defender.Name} discards {otherCard.Name}");
+                    defender.ps.DiscardPile.Add(otherCard);
+                }
 
                 // attaker chooses if he will trash or steal
                 string steal = $"Steal {card.Name}";
                 string trash = $"Trash {card.Name}";
-                if (attacker.User.Choose(attacker.ps, attacker.Game.Kingdom, Phase.Action, steal, trash, this))
+                if (attacker.User.ThiefSteal(attacker.ps, attacker.Game.Kingdom, card))
+                {
+                    attacker.Game.Logger?.Log($"{attacker.Name} steals {card.Name}");
                     attacker.ps.PlayedCards.Add(card);
+                }
                 else
+                {
+                    attacker.Game.Logger?.Log($"{defender.Name} trashes {card.Name}");
                     attacker.Game.Trash.Add(card);
+                }
             }
             else
             {
                 foreach (var card in cards)
+                {
+                    attacker.Game.Logger?.Log($"{defender.Name} discards {card.Name}");
                     defender.ps.DiscardPile.Add(card);
+                }
             }
         }
     }

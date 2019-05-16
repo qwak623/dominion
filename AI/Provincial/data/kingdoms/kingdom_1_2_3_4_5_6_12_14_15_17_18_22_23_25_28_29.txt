@@ -1,0 +1,13 @@
+2
+10
+7
+6
+Gold 7
+Province 9
+Silver 17
+Moat 13
+Chancellor 12
+Laboratory 7
+Gold 101
+Duchy 12
+Gardens 9

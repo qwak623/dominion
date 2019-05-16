@@ -1,0 +1,16 @@
+6
+10
+14
+8
+Gardens 7
+Silver 7
+Cellar 3
+Estate 9
+Witch 3
+Village 5
+Silver 10
+Copper 10
+Gold 102
+Gardens 7
+Chancellor 7
+Woodcutter 10

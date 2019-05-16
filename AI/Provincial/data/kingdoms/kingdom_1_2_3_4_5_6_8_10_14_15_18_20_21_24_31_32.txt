@@ -1,0 +1,17 @@
+0
+17
+8
+6
+Workshop 5
+Silver 13
+Duchy 7
+Gardens 9
+Estate 10
+Chancellor 13
+Gold 5
+Duchy 5
+Remodel 10
+Chancellor 101
+Gold 8
+Library 15
+Province 7

@@ -1,0 +1,17 @@
+1
+10
+8
+8
+Witch 4
+Gold 100
+Province 10
+Gold 9
+Gardens 9
+Duchy 6
+Adventurer 3
+CouncilRoom 9
+Silver 13
+Mine 11
+Laboratory 8
+Gardens 6
+Copper 8

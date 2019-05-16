@@ -1,0 +1,17 @@
+0
+10
+8
+7
+Gold 99
+Witch 8
+Adventurer 2
+Laboratory 6
+Silver 12
+Laboratory 7
+Copper 13
+Smithy 8
+Silver 8
+Chancellor 4
+Gold 7
+Woodcutter 6
+Province 11

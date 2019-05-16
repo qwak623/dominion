@@ -26,13 +26,14 @@ namespace GameCore.Cards.Base
         protected override void ActionEffect(Player p)
         {
             // if user didnt select card he wont gain any.
-            var oldCard = p.User.Choose(p.ps.Hand, p.ps, p.Game.Kingdom, 1, Phase.Action, null).SingleOrDefault();
+            var oldCard = p.User.RemodelTrash(p.ps, p.Game.Kingdom);
             if (oldCard == null)
                 return;
             p.Trash(oldCard);
 
             var newCard = p.User.SelectCardToGain(p.Game.Kingdom.GetWrapper(oldCard.Price + 2), p.ps, p.Game.Kingdom, Phase.Gain);
-            p.Gain(newCard.Type);
+            if (newCard != null)
+                p.Gain(newCard.Type);
         }
     }
 }

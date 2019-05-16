@@ -11,14 +11,31 @@ namespace GameCore
 
         public abstract Card SelectCardToGain(KingdomWrapper wrapper, PlayerState ps, Kingdom k, Phase phase);
 
-        // todo pak nekdy udelat test na tuto metodu...
-        public abstract IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState ps, Kingdom k, int min, int max, Phase phase, Card card);
+        #region cards base
+        public abstract IEnumerable<Card> CellarDiscard(PlayerState ps, Kingdom k);
 
-        public IEnumerable<Card> Choose(IEnumerable<Card> cards, PlayerState ps, Kingdom k, int count, Phase phase, Card card) => Choose(cards, ps, k, count, count, phase, card);
+        public abstract Card BureaucratDiscard(PlayerState ps, Kingdom k);
 
-        public abstract bool Choose(PlayerState ps, Kingdom k, Phase phase, string yup, string nay, Card card, Card decisionCard = null);
+        public abstract bool ChancellorDiscard(PlayerState ps, Kingdom k);
 
         public abstract IEnumerable<Card> ChapelTrash(PlayerState ps, Kingdom k);
+
+        public abstract bool LibrarySkip(PlayerState ps, Kingdom k, Card c);
+
+        public abstract IEnumerable<Card> MilitiaDiscard(PlayerState ps, Kingdom k, int discardCount);
+
+        public abstract Card MineTrash(PlayerState ps, Kingdom k);
+
+        public abstract Card RemodelTrash(PlayerState ps, Kingdom k);
+
+        public abstract bool SpyDiscard(PlayerState ps, Kingdom k, Card c, Phase p);
+
+        public abstract Card ThiefChoose(PlayerState ps, Kingdom k, IEnumerable<Card> cards);
+
+        public abstract bool ThiefSteal(PlayerState ps, Kingdom k, Card c);
+
+        public abstract Card ThroneRoomPlay(PlayerState ps, Kingdom k, IEnumerable<Card> cards);
+        #endregion
 
         public override string ToString() => GetName();
     }

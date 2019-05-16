@@ -1,0 +1,18 @@
+3
+13
+9
+8
+Gold 99
+Thief 6
+Silver 5
+Silver 10
+Village 8
+Silver 12
+Gold 8
+Remodel 1
+Copper 11
+Workshop 5
+Estate 8
+Duchy 7
+Gold 5
+Province 10

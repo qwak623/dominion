@@ -35,8 +35,6 @@ namespace GameCore.Cards
 
         public Pile GetPile(CardType type)
         {
-            // TODO nevim jesli je tohle uplne efektivni, mozna by bylo lepsi nechat padat a zaridit aby nebyl nikdy volan se spatnymi parametry
-            // nebo pri vytvareni tam dat i vsechny ostatni karty
             if (cardTypeToIndex.TryGetValue(type, out int index)) 
                 return piles[index];
             return null;

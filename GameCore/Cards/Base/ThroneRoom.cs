@@ -26,7 +26,7 @@ namespace GameCore.Cards.Base
 
         protected override void ActionEffect(Player player)
         {
-            var card = player.User.Choose(player.ps.Hand.Where(c => c.IsAction), player.ps, player.Game.Kingdom, 0, 1, Phase.Action, this).SingleOrDefault();
+            var card = player.User.ThroneRoomPlay(player.ps, player.Game.Kingdom, player.ps.Hand.Where(c => c.IsAction));
             if (card == null)
                 return;
             player.ps.Hand.Remove(card);

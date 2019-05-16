@@ -1,0 +1,16 @@
+1
+9
+8
+4
+Province 6
+Gold 9
+Silver 14
+Duchy 11
+Cellar 9
+Village 10
+Smithy 4
+Gardens 10
+Estate 10
+Moneylender 12
+Militia 3
+Gold 102

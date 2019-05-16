@@ -1,0 +1,14 @@
+5
+9
+10
+8
+Province 13
+Gold 10
+Market 12
+Militia 6
+Silver 13
+Workshop 10
+Copper 9
+Village 7
+Gold 100
+Militia 7

@@ -1,0 +1,18 @@
+0
+11
+7
+7
+Silver 2
+Province 14
+Gold 102
+Silver 14
+Duchy 10
+Remodel 11
+Gold 2
+Moat 2
+Remodel 2
+Province 7
+Militia 11
+Gold 2
+Gold 8
+Bureaucrat 10

@@ -41,11 +41,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Dominex\Dominex.cs" />
+    <Compile Include="Provincial\Evolution\Distance.cs" />
     <Compile Include="Provincial\Evolution\Evaluator.cs" />
     <Compile Include="Provincial\Evolution\Mutation.cs" />
     <Compile Include="Provincial\Evolution\Params.cs" />
     <Compile Include="Provincial\PlayAgenda\Data.cs" />
-    <Compile Include="Provincial\PlayAgenda\Decisions.cs" />
+    <Compile Include="Provincial\PlayAgenda\CardExtensions.cs" />
     <Compile Include="Provincial\PlayAgenda\PlayerInfo.cs" />
     <Compile Include="Provincial\Evolution\BuyAgenda.cs" />
     <Compile Include="Provincial\PlayAgenda\ProvincialAI.cs" />

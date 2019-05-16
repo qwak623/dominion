@@ -1,0 +1,13 @@
+2
+10
+7
+6
+Witch 2
+Gold 99
+Laboratory 7
+Gold 7
+Chapel 1
+Village 4
+Silver 16
+Workshop 10
+Gardens 6

@@ -5,6 +5,7 @@ namespace GameCore.Cards.Base
     public class Mine : Card
     {
         static Mine mine = null;
+        static int c;
         private Mine() : base
         (
             name: "Mine",
@@ -26,7 +27,8 @@ namespace GameCore.Cards.Base
 
         protected override void ActionEffect(Player p)
         {
-            var oldCard = p.User.Choose(p.ps.Hand.Where(c => c.IsTreasure), p.ps, p.Game.Kingdom, 0, 1, Phase.Action, this).SingleOrDefault();
+            c++;
+            var oldCard = p.User.MineTrash(p.ps, p.Game.Kingdom);
             if (oldCard == null)
                 return;
             p.Trash(oldCard);

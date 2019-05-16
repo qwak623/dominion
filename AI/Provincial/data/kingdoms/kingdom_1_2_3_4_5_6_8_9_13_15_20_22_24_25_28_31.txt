@@ -1,0 +1,15 @@
+2
+10
+8
+7
+Bureaucrat 4
+Gold 102
+Festival 5
+Duchy 4
+Silver 13
+Bureaucrat 3
+Woodcutter 10
+Province 10
+Bureaucrat 10
+ThroneRoom 7
+ThroneRoom 7

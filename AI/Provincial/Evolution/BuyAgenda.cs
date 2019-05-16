@@ -44,7 +44,6 @@ namespace AI.Provincial.Evolution
 
             // todo podle poctu hracu
             // todo vyresit kolonie
-            // todo a myslim ze se podle tohoto stejne vůbec nerozhoduje
             agenda.Colonies = rnd.Next(8);
             agenda.Provinces = rnd.Next(8);
             agenda.Duchies = rnd.Next(8);
@@ -65,9 +64,9 @@ namespace AI.Provincial.Evolution
             };
         }
 
-        public void Save(List<Card> k)
+        public void Save(List<Card> k, string filename = null)
         {
-            var filename = k.OrderBy(c => c.Type).Select(c => (int)c.Type).Aggregate("kingdom", (a, b) => a + "_" + b);
+            filename = filename ?? k.OrderBy(c => c.Type).Select(c => (int)c.Type).Aggregate("kingdom", (a, b) => a + "_" + b);
             using (var writer = new StreamWriter($"{path}{filename}.txt"))
             {
                 writer.WriteLine(Colonies);

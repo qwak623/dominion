@@ -1,0 +1,14 @@
+1
+11
+5
+5
+Gold 7
+Chapel 1
+Province 11
+Silver 13
+Feast 6
+Gold 7
+Village 6
+Remodel 12
+Festival 10
+Militia 10

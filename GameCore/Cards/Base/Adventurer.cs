@@ -5,7 +5,6 @@ namespace GameCore.Cards.Base
     public class Adventurer : Card
     {
         static Adventurer adventurer = null;
-
         private Adventurer() : base
         (
             name: "Adventurer",
@@ -38,10 +37,7 @@ namespace GameCore.Cards.Base
                     i++;
                 }
                 else
-                {
-                    player.Game.Logger?.Log($"{Name} discards {card.Name}");
-                    player.ps.DiscardPile.Add(card);
-                }
+                    player.ps.PlayedCards.Add(card);
             } 
         }
     }

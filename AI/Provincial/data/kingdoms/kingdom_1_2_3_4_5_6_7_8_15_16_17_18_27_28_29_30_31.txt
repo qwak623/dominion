@@ -1,0 +1,14 @@
+3
+17
+7
+5
+Gold 100
+Library 3
+Silver 14
+Woodcutter 4
+ThroneRoom 3
+Estate 10
+Village 10
+Duchy 12
+Library 7
+Thief 10

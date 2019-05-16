@@ -15,31 +15,36 @@ namespace AI.Provincial.Evolution
         readonly ILogger logger;
         readonly ThreadSafeRandom rnd = new ThreadSafeRandom();
 
-        public Evolution(Params par, BuyAgenda referenceAgenda = null, ILogger logger = null)
+        public Evolution(Params par, ILogger logger = null, BuyAgenda referenceAgenda = null)
         {
             this.par = par;
-            this.referenceAgenda = referenceAgenda;
             this.logger = logger;
+            this.referenceAgenda = referenceAgenda;
         }
 
         public void Run()
         {
             SetUp();
 
+            // todo smazat stopwatch
+            var sw = new System.Diagnostics.Stopwatch();
+
             for (int gen = 0; gen < par.Generations; gen++)
             {
-                // todo smazat stopwatch
-                var sw = new System.Diagnostics.Stopwatch();
+                sw.Reset();
                 sw.Start();
+            
                 // evolution step
                 GenerateNewPool();
                 Evaluate();
                 SetNewLeaders();
+
                 sw.Stop();
-                var e = sw.Elapsed;
+                var elapsed = sw.Elapsed;
 
                 if (referenceAgenda != null)
                     ComputeFitness(leaders[0], gen);
+                logger?.Log($"Generation {gen}: elapsed time {elapsed.TotalSeconds.ToString("0.00")}");
             }
 
             leaders[0].Save(par.Kingdom);
@@ -50,29 +55,34 @@ namespace AI.Provincial.Evolution
             leaders = new BuyAgenda[par.LeaderCount];
             for (int i = 0; i < leaders.Length; i++)
                 leaders[i] = BuyAgenda.GetRandom(par.Kingdom);
-            //leaders[0] = BuyAgenda.Load(par.Kingdom, "honza"); // TODO smazat
-            //leaders[1] = BuyAgenda.Load(par.Kingdom, "kaca");
+            leaders[0] = BuyAgenda.Load(par.Kingdom) ?? BuyAgenda.GetRandom(par.Kingdom);
             pool = new (BuyAgenda, double)[par.PoolCount];
         }
 
         void Evaluate()
         {
             // todo parallel
-            for (int i = 0; i < pool.Length; i++)
-            //Parallel.For(0, pool.Length, i => 
-                pool[i].Fitness = pool[i].Agenda.Evaluate(leaders, par.Kingdom, par.MinGames, par.MaxGames);
+            //for (int i = 0; i < pool.Length; i++)
+            Parallel.For(0, pool.Length, i => 
+                pool[i].Fitness = pool[i].Agenda.Evaluate(leaders, par.Kingdom, par.MinGames, par.MaxGames));
         }
 
         void SetNewLeaders()
         {
-            // TODO on tam dela neco jako ze pocita pouzivanost karet a tak nejak zajistuje diverzitu leaders
             // comparing fitness and individual length
-
-            // TODO
-            //Array.Sort(pool, (a, b) => -a.Fitness.CompareTo(b.Fitness));
             Array.Sort(pool, (a, b) => -2 * a.Fitness.CompareTo(b.Fitness) + a.Agenda.BuyMenu.Count.CompareTo(b.Agenda.BuyMenu.Count));
-            for (int i = 0; i < leaders.Length; i++)
-                leaders[i] = pool[i].Agenda;
+            int j = 0;
+            for (int i = 0; i < leaders.Length;)
+            {
+                if (IsSimilarToAny(pool[j].Agenda, i))
+                {
+                    if (j > pool.Length)
+                        leaders[i++] = BuyAgenda.GetRandom(par.Kingdom);
+                    else
+                        j++;
+                }
+                leaders[i++] = pool[j++].Agenda;
+            }
         }
 
         void GenerateNewPool()
@@ -97,9 +107,9 @@ namespace AI.Provincial.Evolution
 
         void ComputeFitness(BuyAgenda buyAgenda, int generation)
         {
-            User getFirst() => new ProvincialAI(referenceAgenda, "Reference");
+            User getFirst() => new ProvincialAI(referenceAgenda, "Referencer");
             User getSecond() => new ProvincialAI(buyAgenda, "Leader");
-            const int gameCount = 1000;
+            const int gameCount = 5000;
 
             int[] result = new int[2];
             for (int i = 0; i < gameCount; i++)
@@ -124,7 +134,19 @@ namespace AI.Provincial.Evolution
                     result[0]++;
             }
 
-            logger.Log($"Generation {generation}: {result[0]}, {result[1]}");
+            //if (result[1] > result[0])
+            //   buyAgenda.Save(par.Kingdom, $"gen_{generation}({result[0]}, {result[1]})");
+            logger.Log($"Generation {generation}: Referencer {result[0]}, Leader {result[1]}");
+        }
+
+        bool IsSimilarToAny(BuyAgenda agenda, int count)
+        {
+            int aggDistance = 0;
+            for (int i = 0; i < count; i++)
+                aggDistance += agenda.BuyMenu.CalcLevenshteinDistance(leaders[i].BuyMenu);
+            if (aggDistance < count * 1.5f - 1)
+                return false;
+            return true;
         }
     }
 }

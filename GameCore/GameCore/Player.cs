@@ -5,7 +5,6 @@ using System.Linq;
 
 namespace GameCore
 {
-    // todo asi sjednotit humanplayera a playera
     public class Player
     {
         public readonly string Name;
@@ -89,30 +88,10 @@ namespace GameCore
             return card;
         }
 
-        public Card PlayTreasure()
+        public void PlayTreasure()
         {
             foreach (var card in ps.Hand.Where(c => c.IsTreasure))
                 card.WhenPlayTreasure(this);
-
-            return null;
-            // TODO tohle je zbytečně pomalé, vymyslet jiný způsob, který hraje treasures
-
-            // if player has no treasure we will not bother him with selecting nothing
-  
-            // TODO
-            //if (ps.Hand.All(c => !c.IsTreasure))
-            //    return null;
-
-            //var treasure = User.PlayCard(ps.Hand.Where(c => c.IsTreasure), ps, Game.Kingdom, Phase.Treasure);
-            //if (treasure == null)
-            //    return null;
-
-            //Game.Logger?.Log($"{Name} plays {treasure.Name}.");
-
-            //ps.Hand.Remove(treasure);
-            //ps.PlayedCards.Add(treasure);
-            //treasure.WhenPlayTreasure(this);
-            //return treasure;
         }
 
         /// <summary>

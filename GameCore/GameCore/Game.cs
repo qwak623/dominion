@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 
 namespace GameCore
 {
-    // todo udelat nejake optional kontroly tahu 
     public class Game
     {
         public const int maxRounds = 50;
@@ -31,14 +30,12 @@ namespace GameCore
         {
             return Task.Run(() =>
             {
-               try
+                try
                 {
-
-
                     // random needs to be instantiated and used in the same thread
                     var rnd = new ThreadSafeRandom();
-                    Players = users.Select(u => new Player(this, u, rnd)).ToList();
 
+                    Players = users.Select(u => new Player(this, u, rnd)).ToList();
                     Logger?.Log("New game has started.");
 
                     // intitial drawing
@@ -53,61 +50,39 @@ namespace GameCore
                     while (true)
                     {
                         Logger?.Log("\n");
-                        Logger?.Log($"Round {round}:");
+                        if (i == 0)
+                            Logger?.Log($"Round {round}:");
+                        Logger?.Log($"Action phase");
                         Logger?.Log("Hand: " + string.Join(", ", Players[i].ps.Hand.Select(c => c.Name)));
 
                         Players[i].ps.Buys = 1;
                         Players[i].ps.Actions = 1;
                         Players[i].ps.Coins = 0;
 
-                        
                         // action phase
                         Card card;
-                        try
-                        {
-                            do
-                                card = Players[i].PlayCard();
-                            while (card != null);
-                        }
-                        catch (System.Exception e) // TODO
-                        {
-                            var str = e.StackTrace;
-                            throw e;
-                        }
+                        do
+                            card = Players[i].PlayCard();
+                        while (card != null);
 
                         // treasure phase
-                        try
-                        {
-                            do
-                                card = Players[i].PlayTreasure();
-                            while (card != null);
-                        }
-                        catch (System.Exception e) // TODO
-                        {
-                            throw e;
-                        }
+                        Players[i].PlayTreasure();
 
+                        Logger?.Log($"Buy phase");
                         Logger?.Log("Hand: " + string.Join(", ", Players[i].ps.Hand.Select(c => c.Name)));
                         Logger?.Log($"{Players[i].Name} has ${Players[i].ps.Coins}.");
 
                         // buy phase
-                        try
-                        {
-                            do
-                                card = Players[i].Buy();
-                            while (card != null);
-                        }
-                        catch (System.Exception e) // TODO
-                        {
-                            throw e;
-                        }
+                        do
+                            card = Players[i].Buy();
+                        while (card != null);
 
                         // cleanup phase
                         Players[i].Cleanup();
 
                         // draw phase
                         Players[i].Draw(drawCount);
-                        
+
                         GameEnd = isGameEnd();
                         if (GameEnd)
                         {
@@ -139,7 +114,6 @@ namespace GameCore
                             };
                         }
                     }
-
                 }
                 catch (System.Exception e) // TODO smazat ten try
                 {

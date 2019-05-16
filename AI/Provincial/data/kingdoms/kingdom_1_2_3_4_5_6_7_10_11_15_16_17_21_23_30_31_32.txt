@@ -1,0 +1,15 @@
+4
+8
+8
+8
+Witch 3
+Province 10
+Duchy 9
+Silver 11
+Province 7
+Gold 101
+Silver 5
+Cellar 11
+Moneylender 6
+CouncilRoom 6
+Mine 2

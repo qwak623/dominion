@@ -30,7 +30,7 @@ namespace GameCore.Cards.Base
         {
             if (!def.ps.Hand.Any(c => c.IsVictory))
                 return;
-            var card = def.User.Choose(def.ps.Hand.Where(c => c.IsVictory), def.ps, att.Game.Kingdom, 1, Phase.Attack, this).Single();
+            var card = def.User.BureaucratDiscard(def.ps, def.Game.Kingdom);
             def.ReturnToDrawPile(card);
         }
     }
