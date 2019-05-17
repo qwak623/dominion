@@ -1,0 +1,14 @@
+2
+16
+13
+8
+Silver 7
+Duchy 11
+Gold 4
+Gold 103
+Smithy 6
+Silver 11
+Village 5
+Thief 7
+Silver 9
+Chapel 2

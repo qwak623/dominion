@@ -1,0 +1,16 @@
+6
+11
+9
+8
+Thief 4
+Gardens 11
+Duchy 9
+Gold 101
+Gold 2
+Silver 11
+Village 12
+Province 12
+Copper 1
+Moneylender 7
+Moneylender 10
+Woodcutter 7

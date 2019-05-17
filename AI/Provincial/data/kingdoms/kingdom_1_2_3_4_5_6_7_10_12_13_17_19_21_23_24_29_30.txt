@@ -1,0 +1,17 @@
+3
+14
+8
+8
+Witch 10
+Silver 3
+Duchy 6
+Silver 12
+Gold 11
+Mine 8
+Village 5
+Gold 99
+Village 9
+Remodel 9
+Copper 13
+Silver 8
+Festival 9

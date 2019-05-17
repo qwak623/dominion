@@ -1,0 +1,15 @@
+5
+19
+6
+6
+Gold 105
+Province 12
+CouncilRoom 2
+Province 9
+Adventurer 3
+Silver 11
+Province 9
+Duchy 10
+Feast 5
+Silver 12
+Village 6

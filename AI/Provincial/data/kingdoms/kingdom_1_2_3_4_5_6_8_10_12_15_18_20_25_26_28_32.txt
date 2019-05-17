@@ -1,0 +1,16 @@
+0
+13
+16
+6
+Gold 9
+Library 6
+Silver 14
+Province 5
+Cellar 9
+Chancellor 7
+Gold 101
+ThroneRoom 10
+Workshop 9
+Silver 11
+Estate 2
+Duchy 7

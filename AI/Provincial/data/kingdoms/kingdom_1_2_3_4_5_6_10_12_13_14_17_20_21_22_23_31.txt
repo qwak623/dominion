@@ -1,0 +1,17 @@
+4
+13
+8
+8
+Gold 2
+Silver 8
+Gardens 6
+Woodcutter 10
+Feast 10
+Copper 5
+Estate 6
+Province 100
+Laboratory 7
+Duchy 11
+Laboratory 4
+Silver 12
+Gold 2

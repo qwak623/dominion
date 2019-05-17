@@ -1,0 +1,17 @@
+2
+10
+8
+8
+Province 4
+Bureaucrat 3
+Gardens 100
+Duchy 13
+Mine 3
+Province 3
+Silver 4
+Estate 6
+Gardens 9
+Woodcutter 8
+Mine 14
+Spy 10
+Gold 8

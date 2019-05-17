@@ -1,0 +1,17 @@
+0
+12
+16
+8
+Gold 9
+Market 4
+Province 6
+Bureaucrat 7
+Silver 13
+Chancellor 8
+Province 10
+Duchy 3
+Bureaucrat 11
+Mine 11
+Gold 101
+Chancellor 6
+Village 9

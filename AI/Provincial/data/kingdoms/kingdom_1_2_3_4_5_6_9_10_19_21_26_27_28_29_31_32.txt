@@ -1,0 +1,15 @@
+4
+8
+8
+5
+Province 4
+Workshop 1
+Gold 13
+Silver 9
+Gold 5
+Silver 10
+Copper 7
+Duchy 4
+Gold 100
+Market 3
+Village 15

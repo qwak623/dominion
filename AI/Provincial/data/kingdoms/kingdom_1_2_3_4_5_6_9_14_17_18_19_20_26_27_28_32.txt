@@ -1,0 +1,15 @@
+5
+10
+5
+5
+Province 13
+Gold 100
+Laboratory 6
+Militia 9
+Silver 14
+Silver 6
+Market 6
+Library 2
+Gardens 5
+Silver 9
+ThroneRoom 5

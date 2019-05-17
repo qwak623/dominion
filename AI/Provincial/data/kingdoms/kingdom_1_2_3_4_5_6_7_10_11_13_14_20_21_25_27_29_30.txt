@@ -1,0 +1,14 @@
+7
+12
+8
+8
+Province 4
+Silver 13
+Gardens 10
+Silver 10
+Village 6
+Militia 5
+Thief 8
+Gold 10
+CouncilRoom 5
+Festival 7

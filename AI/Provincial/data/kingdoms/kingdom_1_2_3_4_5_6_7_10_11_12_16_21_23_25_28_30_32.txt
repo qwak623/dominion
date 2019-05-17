@@ -1,0 +1,13 @@
+1
+14
+8
+8
+Witch 3
+Gold 12
+CouncilRoom 9
+Silver 10
+Copper 10
+Feast 102
+Estate 2
+Curse 12
+Feast 11

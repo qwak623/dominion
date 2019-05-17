@@ -1,0 +1,16 @@
+5
+11
+8
+5
+Province 6
+Province 2
+Gold 7
+Silver 10
+Gold 100
+Duchy 9
+Festival 7
+Moat 4
+Adventurer 10
+Copper 2
+Bureaucrat 11
+Spy 7

@@ -1,0 +1,20 @@
+4
+11
+9
+8
+Witch 7
+Witch 8
+Province 10
+Duchy 6
+Witch 9
+Gold 101
+Silver 7
+Duchy 7
+Village 5
+Festival 4
+Feast 3
+Adventurer 5
+Silver 7
+Copper 6
+Festival 11
+Bureaucrat 13

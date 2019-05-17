@@ -1,0 +1,17 @@
+5
+10
+8
+6
+Witch 1
+Province 11
+Province 1
+Gold 6
+Laboratory 7
+Gold 101
+Adventurer 4
+Silver 7
+Adventurer 9
+Silver 11
+Militia 7
+Copper 4
+Copper 13

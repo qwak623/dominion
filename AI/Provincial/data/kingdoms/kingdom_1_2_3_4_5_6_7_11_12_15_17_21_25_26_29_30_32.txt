@@ -1,0 +1,15 @@
+5
+17
+7
+6
+Gold 102
+Mine 4
+Spy 12
+Laboratory 5
+Province 12
+CouncilRoom 13
+Duchy 11
+Silver 10
+Smithy 4
+Feast 8
+Gold 8

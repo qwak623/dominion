@@ -1,0 +1,16 @@
+5
+15
+6
+6
+Laboratory 8
+Bureaucrat 5
+Gold 11
+Province 7
+Silver 12
+Workshop 7
+Chapel 13
+Copper 4
+Gold 101
+Estate 10
+Laboratory 11
+Mine 4

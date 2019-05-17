@@ -1,0 +1,16 @@
+2
+14
+8
+8
+Gold 102
+Witch 12
+Silver 13
+Chapel 11
+Estate 3
+Market 8
+Gold 9
+Militia 2
+Workshop 12
+Remodel 4
+Gold 9
+Duchy 8

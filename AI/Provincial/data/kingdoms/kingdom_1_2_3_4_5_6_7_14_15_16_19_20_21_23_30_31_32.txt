@@ -1,0 +1,16 @@
+3
+13
+7
+4
+Silver 10
+Gardens 8
+Gold 5
+Duchy 5
+Duchy 14
+Province 9
+Estate 99
+Witch 7
+Copper 12
+Chancellor 9
+Curse 6
+Witch 11

@@ -1,0 +1,16 @@
+1
+15
+8
+6
+Province 8
+Bureaucrat 2
+Adventurer 11
+Silver 11
+Copper 8
+Adventurer 2
+Gold 101
+Estate 7
+Silver 3
+Chapel 3
+Duchy 10
+Market 4

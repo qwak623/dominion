@@ -1,0 +1,17 @@
+7
+8
+17
+8
+Gardens 6
+Woodcutter 4
+Silver 9
+Province 13
+Festival 11
+Woodcutter 8
+Smithy 7
+Copper 13
+Duchy 4
+Duchy 6
+Gold 100
+Silver 12
+Copper 8

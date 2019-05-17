@@ -1,0 +1,16 @@
+6
+11
+9
+8
+Witch 10
+Duchy 3
+Workshop 5
+Gardens 6
+Province 12
+Gold 1
+Gold 6
+Silver 12
+Bureaucrat 9
+Copper 8
+Market 101
+Silver 11

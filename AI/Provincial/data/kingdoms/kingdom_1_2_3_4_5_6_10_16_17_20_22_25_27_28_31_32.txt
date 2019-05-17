@@ -1,0 +1,16 @@
+6
+16
+7
+5
+Gold 102
+Silver 13
+Moat 10
+Smithy 9
+Estate 15
+Militia 10
+Silver 3
+Duchy 6
+Smithy 9
+ThroneRoom 6
+Thief 6
+Province 8

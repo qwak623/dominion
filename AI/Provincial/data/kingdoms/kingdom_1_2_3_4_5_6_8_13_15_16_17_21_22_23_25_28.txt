@@ -1,0 +1,14 @@
+4
+10
+8
+8
+Province 10
+Festival 11
+Silver 3
+Silver 13
+Province 6
+Moat 6
+Moat 9
+ThroneRoom 4
+Chancellor 7
+Moneylender 11

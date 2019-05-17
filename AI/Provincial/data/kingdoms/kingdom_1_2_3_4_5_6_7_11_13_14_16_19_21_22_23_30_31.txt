@@ -1,0 +1,17 @@
+6
+13
+8
+7
+Festival 7
+Province 4
+Gardens 12
+Silver 8
+Woodcutter 4
+CouncilRoom 5
+Silver 11
+Moat 7
+Estate 5
+Copper 8
+Gold 100
+Province 5
+Silver 9

@@ -1,0 +1,16 @@
+6
+18
+8
+5
+Witch 11
+Province 6
+Gardens 8
+Thief 102
+Silver 10
+Gold 5
+Duchy 11
+Mine 10
+Estate 10
+Witch 2
+Feast 9
+Silver 13

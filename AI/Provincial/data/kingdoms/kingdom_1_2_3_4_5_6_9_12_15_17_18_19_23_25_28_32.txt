@@ -1,0 +1,16 @@
+5
+14
+8
+7
+Gold 99
+Market 8
+Bureaucrat 11
+Silver 11
+Smithy 9
+Bureaucrat 13
+Feast 3
+Duchy 7
+Workshop 11
+Feast 4
+ThroneRoom 7
+Province 10

@@ -1,0 +1,15 @@
+6
+10
+8
+8
+Province 11
+Laboratory 7
+Duchy 10
+Witch 13
+Militia 5
+Gold 102
+Silver 5
+Witch 3
+Cellar 6
+Moat 2
+Province 11

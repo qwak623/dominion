@@ -1,0 +1,16 @@
+1
+9
+8
+8
+Witch 4
+Duchy 4
+Province 10
+Gold 99
+Silver 9
+Festival 3
+Duchy 4
+Adventurer 9
+Gold 6
+Adventurer 4
+Silver 12
+Feast 5

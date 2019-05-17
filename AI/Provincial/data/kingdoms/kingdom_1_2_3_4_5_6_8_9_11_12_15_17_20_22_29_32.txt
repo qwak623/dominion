@@ -1,0 +1,15 @@
+0
+14
+7
+4
+Gold 3
+Adventurer 6
+Province 8
+Silver 10
+Duchy 3
+Silver 14
+Feast 7
+Chancellor 101
+Moat 12
+CouncilRoom 3
+Adventurer 5

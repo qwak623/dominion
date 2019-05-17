@@ -1,0 +1,15 @@
+4
+17
+6
+4
+Province 15
+Gold 100
+Silver 13
+Duchy 8
+Feast 3
+Festival 13
+Silver 10
+ThroneRoom 8
+Copper 8
+Adventurer 5
+ThroneRoom 10

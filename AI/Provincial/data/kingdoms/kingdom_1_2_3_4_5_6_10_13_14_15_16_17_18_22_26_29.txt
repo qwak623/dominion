@@ -1,0 +1,16 @@
+0
+11
+6
+6
+Gold 101
+Silver 10
+Gold 3
+Gardens 7
+Moat 4
+Copper 5
+Province 10
+Library 3
+Silver 12
+Laboratory 7
+Duchy 6
+Estate 11

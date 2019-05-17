@@ -1,0 +1,15 @@
+7
+18
+5
+4
+Silver 11
+Gardens 12
+Gold 101
+Duchy 8
+Gold 9
+Adventurer 6
+Militia 13
+Copper 9
+Village 6
+Gold 6
+Curse 8

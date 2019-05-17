@@ -1,0 +1,16 @@
+0
+13
+5
+5
+Gold 7
+Silver 8
+Library 4
+Moat 12
+Moat 7
+Province 5
+Market 5
+Silver 10
+Chancellor 4
+Silver 14
+Gold 104
+Moat 10

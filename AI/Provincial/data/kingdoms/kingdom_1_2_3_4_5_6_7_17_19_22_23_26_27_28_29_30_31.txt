@@ -1,0 +1,17 @@
+0
+11
+14
+7
+Province 5
+Gold 102
+Spy 3
+Witch 11
+Silver 14
+Woodcutter 10
+Market 1
+Duchy 8
+Spy 5
+Spy 11
+Silver 10
+Silver 3
+Thief 10

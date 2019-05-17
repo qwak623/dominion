@@ -1,0 +1,19 @@
+3
+15
+16
+5
+Silver 4
+Curse 1
+Gold 102
+Witch 7
+Province 2
+Silver 10
+Moat 9
+Estate 5
+Chapel 7
+Adventurer 11
+Spy 10
+Silver 13
+Militia 3
+Moat 3
+Remodel 6

@@ -1,0 +1,17 @@
+1
+8
+8
+6
+Gold 4
+Province 8
+Festival 7
+Smithy 3
+Market 6
+Gardens 10
+Silver 11
+Gold 105
+Thief 3
+Feast 11
+Gold 6
+Library 7
+Militia 5

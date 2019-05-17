@@ -1,0 +1,15 @@
+7
+12
+15
+8
+Gold 11
+Gardens 101
+Silver 13
+Woodcutter 9
+Chancellor 10
+Spy 6
+Duchy 10
+Cellar 6
+Cellar 3
+Silver 7
+Spy 13

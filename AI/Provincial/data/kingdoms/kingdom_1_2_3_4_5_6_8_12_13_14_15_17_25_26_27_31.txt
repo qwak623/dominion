@@ -1,0 +1,17 @@
+7
+14
+6
+4
+Gold 100
+Smithy 1
+Province 7
+Silver 12
+Silver 8
+Gardens 5
+Thief 5
+Feast 8
+Feast 4
+Spy 3
+Laboratory 3
+Festival 9
+Duchy 12

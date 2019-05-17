@@ -1,0 +1,17 @@
+6
+14
+8
+8
+Province 9
+Province 7
+Gold 4
+Bureaucrat 5
+Festival 3
+Adventurer 11
+Market 6
+Gold 101
+Market 3
+Spy 4
+Silver 6
+Bureaucrat 9
+Silver 13

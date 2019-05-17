@@ -1,0 +1,14 @@
+0
+18
+8
+3
+Province 7
+Gold 103
+Smithy 3
+Silver 13
+Copper 6
+Gold 4
+Estate 11
+Mine 13
+Moneylender 5
+Remodel 9

@@ -1,0 +1,15 @@
+5
+7
+11
+4
+Province 9
+Copper 1
+Gardens 6
+Workshop 13
+Gold 102
+Estate 12
+Militia 7
+Silver 7
+Village 7
+Silver 12
+Woodcutter 10

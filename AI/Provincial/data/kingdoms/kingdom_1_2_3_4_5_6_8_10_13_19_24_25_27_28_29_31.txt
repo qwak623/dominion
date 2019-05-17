@@ -1,0 +1,15 @@
+6
+11
+6
+4
+Gold 100
+Market 3
+Gold 6
+Festival 12
+Silver 4
+Silver 14
+Province 11
+Gold 8
+Village 2
+Woodcutter 6
+Thief 3

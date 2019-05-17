@@ -1,0 +1,17 @@
+1
+12
+11
+8
+Witch 12
+Silver 12
+Gold 8
+CouncilRoom 8
+Gold 103
+Copper 4
+Market 8
+Estate 10
+Duchy 9
+Bureaucrat 1
+Witch 1
+Woodcutter 4
+Gold 7
