@@ -18,6 +18,8 @@ namespace AI.Provincial.Evolution
         public int Duchies;
         public int Estates;
 
+        public bool Loaded = false;
+
         private BuyAgenda() { }
 
         public static BuyAgenda GetRandom(List<Card> k)
@@ -99,6 +101,7 @@ namespace AI.Provincial.Evolution
                         agenda.BuyMenu.Add((type, int.Parse(line[1])));
                     }
 
+                    agenda.Loaded = true;
                     return agenda;
                 }
             }

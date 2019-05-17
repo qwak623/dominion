@@ -1,0 +1,16 @@
+6
+13
+7
+5
+Gold 13
+Province 8
+Silver 13
+Moat 9
+Festival 8
+Thief 2
+ThroneRoom 8
+Province 11
+Silver 8
+Moneylender 1
+Moneylender 5
+Moneylender 11

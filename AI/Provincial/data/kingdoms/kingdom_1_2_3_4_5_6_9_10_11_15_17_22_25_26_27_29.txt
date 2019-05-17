@@ -1,0 +1,16 @@
+2
+14
+8
+7
+Bureaucrat 2
+Gold 102
+Gold 6
+Laboratory 9
+Silver 11
+Silver 5
+Chancellor 9
+Duchy 9
+CouncilRoom 7
+Gold 10
+Laboratory 4
+Smithy 13

@@ -1,0 +1,15 @@
+6
+12
+7
+6
+Gold 10
+Province 16
+Witch 3
+Silver 11
+CouncilRoom 11
+Silver 6
+Chapel 6
+Gold 100
+Woodcutter 6
+Curse 1
+Cellar 4

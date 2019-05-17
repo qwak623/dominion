@@ -1,0 +1,17 @@
+7
+15
+16
+8
+Gardens 12
+Workshop 6
+Gold 102
+Silver 10
+Library 9
+Copper 5
+Province 1
+Gold 3
+Estate 6
+Gold 8
+Chapel 13
+Copper 7
+Festival 11

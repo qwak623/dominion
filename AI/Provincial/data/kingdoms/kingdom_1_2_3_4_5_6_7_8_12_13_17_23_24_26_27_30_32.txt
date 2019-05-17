@@ -1,0 +1,14 @@
+2
+11
+8
+8
+Gold 100
+Witch 2
+Duchy 12
+Silver 7
+Gold 6
+Estate 6
+Workshop 9
+Remodel 8
+Laboratory 3
+Silver 11

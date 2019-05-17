@@ -1,0 +1,17 @@
+5
+15
+6
+6
+Gold 3
+Gold 99
+Silver 7
+Remodel 5
+Duchy 6
+CouncilRoom 6
+Silver 11
+Adventurer 8
+Laboratory 3
+Province 10
+Moat 4
+Copper 3
+Estate 4

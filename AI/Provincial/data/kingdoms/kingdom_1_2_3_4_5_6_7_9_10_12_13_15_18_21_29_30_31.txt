@@ -1,0 +1,18 @@
+7
+6
+13
+6
+Woodcutter 4
+Duchy 7
+Witch 6
+Gold 9
+Festival 6
+Gold 101
+Library 7
+Copper 6
+Library 5
+Estate 7
+Estate 11
+Feast 11
+Silver 12
+Feast 4

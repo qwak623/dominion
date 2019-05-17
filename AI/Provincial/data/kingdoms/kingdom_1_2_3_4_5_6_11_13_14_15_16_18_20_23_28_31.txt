@@ -1,0 +1,15 @@
+5
+17
+8
+6
+Gold 101
+Library 3
+Gardens 11
+Silver 10
+Gardens 7
+CouncilRoom 13
+Militia 3
+Militia 8
+Copper 8
+Chancellor 10
+Duchy 8

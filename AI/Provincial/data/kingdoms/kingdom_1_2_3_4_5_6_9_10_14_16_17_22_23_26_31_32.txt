@@ -1,0 +1,14 @@
+6
+15
+8
+4
+Gold 101
+Silver 12
+Duchy 13
+Spy 4
+Silver 4
+Moat 5
+Gold 11
+Province 9
+Duchy 3
+Gold 4

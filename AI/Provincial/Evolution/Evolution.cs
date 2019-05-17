@@ -56,6 +56,8 @@ namespace AI.Provincial.Evolution
             for (int i = 0; i < leaders.Length; i++)
                 leaders[i] = BuyAgenda.GetRandom(par.Kingdom);
             leaders[0] = BuyAgenda.Load(par.Kingdom) ?? BuyAgenda.GetRandom(par.Kingdom);
+            if (leaders[0].Loaded)
+                logger?.Log("Rewriting kingdom.");
             pool = new (BuyAgenda, double)[par.PoolCount];
         }
 

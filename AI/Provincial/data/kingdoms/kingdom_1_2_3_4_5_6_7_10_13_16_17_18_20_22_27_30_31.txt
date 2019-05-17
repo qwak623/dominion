@@ -1,0 +1,17 @@
+5
+15
+16
+8
+Witch 7
+Silver 11
+Militia 5
+Moat 10
+Thief 11
+Cellar 1
+Copper 9
+Duchy 5
+Militia 12
+Silver 6
+Woodcutter 14
+Province 5
+Estate 6
