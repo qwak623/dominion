@@ -1,0 +1,17 @@
+2
+14
+8
+5
+Silver 11
+Gardens 12
+CouncilRoom 8
+Village 2
+Village 8
+Chancellor 8
+Library 10
+Gold 103
+Adventurer 3
+Province 10
+Chancellor 5
+Cellar 11
+Duchy 10

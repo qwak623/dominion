@@ -1,0 +1,16 @@
+6
+14
+8
+4
+Gold 100
+Market 8
+Smithy 3
+Silver 12
+Woodcutter 10
+CouncilRoom 4
+Spy 8
+Spy 6
+Copper 9
+Province 4
+Library 5
+Estate 7

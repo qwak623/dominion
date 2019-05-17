@@ -1,0 +1,16 @@
+2
+14
+6
+6
+Smithy 2
+Gold 101
+Province 4
+Silver 12
+Library 11
+Festival 11
+Gold 4
+Silver 10
+CouncilRoom 4
+Village 9
+Remodel 11
+Thief 3

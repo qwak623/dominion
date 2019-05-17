@@ -1,0 +1,17 @@
+5
+15
+8
+7
+Gold 102
+Bureaucrat 5
+Gardens 4
+CouncilRoom 6
+Silver 6
+Chapel 1
+Woodcutter 3
+Province 8
+Silver 13
+Village 12
+CouncilRoom 11
+Mine 6
+Province 5

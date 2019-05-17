@@ -1,0 +1,15 @@
+2
+20
+8
+8
+Province 7
+Gold 6
+Copper 1
+Witch 13
+Silver 11
+Festival 13
+Gold 102
+CouncilRoom 9
+Village 9
+Cellar 14
+Curse 14

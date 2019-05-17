@@ -1,0 +1,15 @@
+3
+8
+7
+4
+Province 12
+Gold 102
+Silver 12
+Market 1
+Duchy 2
+Gardens 5
+Moat 5
+Mine 5
+Remodel 10
+Militia 6
+Estate 4

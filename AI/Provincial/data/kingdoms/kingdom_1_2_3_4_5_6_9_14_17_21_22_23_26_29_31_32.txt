@@ -1,0 +1,20 @@
+3
+13
+8
+7
+Bureaucrat 3
+Gold 2
+Gardens 8
+Silver 9
+Woodcutter 3
+Silver 13
+Village 4
+Gardens 9
+Laboratory 2
+Mine 7
+Woodcutter 6
+Gold 101
+Woodcutter 9
+Moat 4
+Province 5
+Village 8

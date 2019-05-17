@@ -1,0 +1,16 @@
+6
+14
+7
+7
+Gold 99
+Adventurer 5
+Library 12
+Cellar 1
+Province 8
+Province 9
+Silver 5
+Festival 8
+Silver 11
+Duchy 9
+Copper 3
+Workshop 6

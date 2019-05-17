@@ -1,0 +1,14 @@
+5
+15
+15
+8
+Gardens 9
+Gold 101
+Gold 9
+Woodcutter 7
+Copper 12
+Duchy 11
+Estate 11
+Thief 15
+Cellar 10
+Silver 11

@@ -1,0 +1,14 @@
+0
+15
+7
+6
+Gold 10
+Gold 101
+Province 9
+CouncilRoom 6
+Silver 12
+Remodel 2
+Copper 10
+Laboratory 2
+Spy 10
+Duchy 6

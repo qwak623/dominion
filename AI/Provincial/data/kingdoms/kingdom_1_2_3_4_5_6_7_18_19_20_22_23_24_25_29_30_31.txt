@@ -1,0 +1,15 @@
+5
+14
+8
+7
+Province 12
+Gold 101
+Witch 4
+Silver 12
+Library 2
+Market 7
+Duchy 7
+Library 9
+Militia 9
+Moneylender 9
+Market 5

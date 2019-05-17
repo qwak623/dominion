@@ -1,0 +1,16 @@
+7
+16
+7
+3
+Gold 102
+Silver 12
+Silver 4
+Village 10
+Library 4
+Province 9
+Village 3
+Copper 6
+Estate 13
+Feast 12
+Gold 11
+Festival 9

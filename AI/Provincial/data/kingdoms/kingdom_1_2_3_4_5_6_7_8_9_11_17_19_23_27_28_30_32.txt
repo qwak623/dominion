@@ -1,0 +1,16 @@
+4
+18
+18
+7
+Witch 4
+Silver 7
+Gold 102
+Silver 11
+Laboratory 6
+Bureaucrat 11
+Copper 8
+Estate 5
+Adventurer 8
+Market 10
+CouncilRoom 11
+ThroneRoom 9

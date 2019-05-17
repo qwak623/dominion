@@ -1,0 +1,13 @@
+7
+9
+5
+4
+Gold 3
+Laboratory 11
+Silver 11
+Gold 101
+Bureaucrat 12
+Duchy 6
+Province 11
+Workshop 9
+Feast 15

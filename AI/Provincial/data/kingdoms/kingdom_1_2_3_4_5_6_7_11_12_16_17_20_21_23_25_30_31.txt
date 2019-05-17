@@ -1,0 +1,17 @@
+5
+14
+7
+6
+Gold 100
+Silver 3
+Witch 9
+Gold 9
+Laboratory 6
+Province 5
+Witch 7
+Silver 10
+Smithy 10
+CouncilRoom 8
+Moneylender 10
+Chapel 1
+Duchy 10

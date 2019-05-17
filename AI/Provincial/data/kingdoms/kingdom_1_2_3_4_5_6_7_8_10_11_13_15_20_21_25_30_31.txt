@@ -1,0 +1,16 @@
+3
+14
+15
+8
+Province 11
+Silver 3
+Smithy 2
+Gold 102
+Silver 13
+Woodcutter 11
+Copper 6
+Curse 8
+CouncilRoom 4
+Smithy 4
+Witch 12
+Estate 6

@@ -1,0 +1,18 @@
+2
+14
+13
+8
+Gold 100
+Militia 8
+Festival 9
+Silver 11
+Remodel 5
+Village 10
+ThroneRoom 6
+Militia 9
+Copper 10
+Duchy 14
+Woodcutter 12
+Woodcutter 9
+Woodcutter 6
+Estate 11

@@ -1,0 +1,15 @@
+0
+12
+7
+6
+Gold 5
+CouncilRoom 99
+Adventurer 10
+Silver 11
+Chancellor 6
+Copper 4
+Adventurer 10
+Estate 7
+Feast 8
+Duchy 7
+Village 10

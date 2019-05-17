@@ -1,0 +1,17 @@
+7
+11
+6
+5
+Copper 2
+Province 6
+Gold 101
+Festival 5
+Silver 9
+Duchy 7
+Village 12
+Chancellor 5
+Mine 9
+Cellar 7
+Spy 8
+Chancellor 4
+Silver 11

@@ -1,0 +1,14 @@
+1
+12
+7
+3
+Gold 3
+Gold 101
+Silver 12
+Province 5
+Library 8
+Woodcutter 11
+Chancellor 6
+Moat 5
+Thief 10
+Duchy 8
