@@ -1,0 +1,16 @@
+6
+19
+8
+5
+Militia 4
+Gold 99
+Silver 12
+Duchy 6
+Market 4
+Chapel 4
+Copper 3
+CouncilRoom 7
+Library 8
+Feast 10
+Feast 4
+Chancellor 15

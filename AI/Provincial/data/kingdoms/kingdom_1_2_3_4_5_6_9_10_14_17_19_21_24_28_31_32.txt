@@ -1,0 +1,16 @@
+3
+16
+8
+7
+Province 6
+Gold 5
+Workshop 3
+Silver 10
+Gold 9
+Gardens 8
+Bureaucrat 4
+Silver 10
+Gold 104
+Remodel 3
+Woodcutter 11
+ThroneRoom 10

@@ -1,0 +1,15 @@
+7
+7
+6
+5
+Province 12
+Gold 102
+Silver 11
+Market 10
+Feast 14
+Cellar 9
+Copper 10
+Duchy 10
+Festival 6
+Chancellor 7
+Feast 9

@@ -1,0 +1,16 @@
+3
+9
+6
+6
+Mine 1
+Silver 9
+Gardens 6
+Province 8
+Festival 3
+Duchy 4
+Adventurer 5
+Gold 101
+Market 6
+Mine 3
+Silver 11
+Bureaucrat 4

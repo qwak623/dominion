@@ -1,0 +1,21 @@
+4
+14
+15
+8
+Province 7
+Gardens 10
+Laboratory 5
+Silver 7
+Market 3
+Gardens 10
+Chancellor 12
+Province 6
+Village 13
+Thief 5
+Cellar 7
+Gold 101
+Gold 3
+Duchy 9
+Copper 3
+Province 7
+Laboratory 6

@@ -1,0 +1,14 @@
+7
+11
+8
+5
+Gold 99
+Laboratory 11
+Silver 12
+Village 12
+Cellar 4
+Silver 10
+Estate 7
+Village 9
+Gardens 6
+Copper 5

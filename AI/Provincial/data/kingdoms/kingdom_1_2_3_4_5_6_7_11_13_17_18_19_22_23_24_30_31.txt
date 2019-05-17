@@ -1,0 +1,15 @@
+6
+11
+7
+5
+Gold 101
+Province 6
+Silver 11
+Library 5
+Moat 9
+Market 11
+Festival 10
+Gold 4
+Estate 1
+Province 8
+Duchy 8

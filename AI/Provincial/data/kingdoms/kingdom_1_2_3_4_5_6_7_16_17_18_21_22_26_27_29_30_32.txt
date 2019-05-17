@@ -1,0 +1,16 @@
+5
+9
+8
+8
+Gold 11
+Witch 7
+Silver 9
+Province 8
+Moat 5
+Estate 7
+Mine 5
+Silver 10
+Curse 7
+Village 5
+Gold 101
+Copper 2

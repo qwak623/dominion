@@ -1,0 +1,16 @@
+7
+11
+7
+6
+Gold 6
+Witch 7
+Gold 102
+Duchy 6
+Silver 16
+Workshop 3
+Chapel 5
+Thief 11
+Curse 1
+Village 11
+Gardens 11
+Silver 13
