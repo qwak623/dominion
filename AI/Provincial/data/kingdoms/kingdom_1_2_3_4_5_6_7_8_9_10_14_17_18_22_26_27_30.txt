@@ -1,0 +1,17 @@
+0
+10
+8
+8
+Bureaucrat 3
+Gardens 9
+Duchy 5
+Laboratory 6
+Adventurer 13
+Silver 11
+Cellar 5
+Thief 8
+Laboratory 12
+Gardens 2
+Spy 7
+Gold 99
+Library 10

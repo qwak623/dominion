@@ -1,0 +1,16 @@
+0
+16
+8
+8
+Witch 10
+Gold 101
+Silver 14
+ThroneRoom 6
+Remodel 8
+Witch 9
+Workshop 7
+Silver 10
+Moneylender 8
+Workshop 3
+Witch 10
+Thief 3

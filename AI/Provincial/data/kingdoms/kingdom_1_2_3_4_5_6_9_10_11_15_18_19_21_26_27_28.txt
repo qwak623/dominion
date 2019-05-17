@@ -1,0 +1,15 @@
+6
+12
+7
+6
+Province 7
+Gold 100
+Mine 7
+Silver 7
+Silver 13
+Copper 9
+Chancellor 5
+CouncilRoom 13
+Estate 7
+Bureaucrat 5
+Spy 4

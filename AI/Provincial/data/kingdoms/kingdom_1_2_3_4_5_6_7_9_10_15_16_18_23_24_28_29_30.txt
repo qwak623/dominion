@@ -1,0 +1,13 @@
+5
+13
+8
+8
+Gold 5
+Witch 3
+Silver 11
+Duchy 7
+Gold 12
+Duchy 10
+Bureaucrat 4
+Remodel 9
+Gold 101

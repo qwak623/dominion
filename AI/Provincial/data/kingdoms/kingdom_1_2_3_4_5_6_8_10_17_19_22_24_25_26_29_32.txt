@@ -1,0 +1,11 @@
+0
+15
+7
+5
+Gold 10
+Silver 12
+Gold 100
+Silver 12
+Moat 7
+Laboratory 5
+Moat 11

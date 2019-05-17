@@ -1,0 +1,14 @@
+1
+10
+16
+8
+Gold 11
+Duchy 101
+Copper 1
+Bureaucrat 2
+Silver 5
+Militia 9
+Estate 11
+Thief 2
+Province 14
+Province 8

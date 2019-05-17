@@ -1,0 +1,16 @@
+7
+11
+7
+4
+Province 102
+Silver 10
+CouncilRoom 5
+Silver 11
+Bureaucrat 14
+Spy 5
+Moneylender 5
+Moneylender 11
+Duchy 11
+Cellar 10
+Chancellor 7
+CouncilRoom 9

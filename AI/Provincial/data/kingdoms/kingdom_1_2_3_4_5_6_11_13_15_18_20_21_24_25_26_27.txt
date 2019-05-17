@@ -1,0 +1,15 @@
+1
+14
+8
+7
+Mine 1
+Province 13
+Gold 100
+Silver 9
+CouncilRoom 4
+Remodel 3
+Library 7
+CouncilRoom 8
+Silver 12
+Duchy 7
+Gold 9

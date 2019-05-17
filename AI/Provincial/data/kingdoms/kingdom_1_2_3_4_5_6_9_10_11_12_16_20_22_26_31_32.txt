@@ -1,0 +1,16 @@
+2
+9
+20
+8
+Gold 101
+CouncilRoom 8
+Bureaucrat 6
+Silver 14
+Workshop 12
+Cellar 13
+Gold 3
+Spy 6
+Duchy 4
+Province 6
+Estate 10
+Chapel 10

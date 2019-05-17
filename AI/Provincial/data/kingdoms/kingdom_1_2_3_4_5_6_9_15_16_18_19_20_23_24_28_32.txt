@@ -1,0 +1,19 @@
+1
+11
+16
+8
+Bureaucrat 3
+Library 3
+Silver 13
+Militia 6
+Chancellor 10
+Copper 4
+Gold 102
+Workshop 13
+Library 8
+Estate 9
+Bureaucrat 11
+Moneylender 10
+Duchy 10
+Province 3
+Province 6

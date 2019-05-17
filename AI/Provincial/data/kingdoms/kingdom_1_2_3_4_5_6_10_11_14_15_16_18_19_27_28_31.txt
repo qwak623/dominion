@@ -1,0 +1,16 @@
+7
+15
+5
+4
+Gold 100
+Province 6
+Gold 7
+CouncilRoom 6
+Silver 4
+Duchy 6
+Gardens 7
+Chancellor 9
+Library 5
+Copper 5
+ThroneRoom 7
+Silver 12

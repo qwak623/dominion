@@ -1,0 +1,16 @@
+2
+11
+8
+8
+Witch 3
+Duchy 5
+Silver 5
+Gardens 6
+Duchy 12
+Gold 100
+Gold 8
+Library 4
+Silver 15
+Silver 5
+Spy 10
+Province 3

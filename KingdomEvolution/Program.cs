@@ -25,7 +25,7 @@ namespace Eva
 
             var rnd = new ThreadSafeRandom();
 
-            for (int i = 0; i < 50; i++)
+            for (int i = 0; i < 100; i++)
             {
                 List<Card> cards = null;
                 try

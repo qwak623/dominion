@@ -1,0 +1,15 @@
+0
+16
+6
+6
+Gold 99
+Gold 4
+Province 5
+CouncilRoom 5
+Silver 7
+Village 6
+Thief 7
+Copper 2
+Copper 5
+Library 8
+Silver 12

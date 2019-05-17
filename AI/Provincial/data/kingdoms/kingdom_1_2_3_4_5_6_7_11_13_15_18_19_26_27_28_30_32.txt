@@ -1,0 +1,19 @@
+4
+15
+8
+8
+Witch 3
+Duchy 8
+Silver 10
+Duchy 10
+Market 6
+Duchy 10
+Workshop 9
+CouncilRoom 11
+Gold 102
+Province 6
+Copper 9
+Silver 1
+Estate 14
+CouncilRoom 9
+Festival 12

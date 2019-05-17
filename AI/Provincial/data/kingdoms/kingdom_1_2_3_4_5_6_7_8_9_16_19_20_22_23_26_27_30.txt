@@ -1,0 +1,16 @@
+3
+17
+6
+5
+Market 2
+Gold 100
+Adventurer 2
+Province 5
+Adventurer 3
+Gold 4
+Market 9
+Witch 6
+Duchy 14
+Province 10
+Militia 4
+Silver 12

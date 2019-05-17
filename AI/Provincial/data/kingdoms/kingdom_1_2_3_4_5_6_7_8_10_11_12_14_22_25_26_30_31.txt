@@ -1,0 +1,20 @@
+2
+10
+18
+8
+Woodcutter 1
+Province 9
+Duchy 5
+Duchy 5
+Silver 3
+Gardens 7
+Woodcutter 6
+Gold 102
+Gold 7
+Silver 11
+Feast 8
+Spy 9
+Duchy 9
+Cellar 3
+Estate 8
+Silver 7

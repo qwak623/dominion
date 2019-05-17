@@ -1,0 +1,13 @@
+6
+11
+7
+7
+Gold 101
+Library 9
+Province 4
+Silver 12
+Cellar 2
+Estate 12
+Spy 11
+Silver 12
+Bureaucrat 9

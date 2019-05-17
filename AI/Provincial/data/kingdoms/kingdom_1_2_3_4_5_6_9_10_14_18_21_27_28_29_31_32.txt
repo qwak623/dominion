@@ -1,0 +1,16 @@
+5
+8
+15
+8
+Gold 99
+Duchy 15
+Gardens 7
+Duchy 11
+Mine 7
+Bureaucrat 11
+Workshop 10
+Cellar 2
+Thief 9
+Village 5
+Copper 11
+Silver 12

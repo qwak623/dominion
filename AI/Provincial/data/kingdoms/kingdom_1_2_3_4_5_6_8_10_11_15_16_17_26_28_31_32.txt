@@ -1,0 +1,15 @@
+1
+9
+16
+7
+CouncilRoom 8
+Silver 14
+Province 14
+Gold 99
+Copper 10
+Spy 7
+Chancellor 9
+Workshop 11
+ThroneRoom 10
+Copper 4
+Estate 11

@@ -1,0 +1,17 @@
+2
+11
+8
+8
+Bureaucrat 2
+Silver 6
+Gold 6
+Gold 9
+Gardens 9
+Silver 10
+Village 3
+Smithy 8
+Market 5
+Moneylender 4
+Smithy 3
+Province 4
+Silver 11

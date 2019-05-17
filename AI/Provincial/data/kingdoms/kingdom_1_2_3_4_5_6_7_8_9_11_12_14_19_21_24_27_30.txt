@@ -1,0 +1,16 @@
+3
+12
+8
+8
+Gold 103
+Witch 11
+Duchy 10
+Gardens 11
+Bureaucrat 2
+Thief 10
+Remodel 5
+Silver 4
+Mine 11
+Estate 13
+Silver 11
+Province 7

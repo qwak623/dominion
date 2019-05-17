@@ -1,0 +1,19 @@
+0
+9
+8
+7
+Province 6
+Gold 10
+Witch 6
+Silver 7
+Village 2
+Gold 6
+Moneylender 8
+Silver 10
+Gold 102
+Duchy 13
+CouncilRoom 7
+Feast 2
+Village 2
+Silver 11
+Village 7

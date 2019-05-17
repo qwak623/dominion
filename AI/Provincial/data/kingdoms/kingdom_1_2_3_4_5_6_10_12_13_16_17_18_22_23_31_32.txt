@@ -1,0 +1,16 @@
+4
+15
+6
+4
+Silver 13
+Duchy 10
+Province 11
+Gold 104
+Library 9
+Moat 11
+Estate 9
+Laboratory 5
+Chapel 11
+Cellar 1
+Festival 12
+Library 5

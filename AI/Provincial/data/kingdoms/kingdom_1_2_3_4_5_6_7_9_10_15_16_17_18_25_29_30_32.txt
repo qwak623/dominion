@@ -1,0 +1,16 @@
+7
+16
+8
+7
+Gold 4
+Gold 100
+Province 6
+Witch 6
+Silver 11
+Cellar 4
+Silver 11
+Chancellor 3
+Laboratory 1
+Estate 7
+Chancellor 4
+Silver 12

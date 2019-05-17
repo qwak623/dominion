@@ -1,0 +1,16 @@
+2
+12
+5
+8
+Festival 6
+Duchy 12
+Gardens 9
+Chancellor 2
+Gold 100
+Gardens 3
+Silver 7
+Silver 12
+Smithy 3
+Cellar 9
+Copper 12
+Chapel 2

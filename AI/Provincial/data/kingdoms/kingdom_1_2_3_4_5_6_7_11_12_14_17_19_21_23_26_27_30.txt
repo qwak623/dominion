@@ -1,0 +1,17 @@
+7
+16
+8
+5
+Gold 7
+Mine 2
+Gold 6
+Silver 13
+Province 6
+Gardens 5
+Spy 5
+Moneylender 3
+Spy 8
+Feast 8
+Province 6
+Market 8
+Mine 103

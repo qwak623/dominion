@@ -1,0 +1,17 @@
+1
+22
+5
+5
+Silver 12
+Adventurer 11
+Gardens 14
+Gold 10
+Province 5
+Militia 7
+Gold 99
+Duchy 4
+Province 4
+Chapel 8
+Library 9
+Province 9
+Library 1

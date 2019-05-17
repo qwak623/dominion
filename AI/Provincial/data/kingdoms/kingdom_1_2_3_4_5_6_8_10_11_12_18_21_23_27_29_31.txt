@@ -1,0 +1,16 @@
+2
+15
+6
+6
+Gold 13
+CouncilRoom 6
+Gold 102
+Province 11
+Adventurer 10
+Silver 6
+Village 9
+Copper 5
+Village 7
+Cellar 9
+Silver 13
+Moneylender 7

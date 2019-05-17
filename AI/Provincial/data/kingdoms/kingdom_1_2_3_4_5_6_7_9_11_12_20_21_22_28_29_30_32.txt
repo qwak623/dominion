@@ -1,0 +1,15 @@
+7
+6
+8
+8
+Duchy 11
+Witch 8
+Silver 11
+ThroneRoom 10
+Bureaucrat 4
+Estate 12
+Mine 3
+Copper 7
+Mine 3
+Witch 9
+Militia 9

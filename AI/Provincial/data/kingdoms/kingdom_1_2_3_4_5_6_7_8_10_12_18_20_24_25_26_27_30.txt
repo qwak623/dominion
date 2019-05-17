@@ -1,0 +1,20 @@
+3
+17
+13
+8
+Duchy 7
+Gold 100
+Witch 8
+Adventurer 10
+Silver 14
+Cellar 6
+Remodel 5
+Library 3
+Spy 7
+Thief 10
+Silver 9
+Spy 8
+Cellar 4
+Thief 1
+Duchy 9
+Estate 10

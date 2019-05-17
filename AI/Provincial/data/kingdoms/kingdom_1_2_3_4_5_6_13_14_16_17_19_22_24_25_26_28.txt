@@ -1,0 +1,18 @@
+3
+22
+5
+4
+Gold 99
+Silver 7
+Gardens 8
+Spy 8
+Moat 9
+Laboratory 3
+Duchy 6
+Province 11
+Gold 4
+ThroneRoom 10
+Smithy 8
+Copper 8
+Remodel 6
+Silver 13

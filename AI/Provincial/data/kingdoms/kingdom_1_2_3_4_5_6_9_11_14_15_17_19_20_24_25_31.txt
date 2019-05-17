@@ -1,0 +1,14 @@
+5
+12
+7
+6
+Militia 2
+Province 7
+Gold 100
+Silver 6
+Gardens 10
+Remodel 2
+CouncilRoom 3
+Woodcutter 13
+Militia 16
+Copper 9

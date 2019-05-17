@@ -1,0 +1,15 @@
+1
+23
+20
+5
+Gold 10
+Library 11
+Gold 13
+Silver 11
+Woodcutter 9
+Woodcutter 8
+Gold 101
+Laboratory 5
+Gold 9
+Laboratory 13
+Adventurer 7

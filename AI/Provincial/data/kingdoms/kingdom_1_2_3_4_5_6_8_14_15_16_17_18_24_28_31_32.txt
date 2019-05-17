@@ -1,0 +1,14 @@
+7
+10
+8
+8
+Gold 9
+Silver 10
+Gardens 8
+Copper 5
+ThroneRoom 7
+Adventurer 8
+Woodcutter 7
+Workshop 8
+Estate 7
+Adventurer 4

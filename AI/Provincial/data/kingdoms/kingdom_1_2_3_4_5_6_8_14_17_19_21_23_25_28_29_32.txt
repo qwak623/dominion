@@ -1,0 +1,16 @@
+0
+18
+10
+5
+Province 1
+Duchy 11
+Gardens 7
+Silver 10
+Workshop 8
+Gold 103
+Village 13
+Smithy 3
+Province 6
+ThroneRoom 3
+Copper 13
+Gardens 7

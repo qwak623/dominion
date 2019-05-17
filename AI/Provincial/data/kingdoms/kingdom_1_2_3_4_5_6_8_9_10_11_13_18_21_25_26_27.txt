@@ -1,0 +1,19 @@
+5
+10
+6
+4
+CouncilRoom 2
+Silver 11
+Festival 4
+Province 12
+Smithy 10
+Duchy 12
+Copper 1
+Copper 9
+Thief 3
+Estate 3
+Spy 4
+Silver 10
+Festival 6
+Cellar 3
+Gold 102

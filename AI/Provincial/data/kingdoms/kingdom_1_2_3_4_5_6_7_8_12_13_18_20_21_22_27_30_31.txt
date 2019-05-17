@@ -1,0 +1,15 @@
+4
+10
+8
+8
+Witch 12
+Gold 11
+Silver 9
+Silver 4
+Moat 9
+Duchy 9
+Province 9
+Library 6
+Feast 17
+Gold 101
+Mine 7

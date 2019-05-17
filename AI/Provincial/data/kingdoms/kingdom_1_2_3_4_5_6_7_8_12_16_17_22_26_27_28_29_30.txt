@@ -1,0 +1,15 @@
+6
+7
+4
+4
+Laboratory 6
+Province 9
+Province 11
+Gold 100
+Witch 5
+Silver 11
+Thief 8
+Chapel 6
+Adventurer 6
+Silver 12
+Estate 3

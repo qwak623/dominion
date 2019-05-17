@@ -1,0 +1,16 @@
+4
+17
+7
+5
+Gold 100
+Militia 2
+Gold 2
+Festival 10
+Silver 11
+Library 8
+ThroneRoom 1
+Gold 1
+Silver 8
+Woodcutter 8
+Bureaucrat 7
+CouncilRoom 7

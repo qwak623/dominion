@@ -1,0 +1,16 @@
+0
+12
+8
+7
+Gold 100
+Witch 3
+Silver 3
+Province 11
+Silver 14
+Moat 4
+Gold 3
+Thief 7
+Militia 6
+Moneylender 4
+Curse 4
+Moat 8

@@ -1,0 +1,17 @@
+5
+12
+16
+8
+Silver 4
+Duchy 10
+Gold 105
+Gardens 11
+Workshop 1
+Festival 6
+Silver 9
+Copper 3
+Estate 3
+Copper 11
+Laboratory 10
+Workshop 12
+Spy 9

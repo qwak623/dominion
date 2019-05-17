@@ -1,0 +1,16 @@
+6
+9
+15
+8
+Adventurer 10
+Gardens 9
+Library 11
+Workshop 12
+Estate 12
+Smithy 11
+Workshop 9
+ThroneRoom 10
+Copper 10
+Gold 101
+Duchy 6
+Gold 4

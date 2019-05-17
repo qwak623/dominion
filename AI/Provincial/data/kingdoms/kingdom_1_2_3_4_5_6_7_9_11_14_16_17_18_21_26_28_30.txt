@@ -1,0 +1,16 @@
+2
+13
+8
+8
+Witch 7
+Gold 100
+Province 9
+Silver 10
+Spy 10
+Copper 6
+Gold 10
+Laboratory 9
+Curse 7
+Silver 13
+Witch 6
+Mine 11

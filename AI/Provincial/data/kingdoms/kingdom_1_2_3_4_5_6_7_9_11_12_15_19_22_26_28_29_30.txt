@@ -1,0 +1,16 @@
+0
+10
+12
+8
+Gold 10
+Witch 9
+Bureaucrat 5
+Feast 10
+Bureaucrat 11
+Silver 12
+Spy 7
+Copper 7
+ThroneRoom 4
+Bureaucrat 7
+ThroneRoom 103
+Estate 8

@@ -1,0 +1,16 @@
+3
+13
+8
+8
+Gold 5
+Silver 10
+Duchy 14
+Gold 103
+Smithy 11
+Silver 3
+Festival 3
+Bureaucrat 9
+Woodcutter 3
+Chancellor 11
+Festival 9
+Province 5

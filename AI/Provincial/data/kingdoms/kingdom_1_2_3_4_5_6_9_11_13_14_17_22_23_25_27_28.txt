@@ -1,0 +1,15 @@
+1
+18
+14
+8
+Silver 10
+Gardens 6
+Gold 9
+Festival 7
+Moat 3
+Silver 9
+Estate 9
+Gold 103
+Copper 13
+Moneylender 10
+Smithy 11

@@ -1,0 +1,16 @@
+6
+9
+8
+8
+Province 5
+Festival 4
+Gardens 13
+Copper 1
+Gold 101
+Silver 10
+Feast 10
+Adventurer 11
+Copper 12
+Silver 13
+ThroneRoom 8
+Copper 14

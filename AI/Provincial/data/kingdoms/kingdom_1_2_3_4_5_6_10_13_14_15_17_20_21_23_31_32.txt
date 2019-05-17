@@ -1,0 +1,19 @@
+7
+10
+17
+8
+Woodcutter 2
+Gardens 15
+Silver 5
+Province 9
+Gold 101
+Silver 12
+Gold 7
+Workshop 4
+Cellar 9
+Festival 2
+Mine 7
+Estate 6
+Moneylender 12
+Mine 9
+Chancellor 10

@@ -1,0 +1,16 @@
+7
+8
+8
+8
+Gold 3
+Province 13
+Province 6
+Gold 99
+Library 7
+Mine 8
+Silver 6
+Market 12
+Silver 10
+Feast 7
+Spy 2
+Laboratory 12

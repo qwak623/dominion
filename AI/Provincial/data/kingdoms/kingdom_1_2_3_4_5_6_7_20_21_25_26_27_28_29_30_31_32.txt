@@ -1,0 +1,14 @@
+0
+9
+10
+6
+Silver 4
+Province 10
+Gold 101
+Witch 12
+Smithy 4
+Witch 13
+Mine 2
+Silver 13
+Workshop 11
+Militia 9

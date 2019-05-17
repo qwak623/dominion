@@ -1,0 +1,10 @@
+3
+16
+7
+7
+Gold 101
+Silver 14
+Chancellor 7
+Adventurer 6
+Gold 12
+Woodcutter 3

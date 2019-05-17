@@ -1,0 +1,11 @@
+1
+9
+8
+8
+Province 11
+Witch 13
+Province 9
+Silver 14
+Adventurer 8
+Library 11
+Bureaucrat 4

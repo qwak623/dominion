@@ -1,0 +1,15 @@
+1
+10
+8
+8
+Witch 5
+Duchy 10
+Silver 13
+Feast 7
+Festival 10
+Thief 11
+Spy 3
+Copper 3
+Estate 100
+Silver 11
+Cellar 2

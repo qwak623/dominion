@@ -1,0 +1,17 @@
+0
+16
+6
+3
+Gold 101
+Silver 11
+Spy 4
+Moat 14
+Duchy 13
+Province 10
+Bureaucrat 11
+Chancellor 8
+Smithy 6
+Silver 2
+Village 10
+Spy 3
+Mine 4

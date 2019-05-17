@@ -1,0 +1,14 @@
+2
+10
+8
+8
+Province 7
+Gold 11
+Gold 101
+Silver 6
+Gardens 8
+Militia 7
+Woodcutter 8
+Remodel 9
+Chancellor 9
+Copper 13

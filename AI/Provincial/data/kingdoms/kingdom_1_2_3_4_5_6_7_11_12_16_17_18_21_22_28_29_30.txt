@@ -1,0 +1,16 @@
+0
+14
+8
+8
+Mine 1
+Witch 10
+CouncilRoom 5
+Village 9
+Gold 3
+Silver 12
+Chapel 10
+Library 8
+CouncilRoom 7
+Duchy 11
+Moat 4
+Chapel 99

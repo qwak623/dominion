@@ -1,0 +1,16 @@
+0
+12
+10
+8
+Militia 6
+Duchy 11
+Province 10
+Silver 7
+Estate 3
+Gold 102
+Festival 9
+Village 5
+Cellar 3
+Spy 11
+Moneylender 9
+Silver 11

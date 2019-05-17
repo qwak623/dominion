@@ -1,0 +1,19 @@
+4
+15
+8
+8
+Gold 4
+Adventurer 4
+Witch 3
+Silver 11
+Gold 2
+Gold 100
+Duchy 7
+Silver 5
+Moat 8
+Province 6
+Silver 7
+Bureaucrat 2
+Witch 8
+Market 6
+Bureaucrat 3

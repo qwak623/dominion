@@ -1,0 +1,17 @@
+2
+16
+8
+8
+Gold 10
+Witch 99
+Province 11
+Silver 11
+Spy 7
+Province 9
+Witch 3
+Spy 8
+Mine 9
+Gardens 10
+CouncilRoom 5
+CouncilRoom 5
+Smithy 14

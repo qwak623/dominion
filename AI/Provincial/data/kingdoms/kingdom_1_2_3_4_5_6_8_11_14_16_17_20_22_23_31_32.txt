@@ -1,0 +1,16 @@
+3
+8
+7
+8
+Woodcutter 3
+Province 9
+Gardens 10
+Duchy 8
+Province 6
+Silver 4
+Copper 9
+Gold 5
+Silver 11
+Gold 100
+Copper 12
+Moneylender 4

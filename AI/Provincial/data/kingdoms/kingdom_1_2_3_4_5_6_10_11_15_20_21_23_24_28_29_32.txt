@@ -1,0 +1,19 @@
+5
+13
+6
+5
+Gold 99
+Mine 10
+Silver 15
+Workshop 5
+Workshop 5
+Chancellor 6
+Cellar 9
+Gold 7
+Copper 6
+Moneylender 3
+Village 3
+Estate 7
+Province 3
+Militia 6
+Village 10

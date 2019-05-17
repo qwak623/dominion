@@ -1,0 +1,16 @@
+5
+10
+5
+5
+Gold 12
+Province 13
+Province 6
+Gold 100
+CouncilRoom 11
+Silver 3
+Silver 12
+Thief 9
+Thief 12
+Library 6
+Mine 15
+Gold 14

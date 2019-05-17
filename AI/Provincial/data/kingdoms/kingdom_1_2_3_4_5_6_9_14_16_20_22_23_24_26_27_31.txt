@@ -1,0 +1,16 @@
+0
+14
+8
+8
+Gold 104
+Silver 12
+Gardens 10
+Duchy 9
+Spy 11
+Moat 9
+Remodel 4
+Estate 9
+Copper 8
+Thief 6
+Remodel 3
+Militia 11

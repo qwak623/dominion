@@ -1,0 +1,14 @@
+5
+16
+20
+8
+Witch 15
+Province 6
+Duchy 11
+Bureaucrat 10
+Silver 14
+Silver 3
+Library 14
+Gold 4
+Village 12
+Market 9

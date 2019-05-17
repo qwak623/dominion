@@ -1,0 +1,16 @@
+2
+11
+11
+8
+Gardens 8
+Province 11
+Silver 6
+Silver 16
+Bureaucrat 7
+Village 12
+Festival 13
+Moat 7
+Militia 11
+Moneylender 4
+Chancellor 10
+Militia 13

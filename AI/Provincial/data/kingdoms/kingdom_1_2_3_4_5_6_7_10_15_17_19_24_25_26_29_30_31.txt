@@ -1,0 +1,20 @@
+6
+10
+20
+8
+Witch 9
+Witch 2
+Market 5
+Silver 8
+Silver 7
+Gold 102
+Cellar 7
+Copper 10
+Curse 5
+Estate 8
+Smithy 6
+Woodcutter 4
+Market 9
+Village 2
+Chancellor 2
+Laboratory 11

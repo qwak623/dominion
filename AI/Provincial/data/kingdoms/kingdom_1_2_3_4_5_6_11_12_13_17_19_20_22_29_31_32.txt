@@ -1,0 +1,15 @@
+3
+9
+15
+8
+Gold 100
+Laboratory 8
+Province 10
+Gold 9
+Silver 6
+Militia 11
+Woodcutter 2
+Duchy 8
+CouncilRoom 7
+Laboratory 1
+Silver 12

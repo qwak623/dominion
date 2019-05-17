@@ -1,0 +1,14 @@
+7
+13
+7
+7
+Province 4
+Province 9
+Province 11
+Gold 100
+Silver 5
+CouncilRoom 10
+Gold 12
+Festival 4
+Silver 12
+Moat 9

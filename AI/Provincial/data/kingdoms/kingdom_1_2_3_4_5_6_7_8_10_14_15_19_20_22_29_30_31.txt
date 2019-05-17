@@ -1,0 +1,12 @@
+3
+14
+8
+6
+Militia 2
+Duchy 8
+Gold 102
+Silver 6
+Gardens 6
+Silver 13
+Market 13
+Duchy 4

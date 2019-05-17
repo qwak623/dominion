@@ -1,0 +1,16 @@
+3
+16
+5
+4
+Province 11
+Gold 101
+Silver 5
+Silver 12
+Woodcutter 7
+CouncilRoom 8
+Market 7
+Duchy 8
+Chapel 2
+Woodcutter 6
+Chancellor 10
+Moneylender 7

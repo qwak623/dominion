@@ -1,0 +1,16 @@
+7
+17
+7
+6
+Province 5
+Gold 100
+Laboratory 8
+Adventurer 9
+Bureaucrat 9
+Laboratory 12
+Silver 6
+CouncilRoom 8
+Cellar 10
+Copper 4
+Gold 8
+Estate 3

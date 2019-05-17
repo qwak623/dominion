@@ -1,0 +1,17 @@
+5
+12
+6
+6
+Province 5
+Gold 6
+Silver 10
+Moat 11
+CouncilRoom 7
+Silver 13
+Bureaucrat 4
+Estate 6
+Bureaucrat 5
+Market 9
+Copper 7
+Estate 5
+Chancellor 11

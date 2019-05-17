@@ -1,0 +1,12 @@
+0
+13
+6
+5
+Gold 102
+Laboratory 9
+Silver 13
+Chapel 16
+Duchy 6
+Province 9
+Workshop 8
+Feast 13

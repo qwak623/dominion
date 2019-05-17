@@ -1,0 +1,15 @@
+0
+14
+7
+7
+Silver 8
+Gardens 13
+Militia 9
+Silver 13
+Gardens 3
+Militia 8
+Province 11
+Moat 12
+Moneylender 12
+Smithy 4
+Moneylender 1

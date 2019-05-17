@@ -1,0 +1,14 @@
+4
+14
+12
+8
+Witch 2
+Gardens 101
+Militia 10
+Gardens 8
+Feast 11
+Silver 12
+Village 11
+Cellar 11
+Estate 2
+Moat 12

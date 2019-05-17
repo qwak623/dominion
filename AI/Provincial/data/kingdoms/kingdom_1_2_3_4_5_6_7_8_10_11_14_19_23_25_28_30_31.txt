@@ -1,0 +1,15 @@
+2
+14
+8
+8
+Market 4
+Gardens 9
+Silver 10
+Gold 101
+Smithy 3
+Cellar 5
+Adventurer 8
+Estate 10
+Copper 9
+Silver 13
+Gold 7

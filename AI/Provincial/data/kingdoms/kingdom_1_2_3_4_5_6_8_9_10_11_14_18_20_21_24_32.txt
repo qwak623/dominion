@@ -1,0 +1,16 @@
+1
+7
+4
+8
+Copper 1
+Duchy 6
+Library 6
+Gardens 8
+Gold 100
+Duchy 8
+Province 5
+Adventurer 5
+Workshop 12
+Mine 7
+Workshop 12
+Estate 8

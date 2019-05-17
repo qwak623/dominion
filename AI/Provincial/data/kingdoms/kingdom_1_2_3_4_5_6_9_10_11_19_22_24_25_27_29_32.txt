@@ -1,0 +1,17 @@
+7
+16
+7
+7
+Silver 12
+Gold 100
+Smithy 10
+Cellar 9
+CouncilRoom 5
+Estate 5
+Cellar 5
+Remodel 1
+Duchy 8
+Duchy 4
+Estate 5
+Thief 2
+Workshop 11

@@ -1,0 +1,15 @@
+0
+16
+8
+8
+Province 14
+Witch 3
+Silver 5
+Gold 100
+Duchy 6
+Silver 13
+Cellar 9
+Moneylender 10
+Feast 1
+CouncilRoom 12
+Duchy 11
