@@ -32,6 +32,7 @@
             this.KingdomLabel = new System.Windows.Forms.Label();
             this.SetKingdom = new System.Windows.Forms.Button();
             this.Header = new System.Windows.Forms.Panel();
+            this.markButton = new System.Windows.Forms.Button();
             this.Settings = new System.Windows.Forms.Button();
             this.StartGame = new System.Windows.Forms.Button();
             this.GamePanel = new System.Windows.Forms.Panel();
@@ -52,6 +53,7 @@
             this.ExtensionsCardsLabel = new System.Windows.Forms.Label();
             this.SetKingdomPanel = new System.Windows.Forms.Panel();
             this.ExtensionsPanel = new System.Windows.Forms.Panel();
+            this.button8 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
@@ -107,6 +109,7 @@
             // Header
             // 
             this.Header.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.Header.Controls.Add(this.markButton);
             this.Header.Controls.Add(this.Settings);
             this.Header.Controls.Add(this.StartGame);
             this.Header.Controls.Add(this.SetKingdom);
@@ -114,6 +117,16 @@
             this.Header.Name = "Header";
             this.Header.Size = new System.Drawing.Size(938, 37);
             this.Header.TabIndex = 2;
+            // 
+            // markButton
+            // 
+            this.markButton.Location = new System.Drawing.Point(621, 3);
+            this.markButton.Name = "markButton";
+            this.markButton.Size = new System.Drawing.Size(200, 30);
+            this.markButton.TabIndex = 4;
+            this.markButton.Text = " Mark kingdom";
+            this.markButton.UseVisualStyleBackColor = true;
+            this.markButton.Click += new System.EventHandler(this.MarkKingdom);
             // 
             // Settings
             // 
@@ -329,6 +342,7 @@
             // ExtensionsPanel
             // 
             this.ExtensionsPanel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ExtensionsPanel.Controls.Add(this.button8);
             this.ExtensionsPanel.Controls.Add(this.button7);
             this.ExtensionsPanel.Controls.Add(this.button6);
             this.ExtensionsPanel.Controls.Add(this.button5);
@@ -342,9 +356,20 @@
             this.ExtensionsPanel.Size = new System.Drawing.Size(196, 500);
             this.ExtensionsPanel.TabIndex = 6;
             // 
+            // button8
+            // 
+            this.button8.Location = new System.Drawing.Point(3, 44);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(188, 30);
+            this.button8.TabIndex = 12;
+            this.button8.Tag = "";
+            this.button8.Text = "Precomputed";
+            this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.SetPrecomputedRandomGame);
+            // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(3, 260);
+            this.button7.Location = new System.Drawing.Point(3, 294);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(188, 30);
             this.button7.TabIndex = 11;
@@ -355,7 +380,7 @@
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(3, 224);
+            this.button6.Location = new System.Drawing.Point(3, 258);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(188, 30);
             this.button6.TabIndex = 10;
@@ -366,7 +391,7 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(7, 188);
+            this.button5.Location = new System.Drawing.Point(3, 222);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(188, 30);
             this.button5.TabIndex = 9;
@@ -377,7 +402,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(3, 152);
+            this.button4.Location = new System.Drawing.Point(3, 186);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(188, 30);
             this.button4.TabIndex = 8;
@@ -388,7 +413,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(3, 116);
+            this.button3.Location = new System.Drawing.Point(3, 150);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(188, 30);
             this.button3.TabIndex = 7;
@@ -399,7 +424,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(3, 80);
+            this.button2.Location = new System.Drawing.Point(3, 114);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(188, 30);
             this.button2.TabIndex = 6;
@@ -410,7 +435,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(3, 44);
+            this.button1.Location = new System.Drawing.Point(3, 78);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(188, 30);
             this.button1.TabIndex = 5;
@@ -492,6 +517,8 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button markButton;
     }
 }
 

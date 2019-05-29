@@ -1,0 +1,15 @@
+6
+17
+7
+6
+Gold 4
+Gold 100
+Silver 13
+Laboratory 7
+Moat 9
+Woodcutter 6
+Copper 7
+Silver 8
+Estate 6
+Silver 9
+Chancellor 4

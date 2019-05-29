@@ -1,0 +1,19 @@
+4
+8
+7
+5
+Province 9
+Chancellor 1
+Gold 8
+Silver 10
+Adventurer 8
+Silver 11
+Gold 102
+Cellar 1
+ThroneRoom 5
+Woodcutter 8
+Province 9
+ThroneRoom 8
+Chancellor 4
+Feast 10
+Thief 9

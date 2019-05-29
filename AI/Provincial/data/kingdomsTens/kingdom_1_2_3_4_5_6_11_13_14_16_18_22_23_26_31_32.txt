@@ -1,0 +1,15 @@
+7
+9
+6
+6
+Province 4
+Province 7
+Silver 10
+Gardens 9
+Duchy 8
+Moat 8
+CouncilRoom 11
+Province 11
+Library 5
+Moneylender 9
+Woodcutter 5

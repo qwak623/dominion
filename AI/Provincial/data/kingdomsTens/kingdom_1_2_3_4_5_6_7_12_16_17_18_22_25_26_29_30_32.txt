@@ -1,0 +1,15 @@
+7
+11
+7
+7
+Silver 4
+Witch 4
+Silver 11
+Village 6
+Smithy 8
+Chapel 11
+Gold 12
+Laboratory 11
+Duchy 5
+Province 5
+Gold 101

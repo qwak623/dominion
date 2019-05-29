@@ -1,0 +1,15 @@
+2
+14
+6
+5
+Province 11
+Gold 11
+CouncilRoom 99
+Silver 4
+Smithy 7
+Silver 6
+Workshop 10
+Woodcutter 6
+Copper 8
+Silver 10
+Estate 13

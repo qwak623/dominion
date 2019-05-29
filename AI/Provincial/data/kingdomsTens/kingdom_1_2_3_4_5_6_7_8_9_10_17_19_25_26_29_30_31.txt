@@ -1,0 +1,16 @@
+1
+13
+8
+8
+Witch 9
+Duchy 8
+Witch 102
+Silver 11
+Cellar 13
+Estate 8
+Woodcutter 13
+Silver 3
+Adventurer 1
+Adventurer 6
+Laboratory 7
+Province 5

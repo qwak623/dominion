@@ -1,0 +1,16 @@
+4
+10
+8
+7
+Gold 7
+Province 2
+Mine 9
+Silver 13
+Village 6
+Feast 4
+Market 7
+Copper 4
+Gold 100
+Adventurer 9
+Adventurer 7
+Province 6

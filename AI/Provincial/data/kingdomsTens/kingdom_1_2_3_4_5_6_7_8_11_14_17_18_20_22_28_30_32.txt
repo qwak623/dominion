@@ -1,0 +1,13 @@
+3
+20
+7
+6
+Witch 5
+Silver 6
+Gardens 9
+Silver 7
+Gold 103
+CouncilRoom 5
+Moat 12
+Duchy 12
+Silver 13

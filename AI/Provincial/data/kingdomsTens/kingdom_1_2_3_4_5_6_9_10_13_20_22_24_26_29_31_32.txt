@@ -1,0 +1,12 @@
+5
+23
+21
+5
+Gold 5
+Silver 11
+Festival 8
+Moat 12
+Remodel 13
+Bureaucrat 8
+Gold 99
+Estate 5

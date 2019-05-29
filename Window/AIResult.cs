@@ -1,5 +1,5 @@
-﻿using AI.Provincial.Evolution;
-using AI.Provincial.PlayAgenda;
+﻿using AI.Evolution;
+using AI.Provincial;
 using GameCore;
 using GameCore.Cards;
 using System;
@@ -12,6 +12,6 @@ namespace Window
 {
     public class AIResult
     {
-        public User GetUser(List<Card> k, string name = null) => new ProvincialAI(BuyAgenda.Load(k, name) ?? BuyAgenda.GetRandom(k));
+        public User GetUser(List<Card> k, string folder, string name = null) => new ProvincialAI(BuyAgenda.Load(k, folder, name) ?? BuyAgenda.GetRandom(k));
     }
 }

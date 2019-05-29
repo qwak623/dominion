@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Utils;
 
 namespace GameCore
 {
@@ -127,12 +128,9 @@ namespace GameCore
         /// </summary>
         public void Cleanup()
         {
-            foreach (var card in ps.Hand)
-                ps.DiscardPile.Add(card);
+            ps.Hand.ForEach(card => ps.DiscardPile.Add(card));
             ps.Hand.Clear();
-
-            foreach (var card in ps.PlayedCards)
-                ps.DiscardPile.Add(card);
+            ps.PlayedCards.ForEach(card => ps.DiscardPile.Add(card));
             ps.PlayedCards.Clear();
         }
 

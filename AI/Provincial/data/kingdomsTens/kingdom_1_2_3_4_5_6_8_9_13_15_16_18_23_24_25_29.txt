@@ -1,0 +1,19 @@
+4
+10
+8
+8
+Province 4
+Bureaucrat 5
+Duchy 6
+Silver 10
+Bureaucrat 5
+Smithy 3
+Copper 2
+Gold 4
+Remodel 8
+Estate 3
+Chancellor 6
+Bureaucrat 8
+Gold 100
+Copper 3
+Copper 9

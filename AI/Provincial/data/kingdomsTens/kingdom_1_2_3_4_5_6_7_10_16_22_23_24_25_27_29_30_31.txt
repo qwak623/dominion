@@ -1,0 +1,15 @@
+6
+13
+8
+8
+Witch 3
+Silver 12
+Duchy 12
+Gold 106
+Witch 10
+Woodcutter 10
+Silver 10
+Copper 17
+Moat 7
+Estate 9
+Curse 10

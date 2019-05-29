@@ -1,0 +1,16 @@
+6
+13
+7
+5
+Gold 100
+Province 4
+Festival 7
+Gold 1
+Militia 4
+Gold 8
+Spy 6
+Silver 11
+Moneylender 9
+Gold 4
+Militia 1
+Woodcutter 4

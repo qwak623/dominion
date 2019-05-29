@@ -1,0 +1,15 @@
+2
+17
+8
+8
+Witch 8
+Duchy 16
+Gold 102
+Silver 10
+Moat 9
+Bureaucrat 9
+Curse 1
+Spy 11
+Gold 9
+Moat 1
+Witch 10

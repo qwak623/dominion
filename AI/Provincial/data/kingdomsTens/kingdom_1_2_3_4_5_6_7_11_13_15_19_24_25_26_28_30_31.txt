@@ -1,0 +1,19 @@
+6
+10
+8
+8
+Province 5
+Gold 103
+Witch 8
+Silver 9
+Market 2
+ThroneRoom 6
+Market 5
+Copper 10
+Duchy 10
+Spy 7
+Silver 12
+Woodcutter 10
+Duchy 11
+Festival 2
+Gold 9

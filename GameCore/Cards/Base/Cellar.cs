@@ -28,8 +28,7 @@ namespace GameCore.Cards.Base
         {
             var selectedCards = player.User.CellarDiscard(player.ps, player.Game.Kingdom);
 
-            foreach (var card in selectedCards)
-                player.Discard(card);
+            selectedCards.ForEach(card => player.Discard(card));
             player.Draw(selectedCards.Count());
         }
     }

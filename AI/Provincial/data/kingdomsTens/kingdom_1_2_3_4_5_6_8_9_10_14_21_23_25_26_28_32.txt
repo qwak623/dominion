@@ -1,0 +1,15 @@
+3
+11
+16
+8
+Province 4
+Gardens 10
+Silver 10
+Estate 8
+Estate 9
+Cellar 10
+Gold 101
+Adventurer 9
+Copper 10
+ThroneRoom 9
+Adventurer 5

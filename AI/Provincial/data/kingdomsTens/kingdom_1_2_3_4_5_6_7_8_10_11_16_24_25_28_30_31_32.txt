@@ -1,0 +1,14 @@
+5
+20
+8
+8
+Witch 2
+Silver 12
+Smithy 10
+Copper 6
+ThroneRoom 10
+Curse 3
+Province 5
+Gold 100
+CouncilRoom 5
+Remodel 7

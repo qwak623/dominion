@@ -1,0 +1,15 @@
+1
+15
+17
+8
+Province 9
+Silver 4
+Gardens 9
+Gold 9
+Laboratory 8
+Silver 12
+Gold 100
+Feast 10
+Copper 8
+Chancellor 6
+Estate 3

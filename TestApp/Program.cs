@@ -1,12 +1,10 @@
-﻿using AI.Provincial.Evolution;
-using AI.Provincial.PlayAgenda;
+﻿using AI.Evolution;
+using AI.Provincial;
 using GameCore;
 using GameCore.Cards;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Utils;
 using static System.Console;
 
 namespace TestApp
@@ -15,14 +13,19 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            List<Card> cards = PresetGames.Get(Games.SizeDistortion).AddRequiredCards();
+            List<int> numbers = new List<int>{ -1, 2, 4, 7, 10 };
 
-            User getFirst() => new ProvincialAI(BuyAgenda.Load(cards, "kaca"), "Kaca");
-            User getSecond() => new ProvincialAI(BuyAgenda.Load(cards, "honza"), "Honza");
+            foreach (var item in new Subsets(numbers, 2))
+                WriteLine(item.Aggregate("", (e, f) => e + " " + f.ToString()));
 
-            Game game = new Game(new User[] { getFirst(), getSecond() }, cards.GetKingdom(2), new MyLogger());
-            var task = game.Play();
-            var results = task.Result;
+            //List<Card> cards = PresetGames.Get(Games.SizeDistortion).AddRequiredCards();
+
+            //User getFirst() => new ProvincialAI(BuyAgenda.Load(cards, "kaca"), "Kaca");
+            //User getSecond() => new ProvincialAI(BuyAgenda.Load(cards, "honza"), "Honza");
+
+            //Game game = new Game(new User[] { getFirst(), getSecond() }, cards.GetKingdom(2), new MyLogger());
+            //var task = game.Play();
+            //var results = task.Result;
 
             ReadLine();
         }

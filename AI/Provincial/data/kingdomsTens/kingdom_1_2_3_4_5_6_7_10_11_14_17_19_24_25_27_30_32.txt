@@ -1,0 +1,13 @@
+6
+10
+12
+8
+Gold 14
+Gold 102
+Gardens 10
+Workshop 9
+Estate 12
+Workshop 13
+Laboratory 14
+Smithy 3
+Remodel 11

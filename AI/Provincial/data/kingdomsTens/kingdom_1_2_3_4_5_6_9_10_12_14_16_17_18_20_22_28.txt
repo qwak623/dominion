@@ -1,0 +1,17 @@
+5
+10
+8
+8
+Silver 5
+Bureaucrat 2
+Duchy 11
+Gardens 12
+Cellar 10
+Moat 8
+Silver 13
+Feast 1
+Gold 5
+Bureaucrat 11
+Chapel 5
+ThroneRoom 11
+Library 12

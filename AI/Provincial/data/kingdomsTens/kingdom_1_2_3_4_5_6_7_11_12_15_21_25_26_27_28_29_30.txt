@@ -1,0 +1,17 @@
+1
+18
+8
+7
+Mine 2
+Gold 4
+Gold 101
+Silver 14
+Gold 8
+Feast 13
+CouncilRoom 11
+Thief 3
+Silver 2
+Spy 10
+Smithy 6
+ThroneRoom 6
+Duchy 9

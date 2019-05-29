@@ -1,8 +1,7 @@
 ﻿using GameCore.Cards;
-using System;
 using System.Collections.Generic;
-using System.Drawing;
 using System.Linq;
+using Utils;
 
 namespace GameCore
 {
@@ -27,7 +26,7 @@ namespace GameCore
             return new Kingdom(cards.Select(c => new Pile(c)).ToList(), players);
         }
 
-        public static List<Card> AddRequiredCards(this List<Card> cards)
+        public static List<Card> AddRequiredCards(this IEnumerable<Card> cards)
         {
             return cards.Concat(PresetGames.VictoryAndTreasures())
                 .Concat(cards.Select(c => c.RequiredCards).Where(c => c != null).Distinct()).ToList();

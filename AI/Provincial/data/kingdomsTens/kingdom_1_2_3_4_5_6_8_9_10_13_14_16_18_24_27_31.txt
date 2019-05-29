@@ -1,0 +1,13 @@
+7
+16
+11
+7
+Duchy 10
+Province 12
+Gardens 8
+Gold 13
+Woodcutter 6
+Copper 12
+Festival 3
+Thief 8
+Festival 8

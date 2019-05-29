@@ -1,0 +1,15 @@
+4
+11
+8
+4
+Gold 103
+Silver 4
+Market 13
+Province 12
+Laboratory 7
+Silver 13
+Library 6
+Spy 10
+Feast 6
+Moat 8
+Moat 14

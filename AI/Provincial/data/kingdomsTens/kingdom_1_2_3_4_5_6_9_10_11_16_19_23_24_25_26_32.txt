@@ -1,0 +1,16 @@
+0
+17
+6
+5
+Gold 104
+Chapel 1
+Silver 11
+CouncilRoom 10
+Spy 5
+Moneylender 1
+Province 6
+Silver 10
+Bureaucrat 3
+Smithy 12
+Duchy 6
+Province 8

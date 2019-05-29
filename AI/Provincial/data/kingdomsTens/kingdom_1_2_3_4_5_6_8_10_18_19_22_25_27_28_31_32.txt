@@ -1,0 +1,17 @@
+6
+16
+6
+4
+Gold 103
+Silver 12
+Market 3
+Duchy 7
+Province 11
+Province 5
+ThroneRoom 2
+Workshop 8
+Duchy 7
+Copper 3
+Cellar 11
+Thief 1
+Silver 9

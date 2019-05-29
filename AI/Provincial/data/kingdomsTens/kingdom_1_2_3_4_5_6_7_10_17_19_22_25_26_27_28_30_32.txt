@@ -1,0 +1,16 @@
+2
+14
+6
+3
+Province 12
+Gold 10
+Smithy 1
+Silver 14
+Gold 10
+Spy 5
+Spy 8
+Gold 8
+ThroneRoom 101
+Gold 3
+Moat 5
+Estate 10

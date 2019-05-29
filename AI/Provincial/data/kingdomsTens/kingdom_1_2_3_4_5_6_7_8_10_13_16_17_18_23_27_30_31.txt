@@ -1,0 +1,13 @@
+3
+17
+16
+5
+Province 14
+Thief 2
+Gold 100
+Witch 11
+Silver 12
+Woodcutter 1
+Woodcutter 7
+Adventurer 7
+Festival 12

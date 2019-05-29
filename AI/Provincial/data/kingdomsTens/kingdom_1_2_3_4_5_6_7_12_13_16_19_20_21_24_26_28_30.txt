@@ -1,0 +1,17 @@
+6
+18
+8
+8
+Gold 102
+Feast 1
+Witch 8
+Province 6
+Market 10
+Silver 16
+ThroneRoom 4
+Militia 6
+Silver 9
+Copper 5
+Spy 3
+Chapel 4
+Duchy 3

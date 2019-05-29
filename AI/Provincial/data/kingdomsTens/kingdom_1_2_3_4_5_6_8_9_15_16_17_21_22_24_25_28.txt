@@ -1,0 +1,16 @@
+2
+11
+6
+6
+Gold 6
+Silver 5
+Smithy 5
+Gold 99
+Mine 4
+Moat 4
+Silver 14
+Duchy 13
+Silver 8
+Adventurer 10
+Chapel 2
+Laboratory 5

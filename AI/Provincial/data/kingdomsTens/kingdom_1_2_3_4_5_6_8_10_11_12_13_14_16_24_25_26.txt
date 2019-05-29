@@ -1,0 +1,16 @@
+0
+8
+8
+8
+Gold 5
+Province 3
+CouncilRoom 4
+Silver 14
+Gold 104
+Province 11
+Copper 2
+Feast 13
+Remodel 9
+Adventurer 8
+Silver 12
+Cellar 11

@@ -1,0 +1,17 @@
+2
+15
+5
+3
+Gold 99
+Laboratory 5
+Silver 6
+Moat 11
+Silver 10
+Moat 3
+Duchy 11
+Thief 8
+Cellar 11
+Witch 12
+Province 11
+Silver 11
+Silver 14

@@ -1,0 +1,15 @@
+2
+11
+8
+8
+Gold 5
+Gold 101
+Witch 9
+Gold 15
+Silver 13
+Province 6
+Laboratory 10
+CouncilRoom 9
+Gold 3
+Militia 5
+Copper 12

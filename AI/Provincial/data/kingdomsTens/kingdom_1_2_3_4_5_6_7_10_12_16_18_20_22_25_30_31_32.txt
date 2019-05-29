@@ -1,0 +1,17 @@
+2
+15
+8
+8
+Gold 11
+Witch 3
+Province 12
+Gold 104
+Silver 13
+Copper 6
+Feast 3
+Cellar 5
+Gold 11
+Woodcutter 2
+Smithy 11
+Duchy 12
+Curse 7

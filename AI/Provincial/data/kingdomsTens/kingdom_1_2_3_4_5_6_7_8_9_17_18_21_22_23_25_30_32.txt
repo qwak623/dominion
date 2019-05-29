@@ -1,0 +1,14 @@
+5
+12
+8
+6
+Gold 100
+Silver 16
+Bureaucrat 6
+Moat 7
+Province 5
+Laboratory 14
+Smithy 12
+Silver 9
+Mine 8
+Copper 8

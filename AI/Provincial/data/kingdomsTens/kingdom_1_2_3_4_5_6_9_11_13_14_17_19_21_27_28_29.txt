@@ -1,0 +1,16 @@
+5
+8
+8
+8
+Market 2
+Province 9
+Silver 6
+Gardens 11
+Duchy 9
+Festival 10
+ThroneRoom 6
+CouncilRoom 9
+Gold 11
+Gold 99
+Silver 11
+Silver 4

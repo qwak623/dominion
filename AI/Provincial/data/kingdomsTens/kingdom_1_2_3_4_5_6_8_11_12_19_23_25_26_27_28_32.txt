@@ -1,0 +1,12 @@
+5
+11
+7
+5
+Gold 103
+Silver 12
+Feast 5
+Copper 12
+Workshop 7
+Thief 8
+Estate 9
+Spy 11

@@ -1,0 +1,17 @@
+6
+8
+6
+6
+Market 4
+Silver 9
+Province 7
+Gold 14
+Market 5
+Mine 10
+Bureaucrat 7
+Silver 14
+Mine 7
+Moneylender 11
+Chapel 6
+Estate 10
+Gold 101

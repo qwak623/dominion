@@ -1,0 +1,18 @@
+1
+13
+8
+8
+Gardens 8
+Duchy 8
+Gold 8
+Laboratory 5
+Militia 6
+Silver 11
+Gold 103
+Gold 2
+Woodcutter 7
+Copper 10
+Gold 10
+Workshop 6
+Estate 8
+Silver 6

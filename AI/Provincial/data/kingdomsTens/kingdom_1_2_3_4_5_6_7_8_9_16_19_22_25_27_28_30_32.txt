@@ -1,0 +1,17 @@
+1
+10
+8
+8
+Province 7
+Gold 100
+Gold 5
+Gold 1
+Gold 2
+Witch 9
+Silver 11
+Adventurer 3
+Market 11
+Smithy 11
+Thief 4
+Witch 12
+Silver 11

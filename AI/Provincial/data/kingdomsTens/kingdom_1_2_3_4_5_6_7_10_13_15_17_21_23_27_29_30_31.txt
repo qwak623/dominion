@@ -1,0 +1,14 @@
+1
+12
+6
+6
+Gold 7
+Silver 11
+Cellar 6
+Mine 13
+Gold 102
+Woodcutter 3
+Duchy 6
+Chancellor 14
+Silver 10
+Moneylender 8

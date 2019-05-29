@@ -1,0 +1,15 @@
+4
+12
+8
+8
+Gold 102
+Silver 16
+Gold 5
+Moat 2
+Silver 11
+Moat 13
+Estate 7
+Feast 11
+Festival 3
+Estate 7
+Moneylender 9

@@ -1,0 +1,17 @@
+6
+12
+8
+6
+Bureaucrat 2
+Gold 100
+Silver 12
+Remodel 5
+Remodel 8
+Bureaucrat 10
+Copper 6
+Duchy 12
+Workshop 6
+Province 9
+Smithy 4
+Cellar 6
+Cellar 9

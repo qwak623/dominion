@@ -1,0 +1,16 @@
+1
+11
+12
+8
+Province 8
+Gold 102
+Duchy 7
+Witch 3
+Silver 12
+Gold 13
+Feast 11
+Witch 9
+Village 7
+Silver 6
+Woodcutter 4
+Adventurer 6

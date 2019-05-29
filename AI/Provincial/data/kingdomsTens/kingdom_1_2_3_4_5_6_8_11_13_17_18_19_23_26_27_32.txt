@@ -1,0 +1,16 @@
+2
+14
+16
+8
+Gold 7
+Laboratory 9
+Adventurer 10
+Spy 10
+Silver 10
+Thief 15
+Gold 100
+Library 2
+Market 6
+Thief 11
+Adventurer 7
+Moneylender 10

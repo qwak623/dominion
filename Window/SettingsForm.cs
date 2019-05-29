@@ -1,11 +1,9 @@
-﻿using AI.Provincial.Evolution;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
-using AI.Provincial.PlayAgenda;
 using GameCore.Cards;
-using System.Linq;
 using GameCore;
+using AI.Evolution;
 
 namespace Window
 {
@@ -28,7 +26,7 @@ namespace Window
         private void ProvincialShow(object sender, EventArgs e)
         {
             // todo label napis neco jako toto kingdom jeste nema vygenerovanou inteligenci
-            var agenda = BuyAgenda.Load(kingdom) ?? BuyAgenda.GetRandom(kingdom);
+            var agenda = BuyAgenda.Load(kingdom, "KingdomTens") ?? BuyAgenda.GetRandom(kingdom);
         }
 
         private void Run(object sender, EventArgs e)

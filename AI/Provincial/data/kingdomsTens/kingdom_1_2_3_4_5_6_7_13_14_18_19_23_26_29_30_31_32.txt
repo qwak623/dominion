@@ -1,0 +1,16 @@
+4
+11
+8
+8
+Witch 5
+Duchy 11
+Silver 3
+Gardens 12
+Silver 8
+Duchy 6
+Library 7
+Woodcutter 8
+Spy 2
+Copper 3
+Gold 99
+Estate 8

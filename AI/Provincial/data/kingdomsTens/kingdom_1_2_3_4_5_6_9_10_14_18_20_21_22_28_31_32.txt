@@ -1,0 +1,17 @@
+5
+16
+14
+8
+Gardens 10
+Gold 9
+Province 4
+Library 1
+Woodcutter 4
+Bureaucrat 9
+Gold 12
+Militia 9
+Copper 11
+Gold 101
+Library 9
+Gold 7
+Estate 9

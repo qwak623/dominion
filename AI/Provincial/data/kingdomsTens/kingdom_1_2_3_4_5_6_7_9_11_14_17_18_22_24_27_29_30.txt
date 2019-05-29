@@ -1,0 +1,15 @@
+4
+15
+7
+7
+Gold 100
+Silver 10
+Duchy 8
+Village 9
+Silver 12
+Gold 4
+Province 7
+Moat 12
+Library 8
+Bureaucrat 9
+Laboratory 7

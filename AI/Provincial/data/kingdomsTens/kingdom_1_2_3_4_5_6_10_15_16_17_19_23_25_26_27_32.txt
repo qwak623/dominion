@@ -1,0 +1,16 @@
+6
+8
+7
+5
+Gold 101
+Laboratory 5
+Laboratory 1
+Province 5
+Silver 8
+Chapel 3
+Market 4
+Cellar 2
+Estate 11
+Chancellor 3
+Copper 6
+Thief 5

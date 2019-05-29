@@ -1,0 +1,16 @@
+7
+11
+8
+8
+Province 6
+Gold 100
+Silver 11
+Silver 7
+Mine 7
+Duchy 9
+Village 1
+ThroneRoom 3
+Market 12
+Moneylender 10
+Village 9
+Market 7

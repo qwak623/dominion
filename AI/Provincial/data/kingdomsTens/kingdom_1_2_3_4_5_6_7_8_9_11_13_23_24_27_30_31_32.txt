@@ -1,0 +1,14 @@
+0
+14
+8
+8
+Witch 2
+Gold 7
+Adventurer 17
+Silver 11
+Province 4
+Duchy 7
+Duchy 10
+Moneylender 4
+Festival 103
+Gold 10

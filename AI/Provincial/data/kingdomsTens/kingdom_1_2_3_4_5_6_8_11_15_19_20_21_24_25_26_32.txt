@@ -1,0 +1,14 @@
+3
+12
+9
+8
+Gold 13
+Militia 6
+Spy 12
+Adventurer 5
+Province 9
+Silver 14
+Smithy 7
+CouncilRoom 8
+Spy 5
+Duchy 11

@@ -12,17 +12,17 @@ namespace GameCore
         public abstract Card SelectCardToGain(KingdomWrapper wrapper, PlayerState ps, Kingdom k, Phase phase);
 
         #region cards base
-        public abstract IEnumerable<Card> CellarDiscard(PlayerState ps, Kingdom k);
+        public abstract List<Card> CellarDiscard(PlayerState ps, Kingdom k);
 
         public abstract Card BureaucratDiscard(PlayerState ps, Kingdom k);
 
         public abstract bool ChancellorDiscard(PlayerState ps, Kingdom k);
 
-        public abstract IEnumerable<Card> ChapelTrash(PlayerState ps, Kingdom k);
+        public abstract List<Card> ChapelTrash(PlayerState ps, Kingdom k);
 
         public abstract bool LibrarySkip(PlayerState ps, Kingdom k, Card c);
 
-        public abstract IEnumerable<Card> MilitiaDiscard(PlayerState ps, Kingdom k, int discardCount);
+        public abstract List<Card> MilitiaDiscard(PlayerState ps, Kingdom k, int discardCount);
 
         public abstract Card MineTrash(PlayerState ps, Kingdom k);
 

@@ -1,0 +1,14 @@
+1
+10
+8
+6
+Province 1
+Gold 101
+Bureaucrat 3
+Silver 11
+Gold 10
+Feast 11
+Moat 7
+Silver 10
+Estate 6
+Duchy 2

@@ -83,15 +83,15 @@ namespace GameCore
         #region cards base
         public override Card BureaucratDiscard(PlayerState ps, Kingdom k) => Choose(ps.Hand.Where(c => c.IsVictory), ps, k, 1, 1, Phase.Attack, Bureaucrat.Get()).Single();
 
-        public override IEnumerable<Card> CellarDiscard(PlayerState ps, Kingdom k) => Choose(ps.Hand, ps, k, 0, ps.Hand.Count, Phase.Action, Cellar.Get());
+        public override List<Card> CellarDiscard(PlayerState ps, Kingdom k) => Choose(ps.Hand, ps, k, 0, ps.Hand.Count, Phase.Action, Cellar.Get()).ToList();
 
         public override bool ChancellorDiscard(PlayerState ps, Kingdom k) => Choose(ps, k, Phase.Action, "Do", "Don't", Chancellor.Get());
 
-        public override IEnumerable<Card> ChapelTrash(PlayerState ps, Kingdom k) => Choose(ps.Hand, ps, k, 0, 4, Phase.Action, Chapel.Get());
+        public override List<Card> ChapelTrash(PlayerState ps, Kingdom k) => Choose(ps.Hand, ps, k, 0, 4, Phase.Action, Chapel.Get()).ToList();
 
         public override bool LibrarySkip(PlayerState ps, Kingdom k, Card c) => Choose(ps, k, Phase.Action, $"Skip {c.Name}", $"Keep {c.Name}", Library.Get());
 
-        public override IEnumerable<Card> MilitiaDiscard(PlayerState ps, Kingdom k, int discardCount) => Choose(ps.Hand, ps, k, discardCount, discardCount, Phase.Attack, Militia.Get());
+        public override List<Card> MilitiaDiscard(PlayerState ps, Kingdom k, int discardCount) => Choose(ps.Hand, ps, k, discardCount, discardCount, Phase.Attack, Militia.Get()).ToList();
 
         public override Card MineTrash(PlayerState ps, Kingdom k) => Choose(ps.Hand.Where(c => c.IsTreasure), ps, k, 0, 1, Phase.Action, Mine.Get()).SingleOrDefault();
 

@@ -7,6 +7,8 @@ using System.Linq;
 using GameCore;
 using GameCore.Cards;
 using System.Threading.Tasks;
+using System.IO;
+using Utils;
 
 namespace Window
 {
@@ -23,6 +25,8 @@ namespace Window
         public GameForm()
         {
             InitializeComponent();
+            MaximumSize = Size;
+            MinimumSize = Size;
         }
 
         #region Game 
@@ -39,12 +43,12 @@ namespace Window
             gameParams.Save();
             var cards = gameParams.Cards.AddRequiredCards();
 
-            var human = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job, "Kaca");
-            var friend = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job, "Honza");
-            var ai = aiParams.GetUser(cards);
+            //var human = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job, "Kaca");
+            var human = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job, "Honza");
+            var ai = aiParams.GetUser(cards, "KingdomsTens");
             //var ai = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.Load(cards, "honza"));
 
-            Game game = new Game(new User[] { human, friend}, cards.GetKingdom(2), new WindowLogger(Log));
+            Game game = new Game(new User[] { ai, human }, cards.GetKingdom(2), new WindowLogger(Log));
             task = game.Play().ContinueWith((results) => EnableNextGame(results));
         }
 
@@ -350,6 +354,7 @@ namespace Window
         void SetKingdom_Click(object sender, EventArgs e)
         {
             SetKingdomPanel.Show();
+            GamePanel.Hide();
             ShowCurrentKingdomCards();
             ShowExtensionCards();
         }
@@ -395,6 +400,8 @@ namespace Window
 
         void ShowCurrentKingdomCards()
         {
+            gameParams.Cards = gameParams.Cards.OrderBy(a => a.Price).ThenBy(a => a.Name).ToList();
+
             CurrentKingdomPanel.Controls.Clear();
             CurrentKingdomPanel.Controls.Add(CurrentKingdomLabel);
 
@@ -459,10 +466,48 @@ namespace Window
                 .OrderBy(a => a.r)
                 .Take(10)
                 .Select(((int type, double) a) => Card.Get((CardType)a.type))
+                .OrderBy(a => a.Price)
+                .ThenBy(a => a.Name)
                 .ToList();
 
             ShowCurrentKingdomCards();
             ShowExtensionCards();
+        }
+
+        void SetPrecomputedRandomGame(object sender, EventArgs e)
+        {
+            DirectoryInfo dir = new DirectoryInfo("..\\..\\..\\AI\\Provincial\\data\\kingdomsTens");
+            FileInfo[] files = dir.GetFiles("kingdom_*.txt"); 
+
+            var rnd = new ThreadSafeRandom();
+            int i = rnd.Next(files.Length);
+
+            try
+            {
+                gameParams.Cards = files[i].Name
+                    .Remove(files[i].Name.Length - 4)
+                    .Substring(8).Split('_')
+                    .Select(a => int.Parse(a))
+                    .Where(a => a > 7)
+                    .Select(a => Card.Get((CardType)a))
+                    .OrderBy(a => a.Price)
+                    .ThenBy(a => a.Name)
+                    .ToList();
+            }
+            catch (Exception)
+            {
+            }
+
+            ShowCurrentKingdomCards();
+            ShowExtensionCards();
+        }
+
+        void MarkKingdom(object sender, EventArgs e)
+        {
+            using(StreamWriter writer = File.AppendText("..\\..\\..\\AI\\Provincial\\data\\weakKingdom.txt"))
+            {
+                writer.WriteLine(gameParams.Cards.AddRequiredCards().OrderBy(c => c.Type).Select(c => (int)c.Type).Aggregate("kingdom", (a, b) => a + "_" + b));
+            }
         }
         #endregion
     }

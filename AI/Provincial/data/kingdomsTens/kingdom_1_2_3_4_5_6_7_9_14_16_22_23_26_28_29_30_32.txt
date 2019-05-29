@@ -1,0 +1,15 @@
+7
+13
+8
+8
+Bureaucrat 4
+Gardens 10
+Gardens 6
+Gold 99
+Duchy 5
+Silver 14
+Gardens 6
+Moneylender 7
+Silver 15
+ThroneRoom 6
+Workshop 5

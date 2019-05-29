@@ -1,0 +1,15 @@
+6
+12
+8
+8
+Adventurer 2
+Silver 4
+Gold 100
+Silver 12
+Militia 7
+Chapel 11
+Estate 8
+Province 11
+Silver 11
+Festival 9
+Chancellor 9

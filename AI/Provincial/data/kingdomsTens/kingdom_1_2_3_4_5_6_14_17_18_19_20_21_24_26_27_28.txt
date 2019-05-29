@@ -1,0 +1,14 @@
+5
+12
+7
+6
+Gold 5
+Library 11
+Province 15
+Market 2
+Silver 11
+Gold 101
+Militia 7
+Thief 14
+Laboratory 6
+Militia 13

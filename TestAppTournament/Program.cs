@@ -1,12 +1,8 @@
-﻿using AI.Provincial.Evolution;
-using AI.Provincial.PlayAgenda;
+﻿using AI.Evolution;
+using AI.Provincial;
 using GameCore;
 using GameCore.Cards;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using static System.Console;
 
 namespace TestApp

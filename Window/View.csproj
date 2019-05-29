@@ -101,6 +101,10 @@
       <Project>{f3219f54-ddee-42af-a417-7e9670953046}</Project>
       <Name>GameCore</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Utils\Utils.csproj">
+      <Project>{6eb4025f-2a8d-4185-b526-0cd33d367be4}</Project>
+      <Name>Utils</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.ValueTuple">

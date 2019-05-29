@@ -1,0 +1,17 @@
+5
+19
+7
+5
+Gold 101
+Province 2
+Silver 9
+Laboratory 9
+Moat 8
+Silver 11
+Duchy 8
+Laboratory 3
+Province 8
+Estate 9
+Smithy 7
+Workshop 7
+Estate 7

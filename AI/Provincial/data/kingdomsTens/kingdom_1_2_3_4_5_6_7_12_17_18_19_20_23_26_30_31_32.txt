@@ -1,0 +1,17 @@
+1
+15
+15
+7
+Witch 3
+Gold 102
+Province 11
+Silver 4
+Market 11
+Province 7
+Silver 10
+Witch 10
+Gold 7
+Spy 9
+Militia 5
+Spy 7
+Moneylender 13

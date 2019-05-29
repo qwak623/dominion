@@ -1,0 +1,16 @@
+3
+9
+5
+5
+Province 10
+Gold 99
+Laboratory 10
+Militia 3
+Silver 10
+Silver 12
+Adventurer 11
+Village 3
+Mine 7
+Village 5
+Village 12
+ThroneRoom 9

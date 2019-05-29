@@ -1,0 +1,15 @@
+4
+16
+8
+8
+Witch 7
+Duchy 5
+Silver 12
+Feast 9
+Province 6
+Feast 9
+Silver 3
+Feast 4
+Market 7
+Gold 103
+Remodel 8

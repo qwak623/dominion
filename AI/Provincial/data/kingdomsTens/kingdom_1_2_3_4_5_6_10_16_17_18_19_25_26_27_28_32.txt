@@ -1,0 +1,14 @@
+5
+15
+6
+5
+Gold 10
+Silver 13
+Chapel 6
+Spy 7
+Estate 7
+Copper 6
+Cellar 7
+Silver 9
+Duchy 4
+Market 1

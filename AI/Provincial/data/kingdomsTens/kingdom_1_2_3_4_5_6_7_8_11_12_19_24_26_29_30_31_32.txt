@@ -1,0 +1,12 @@
+6
+9
+13
+7
+Province 12
+Witch 7
+Gold 107
+CouncilRoom 12
+Silver 12
+Adventurer 5
+Silver 10
+Woodcutter 12

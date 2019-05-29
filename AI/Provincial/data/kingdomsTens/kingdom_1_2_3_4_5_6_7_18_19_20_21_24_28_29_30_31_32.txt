@@ -1,0 +1,18 @@
+5
+15
+8
+8
+Witch 6
+Duchy 6
+Silver 9
+Estate 6
+Remodel 10
+Copper 8
+Curse 4
+Silver 8
+Mine 5
+Province 12
+Militia 11
+Silver 15
+Gold 100
+Duchy 10

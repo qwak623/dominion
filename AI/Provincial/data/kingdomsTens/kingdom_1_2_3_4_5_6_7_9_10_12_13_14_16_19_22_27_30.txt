@@ -1,0 +1,17 @@
+2
+11
+8
+4
+Bureaucrat 1
+Gold 8
+Festival 13
+Province 9
+Silver 7
+Gardens 9
+Market 14
+Moat 5
+Thief 9
+Moat 2
+Gold 103
+Silver 11
+Duchy 11

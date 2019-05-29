@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Utils;
 
 namespace GameCore
 {
@@ -30,95 +31,85 @@ namespace GameCore
         {
             return Task.Run(() =>
             {
-                try
+                // random needs to be instantiated and used in the same thread
+                var rnd = new ThreadSafeRandom();
+
+                Players = users.Select(u => new Player(this, u, rnd)).ToList();
+                Logger?.Log("New game has started.");
+
+                // intitial drawing
+                Players.ForEach(player => player.Draw(drawCount));
+
+                // player index
+                int i = 0, round = 0;
+
+                // one turn of one player
+                while (true)
                 {
-                    // random needs to be instantiated and used in the same thread
-                    var rnd = new ThreadSafeRandom();
+                    Logger?.Log("\n");
+                    if (i == 0)
+                        Logger?.Log($"Round {round}:");
+                    Logger?.Log($"Action phase");
+                    Logger?.Log("Hand: " + string.Join(", ", Players[i].ps.Hand.Select(c => c.Name)));
 
-                    Players = users.Select(u => new Player(this, u, rnd)).ToList();
-                    Logger?.Log("New game has started.");
+                    Players[i].ps.Buys = 1;
+                    Players[i].ps.Actions = 1;
+                    Players[i].ps.Coins = 0;
 
-                    // intitial drawing
-                    foreach (var player in Players)
-                        player.Draw(drawCount);
+                    // action phase
+                    Card card;
+                    do
+                        card = Players[i].PlayCard();
+                    while (card != null);
 
-                    // player index
-                    int i = 0;
-                    int round = 0;
+                    // treasure phase
+                    Players[i].PlayTreasure();
 
-                    // one turn of one player
-                    while (true)
+                    Logger?.Log($"Buy phase");
+                    Logger?.Log("Hand: " + string.Join(", ", Players[i].ps.Hand.Select(c => c.Name)));
+                    Logger?.Log($"{Players[i].Name} has ${Players[i].ps.Coins}.");
+
+                    // buy phase
+                    do
+                        card = Players[i].Buy();
+                    while (card != null);
+
+                    // cleanup phase
+                    Players[i].Cleanup();
+
+                    // draw phase
+                    Players[i].Draw(drawCount);
+
+                    GameEnd = isGameEnd();
+                    if (GameEnd)
                     {
-                        Logger?.Log("\n");
-                        if (i == 0)
-                            Logger?.Log($"Round {round}:");
-                        Logger?.Log($"Action phase");
-                        Logger?.Log("Hand: " + string.Join(", ", Players[i].ps.Hand.Select(c => c.Name)));
-
-                        Players[i].ps.Buys = 1;
-                        Players[i].ps.Actions = 1;
-                        Players[i].ps.Coins = 0;
-
-                        // action phase
-                        Card card;
-                        do
-                            card = Players[i].PlayCard();
-                        while (card != null);
-
-                        // treasure phase
-                        Players[i].PlayTreasure();
-
-                        Logger?.Log($"Buy phase");
-                        Logger?.Log("Hand: " + string.Join(", ", Players[i].ps.Hand.Select(c => c.Name)));
-                        Logger?.Log($"{Players[i].Name} has ${Players[i].ps.Coins}.");
-
-                        // buy phase
-                        do
-                            card = Players[i].Buy();
-                        while (card != null);
-
-                        // cleanup phase
-                        Players[i].Cleanup();
-
-                        // draw phase
-                        Players[i].Draw(drawCount);
-
-                        GameEnd = isGameEnd();
-                        if (GameEnd)
+                        Logger?.Log("\r\n\tResults:");
+                        foreach (Player player in Players.OrderBy(p => p.VictoryPoints))
+                            Logger?.Log($"{player.Name} has {player.VictoryPoints}.");
+                        return new GameResults
                         {
-                            Logger?.Log("\r\n\tResults:");
-                            foreach (Player player in Players.OrderBy(p => p.VictoryPoints))
-                                Logger?.Log($"{player.Name} has {player.VictoryPoints}.");
-                            return new GameResults
-                            {
-                                Players = Players,
-                                Score = Players.Select(p => p.VictoryPoints).ToList()
-                            };
-                        }
-
-                        // next player
-                        i = (i + 1) % Players.Count;
-
-                        // stopping too long games
-                        if (i == 0)
-                            round++;
-                        if (round >= maxRounds)
-                        {
-                            Logger?.Log("\r\nGame was terminated, number of rounds exceeded 50.");
-                            foreach (Player player in Players.OrderBy(p => p.VictoryPoints))
-                                Logger?.Log($"{player.Name} has {player.VictoryPoints}.");
-                            return new GameResults
-                            {
-                                Players = Players,
-                                Score = new List<int> { 0, 0 }
-                            };
-                        }
+                            Players = Players,
+                            Score = Players.Select(p => p.VictoryPoints).ToList()
+                        };
                     }
-                }
-                catch (System.Exception e) // TODO smazat ten try
-                {
-                    var str = e.StackTrace;
-                    throw e;
+
+                    // next player
+                    i = (i + 1) % Players.Count;
+
+                    // stopping too long games
+                    if (i == 0)
+                        round++;
+                    if (round >= maxRounds)
+                    {
+                        Logger?.Log("\r\nGame was terminated, number of rounds exceeded 50.");
+                        foreach (Player player in Players.OrderBy(p => p.VictoryPoints))
+                            Logger?.Log($"{player.Name} has {player.VictoryPoints}.");
+                        return new GameResults
+                        {
+                            Players = Players,
+                            Score = new List<int> { 0, 0 }
+                        };
+                    }
                 }
             });
         }

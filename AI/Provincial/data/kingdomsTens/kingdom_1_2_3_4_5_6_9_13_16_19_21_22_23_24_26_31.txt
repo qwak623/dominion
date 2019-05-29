@@ -1,0 +1,18 @@
+7
+13
+7
+6
+Gold 5
+Province 6
+Gold 102
+Province 9
+Silver 7
+Chapel 1
+Festival 8
+Silver 11
+Moat 7
+Festival 9
+Woodcutter 13
+Moneylender 3
+Bureaucrat 13
+Woodcutter 9

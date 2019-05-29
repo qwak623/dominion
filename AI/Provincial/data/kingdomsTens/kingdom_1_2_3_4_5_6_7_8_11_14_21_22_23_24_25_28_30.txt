@@ -1,0 +1,14 @@
+6
+11
+8
+8
+Province 11
+Gold 13
+Gold 103
+Witch 14
+Silver 10
+Mine 10
+Mine 1
+Silver 10
+Moneylender 1
+Duchy 4

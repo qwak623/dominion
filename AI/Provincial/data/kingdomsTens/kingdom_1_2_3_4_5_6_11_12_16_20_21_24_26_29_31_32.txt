@@ -1,0 +1,17 @@
+4
+13
+5
+3
+Chapel 1
+Gold 105
+Silver 10
+Woodcutter 9
+Province 14
+Copper 7
+Duchy 10
+Estate 2
+Workshop 11
+Province 8
+CouncilRoom 7
+Village 9
+Mine 7

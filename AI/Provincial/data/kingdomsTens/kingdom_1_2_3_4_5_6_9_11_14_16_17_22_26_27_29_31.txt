@@ -1,0 +1,16 @@
+5
+12
+7
+6
+Silver 1
+Gold 5
+Province 12
+Silver 10
+Bureaucrat 6
+Moat 6
+Gold 100
+Thief 6
+Spy 6
+Spy 8
+Estate 5
+Chapel 12

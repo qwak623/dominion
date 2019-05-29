@@ -2,9 +2,6 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Window
 {
@@ -39,8 +36,7 @@ namespace Window
             using (var writer = new StreamWriter(path))
             {
                 writer.WriteLine(AIType);
-                foreach (var card in Cards)
-                    writer.WriteLine(card.Type);
+                Cards.ForEach(card => writer.WriteLine(card.Type));
             }
         }
     }

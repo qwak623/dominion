@@ -1,0 +1,15 @@
+7
+11
+8
+8
+Gold 100
+Adventurer 5
+Witch 3
+Silver 10
+Duchy 11
+Cellar 3
+Curse 5
+Chancellor 6
+CouncilRoom 13
+Village 8
+Chancellor 11

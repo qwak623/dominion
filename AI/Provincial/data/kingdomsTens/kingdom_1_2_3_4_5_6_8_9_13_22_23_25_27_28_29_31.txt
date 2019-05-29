@@ -1,0 +1,16 @@
+2
+17
+6
+6
+Province 5
+Gold 101
+Smithy 3
+Silver 9
+Duchy 9
+ThroneRoom 8
+Moneylender 7
+Duchy 9
+Thief 1
+Silver 11
+Gold 9
+Village 7

@@ -1,0 +1,17 @@
+4
+14
+8
+8
+Province 8
+Province 7
+Witch 6
+Province 3
+Duchy 8
+Gold 102
+Adventurer 8
+Silver 12
+Chancellor 10
+Festival 7
+Thief 7
+Copper 10
+Silver 12

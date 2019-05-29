@@ -1,0 +1,16 @@
+2
+16
+6
+6
+Silver 9
+Gardens 11
+Silver 14
+Province 9
+Remodel 10
+Gardens 4
+Duchy 3
+Moneylender 10
+Moat 9
+Gold 6
+Gold 102
+Bureaucrat 14

@@ -1,0 +1,15 @@
+3
+10
+12
+8
+Gardens 13
+Witch 3
+Silver 13
+Gold 100
+Moneylender 11
+Spy 13
+Militia 6
+Cellar 2
+Estate 10
+Festival 7
+Copper 7

@@ -1,0 +1,17 @@
+4
+4
+17
+8
+Silver 10
+Duchy 5
+Copper 6
+Estate 6
+Chancellor 9
+Remodel 12
+Remodel 10
+Gold 99
+Cellar 9
+Smithy 7
+Village 6
+Chancellor 4
+Laboratory 5

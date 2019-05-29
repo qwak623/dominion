@@ -27,8 +27,7 @@
             if (defender.ps.Hand.Count <= 3)
                 return;
             var cards = defender.User.MilitiaDiscard(defender.ps, defender.Game.Kingdom, defender.ps.Hand.Count - 3);
-            foreach (var card in cards)
-                defender.Discard(card);
+            cards.ForEach(card => defender.Discard(card));
         }
 
     }

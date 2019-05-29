@@ -1,0 +1,15 @@
+5
+14
+13
+5
+Woodcutter 6
+Gardens 5
+Gardens 7
+Copper 7
+Estate 4
+Gold 12
+Estate 12
+Woodcutter 10
+Gold 100
+Cellar 4
+Silver 10

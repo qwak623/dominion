@@ -1,0 +1,17 @@
+7
+11
+8
+8
+Gold 8
+Witch 4
+Silver 9
+Village 3
+Province 6
+Workshop 2
+Gold 100
+Mine 8
+Library 8
+Copper 12
+Copper 7
+Spy 3
+Silver 12

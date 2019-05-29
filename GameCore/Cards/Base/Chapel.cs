@@ -26,9 +26,7 @@ namespace GameCore.Cards.Base
 
         protected override void ActionEffect(Player player)
         {
-            var selectedCards = player.User.ChapelTrash(player.ps, player.Game.Kingdom);
-            foreach (var card in selectedCards)
-                player.Trash(card);
+            player.User.ChapelTrash(player.ps, player.Game.Kingdom).ForEach(card => player.Trash(card));
         }
     }
 }

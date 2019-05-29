@@ -1,0 +1,15 @@
+6
+14
+8
+8
+Province 4
+Witch 2
+Silver 3
+Province 2
+Gold 100
+Silver 10
+Gardens 7
+Woodcutter 3
+Spy 9
+Festival 8
+Woodcutter 11

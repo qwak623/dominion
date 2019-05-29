@@ -1,0 +1,17 @@
+2
+15
+8
+8
+Silver 6
+Silver 15
+Duchy 8
+Woodcutter 7
+ThroneRoom 11
+Copper 6
+Gold 2
+Estate 1
+Cellar 4
+Workshop 10
+Cellar 5
+Silver 11
+Moneylender 102

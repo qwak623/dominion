@@ -1,0 +1,14 @@
+4
+12
+8
+8
+Library 2
+Gold 102
+Silver 8
+Copper 4
+Province 3
+Laboratory 12
+Moat 10
+Duchy 11
+Estate 9
+CouncilRoom 10

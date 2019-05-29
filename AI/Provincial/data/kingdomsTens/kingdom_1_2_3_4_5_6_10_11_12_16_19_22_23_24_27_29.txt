@@ -1,0 +1,17 @@
+2
+12
+8
+6
+Market 3
+Silver 7
+Silver 13
+Remodel 2
+Province 4
+Market 5
+Thief 4
+Thief 9
+Silver 9
+CouncilRoom 9
+Copper 4
+Silver 10
+Silver 2

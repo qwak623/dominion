@@ -1,0 +1,16 @@
+3
+12
+7
+7
+Silver 8
+Duchy 8
+Estate 102
+Duchy 8
+Moat 8
+Gold 7
+Village 5
+Estate 5
+Workshop 4
+Library 13
+Feast 11
+Thief 6

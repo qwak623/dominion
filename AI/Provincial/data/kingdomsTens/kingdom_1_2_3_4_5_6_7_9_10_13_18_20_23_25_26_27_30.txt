@@ -1,0 +1,16 @@
+5
+15
+8
+8
+Witch 12
+Duchy 11
+Copper 5
+Militia 11
+Province 8
+Festival 4
+Spy 8
+Estate 10
+Silver 13
+Thief 8
+Gold 100
+Province 3

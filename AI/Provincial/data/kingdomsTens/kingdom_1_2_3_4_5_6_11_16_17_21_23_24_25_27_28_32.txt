@@ -1,0 +1,20 @@
+7
+16
+6
+6
+Province 12
+Gold 101
+Chapel 1
+Silver 13
+Estate 3
+ThroneRoom 8
+Smithy 8
+Chapel 9
+Duchy 6
+Remodel 5
+Thief 7
+Copper 5
+CouncilRoom 4
+Estate 8
+Moneylender 4
+Silver 12

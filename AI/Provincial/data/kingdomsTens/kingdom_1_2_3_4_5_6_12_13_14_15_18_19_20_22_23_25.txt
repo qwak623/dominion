@@ -1,0 +1,17 @@
+7
+13
+8
+8
+Festival 4
+Duchy 12
+Gardens 12
+Market 8
+Library 11
+Moneylender 7
+Feast 8
+Silver 12
+Gold 100
+Militia 8
+Copper 10
+Moneylender 12
+Estate 8

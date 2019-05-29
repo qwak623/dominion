@@ -1,0 +1,15 @@
+5
+16
+6
+5
+Gold 101
+Silver 10
+Moat 9
+Market 5
+CouncilRoom 11
+Duchy 3
+CouncilRoom 5
+Province 9
+Province 7
+Duchy 6
+Silver 10

@@ -1,0 +1,16 @@
+6
+9
+8
+8
+Militia 4
+Gardens 11
+Duchy 7
+Silver 12
+Copper 12
+Remodel 3
+Adventurer 4
+Village 10
+Estate 4
+Chapel 9
+Workshop 5
+Gold 100

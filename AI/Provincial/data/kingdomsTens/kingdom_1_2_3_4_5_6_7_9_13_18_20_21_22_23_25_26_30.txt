@@ -1,0 +1,12 @@
+2
+10
+12
+8
+Province 102
+Library 13
+Gold 11
+Bureaucrat 5
+Silver 10
+Smithy 4
+Silver 11
+Duchy 10

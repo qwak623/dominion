@@ -1,0 +1,16 @@
+1
+11
+7
+6
+Province 11
+Gold 99
+Silver 10
+Gardens 8
+Province 7
+Gardens 5
+Moneylender 8
+Workshop 12
+Cellar 6
+Estate 6
+Laboratory 3
+Remodel 3

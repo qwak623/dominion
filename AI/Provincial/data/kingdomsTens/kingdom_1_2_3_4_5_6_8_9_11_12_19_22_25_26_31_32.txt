@@ -1,0 +1,15 @@
+7
+12
+7
+6
+Gold 104
+Adventurer 9
+Market 6
+Bureaucrat 9
+Silver 13
+Spy 1
+Feast 9
+Province 13
+Woodcutter 2
+Duchy 9
+CouncilRoom 13
