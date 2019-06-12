@@ -1,0 +1,18 @@
+4
+15
+8
+8
+Witch 7
+Duchy 5
+Silver 12
+Province 6
+Library 5
+Copper 7
+Witch 7
+Duchy 7
+Curse 2
+Estate 6
+Gold 100
+Village 7
+Workshop 9
+Silver 2

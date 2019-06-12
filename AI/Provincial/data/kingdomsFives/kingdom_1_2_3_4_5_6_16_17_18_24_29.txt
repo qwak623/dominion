@@ -1,0 +1,22 @@
+7
+12
+5
+3
+Province 11
+Gold 7
+Laboratory 10
+Library 2
+Library 6
+Silver 8
+Remodel 7
+Remodel 2
+Silver 10
+Gold 100
+Province 8
+Library 6
+Chapel 8
+Silver 10
+Copper 5
+Province 9
+Laboratory 3
+Chapel 9

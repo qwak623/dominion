@@ -1,0 +1,16 @@
+0
+14
+11
+8
+Woodcutter 5
+Duchy 100
+Gold 7
+Province 2
+Gold 3
+Duchy 4
+Duchy 8
+Copper 4
+Province 13
+Estate 11
+Feast 9
+Moneylender 10

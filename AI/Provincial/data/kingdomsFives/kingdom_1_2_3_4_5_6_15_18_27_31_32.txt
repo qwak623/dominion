@@ -1,0 +1,17 @@
+7
+17
+7
+5
+Gold 7
+Silver 12
+Copper 6
+Estate 101
+Gold 2
+Duchy 9
+Chancellor 11
+Thief 10
+Estate 8
+Woodcutter 8
+Thief 10
+Library 9
+Workshop 9

@@ -1,0 +1,16 @@
+7
+13
+14
+8
+Witch 8
+Gold 103
+Silver 14
+Silver 5
+Duchy 12
+Cellar 12
+Province 4
+Witch 7
+Province 2
+Chancellor 6
+Copper 9
+Gold 11

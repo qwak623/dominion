@@ -1,0 +1,15 @@
+5
+15
+12
+8
+Smithy 2
+Province 5
+Gardens 10
+Gold 2
+Gold 9
+Silver 7
+Gardens 101
+Silver 10
+Silver 10
+Copper 5
+Feast 10

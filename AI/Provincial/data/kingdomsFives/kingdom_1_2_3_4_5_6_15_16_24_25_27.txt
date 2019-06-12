@@ -1,0 +1,17 @@
+6
+16
+7
+4
+Gold 100
+Silver 13
+Silver 10
+Chapel 9
+Copper 9
+Province 1
+Remodel 8
+Smithy 5
+Silver 3
+Duchy 9
+Chancellor 6
+Thief 9
+Thief 3

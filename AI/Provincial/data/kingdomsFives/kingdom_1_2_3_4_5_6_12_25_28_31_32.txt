@@ -1,0 +1,18 @@
+3
+16
+7
+6
+Gold 7
+Province 4
+Silver 13
+Workshop 3
+Woodcutter 9
+Silver 8
+Province 9
+Woodcutter 2
+ThroneRoom 5
+Gold 99
+Copper 4
+Silver 8
+Estate 4
+ThroneRoom 5

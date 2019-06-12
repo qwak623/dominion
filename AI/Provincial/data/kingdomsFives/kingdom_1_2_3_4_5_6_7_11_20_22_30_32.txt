@@ -1,0 +1,19 @@
+7
+14
+8
+8
+Witch 2
+Silver 5
+Duchy 9
+Silver 13
+Moat 5
+Workshop 5
+CouncilRoom 100
+Silver 9
+Curse 9
+Duchy 11
+Duchy 6
+Province 7
+Silver 11
+CouncilRoom 12
+Witch 6

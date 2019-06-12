@@ -1,0 +1,18 @@
+4
+16
+8
+7
+Province 6
+Gold 13
+Silver 11
+CouncilRoom 10
+Adventurer 7
+Gold 1
+Chancellor 5
+Silver 8
+Duchy 3
+Copper 8
+Adventurer 4
+Copper 4
+Silver 6
+Gold 100

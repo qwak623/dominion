@@ -1,0 +1,15 @@
+5
+12
+7
+5
+Province 14
+Chancellor 1
+Gold 100
+Silver 14
+Woodcutter 17
+Duchy 4
+Gold 9
+Cellar 5
+Estate 10
+Province 7
+Copper 11

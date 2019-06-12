@@ -1,0 +1,17 @@
+5
+15
+8
+8
+Bureaucrat 5
+Duchy 6
+Feast 1
+Province 4
+Silver 5
+Estate 9
+Laboratory 9
+Gold 100
+Gold 4
+Province 13
+Silver 12
+Feast 1
+Village 12

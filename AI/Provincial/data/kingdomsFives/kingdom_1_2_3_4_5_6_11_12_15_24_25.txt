@@ -1,0 +1,21 @@
+5
+12
+7
+4
+Gold 8
+CouncilRoom 9
+Province 12
+Silver 3
+Silver 5
+Duchy 6
+CouncilRoom 8
+Feast 3
+Copper 4
+Feast 3
+Province 2
+Estate 6
+Smithy 11
+Gold 102
+Copper 9
+Duchy 5
+Chancellor 8

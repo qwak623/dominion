@@ -1,0 +1,16 @@
+6
+16
+7
+6
+Province 4
+Gold 1
+Gold 99
+Silver 9
+Moat 9
+Village 6
+Laboratory 12
+Silver 11
+Remodel 3
+Remodel 11
+Remodel 12
+Woodcutter 3

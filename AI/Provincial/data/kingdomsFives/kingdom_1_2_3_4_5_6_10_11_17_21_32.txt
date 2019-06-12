@@ -1,0 +1,16 @@
+7
+15
+7
+7
+Gold 9
+Mine 7
+Province 12
+Silver 12
+Workshop 8
+Cellar 6
+Duchy 9
+Laboratory 4
+Laboratory 2
+Silver 12
+Estate 4
+Copper 5

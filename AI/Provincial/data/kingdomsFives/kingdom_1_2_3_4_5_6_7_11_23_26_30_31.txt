@@ -1,0 +1,16 @@
+5
+17
+8
+8
+Witch 2
+Gold 6
+Silver 9
+Copper 3
+CouncilRoom 9
+Spy 9
+Duchy 5
+Spy 8
+Estate 7
+Estate 10
+Spy 100
+Curse 7

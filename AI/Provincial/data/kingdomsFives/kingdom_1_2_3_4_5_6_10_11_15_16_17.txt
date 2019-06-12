@@ -1,0 +1,15 @@
+2
+13
+5
+4
+Province 12
+Gold 7
+Gold 101
+CouncilRoom 1
+Silver 11
+Laboratory 4
+Copper 12
+Gold 3
+Chapel 6
+Estate 13
+Laboratory 6

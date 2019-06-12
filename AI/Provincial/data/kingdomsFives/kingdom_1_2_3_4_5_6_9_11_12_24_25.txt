@@ -1,0 +1,17 @@
+4
+16
+7
+6
+Bureaucrat 1
+Gold 102
+Province 9
+CouncilRoom 5
+Silver 4
+Smithy 11
+Silver 10
+CouncilRoom 5
+Bureaucrat 11
+Copper 3
+Estate 7
+Gold 8
+Remodel 9

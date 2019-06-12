@@ -1,0 +1,17 @@
+6
+16
+6
+5
+Gold 102
+Gold 9
+Gold 8
+Silver 13
+Spy 6
+Province 9
+Copper 8
+Market 9
+Estate 8
+Silver 13
+Duchy 7
+Gold 9
+Festival 9

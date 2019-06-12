@@ -1,0 +1,17 @@
+2
+12
+7
+6
+Gold 8
+Mine 2
+Gold 100
+Province 6
+Laboratory 3
+Silver 12
+Village 7
+Spy 2
+Mine 7
+Village 3
+Woodcutter 9
+Mine 8
+Spy 9

@@ -1,0 +1,19 @@
+0
+17
+18
+8
+Militia 3
+Gold 7
+Duchy 10
+Market 5
+Militia 3
+Silver 14
+Militia 8
+Copper 3
+Estate 2
+Festival 11
+Silver 11
+Silver 13
+Gold 102
+Market 3
+Village 10

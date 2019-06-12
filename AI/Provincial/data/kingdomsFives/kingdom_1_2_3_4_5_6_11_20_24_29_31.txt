@@ -1,0 +1,15 @@
+0
+12
+6
+6
+Province 7
+Gold 99
+Silver 8
+CouncilRoom 8
+Silver 12
+Woodcutter 4
+Remodel 8
+Duchy 13
+Duchy 4
+Province 8
+Village 7

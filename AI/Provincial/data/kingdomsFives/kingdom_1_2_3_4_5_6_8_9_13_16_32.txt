@@ -1,0 +1,17 @@
+6
+13
+7
+5
+Bureaucrat 1
+Gold 100
+Silver 12
+Copper 7
+Festival 5
+Silver 6
+Silver 11
+Chapel 5
+Chapel 5
+Festival 7
+Estate 8
+Festival 8
+Province 8

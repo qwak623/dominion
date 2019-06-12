@@ -1,0 +1,14 @@
+5
+14
+7
+4
+Province 5
+Gold 12
+Adventurer 2
+Mine 1
+Silver 5
+Silver 10
+Silver 104
+Chancellor 6
+Mine 1
+Cellar 13

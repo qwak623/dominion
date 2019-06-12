@@ -1,0 +1,17 @@
+0
+10
+7
+5
+Silver 4
+Province 10
+Province 7
+Gold 102
+Smithy 13
+Chancellor 6
+Copper 6
+Estate 12
+Copper 9
+Spy 8
+Chancellor 4
+Laboratory 9
+Gold 4

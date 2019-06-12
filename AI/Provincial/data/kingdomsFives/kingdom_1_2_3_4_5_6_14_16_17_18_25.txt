@@ -1,0 +1,13 @@
+0
+7
+5
+5
+Province 12
+Gold 102
+Province 13
+Gold 11
+Library 12
+Silver 8
+Silver 6
+Gardens 11
+Silver 16

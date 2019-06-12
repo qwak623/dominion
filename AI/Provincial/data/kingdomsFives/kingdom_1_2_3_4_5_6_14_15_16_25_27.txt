@@ -1,0 +1,15 @@
+5
+13
+7
+5
+Gold 104
+Province 8
+Thief 3
+Gold 7
+Silver 12
+Gardens 3
+Chancellor 13
+Duchy 11
+Smithy 12
+Thief 6
+Silver 2

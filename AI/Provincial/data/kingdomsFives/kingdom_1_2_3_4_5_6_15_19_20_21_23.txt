@@ -1,0 +1,16 @@
+7
+19
+8
+8
+Gold 11
+Market 10
+Market 5
+Militia 5
+Silver 3
+Chancellor 8
+Province 7
+Copper 6
+Duchy 8
+Duchy 4
+Mine 8
+Estate 5

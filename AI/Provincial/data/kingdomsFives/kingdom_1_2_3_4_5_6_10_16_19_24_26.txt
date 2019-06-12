@@ -1,0 +1,15 @@
+7
+13
+6
+6
+Gold 5
+Market 13
+Province 10
+Silver 4
+Silver 11
+Duchy 8
+Duchy 5
+Copper 1
+Remodel 10
+Remodel 1
+Spy 6

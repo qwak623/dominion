@@ -1,0 +1,11 @@
+4
+12
+6
+6
+Gold 10
+Laboratory 13
+Laboratory 6
+Festival 4
+Gold 105
+Silver 10
+Cellar 6

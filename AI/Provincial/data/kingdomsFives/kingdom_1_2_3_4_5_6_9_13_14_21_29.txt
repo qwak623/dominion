@@ -1,0 +1,18 @@
+0
+16
+8
+7
+Gold 100
+Bureaucrat 3
+Gardens 7
+Gold 6
+Silver 10
+Mine 7
+Copper 10
+Gold 10
+Estate 8
+Silver 7
+Festival 7
+Gold 2
+Village 5
+Duchy 6

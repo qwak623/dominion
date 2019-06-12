@@ -1,0 +1,13 @@
+4
+12
+7
+5
+Province 15
+Gold 9
+Adventurer 9
+Silver 13
+Spy 15
+Duchy 9
+Remodel 3
+Silver 3
+Spy 103

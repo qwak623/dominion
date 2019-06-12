@@ -1,0 +1,13 @@
+3
+17
+8
+7
+Gold 101
+Witch 8
+Province 10
+Festival 14
+Silver 14
+Province 6
+Cellar 10
+Estate 2
+Silver 11

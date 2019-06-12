@@ -1,0 +1,15 @@
+7
+10
+6
+3
+Gold 9
+Festival 10
+Gold 5
+Smithy 5
+Gold 101
+Province 13
+Province 8
+Festival 4
+Festival 5
+Adventurer 12
+Silver 11

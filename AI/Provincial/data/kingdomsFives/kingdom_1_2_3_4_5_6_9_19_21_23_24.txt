@@ -1,0 +1,15 @@
+2
+15
+7
+5
+Gold 101
+Gold 11
+Mine 13
+Silver 12
+Moneylender 13
+Province 7
+Duchy 7
+Silver 12
+Market 3
+Market 4
+Remodel 8

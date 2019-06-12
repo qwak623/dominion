@@ -1,0 +1,16 @@
+5
+17
+7
+7
+Province 10
+Gold 6
+Mine 11
+Gold 103
+Silver 13
+Bureaucrat 6
+Feast 5
+Silver 9
+Silver 4
+Copper 8
+Estate 4
+Chancellor 6

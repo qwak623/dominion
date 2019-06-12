@@ -1,0 +1,17 @@
+4
+10
+8
+8
+Bureaucrat 2
+Adventurer 8
+Festival 4
+Duchy 10
+Gold 100
+Silver 11
+Copper 4
+Province 4
+Estate 3
+Copper 4
+Workshop 1
+Moneylender 1
+Silver 8

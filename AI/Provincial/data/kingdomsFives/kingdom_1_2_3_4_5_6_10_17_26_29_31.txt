@@ -1,0 +1,13 @@
+3
+13
+8
+5
+Gold 103
+Laboratory 10
+Silver 11
+Silver 10
+Woodcutter 5
+Cellar 10
+Spy 6
+Estate 6
+Gold 14

@@ -1,0 +1,16 @@
+5
+16
+5
+4
+Gold 102
+Laboratory 10
+Province 7
+Festival 11
+Silver 12
+Mine 4
+Copper 6
+Gold 3
+Copper 6
+Chancellor 3
+Estate 7
+Duchy 5

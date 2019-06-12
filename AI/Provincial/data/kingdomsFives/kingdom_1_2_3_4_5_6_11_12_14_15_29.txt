@@ -1,0 +1,18 @@
+2
+9
+10
+8
+Gardens 6
+Duchy 12
+Feast 10
+Feast 9
+Duchy 6
+Silver 3
+Copper 4
+Duchy 9
+Estate 9
+Estate 8
+Gardens 102
+Estate 3
+Estate 11
+Chancellor 9

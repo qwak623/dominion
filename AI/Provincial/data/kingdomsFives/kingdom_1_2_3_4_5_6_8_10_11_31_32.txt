@@ -1,0 +1,17 @@
+2
+11
+7
+4
+Province 11
+Gold 100
+Silver 8
+CouncilRoom 11
+Woodcutter 11
+Gold 4
+Adventurer 3
+CouncilRoom 5
+Province 6
+Cellar 10
+Estate 2
+CouncilRoom 5
+Silver 5

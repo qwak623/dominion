@@ -1,0 +1,18 @@
+0
+13
+5
+5
+Gold 13
+Laboratory 8
+Silver 10
+Silver 2
+Laboratory 9
+Duchy 4
+Gold 101
+Cellar 6
+Bureaucrat 4
+Laboratory 4
+Gold 6
+Silver 11
+Cellar 4
+Gold 6

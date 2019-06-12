@@ -1,0 +1,17 @@
+5
+16
+8
+8
+Gold 5
+Gold 101
+Gold 5
+Library 9
+Silver 11
+Moneylender 4
+Duchy 7
+Silver 4
+Province 2
+Bureaucrat 5
+Laboratory 8
+Bureaucrat 8
+Village 6

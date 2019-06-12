@@ -1,0 +1,16 @@
+3
+10
+13
+8
+Gardens 13
+Woodcutter 7
+Estate 5
+Estate 7
+Copper 8
+Silver 11
+Gardens 9
+Estate 102
+Duchy 13
+Province 2
+Remodel 12
+Chancellor 10

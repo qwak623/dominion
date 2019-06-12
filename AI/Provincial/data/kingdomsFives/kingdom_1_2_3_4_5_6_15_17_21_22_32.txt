@@ -1,0 +1,13 @@
+6
+9
+20
+5
+Gold 100
+Silver 12
+Chancellor 3
+Moat 14
+Laboratory 7
+Laboratory 9
+Gold 11
+Silver 7
+Copper 4

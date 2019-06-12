@@ -1,0 +1,15 @@
+1
+12
+6
+5
+Gold 3
+Province 9
+Gold 101
+Silver 12
+Duchy 5
+Chapel 6
+Silver 13
+Workshop 5
+Workshop 5
+Curse 12
+Market 10

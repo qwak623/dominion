@@ -1,0 +1,12 @@
+4
+8
+6
+6
+Province 11
+Gold 10
+Festival 5
+Duchy 2
+Silver 18
+Duchy 9
+Gold 103
+Workshop 9

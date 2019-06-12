@@ -1,0 +1,16 @@
+1
+12
+8
+8
+Militia 5
+Gold 3
+Duchy 10
+Silver 13
+Chancellor 2
+Bureaucrat 11
+Militia 4
+Bureaucrat 12
+Moneylender 8
+Silver 6
+Gold 101
+Copper 12

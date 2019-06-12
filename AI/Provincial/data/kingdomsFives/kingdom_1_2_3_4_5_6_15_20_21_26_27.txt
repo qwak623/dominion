@@ -1,0 +1,16 @@
+4
+16
+19
+8
+Duchy 8
+Silver 4
+Province 8
+Province 7
+Gold 100
+Militia 6
+Silver 13
+Chancellor 6
+Thief 3
+Militia 4
+Spy 8
+Chancellor 4

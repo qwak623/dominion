@@ -1,0 +1,13 @@
+5
+17
+5
+5
+Gold 8
+Gold 5
+Province 99
+Laboratory 10
+Market 2
+Silver 6
+Silver 10
+Cellar 3
+Thief 3

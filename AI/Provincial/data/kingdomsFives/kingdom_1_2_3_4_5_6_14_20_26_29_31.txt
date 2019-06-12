@@ -1,0 +1,20 @@
+4
+16
+6
+4
+Gold 100
+Silver 11
+Province 6
+Gold 7
+Spy 12
+Copper 11
+Estate 7
+Militia 4
+Province 11
+Silver 11
+Spy 3
+Gardens 1
+Estate 6
+Woodcutter 7
+Militia 4
+Duchy 3

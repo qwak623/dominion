@@ -1,0 +1,17 @@
+4
+12
+8
+7
+Bureaucrat 3
+Gold 3
+Gold 9
+Festival 15
+Silver 8
+Copper 9
+Gold 11
+Thief 6
+Feast 9
+Duchy 13
+Duchy 101
+Feast 3
+Thief 9

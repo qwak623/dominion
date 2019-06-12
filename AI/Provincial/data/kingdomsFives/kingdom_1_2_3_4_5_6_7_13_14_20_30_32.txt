@@ -1,0 +1,20 @@
+1
+13
+10
+8
+Gold 4
+Duchy 4
+Gardens 6
+Gardens 13
+Witch 8
+Workshop 5
+Duchy 101
+Workshop 9
+Militia 11
+Festival 6
+Workshop 7
+Gold 9
+Festival 8
+Estate 5
+Estate 10
+Copper 9

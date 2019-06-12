@@ -1,0 +1,15 @@
+1
+9
+8
+8
+Province 102
+Witch 4
+Gold 9
+Silver 12
+Woodcutter 9
+Smithy 5
+Duchy 5
+Smithy 7
+Library 4
+Province 4
+Bureaucrat 8

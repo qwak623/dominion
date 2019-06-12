@@ -1,0 +1,16 @@
+7
+15
+7
+7
+Gold 101
+Silver 12
+Moat 4
+Silver 5
+Estate 12
+Province 6
+CouncilRoom 2
+Estate 14
+Estate 8
+CouncilRoom 11
+Chancellor 8
+Estate 10

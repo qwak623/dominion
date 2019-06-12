@@ -1,0 +1,17 @@
+1
+16
+6
+5
+Smithy 2
+Gold 104
+Silver 11
+Laboratory 7
+Province 8
+Laboratory 11
+Silver 5
+Copper 6
+Festival 6
+Gold 4
+Laboratory 4
+Smithy 3
+Duchy 5

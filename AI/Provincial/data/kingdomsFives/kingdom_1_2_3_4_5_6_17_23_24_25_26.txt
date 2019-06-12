@@ -1,0 +1,15 @@
+3
+15
+6
+4
+Gold 5
+Laboratory 11
+Silver 11
+Silver 6
+Copper 4
+Gold 7
+Remodel 4
+Estate 4
+Gold 100
+Province 10
+Province 6

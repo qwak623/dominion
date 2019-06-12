@@ -1,0 +1,15 @@
+2
+15
+8
+7
+Gold 10
+Mine 10
+Silver 8
+Province 7
+Gardens 5
+Province 2
+Festival 8
+Silver 14
+Festival 5
+Smithy 2
+Laboratory 10

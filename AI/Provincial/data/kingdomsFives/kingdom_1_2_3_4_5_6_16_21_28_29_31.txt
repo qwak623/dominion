@@ -1,0 +1,16 @@
+6
+7
+6
+5
+Province 10
+Gold 102
+Mine 5
+Silver 11
+Gold 8
+Silver 9
+Chapel 11
+Gold 5
+Woodcutter 4
+Mine 7
+Village 8
+ThroneRoom 3

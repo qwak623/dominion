@@ -1,0 +1,18 @@
+0
+13
+6
+6
+Gold 103
+Laboratory 10
+Province 3
+Province 4
+Gold 5
+Silver 12
+Gold 1
+Workshop 7
+Market 4
+Adventurer 7
+Duchy 11
+Copper 10
+Estate 10
+Silver 7

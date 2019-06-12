@@ -1,0 +1,18 @@
+4
+17
+8
+7
+Gold 5
+Gold 99
+Library 7
+Province 2
+Duchy 6
+Province 8
+Silver 12
+Silver 12
+ThroneRoom 8
+Duchy 4
+Province 8
+Silver 6
+Moneylender 5
+Province 6

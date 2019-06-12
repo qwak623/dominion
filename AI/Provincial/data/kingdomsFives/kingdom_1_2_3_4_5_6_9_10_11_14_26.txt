@@ -1,0 +1,14 @@
+4
+15
+7
+6
+Province 9
+Gold 101
+Silver 6
+Gardens 10
+Cellar 11
+Estate 8
+Spy 6
+CouncilRoom 7
+Duchy 9
+Province 3

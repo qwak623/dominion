@@ -1,0 +1,16 @@
+6
+10
+6
+8
+Festival 5
+Copper 3
+Gardens 10
+Estate 11
+Duchy 3
+Silver 14
+Copper 7
+Silver 5
+Remodel 10
+Market 7
+Gold 13
+Gold 99

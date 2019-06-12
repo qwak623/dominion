@@ -1,0 +1,17 @@
+7
+15
+8
+2
+Witch 11
+Gold 12
+Duchy 4
+Silver 9
+Estate 8
+Province 2
+Witch 9
+Province 9
+Witch 13
+Library 8
+Chancellor 9
+Estate 9
+Gold 99

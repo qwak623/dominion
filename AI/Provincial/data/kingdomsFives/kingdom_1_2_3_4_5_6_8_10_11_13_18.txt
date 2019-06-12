@@ -1,0 +1,14 @@
+1
+15
+6
+6
+Gold 6
+Silver 3
+CouncilRoom 7
+Library 10
+Gold 6
+Gold 100
+Duchy 8
+Library 6
+CouncilRoom 8
+Silver 9

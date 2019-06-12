@@ -1,0 +1,15 @@
+0
+13
+13
+8
+Province 10
+Province 9
+Gold 7
+Gardens 9
+Silver 11
+Moat 7
+Copper 7
+Estate 8
+Curse 9
+Witch 9
+Gold 101

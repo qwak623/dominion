@@ -1,0 +1,18 @@
+3
+18
+8
+8
+Gold 7
+Silver 16
+Copper 8
+Estate 3
+Gold 102
+Bureaucrat 4
+Copper 3
+Bureaucrat 9
+Moneylender 7
+Curse 10
+Duchy 6
+ThroneRoom 6
+Estate 12
+Curse 4

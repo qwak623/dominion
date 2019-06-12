@@ -1,0 +1,15 @@
+3
+11
+8
+6
+Silver 8
+Province 6
+Gardens 10
+Duchy 8
+Estate 9
+Mine 13
+Woodcutter 4
+Gold 99
+Silver 10
+Copper 4
+Thief 12

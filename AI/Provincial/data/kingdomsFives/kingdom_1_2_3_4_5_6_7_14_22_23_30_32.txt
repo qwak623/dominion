@@ -1,0 +1,15 @@
+2
+9
+6
+5
+Province 10
+Gold 102
+Silver 5
+Gold 2
+Duchy 4
+Gardens 12
+Workshop 5
+Silver 12
+Moat 13
+Estate 10
+Curse 5

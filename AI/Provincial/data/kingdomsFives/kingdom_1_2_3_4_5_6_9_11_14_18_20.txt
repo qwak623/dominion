@@ -1,0 +1,13 @@
+2
+15
+7
+7
+Province 7
+Gold 100
+CouncilRoom 2
+Silver 7
+CouncilRoom 5
+Militia 11
+Duchy 7
+Silver 15
+Bureaucrat 6

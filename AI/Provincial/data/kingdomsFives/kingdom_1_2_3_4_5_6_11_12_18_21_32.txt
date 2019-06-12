@@ -1,0 +1,14 @@
+7
+8
+6
+4
+Province 11
+Gold 102
+CouncilRoom 10
+Duchy 13
+Silver 11
+Silver 10
+Copper 10
+Feast 3
+Library 8
+Silver 11

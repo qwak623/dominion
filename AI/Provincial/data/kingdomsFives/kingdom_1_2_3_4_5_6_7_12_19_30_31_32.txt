@@ -1,0 +1,17 @@
+7
+13
+8
+8
+Witch 5
+Duchy 7
+Duchy 13
+Silver 11
+Copper 10
+Curse 5
+Woodcutter 6
+Province 7
+Estate 7
+Workshop 4
+Woodcutter 9
+Copper 4
+Woodcutter 10

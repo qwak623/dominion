@@ -1,0 +1,16 @@
+3
+5
+6
+8
+Witch 2
+Duchy 14
+Province 7
+Witch 6
+Silver 10
+Copper 2
+Estate 7
+Curse 4
+Silver 7
+Smithy 10
+Curse 99
+Curse 13

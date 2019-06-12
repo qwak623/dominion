@@ -1,0 +1,15 @@
+6
+8
+8
+5
+Moat 1
+Province 8
+Gold 101
+Silver 11
+Copper 2
+Gold 4
+Estate 10
+Silver 4
+Estate 2
+Woodcutter 5
+Militia 7

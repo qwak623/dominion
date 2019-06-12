@@ -1,0 +1,15 @@
+0
+14
+5
+4
+Province 5
+Gold 9
+Laboratory 6
+Militia 10
+Laboratory 3
+Silver 11
+CouncilRoom 6
+Moneylender 6
+Gold 99
+Duchy 12
+Silver 5

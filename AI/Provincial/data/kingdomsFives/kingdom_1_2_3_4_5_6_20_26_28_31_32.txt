@@ -1,0 +1,17 @@
+1
+12
+8
+7
+Province 4
+Province 6
+Gold 102
+Militia 6
+Province 13
+Silver 12
+Copper 4
+Estate 12
+Duchy 6
+Province 9
+Woodcutter 11
+ThroneRoom 12
+Silver 8

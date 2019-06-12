@@ -1,0 +1,16 @@
+3
+19
+6
+5
+Gold 101
+Province 12
+Market 8
+Bureaucrat 4
+Silver 10
+Chancellor 9
+Chancellor 2
+Woodcutter 7
+Silver 4
+Gold 8
+Duchy 12
+Moneylender 3

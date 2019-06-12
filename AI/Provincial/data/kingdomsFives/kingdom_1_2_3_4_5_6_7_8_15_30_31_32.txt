@@ -1,0 +1,14 @@
+0
+13
+14
+7
+Province 9
+Witch 3
+Gold 103
+Silver 11
+Silver 7
+Woodcutter 12
+Chancellor 8
+Copper 5
+Gold 10
+Estate 14

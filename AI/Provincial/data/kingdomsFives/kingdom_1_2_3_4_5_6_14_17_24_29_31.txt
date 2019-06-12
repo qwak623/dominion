@@ -1,0 +1,17 @@
+0
+16
+7
+3
+Gold 10
+Laboratory 6
+Silver 10
+Silver 5
+Village 12
+Woodcutter 9
+Gold 100
+Province 13
+Gardens 5
+Woodcutter 13
+Silver 11
+Gardens 8
+Gold 6

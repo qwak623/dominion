@@ -1,0 +1,16 @@
+2
+15
+8
+8
+Gold 6
+Adventurer 11
+Gold 100
+Adventurer 10
+Library 5
+Silver 13
+Cellar 5
+Province 3
+Copper 13
+Estate 11
+Militia 4
+Duchy 9

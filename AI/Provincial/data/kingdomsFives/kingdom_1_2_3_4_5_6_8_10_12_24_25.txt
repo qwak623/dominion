@@ -1,0 +1,16 @@
+3
+2
+20
+8
+Feast 6
+Copper 8
+Estate 8
+Estate 10
+Smithy 4
+Duchy 5
+Feast 13
+Province 6
+Gold 100
+Adventurer 8
+Adventurer 7
+Silver 8

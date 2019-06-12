@@ -1,0 +1,18 @@
+2
+12
+8
+5
+Gold 7
+Silver 15
+Adventurer 10
+Duchy 4
+Gold 10
+Remodel 7
+Gold 104
+Adventurer 9
+Remodel 8
+Remodel 3
+Silver 11
+Silver 7
+Village 12
+Village 5

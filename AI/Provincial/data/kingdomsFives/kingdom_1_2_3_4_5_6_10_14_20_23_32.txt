@@ -1,0 +1,17 @@
+3
+8
+9
+8
+Workshop 2
+Gold 101
+Duchy 12
+Gardens 9
+Militia 6
+Silver 6
+Estate 9
+Workshop 8
+Cellar 4
+Province 10
+Workshop 8
+Silver 11
+Gold 10

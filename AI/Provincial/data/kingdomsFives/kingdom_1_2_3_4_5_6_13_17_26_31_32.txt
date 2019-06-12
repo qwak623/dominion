@@ -1,0 +1,17 @@
+6
+10
+6
+3
+Gold 99
+Gold 5
+Laboratory 4
+Silver 11
+Province 11
+Silver 10
+Woodcutter 2
+Silver 4
+Spy 10
+Workshop 13
+Duchy 8
+Festival 4
+Province 9

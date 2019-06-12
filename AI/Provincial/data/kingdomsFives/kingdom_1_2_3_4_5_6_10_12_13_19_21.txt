@@ -1,0 +1,15 @@
+1
+13
+6
+6
+Gold 101
+Silver 9
+Cellar 7
+Cellar 1
+Feast 5
+Silver 11
+Copper 13
+Estate 7
+Gold 7
+Province 12
+Market 6

@@ -1,0 +1,14 @@
+4
+11
+7
+6
+Province 6
+Gold 10
+Mine 2
+Gold 102
+Silver 3
+Library 3
+Silver 13
+Mine 10
+Duchy 6
+Smithy 11

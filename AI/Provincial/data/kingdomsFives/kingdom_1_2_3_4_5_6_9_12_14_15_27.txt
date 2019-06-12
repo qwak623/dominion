@@ -1,0 +1,16 @@
+3
+17
+8
+8
+Thief 5
+Gardens 7
+Gardens 10
+Duchy 8
+Silver 11
+Copper 6
+Estate 4
+Chancellor 9
+Silver 8
+Gold 103
+Province 7
+Bureaucrat 9

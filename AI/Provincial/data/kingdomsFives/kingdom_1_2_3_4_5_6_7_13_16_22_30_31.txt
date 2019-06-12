@@ -1,0 +1,18 @@
+2
+5
+8
+8
+Province 11
+Gold 4
+Witch 2
+Festival 8
+Gold 6
+Witch 106
+Silver 11
+Silver 11
+Copper 10
+Estate 11
+Festival 9
+Moat 11
+Festival 5
+Festival 12

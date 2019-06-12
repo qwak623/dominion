@@ -1,0 +1,12 @@
+0
+12
+6
+5
+Laboratory 1
+Gold 9
+Silver 9
+Smithy 11
+Adventurer 10
+Gold 100
+Province 5
+Silver 12

@@ -1,0 +1,16 @@
+7
+14
+8
+8
+Witch 5
+Gardens 8
+Duchy 5
+Silver 12
+Duchy 11
+Smithy 2
+Province 7
+Copper 9
+Gold 99
+Curse 8
+Woodcutter 4
+Gardens 4

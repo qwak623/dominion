@@ -1,0 +1,15 @@
+5
+13
+8
+8
+Gold 14
+Witch 9
+Silver 11
+Silver 4
+Silver 10
+Gold 99
+Copper 5
+Curse 4
+Province 12
+Duchy 4
+Cellar 4

@@ -1,0 +1,15 @@
+3
+15
+7
+6
+Gold 102
+Gold 8
+Silver 14
+Gold 10
+Copper 15
+ThroneRoom 12
+Remodel 4
+Estate 5
+Chancellor 6
+Workshop 14
+Duchy 3

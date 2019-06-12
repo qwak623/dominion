@@ -1,0 +1,17 @@
+1
+18
+11
+8
+Gold 4
+Militia 7
+Silver 14
+Duchy 8
+Militia 9
+Gold 5
+Copper 9
+Feast 10
+Copper 4
+Gold 101
+Gold 9
+Feast 14
+ThroneRoom 6

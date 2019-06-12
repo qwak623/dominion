@@ -1,0 +1,18 @@
+6
+12
+6
+4
+Gold 7
+Silver 12
+Cellar 6
+Market 3
+Duchy 1
+Laboratory 2
+Village 5
+Duchy 11
+Gold 6
+Gold 101
+Laboratory 7
+Village 14
+Cellar 6
+Estate 6

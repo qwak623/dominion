@@ -1,0 +1,19 @@
+5
+12
+7
+4
+Militia 1
+Gold 101
+Gold 6
+Militia 3
+Silver 6
+Province 6
+Gold 10
+Gold 12
+Silver 12
+Moat 12
+Woodcutter 3
+Estate 4
+Silver 5
+Duchy 8
+Workshop 5

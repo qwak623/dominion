@@ -1,0 +1,18 @@
+6
+10
+20
+8
+Silver 8
+Gold 3
+Woodcutter 12
+Copper 2
+Estate 3
+Estate 8
+Estate 5
+Laboratory 4
+Gold 102
+Province 11
+Copper 7
+Silver 13
+Festival 8
+ThroneRoom 9

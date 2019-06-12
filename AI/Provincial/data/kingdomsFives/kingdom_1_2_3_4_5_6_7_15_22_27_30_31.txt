@@ -1,0 +1,17 @@
+3
+16
+8
+8
+Witch 12
+Duchy 6
+Silver 6
+Thief 6
+Copper 10
+Moat 9
+Silver 4
+Gold 2
+Silver 11
+Chancellor 12
+Chancellor 6
+Gold 10
+Gold 99

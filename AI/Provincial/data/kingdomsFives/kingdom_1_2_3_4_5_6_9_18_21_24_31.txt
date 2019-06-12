@@ -1,0 +1,13 @@
+3
+9
+8
+7
+Mine 3
+Silver 4
+Gold 11
+Silver 7
+Province 5
+Gold 100
+Duchy 11
+Silver 12
+Bureaucrat 4

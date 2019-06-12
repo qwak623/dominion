@@ -1,0 +1,13 @@
+3
+14
+4
+4
+Province 9
+Laboratory 10
+Silver 100
+Chapel 13
+Copper 7
+Cellar 10
+Moat 9
+Duchy 13
+Festival 13

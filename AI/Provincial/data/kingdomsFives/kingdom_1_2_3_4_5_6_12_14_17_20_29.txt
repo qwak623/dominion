@@ -1,0 +1,14 @@
+6
+12
+6
+6
+Province 12
+Gold 101
+Laboratory 6
+Duchy 12
+Silver 12
+Silver 12
+Gardens 9
+Feast 5
+Copper 11
+Feast 2

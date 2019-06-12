@@ -1,0 +1,16 @@
+2
+12
+8
+8
+Witch 8
+Duchy 10
+Silver 4
+Gold 101
+Silver 15
+Spy 10
+Copper 5
+Estate 4
+Woodcutter 5
+Remodel 5
+Remodel 10
+Province 3

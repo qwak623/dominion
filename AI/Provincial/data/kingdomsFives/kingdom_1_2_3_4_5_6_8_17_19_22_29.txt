@@ -1,0 +1,16 @@
+2
+14
+6
+5
+Gold 103
+Silver 8
+Province 8
+Silver 14
+Moat 10
+Village 7
+Copper 9
+Duchy 3
+Estate 6
+Village 7
+Market 4
+Laboratory 4

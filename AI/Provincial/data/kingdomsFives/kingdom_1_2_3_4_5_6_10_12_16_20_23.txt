@@ -1,0 +1,14 @@
+4
+15
+8
+8
+Gold 99
+Silver 9
+Silver 13
+Moneylender 9
+Militia 8
+Moneylender 9
+Chapel 6
+Duchy 15
+Estate 6
+Chapel 8

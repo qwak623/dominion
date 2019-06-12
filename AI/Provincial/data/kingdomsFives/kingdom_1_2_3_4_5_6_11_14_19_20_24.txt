@@ -1,0 +1,16 @@
+2
+17
+8
+6
+Gold 5
+CouncilRoom 4
+Gardens 12
+Silver 14
+Market 10
+Gold 99
+Copper 7
+Militia 4
+Silver 7
+Copper 10
+CouncilRoom 9
+Duchy 1

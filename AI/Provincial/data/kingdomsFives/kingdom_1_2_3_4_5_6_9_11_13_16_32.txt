@@ -1,0 +1,20 @@
+3
+9
+8
+8
+Bureaucrat 5
+Duchy 9
+Province 6
+Chapel 1
+Gold 101
+Silver 7
+Estate 12
+Gold 9
+Silver 10
+Province 7
+Gold 6
+Copper 9
+Festival 7
+Gold 7
+Bureaucrat 13
+Silver 2

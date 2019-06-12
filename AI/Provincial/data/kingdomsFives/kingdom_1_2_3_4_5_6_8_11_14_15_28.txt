@@ -1,0 +1,18 @@
+2
+13
+6
+3
+Gold 6
+CouncilRoom 12
+CouncilRoom 7
+Gold 100
+Duchy 13
+Silver 5
+Gardens 13
+Copper 9
+Silver 9
+Estate 10
+ThroneRoom 5
+Duchy 9
+Adventurer 8
+Silver 2

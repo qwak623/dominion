@@ -1,0 +1,20 @@
+4
+14
+15
+6
+CouncilRoom 2
+Silver 10
+Gold 100
+Militia 8
+Duchy 10
+Silver 2
+Estate 7
+Mine 10
+Mine 9
+Feast 2
+Silver 7
+Village 8
+Estate 7
+Feast 2
+Province 2
+Feast 8

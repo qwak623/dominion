@@ -1,0 +1,16 @@
+1
+15
+11
+8
+Gardens 7
+Duchy 9
+Woodcutter 12
+ThroneRoom 5
+ThroneRoom 10
+Province 11
+Copper 6
+Gold 9
+Estate 8
+Copper 11
+Silver 11
+Silver 8

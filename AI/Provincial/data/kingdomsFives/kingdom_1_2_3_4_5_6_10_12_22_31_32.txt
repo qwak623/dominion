@@ -1,0 +1,14 @@
+0
+13
+7
+6
+Silver 2
+Province 11
+Gold 7
+Silver 10
+Moat 6
+Woodcutter 8
+Gold 102
+Copper 9
+Estate 8
+Cellar 1

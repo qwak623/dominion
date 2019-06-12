@@ -1,0 +1,15 @@
+4
+12
+8
+8
+Gold 102
+Silver 6
+Militia 7
+Silver 1
+Province 3
+Market 12
+Gold 7
+Silver 13
+Silver 11
+Festival 6
+Chapel 4

@@ -1,0 +1,15 @@
+1
+12
+14
+8
+Province 7
+Gold 100
+Silver 4
+Silver 12
+Mine 12
+Remodel 14
+Moneylender 10
+Gold 7
+Bureaucrat 8
+Mine 1
+Silver 11

@@ -1,0 +1,17 @@
+6
+10
+8
+8
+Gold 99
+Gold 14
+Mine 2
+Duchy 10
+Gardens 10
+Silver 12
+Province 10
+Copper 8
+Duchy 6
+Remodel 2
+Laboratory 6
+Silver 3
+Remodel 6

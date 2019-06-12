@@ -1,0 +1,16 @@
+4
+11
+6
+6
+Gold 8
+Smithy 3
+Silver 12
+Bureaucrat 6
+Smithy 9
+Province 7
+Copper 6
+Duchy 7
+Woodcutter 14
+Village 5
+Gold 103
+Copper 8

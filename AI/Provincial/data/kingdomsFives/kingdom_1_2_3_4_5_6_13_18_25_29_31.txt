@@ -1,0 +1,14 @@
+0
+10
+6
+4
+Silver 5
+Gold 101
+Library 12
+Province 10
+Smithy 11
+Duchy 1
+Silver 15
+Village 7
+Woodcutter 10
+Festival 10

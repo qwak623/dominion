@@ -1,0 +1,13 @@
+2
+14
+7
+6
+Province 5
+Gold 104
+Library 12
+Silver 8
+Spy 6
+Gold 5
+Duchy 5
+Duchy 3
+Woodcutter 3

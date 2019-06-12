@@ -1,0 +1,14 @@
+7
+9
+6
+3
+Province 13
+Gold 101
+Library 10
+Silver 12
+Feast 6
+Silver 2
+Library 10
+Festival 3
+Gold 12
+Village 5

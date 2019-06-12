@@ -1,0 +1,16 @@
+3
+14
+9
+8
+Witch 12
+Silver 10
+Laboratory 8
+Laboratory 5
+Copper 3
+Estate 9
+Remodel 5
+Province 8
+Gold 101
+Cellar 6
+Workshop 11
+Remodel 7

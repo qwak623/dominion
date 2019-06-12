@@ -1,0 +1,13 @@
+2
+15
+8
+6
+Silver 7
+Cellar 1
+Province 13
+Gold 8
+Silver 12
+Duchy 8
+Moneylender 11
+Woodcutter 12
+Remodel 10

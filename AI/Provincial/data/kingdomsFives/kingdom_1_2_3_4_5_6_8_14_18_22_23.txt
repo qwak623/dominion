@@ -1,0 +1,16 @@
+2
+15
+8
+8
+Gold 102
+Gold 5
+Moat 1
+Silver 6
+Estate 7
+Gardens 6
+Moneylender 12
+Silver 12
+Copper 10
+Adventurer 8
+Library 3
+Estate 6

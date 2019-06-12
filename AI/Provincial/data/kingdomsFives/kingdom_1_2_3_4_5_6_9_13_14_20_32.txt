@@ -1,0 +1,15 @@
+6
+12
+9
+8
+Gold 99
+Militia 5
+Province 10
+Militia 1
+Silver 12
+Gold 4
+Duchy 7
+Copper 6
+Bureaucrat 11
+Festival 10
+Gold 9

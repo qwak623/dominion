@@ -1,0 +1,13 @@
+2
+11
+8
+8
+Estate 1
+Gold 10
+Militia 5
+Duchy 7
+Silver 12
+Cellar 13
+Duchy 12
+Gold 99
+Remodel 6

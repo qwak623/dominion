@@ -1,0 +1,15 @@
+4
+12
+6
+6
+Province 9
+Gold 100
+CouncilRoom 3
+Silver 12
+Duchy 7
+Copper 6
+Estate 3
+Woodcutter 3
+Militia 6
+Silver 8
+Workshop 10

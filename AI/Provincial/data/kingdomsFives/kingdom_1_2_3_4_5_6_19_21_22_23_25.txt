@@ -1,0 +1,14 @@
+7
+14
+7
+6
+Gold 6
+Gold 12
+Mine 11
+Silver 7
+Gold 101
+Smithy 10
+Province 4
+Moneylender 11
+Silver 12
+Copper 6

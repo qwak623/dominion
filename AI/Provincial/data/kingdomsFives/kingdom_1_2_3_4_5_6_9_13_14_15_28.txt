@@ -1,0 +1,18 @@
+6
+10
+8
+8
+Province 8
+Festival 4
+Duchy 103
+Gardens 8
+Silver 13
+Copper 12
+Bureaucrat 11
+ThroneRoom 7
+ThroneRoom 5
+Gardens 9
+Estate 6
+Festival 7
+Silver 5
+Duchy 10

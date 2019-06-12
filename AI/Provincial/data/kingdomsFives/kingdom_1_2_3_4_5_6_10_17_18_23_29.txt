@@ -1,0 +1,17 @@
+3
+11
+7
+4
+Laboratory 11
+Gold 6
+Silver 9
+Silver 14
+Moneylender 11
+Laboratory 2
+Duchy 99
+Cellar 4
+Province 11
+Estate 7
+Silver 2
+Duchy 7
+Silver 2

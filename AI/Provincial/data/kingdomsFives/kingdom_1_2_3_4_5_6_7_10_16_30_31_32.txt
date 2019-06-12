@@ -1,0 +1,14 @@
+3
+9
+8
+8
+Province 8
+Witch 8
+Silver 12
+Chapel 7
+Workshop 6
+Gold 100
+Copper 8
+Cellar 10
+Silver 8
+Province 12

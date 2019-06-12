@@ -1,0 +1,15 @@
+7
+9
+7
+7
+Province 6
+Gold 99
+Silver 11
+Workshop 7
+Workshop 7
+Workshop 10
+Spy 5
+Gold 5
+Festival 13
+Duchy 10
+Spy 9

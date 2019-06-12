@@ -1,0 +1,17 @@
+0
+11
+8
+8
+Gold 3
+Militia 5
+Silver 2
+Duchy 8
+Silver 7
+Estate 10
+Chancellor 12
+Festival 7
+Silver 10
+Workshop 10
+Estate 6
+Festival 5
+Gold 104

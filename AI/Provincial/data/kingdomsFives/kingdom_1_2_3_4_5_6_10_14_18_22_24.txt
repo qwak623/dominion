@@ -1,0 +1,13 @@
+0
+20
+6
+6
+Gold 8
+Gold 102
+Library 2
+Silver 10
+Cellar 10
+Province 7
+Moat 8
+Copper 8
+Gardens 3

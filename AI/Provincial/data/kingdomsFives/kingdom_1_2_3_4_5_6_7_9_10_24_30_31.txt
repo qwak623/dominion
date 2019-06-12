@@ -1,0 +1,16 @@
+6
+18
+15
+7
+Gold 8
+Witch 5
+Silver 12
+Duchy 99
+Province 6
+Cellar 9
+Duchy 4
+Copper 11
+Bureaucrat 8
+Remodel 9
+Witch 9
+Woodcutter 11

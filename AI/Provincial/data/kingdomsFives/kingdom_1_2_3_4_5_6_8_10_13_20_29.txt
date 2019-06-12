@@ -1,0 +1,15 @@
+2
+14
+8
+8
+Gold 11
+Province 5
+Festival 1
+Militia 7
+Festival 5
+Duchy 4
+Silver 12
+Village 10
+Gold 99
+Gold 5
+Militia 7

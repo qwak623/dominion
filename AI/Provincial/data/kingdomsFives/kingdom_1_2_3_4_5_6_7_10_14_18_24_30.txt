@@ -1,0 +1,16 @@
+7
+17
+8
+8
+Province 14
+Gold 104
+Witch 6
+Silver 8
+Silver 11
+Gardens 8
+Gardens 11
+Cellar 6
+Estate 10
+Copper 8
+Copper 8
+Copper 11

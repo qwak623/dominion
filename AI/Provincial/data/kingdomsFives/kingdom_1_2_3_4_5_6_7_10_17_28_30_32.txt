@@ -1,0 +1,18 @@
+2
+16
+8
+8
+Gold 100
+Witch 9
+Duchy 2
+Duchy 6
+Silver 13
+ThroneRoom 5
+Gold 7
+Copper 5
+Cellar 7
+Witch 1
+Province 10
+Workshop 9
+Curse 1
+Witch 5

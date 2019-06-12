@@ -1,0 +1,15 @@
+0
+7
+6
+3
+Province 8
+Gold 100
+Silver 10
+Province 10
+Spy 9
+Chancellor 8
+Copper 4
+Estate 8
+Feast 12
+Bureaucrat 13
+Silver 6

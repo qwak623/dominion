@@ -1,0 +1,20 @@
+0
+13
+14
+8
+Gold 7
+Gardens 7
+Silver 6
+Militia 2
+Silver 9
+Gold 7
+Moneylender 2
+Copper 10
+Village 10
+Province 9
+Copper 9
+Gold 100
+Village 14
+Silver 11
+Estate 6
+Duchy 9

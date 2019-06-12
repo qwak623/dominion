@@ -1,0 +1,15 @@
+3
+14
+8
+8
+Province 10
+Chapel 1
+Gold 10
+Adventurer 3
+Adventurer 9
+Silver 11
+Militia 6
+Silver 4
+Duchy 8
+Copper 10
+Chapel 6

@@ -1,0 +1,16 @@
+6
+16
+8
+7
+Gold 7
+Village 3
+Province 100
+Militia 4
+Thief 2
+Silver 5
+Woodcutter 6
+Thief 6
+Copper 4
+Silver 10
+Chapel 6
+Thief 4

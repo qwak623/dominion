@@ -1,0 +1,16 @@
+5
+14
+6
+6
+Gold 9
+Silver 11
+Moat 8
+Copper 8
+Adventurer 10
+Workshop 11
+Duchy 11
+Gold 101
+Silver 11
+Militia 2
+Workshop 10
+Province 11

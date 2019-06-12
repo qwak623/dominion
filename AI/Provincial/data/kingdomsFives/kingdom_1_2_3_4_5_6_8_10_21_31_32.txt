@@ -1,0 +1,15 @@
+7
+11
+7
+6
+Province 8
+Gold 101
+Copper 1
+Mine 11
+Silver 13
+Silver 11
+Woodcutter 11
+Duchy 8
+Cellar 14
+Workshop 7
+Estate 5

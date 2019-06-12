@@ -1,0 +1,16 @@
+2
+16
+17
+5
+Gold 100
+Silver 10
+Woodcutter 5
+Cellar 3
+Duchy 7
+Village 10
+Village 10
+Estate 11
+Province 1
+Silver 8
+Estate 8
+Moneylender 2

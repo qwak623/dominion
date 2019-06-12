@@ -1,0 +1,18 @@
+4
+12
+7
+4
+Gold 101
+Mine 7
+Silver 15
+Chapel 2
+Province 11
+Duchy 5
+Province 11
+Silver 13
+Workshop 10
+Estate 8
+Mine 7
+Mine 6
+Market 10
+Chapel 8

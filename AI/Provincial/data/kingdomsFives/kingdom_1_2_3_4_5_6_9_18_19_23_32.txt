@@ -1,0 +1,16 @@
+7
+8
+5
+3
+Province 11
+Gold 99
+Library 3
+Silver 11
+Gold 11
+Copper 3
+Silver 2
+Estate 6
+Estate 2
+Market 9
+Copper 7
+Moneylender 8

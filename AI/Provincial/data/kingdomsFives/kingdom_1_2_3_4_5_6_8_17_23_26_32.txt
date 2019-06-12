@@ -1,0 +1,14 @@
+6
+12
+6
+6
+Province 11
+Gold 4
+Laboratory 12
+Silver 13
+Workshop 4
+Spy 10
+Silver 9
+Adventurer 5
+Duchy 10
+Gold 102

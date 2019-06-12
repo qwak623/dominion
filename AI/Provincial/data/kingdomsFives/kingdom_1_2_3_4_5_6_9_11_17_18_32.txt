@@ -1,0 +1,15 @@
+5
+8
+8
+4
+Province 11
+Bureaucrat 1
+Gold 101
+Library 11
+Laboratory 11
+Silver 12
+Workshop 1
+Duchy 5
+Duchy 6
+Silver 3
+CouncilRoom 7

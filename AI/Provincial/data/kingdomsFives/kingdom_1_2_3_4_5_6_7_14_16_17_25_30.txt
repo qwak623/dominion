@@ -1,0 +1,14 @@
+7
+6
+8
+8
+Province 4
+Witch 4
+Gardens 10
+Gold 101
+Silver 5
+Estate 9
+Gold 10
+Laboratory 9
+Silver 11
+Laboratory 4

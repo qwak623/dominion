@@ -1,0 +1,15 @@
+1
+18
+16
+8
+Gold 9
+Gardens 12
+Gold 5
+Duchy 11
+Silver 9
+Copper 6
+Estate 12
+Militia 8
+Spy 13
+Silver 11
+Gold 101

@@ -1,0 +1,14 @@
+4
+5
+7
+3
+Bureaucrat 4
+Gardens 7
+Copper 5
+Estate 13
+Estate 13
+Duchy 9
+Copper 9
+Gold 104
+Feast 11
+Silver 9

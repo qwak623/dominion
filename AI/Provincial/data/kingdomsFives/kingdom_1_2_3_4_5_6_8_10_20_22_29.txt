@@ -1,0 +1,15 @@
+4
+14
+6
+6
+Gold 7
+Adventurer 7
+Adventurer 13
+Militia 4
+Gold 101
+Silver 13
+Moat 15
+Duchy 9
+Silver 4
+Adventurer 1
+Village 10

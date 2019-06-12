@@ -1,0 +1,18 @@
+0
+17
+7
+5
+Province 9
+Chapel 1
+Gold 100
+Laboratory 10
+Militia 4
+Duchy 12
+Silver 12
+Copper 3
+Duchy 13
+Silver 8
+Estate 3
+Silver 9
+Library 7
+Library 10

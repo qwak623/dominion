@@ -1,0 +1,15 @@
+7
+16
+7
+7
+Estate 1
+Gold 9
+Library 9
+Silver 9
+Adventurer 14
+Silver 10
+Festival 10
+Duchy 8
+Copper 104
+Copper 10
+Library 5

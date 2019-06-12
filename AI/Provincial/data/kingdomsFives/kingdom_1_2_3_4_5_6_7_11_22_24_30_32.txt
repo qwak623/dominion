@@ -1,0 +1,14 @@
+1
+2
+7
+7
+Province 13
+Province 13
+Gold 101
+CouncilRoom 10
+Duchy 10
+Silver 13
+Silver 6
+Copper 12
+Gold 8
+Curse 2

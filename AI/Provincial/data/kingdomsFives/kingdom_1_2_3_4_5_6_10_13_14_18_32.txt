@@ -1,0 +1,16 @@
+5
+16
+11
+8
+Duchy 9
+Workshop 4
+Gold 10
+Gardens 13
+Silver 10
+Province 9
+Festival 6
+Cellar 7
+Silver 13
+Copper 9
+Workshop 11
+Estate 6

@@ -1,0 +1,18 @@
+1
+12
+18
+21
+Gold 102
+Silver 11
+Moneylender 2
+Moat 11
+Witch 6
+Silver 2
+Copper 9
+Witch 9
+Moneylender 3
+Duchy 7
+Duchy 6
+Copper 2
+Estate 11
+CouncilRoom 10

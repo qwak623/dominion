@@ -1,0 +1,17 @@
+2
+15
+8
+7
+Gold 7
+Witch 6
+Silver 11
+Duchy 6
+Remodel 10
+Moat 1
+Silver 14
+Workshop 3
+Gold 5
+Witch 7
+Silver 2
+Gold 102
+Workshop 10

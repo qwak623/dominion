@@ -1,0 +1,17 @@
+0
+9
+6
+8
+Market 6
+Copper 1
+Silver 7
+Market 9
+Gardens 11
+Province 8
+Estate 13
+Gold 100
+Militia 11
+Gold 10
+Silver 12
+Feast 8
+Estate 7

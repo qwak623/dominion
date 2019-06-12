@@ -1,0 +1,14 @@
+1
+10
+8
+5
+Gold 103
+Festival 10
+Silver 7
+Feast 14
+Workshop 3
+Province 5
+Woodcutter 10
+Feast 8
+Duchy 2
+Gold 2

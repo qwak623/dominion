@@ -1,0 +1,16 @@
+4
+14
+13
+8
+Duchy 1
+Gold 102
+Adventurer 3
+Militia 11
+Festival 10
+Silver 17
+Copper 8
+Moneylender 6
+Estate 11
+Province 11
+Moneylender 6
+Festival 6

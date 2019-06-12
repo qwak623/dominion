@@ -1,0 +1,16 @@
+6
+11
+6
+6
+Gold 7
+Province 12
+Silver 5
+Silver 11
+Cellar 10
+ThroneRoom 12
+Province 102
+Thief 6
+Estate 6
+Copper 5
+Duchy 9
+Estate 4

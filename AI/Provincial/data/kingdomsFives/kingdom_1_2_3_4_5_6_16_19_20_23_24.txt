@@ -1,0 +1,16 @@
+2
+16
+9
+8
+Market 8
+Militia 10
+Duchy 9
+Silver 12
+Province 11
+Silver 9
+Moneylender 8
+Copper 10
+Gold 101
+Market 6
+Remodel 12
+Estate 6

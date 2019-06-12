@@ -1,0 +1,16 @@
+7
+11
+7
+5
+Gold 10
+Gold 102
+Silver 4
+Smithy 6
+Silver 13
+Smithy 5
+Gold 7
+Copper 11
+Chapel 4
+Chapel 3
+Festival 5
+Market 5

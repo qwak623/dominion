@@ -1,0 +1,14 @@
+2
+12
+6
+5
+Province 5
+Chancellor 1
+Gold 101
+Silver 14
+Duchy 12
+Gold 5
+Feast 6
+Silver 6
+Duchy 5
+Woodcutter 3

@@ -1,0 +1,15 @@
+4
+11
+18
+8
+Feast 5
+Duchy 7
+Gold 12
+Copper 6
+Estate 10
+Village 12
+Province 101
+Province 6
+Moneylender 4
+Silver 13
+Festival 9

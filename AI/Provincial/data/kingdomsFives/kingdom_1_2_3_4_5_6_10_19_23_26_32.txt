@@ -1,0 +1,20 @@
+0
+13
+16
+5
+Province 5
+Gold 4
+Gold 101
+Market 7
+Spy 2
+Silver 5
+Cellar 2
+Spy 4
+Spy 7
+Duchy 9
+Gold 8
+Silver 11
+Moneylender 11
+Spy 9
+Workshop 9
+Gold 10

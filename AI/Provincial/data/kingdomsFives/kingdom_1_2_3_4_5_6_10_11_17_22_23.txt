@@ -1,0 +1,16 @@
+5
+11
+6
+6
+Gold 12
+Laboratory 4
+Silver 9
+Cellar 7
+Duchy 6
+Moat 13
+Estate 7
+Cellar 101
+Silver 14
+Moat 9
+Province 10
+Gold 11

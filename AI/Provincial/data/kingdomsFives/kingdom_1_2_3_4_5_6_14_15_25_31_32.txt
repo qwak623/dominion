@@ -1,0 +1,15 @@
+4
+13
+8
+8
+Province 1
+Workshop 3
+Gardens 10
+Workshop 13
+Gold 4
+Estate 7
+Copper 7
+Gold 10
+Woodcutter 9
+Silver 9
+Gold 104

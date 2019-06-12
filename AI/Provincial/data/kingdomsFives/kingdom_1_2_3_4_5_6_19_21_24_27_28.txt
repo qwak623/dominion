@@ -1,0 +1,13 @@
+7
+16
+8
+7
+Gold 100
+Province 12
+Mine 3
+Market 11
+Duchy 4
+Silver 13
+Remodel 3
+ThroneRoom 5
+Silver 15

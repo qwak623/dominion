@@ -1,0 +1,14 @@
+4
+14
+8
+8
+Bureaucrat 4
+Duchy 12
+Silver 12
+Copper 2
+Estate 6
+Village 9
+Estate 5
+Remodel 9
+Library 2
+Gold 100

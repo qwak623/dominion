@@ -1,0 +1,17 @@
+2
+16
+7
+5
+Gold 6
+Bureaucrat 2
+Province 7
+CouncilRoom 12
+Gold 105
+Silver 13
+Bureaucrat 5
+Bureaucrat 7
+Copper 10
+Village 10
+Copper 1
+Moat 3
+Province 5

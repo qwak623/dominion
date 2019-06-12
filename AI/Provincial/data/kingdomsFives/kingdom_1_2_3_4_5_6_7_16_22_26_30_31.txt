@@ -1,0 +1,16 @@
+0
+14
+7
+7
+Province 8
+Gold 10
+Silver 1
+Silver 8
+Silver 10
+Moat 6
+Copper 8
+Duchy 13
+Chapel 7
+Spy 8
+Moat 4
+Woodcutter 6

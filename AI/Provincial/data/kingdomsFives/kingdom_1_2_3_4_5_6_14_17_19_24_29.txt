@@ -1,0 +1,15 @@
+6
+15
+8
+6
+Silver 5
+Gold 10
+Gold 102
+Gardens 9
+Silver 10
+Village 8
+Laboratory 5
+Remodel 11
+Duchy 11
+Copper 11
+Province 8

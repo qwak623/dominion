@@ -1,0 +1,15 @@
+1
+17
+7
+6
+Gold 100
+Gold 11
+Bureaucrat 3
+Silver 13
+Silver 11
+Copper 7
+Province 16
+Remodel 7
+Copper 11
+Copper 8
+Estate 7

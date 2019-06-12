@@ -1,0 +1,16 @@
+2
+8
+7
+4
+Gold 3
+Province 11
+Province 1
+Library 4
+Silver 13
+Cellar 6
+Remodel 3
+Copper 7
+Province 8
+Duchy 10
+Festival 2
+Silver 5

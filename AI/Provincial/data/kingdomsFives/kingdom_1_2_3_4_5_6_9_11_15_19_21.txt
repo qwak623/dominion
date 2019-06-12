@@ -1,0 +1,16 @@
+7
+9
+6
+6
+Province 8
+Gold 5
+Province 6
+Silver 3
+CouncilRoom 8
+Silver 12
+Silver 7
+Bureaucrat 5
+Gold 102
+Chancellor 9
+Gold 12
+Copper 8

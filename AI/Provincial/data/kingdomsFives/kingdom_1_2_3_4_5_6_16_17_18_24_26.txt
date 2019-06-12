@@ -1,0 +1,14 @@
+4
+15
+8
+8
+Gold 9
+Gold 12
+Laboratory 7
+Silver 102
+Chapel 2
+Library 3
+Duchy 6
+Spy 7
+Gold 7
+Remodel 5

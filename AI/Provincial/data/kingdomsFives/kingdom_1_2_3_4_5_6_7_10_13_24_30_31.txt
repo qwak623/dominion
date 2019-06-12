@@ -1,0 +1,18 @@
+2
+13
+8
+6
+Witch 2
+Silver 4
+Gold 1
+Witch 9
+Silver 12
+Copper 14
+Woodcutter 9
+Cellar 4
+Duchy 10
+Duchy 10
+Curse 12
+Curse 8
+Festival 2
+Remodel 5

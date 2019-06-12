@@ -1,0 +1,15 @@
+2
+19
+6
+6
+Gold 8
+Gold 5
+Laboratory 5
+Silver 10
+Silver 4
+Workshop 2
+Duchy 2
+Remodel 7
+Province 9
+Province 5
+Silver 13

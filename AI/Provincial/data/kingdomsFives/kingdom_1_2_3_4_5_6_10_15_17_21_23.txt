@@ -1,0 +1,16 @@
+7
+13
+7
+6
+Gold 9
+Silver 7
+Silver 7
+Cellar 4
+Silver 2
+Moneylender 11
+Estate 13
+Mine 13
+Province 5
+Silver 12
+Laboratory 10
+Gold 102

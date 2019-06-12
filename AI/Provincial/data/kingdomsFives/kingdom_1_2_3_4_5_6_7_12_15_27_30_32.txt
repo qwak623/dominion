@@ -1,0 +1,17 @@
+7
+17
+8
+8
+Witch 4
+Duchy 7
+Gold 99
+Province 8
+Silver 9
+Estate 5
+Feast 4
+Thief 7
+Curse 11
+Estate 6
+Feast 6
+Gold 8
+Silver 12

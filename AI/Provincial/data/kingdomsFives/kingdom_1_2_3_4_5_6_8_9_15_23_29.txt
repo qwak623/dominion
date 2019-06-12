@@ -1,0 +1,14 @@
+2
+13
+8
+8
+Gold 103
+Gold 9
+Province 1
+Bureaucrat 12
+Silver 13
+Village 10
+Province 1
+Duchy 9
+Moneylender 6
+Silver 6

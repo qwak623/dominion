@@ -1,0 +1,18 @@
+4
+15
+8
+8
+Workshop 2
+Gardens 10
+Duchy 7
+Silver 10
+Woodcutter 13
+Workshop 12
+Woodcutter 8
+Copper 11
+Province 3
+Moneylender 11
+ThroneRoom 8
+Gold 99
+Moneylender 1
+Moneylender 2

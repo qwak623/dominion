@@ -1,0 +1,16 @@
+1
+11
+9
+8
+Militia 6
+Province 7
+Province 4
+Province 6
+Gold 99
+Adventurer 5
+Silver 11
+Silver 9
+Spy 6
+Copper 9
+Chancellor 8
+Estate 2

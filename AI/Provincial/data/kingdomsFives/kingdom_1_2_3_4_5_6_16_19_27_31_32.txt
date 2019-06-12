@@ -1,0 +1,16 @@
+3
+9
+6
+6
+Gold 99
+Gold 9
+Province 5
+Market 9
+Silver 11
+Gold 4
+Woodcutter 14
+Silver 9
+Woodcutter 3
+Duchy 7
+Thief 2
+Chapel 9

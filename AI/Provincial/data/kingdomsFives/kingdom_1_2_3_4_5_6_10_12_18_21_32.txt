@@ -1,0 +1,13 @@
+6
+14
+17
+8
+Duchy 5
+Silver 5
+Duchy 102
+Gold 10
+Library 4
+Silver 11
+Cellar 10
+Copper 3
+Workshop 11

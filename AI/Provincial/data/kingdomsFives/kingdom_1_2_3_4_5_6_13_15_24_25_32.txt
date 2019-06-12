@@ -1,0 +1,15 @@
+1
+12
+7
+7
+Festival 1
+Province 5
+Copper 2
+Gold 103
+Festival 6
+Smithy 6
+Silver 9
+Silver 12
+Remodel 4
+Workshop 13
+Duchy 7

@@ -1,0 +1,18 @@
+4
+10
+8
+6
+Province 4
+Gold 7
+Silver 1
+Copper 1
+Province 12
+Silver 12
+Gold 100
+Chapel 8
+Copper 7
+Feast 5
+Duchy 10
+Copper 2
+Moneylender 3
+Duchy 7

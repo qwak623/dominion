@@ -1,0 +1,19 @@
+1
+13
+5
+5
+Gold 4
+Province 7
+Gold 99
+Laboratory 6
+Province 6
+Silver 14
+Silver 8
+Copper 6
+Market 9
+Duchy 8
+CouncilRoom 12
+Thief 3
+Market 5
+Silver 5
+Estate 2

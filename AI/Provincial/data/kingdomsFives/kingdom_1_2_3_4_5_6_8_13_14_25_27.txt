@@ -1,0 +1,15 @@
+1
+12
+12
+8
+Duchy 9
+Gardens 6
+Silver 6
+Festival 8
+Gold 3
+Copper 9
+Adventurer 4
+Estate 6
+Province 10
+Adventurer 7
+Province 103

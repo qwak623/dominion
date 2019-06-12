@@ -1,0 +1,15 @@
+0
+11
+6
+6
+Province 11
+Gold 11
+Silver 11
+CouncilRoom 7
+Gold 10
+Moat 12
+CouncilRoom 4
+Woodcutter 11
+Chapel 13
+Province 9
+Estate 13

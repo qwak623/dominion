@@ -1,0 +1,17 @@
+6
+14
+16
+8
+Gardens 10
+Woodcutter 3
+Province 4
+Village 4
+Duchy 9
+Copper 6
+Estate 6
+Moneylender 10
+Silver 10
+Estate 11
+Gold 2
+Witch 6
+Gold 4

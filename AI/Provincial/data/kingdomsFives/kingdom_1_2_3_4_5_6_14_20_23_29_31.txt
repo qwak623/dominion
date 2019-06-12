@@ -1,0 +1,20 @@
+1
+11
+8
+8
+Woodcutter 4
+Gardens 11
+Gardens 10
+Duchy 2
+Estate 7
+Woodcutter 10
+Copper 6
+Copper 8
+Woodcutter 9
+Village 9
+Militia 2
+Village 99
+Moneylender 8
+Gardens 3
+Silver 11
+Moneylender 11

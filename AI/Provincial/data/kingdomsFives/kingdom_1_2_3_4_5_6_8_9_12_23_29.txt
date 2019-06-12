@@ -1,0 +1,18 @@
+0
+15
+6
+4
+Gold 10
+Silver 11
+Gold 11
+Silver 7
+Province 2
+Village 6
+Bureaucrat 7
+Duchy 2
+Feast 3
+Duchy 6
+Feast 6
+Village 2
+Adventurer 6
+Province 100

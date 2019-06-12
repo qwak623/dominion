@@ -1,0 +1,17 @@
+1
+12
+16
+8
+Duchy 6
+Witch 3
+Laboratory 12
+Silver 9
+Mine 6
+Duchy 101
+CouncilRoom 4
+Silver 13
+Gold 6
+CouncilRoom 11
+Witch 7
+Copper 7
+Province 7

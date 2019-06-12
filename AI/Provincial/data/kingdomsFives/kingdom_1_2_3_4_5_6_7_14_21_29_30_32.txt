@@ -1,0 +1,20 @@
+4
+14
+8
+8
+Gold 99
+Gold 9
+Gold 3
+Witch 10
+Silver 11
+Village 13
+Mine 8
+Mine 9
+Copper 2
+Silver 14
+Estate 4
+Witch 9
+Duchy 8
+Province 11
+Witch 5
+Curse 2

@@ -1,0 +1,16 @@
+2
+13
+5
+5
+Province 5
+Gold 104
+Silver 12
+Silver 4
+Silver 10
+ThroneRoom 5
+Moat 8
+Copper 4
+Copper 2
+Duchy 11
+Library 7
+Estate 10

@@ -1,0 +1,16 @@
+2
+11
+7
+5
+Gold 6
+Silver 11
+Silver 8
+Moneylender 9
+Moat 6
+Feast 6
+Province 7
+Moneylender 10
+Duchy 12
+Province 11
+Festival 7
+Moneylender 9

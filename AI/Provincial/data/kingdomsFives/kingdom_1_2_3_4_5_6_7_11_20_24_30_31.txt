@@ -1,0 +1,15 @@
+6
+12
+8
+8
+Witch 10
+Duchy 9
+Silver 12
+Silver 8
+Militia 12
+Duchy 5
+CouncilRoom 6
+Silver 6
+Gold 100
+Woodcutter 5
+Copper 15

@@ -1,0 +1,19 @@
+1
+11
+14
+7
+Witch 7
+Gold 100
+Silver 13
+Copper 4
+Province 6
+Silver 2
+Gold 1
+Province 8
+Estate 5
+Library 6
+Chapel 6
+Duchy 4
+Duchy 12
+Woodcutter 3
+Thief 7

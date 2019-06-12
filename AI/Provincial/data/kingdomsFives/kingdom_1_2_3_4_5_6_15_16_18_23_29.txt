@@ -1,0 +1,18 @@
+2
+10
+8
+8
+Gold 7
+Province 104
+Silver 13
+Province 12
+Village 6
+Library 8
+Copper 11
+Silver 12
+Duchy 5
+Duchy 10
+Village 7
+Moneylender 7
+Moneylender 10
+Estate 9

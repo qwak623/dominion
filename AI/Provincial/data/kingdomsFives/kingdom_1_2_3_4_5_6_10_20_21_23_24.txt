@@ -1,0 +1,15 @@
+6
+11
+12
+8
+Militia 6
+Silver 11
+Estate 103
+Cellar 2
+Gold 4
+Province 11
+Cellar 4
+Duchy 7
+Estate 4
+Silver 12
+Mine 9

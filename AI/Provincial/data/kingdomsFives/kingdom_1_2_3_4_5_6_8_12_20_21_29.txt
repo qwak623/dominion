@@ -1,0 +1,18 @@
+4
+14
+9
+8
+Militia 5
+Province 12
+Gold 5
+Silver 5
+Duchy 5
+Gold 103
+Silver 7
+Duchy 4
+Feast 6
+Adventurer 6
+Silver 11
+Feast 10
+Feast 4
+Village 8

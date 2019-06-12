@@ -1,0 +1,20 @@
+2
+14
+7
+7
+Estate 1
+Province 9
+Gold 6
+Mine 10
+Mine 11
+Duchy 11
+Gold 10
+Silver 4
+Province 100
+Duchy 8
+Mine 10
+Silver 11
+Spy 8
+Silver 4
+Village 10
+Silver 7

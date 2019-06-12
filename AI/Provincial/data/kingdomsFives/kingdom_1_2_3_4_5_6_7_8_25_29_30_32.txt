@@ -1,0 +1,16 @@
+1
+10
+8
+8
+Province 6
+Gold 101
+Witch 12
+Duchy 8
+Silver 6
+Gold 5
+Village 9
+Workshop 14
+Adventurer 9
+Smithy 4
+Silver 13
+Copper 3

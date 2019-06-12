@@ -1,0 +1,15 @@
+0
+13
+7
+6
+Gold 7
+Mine 7
+Gold 103
+Silver 11
+Chancellor 5
+Cellar 15
+Militia 11
+Copper 4
+Province 5
+Silver 12
+Duchy 5

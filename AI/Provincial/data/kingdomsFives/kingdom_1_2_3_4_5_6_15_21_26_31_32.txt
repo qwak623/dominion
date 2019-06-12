@@ -1,0 +1,19 @@
+5
+15
+8
+5
+Gold 2
+Mine 2
+Province 7
+Gold 100
+Silver 13
+Spy 13
+Mine 6
+Silver 13
+Copper 3
+Estate 2
+Duchy 5
+Workshop 4
+Woodcutter 8
+Chancellor 9
+Spy 3

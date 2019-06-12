@@ -1,0 +1,17 @@
+4
+14
+7
+4
+Library 2
+Gold 102
+Festival 2
+Silver 12
+Smithy 7
+Copper 7
+Workshop 4
+Silver 4
+Silver 12
+Duchy 4
+Estate 9
+Festival 11
+Silver 7

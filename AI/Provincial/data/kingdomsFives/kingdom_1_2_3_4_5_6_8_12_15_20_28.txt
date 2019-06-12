@@ -1,0 +1,15 @@
+0
+10
+9
+8
+Gold 10
+Province 12
+Militia 6
+Silver 14
+ThroneRoom 10
+Feast 10
+Militia 2
+Copper 5
+Gold 10
+Estate 12
+Chancellor 4

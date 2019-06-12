@@ -1,0 +1,15 @@
+4
+9
+7
+7
+Province 5
+Gold 100
+Mine 4
+Gold 9
+Silver 13
+Silver 5
+Moat 5
+Adventurer 6
+Mine 15
+Estate 3
+Village 3

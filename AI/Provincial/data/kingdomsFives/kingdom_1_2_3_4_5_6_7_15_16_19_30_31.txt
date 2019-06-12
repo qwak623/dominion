@@ -1,0 +1,15 @@
+0
+12
+6
+4
+Gold 100
+Silver 16
+Woodcutter 8
+Province 10
+Chapel 4
+Gold 4
+Woodcutter 5
+Market 2
+Duchy 7
+Silver 4
+Chancellor 6

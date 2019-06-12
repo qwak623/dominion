@@ -1,0 +1,15 @@
+2
+14
+7
+7
+Gold 3
+Bureaucrat 2
+Gold 3
+Province 9
+Gold 99
+Silver 12
+Library 11
+Duchy 7
+Moat 7
+Duchy 11
+Estate 2

@@ -1,0 +1,14 @@
+0
+10
+12
+8
+Workshop 2
+Gold 102
+Duchy 9
+Copper 1
+Province 10
+Silver 11
+Gold 9
+Silver 10
+Village 12
+Copper 4

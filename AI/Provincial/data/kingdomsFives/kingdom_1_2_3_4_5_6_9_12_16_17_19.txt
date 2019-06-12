@@ -1,0 +1,16 @@
+3
+13
+8
+8
+Bureaucrat 3
+Market 2
+Laboratory 1
+Copper 1
+Duchy 8
+Market 15
+Silver 8
+Duchy 8
+Silver 15
+Province 10
+Feast 9
+Feast 8

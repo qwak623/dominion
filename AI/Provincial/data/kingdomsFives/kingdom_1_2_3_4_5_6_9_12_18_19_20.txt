@@ -1,0 +1,17 @@
+4
+11
+8
+6
+Province 7
+Gold 6
+Bureaucrat 2
+Library 3
+Silver 13
+Gold 101
+Copper 8
+Copper 10
+Copper 4
+Estate 6
+Bureaucrat 4
+Province 7
+Feast 10

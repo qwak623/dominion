@@ -1,0 +1,14 @@
+1
+19
+6
+3
+Gold 99
+Silver 2
+Silver 11
+Remodel 5
+Copper 14
+Spy 12
+Market 7
+Province 10
+Gold 11
+Gold 5

@@ -1,0 +1,15 @@
+1
+15
+8
+7
+Village 2
+Gold 5
+Province 10
+Chancellor 4
+Gardens 12
+Silver 12
+Copper 10
+Duchy 5
+Mine 10
+Village 5
+Estate 2

@@ -1,0 +1,16 @@
+6
+12
+20
+8
+Gold 9
+Silver 7
+Silver 13
+Spy 14
+Copper 6
+Gold 8
+Duchy 7
+Estate 1
+Estate 7
+ThroneRoom 6
+Woodcutter 5
+Thief 8

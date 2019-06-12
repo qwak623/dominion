@@ -1,0 +1,13 @@
+1
+11
+7
+4
+Province 14
+Gold 100
+Gold 9
+Library 7
+Laboratory 6
+Silver 13
+Duchy 7
+Cellar 7
+Copper 6

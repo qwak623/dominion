@@ -1,0 +1,14 @@
+0
+11
+6
+4
+Gold 100
+Silver 12
+Province 12
+Woodcutter 11
+Duchy 4
+Chapel 13
+Workshop 7
+Gold 11
+Thief 5
+Estate 2

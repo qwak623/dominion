@@ -1,0 +1,14 @@
+2
+10
+8
+6
+Gold 99
+Market 9
+Silver 12
+Adventurer 7
+Silver 4
+Cellar 3
+Workshop 9
+Duchy 7
+Silver 9
+Feast 7

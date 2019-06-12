@@ -1,0 +1,14 @@
+7
+15
+8
+8
+Province 7
+Gold 10
+Silver 12
+Woodcutter 2
+Workshop 3
+Silver 8
+Library 11
+Moneylender 15
+Duchy 8
+Library 12

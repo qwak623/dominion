@@ -1,0 +1,16 @@
+6
+11
+7
+6
+Gold 101
+Silver 9
+Gold 11
+CouncilRoom 8
+Province 9
+Duchy 12
+Smithy 4
+Duchy 10
+Duchy 4
+Province 7
+CouncilRoom 10
+Chapel 12

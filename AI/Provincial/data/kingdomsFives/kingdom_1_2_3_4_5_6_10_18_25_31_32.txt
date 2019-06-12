@@ -1,0 +1,14 @@
+1
+14
+6
+4
+Gold 10
+Smithy 2
+Silver 7
+Copper 10
+Library 9
+Cellar 13
+Workshop 14
+Workshop 9
+Gold 103
+Province 8

@@ -1,0 +1,16 @@
+2
+12
+9
+5
+Copper 1
+Province 5
+Thief 3
+Silver 14
+Estate 13
+Woodcutter 13
+Province 7
+Estate 9
+Duchy 7
+Village 9
+Thief 2
+Feast 5

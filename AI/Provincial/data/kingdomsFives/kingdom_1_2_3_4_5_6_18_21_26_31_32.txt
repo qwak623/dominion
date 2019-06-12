@@ -1,0 +1,15 @@
+3
+19
+6
+3
+Library 1
+Gold 14
+Silver 4
+Silver 11
+Duchy 6
+Spy 5
+Woodcutter 1
+Mine 5
+Spy 7
+Gold 101
+Duchy 6

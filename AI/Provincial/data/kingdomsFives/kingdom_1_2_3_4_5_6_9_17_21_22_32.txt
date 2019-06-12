@@ -1,0 +1,15 @@
+7
+12
+6
+5
+Moat 1
+Gold 10
+Silver 12
+Province 9
+Duchy 12
+Gold 100
+Moat 4
+Silver 3
+Bureaucrat 9
+Province 8
+Province 10

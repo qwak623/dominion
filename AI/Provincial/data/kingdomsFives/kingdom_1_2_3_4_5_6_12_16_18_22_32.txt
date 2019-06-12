@@ -1,0 +1,17 @@
+1
+15
+6
+6
+Gold 10
+Gold 101
+Library 8
+Province 6
+Silver 13
+Copper 5
+Silver 8
+Chapel 13
+Feast 5
+Workshop 9
+Silver 7
+Feast 3
+Chapel 2

@@ -1,0 +1,19 @@
+7
+12
+8
+3
+Gold 99
+Smithy 1
+Silver 12
+Moat 4
+Market 11
+Smithy 8
+Gold 8
+Copper 7
+Province 9
+Village 8
+Market 6
+Market 4
+Woodcutter 8
+Copper 4
+Village 10

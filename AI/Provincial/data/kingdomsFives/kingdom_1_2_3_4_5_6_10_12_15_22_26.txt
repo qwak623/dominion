@@ -1,0 +1,15 @@
+3
+11
+5
+5
+Silver 11
+Province 4
+Gold 3
+Duchy 16
+Moat 12
+Silver 3
+Estate 10
+Cellar 8
+Province 11
+Gold 100
+Chancellor 5

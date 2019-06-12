@@ -1,0 +1,16 @@
+4
+17
+6
+3
+Gold 100
+Province 12
+Market 5
+Silver 6
+Silver 6
+Duchy 10
+Gold 8
+Gold 10
+Feast 8
+Chapel 1
+Silver 13
+Feast 12

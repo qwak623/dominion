@@ -1,0 +1,16 @@
+7
+14
+6
+4
+Province 11
+Silver 19
+Moat 3
+Smithy 3
+Feast 7
+Moat 3
+Smithy 12
+Estate 4
+Moneylender 3
+Copper 9
+Estate 10
+Province 10

@@ -1,0 +1,14 @@
+2
+13
+19
+5
+Gold 102
+Gold 7
+Duchy 6
+Festival 7
+Silver 13
+Mine 11
+Cellar 3
+Province 4
+Workshop 3
+Estate 4

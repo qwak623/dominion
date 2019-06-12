@@ -1,0 +1,12 @@
+5
+14
+7
+3
+Gold 102
+Library 5
+Library 2
+Province 5
+Silver 13
+Duchy 10
+Copper 10
+Province 5

@@ -1,0 +1,16 @@
+4
+12
+8
+8
+Province 12
+Workshop 3
+Duchy 10
+Market 6
+Gold 101
+Duchy 9
+Gardens 6
+Silver 10
+Silver 9
+Copper 8
+Estate 4
+Silver 8

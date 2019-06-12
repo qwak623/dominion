@@ -1,0 +1,14 @@
+7
+17
+8
+8
+Gold 6
+Silver 13
+Copper 6
+Laboratory 6
+Duchy 11
+Remodel 4
+ThroneRoom 12
+Laboratory 6
+Remodel 99
+Estate 12

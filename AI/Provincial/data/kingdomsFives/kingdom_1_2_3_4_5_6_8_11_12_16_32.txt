@@ -1,0 +1,19 @@
+0
+10
+6
+6
+Gold 102
+Province 8
+CouncilRoom 2
+Silver 12
+Copper 8
+Adventurer 10
+Silver 5
+Gold 3
+Duchy 11
+Province 2
+Province 4
+Feast 2
+Workshop 6
+CouncilRoom 5
+CouncilRoom 3

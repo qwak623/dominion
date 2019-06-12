@@ -1,0 +1,18 @@
+3
+13
+8
+7
+Gold 101
+Witch 6
+Silver 8
+Silver 13
+Witch 6
+Woodcutter 2
+Silver 7
+Workshop 9
+Silver 3
+Village 1
+Gold 9
+Copper 6
+Estate 9
+Province 7

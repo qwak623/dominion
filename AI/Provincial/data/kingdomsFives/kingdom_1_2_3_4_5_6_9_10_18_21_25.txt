@@ -1,0 +1,14 @@
+1
+18
+7
+7
+Province 8
+Gold 101
+Silver 9
+Smithy 13
+Cellar 4
+Silver 8
+Gold 8
+Silver 14
+Silver 4
+Cellar 4

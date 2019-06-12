@@ -1,0 +1,16 @@
+5
+7
+7
+5
+Province 7
+Gold 6
+Militia 3
+Gold 99
+Laboratory 12
+Silver 6
+Silver 10
+Village 9
+Woodcutter 6
+Woodcutter 1
+Province 6
+Moneylender 10

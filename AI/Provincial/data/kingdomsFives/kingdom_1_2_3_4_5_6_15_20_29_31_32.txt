@@ -1,0 +1,20 @@
+2
+14
+12
+8
+Gold 100
+Province 7
+Militia 7
+Gold 10
+Gold 12
+Militia 6
+Duchy 5
+Silver 5
+Silver 10
+Silver 3
+Woodcutter 10
+Workshop 5
+Chancellor 12
+Woodcutter 7
+Duchy 4
+Duchy 2

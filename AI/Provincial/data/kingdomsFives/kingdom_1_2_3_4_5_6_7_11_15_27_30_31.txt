@@ -1,0 +1,14 @@
+5
+14
+8
+8
+Gold 100
+Witch 3
+Silver 11
+Copper 9
+Thief 7
+Chancellor 6
+Estate 11
+Silver 13
+Chancellor 7
+CouncilRoom 8

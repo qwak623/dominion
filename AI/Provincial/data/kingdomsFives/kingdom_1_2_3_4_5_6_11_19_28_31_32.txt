@@ -1,0 +1,14 @@
+7
+13
+7
+7
+Gold 101
+Province 5
+Silver 10
+Woodcutter 7
+Gold 7
+Copper 13
+Workshop 7
+Silver 11
+Estate 6
+Estate 5

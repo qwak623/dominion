@@ -1,0 +1,15 @@
+7
+11
+7
+5
+Gold 105
+Mine 12
+Silver 3
+Province 5
+Smithy 5
+Silver 7
+Copper 9
+Estate 12
+Cellar 2
+Remodel 2
+Silver 10

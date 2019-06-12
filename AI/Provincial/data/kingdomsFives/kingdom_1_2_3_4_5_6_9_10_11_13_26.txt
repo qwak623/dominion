@@ -1,0 +1,17 @@
+6
+8
+5
+3
+CouncilRoom 1
+Province 12
+Gold 3
+Gold 8
+Silver 4
+Duchy 7
+Silver 13
+Cellar 7
+Estate 6
+Spy 8
+Spy 7
+Gold 3
+Gold 103

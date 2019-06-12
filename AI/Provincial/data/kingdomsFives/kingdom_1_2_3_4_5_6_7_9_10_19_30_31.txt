@@ -1,0 +1,20 @@
+0
+18
+8
+8
+Witch 10
+Silver 7
+Estate 13
+Province 7
+Silver 9
+Province 5
+Bureaucrat 6
+Gold 100
+Market 11
+Bureaucrat 10
+Copper 5
+Woodcutter 6
+Silver 4
+Silver 12
+Curse 10
+Silver 11

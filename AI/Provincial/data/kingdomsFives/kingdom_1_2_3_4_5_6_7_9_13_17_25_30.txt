@@ -1,0 +1,15 @@
+0
+15
+8
+8
+Gold 10
+Witch 3
+Duchy 6
+Gold 100
+Laboratory 7
+Silver 14
+Festival 9
+Silver 6
+Copper 4
+Smithy 8
+Estate 7

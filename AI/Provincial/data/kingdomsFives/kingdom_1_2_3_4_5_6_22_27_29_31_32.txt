@@ -1,0 +1,16 @@
+1
+17
+8
+8
+Gold 102
+Province 7
+Gold 5
+Thief 4
+Province 6
+Silver 17
+Village 12
+Copper 8
+Moat 9
+Estate 4
+Gold 2
+Silver 8

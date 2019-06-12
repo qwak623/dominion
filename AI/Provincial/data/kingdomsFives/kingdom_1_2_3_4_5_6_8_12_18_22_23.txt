@@ -1,0 +1,12 @@
+5
+12
+5
+3
+Gold 101
+Gold 6
+Silver 10
+Silver 8
+Moat 3
+Province 7
+Silver 7
+Adventurer 10

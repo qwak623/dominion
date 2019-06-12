@@ -1,0 +1,14 @@
+7
+20
+7
+4
+Bureaucrat 1
+Gold 100
+Market 8
+Silver 7
+Adventurer 12
+Laboratory 14
+Bureaucrat 7
+Gold 11
+Silver 11
+Province 11

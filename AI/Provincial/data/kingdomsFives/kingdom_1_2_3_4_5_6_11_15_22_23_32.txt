@@ -1,0 +1,14 @@
+5
+11
+6
+4
+Province 4
+Gold 9
+Silver 12
+Gold 6
+Duchy 10
+CouncilRoom 6
+Moat 11
+Moneylender 11
+Silver 13
+Duchy 6

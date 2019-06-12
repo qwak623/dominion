@@ -1,0 +1,16 @@
+0
+9
+8
+6
+Market 5
+Province 13
+Chapel 1
+Gold 101
+Market 7
+Militia 6
+Silver 13
+Silver 9
+Duchy 3
+Silver 4
+Market 9
+Adventurer 11

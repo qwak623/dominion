@@ -1,0 +1,15 @@
+7
+9
+6
+4
+Province 10
+Gold 100
+Gold 9
+Silver 6
+Chancellor 6
+Silver 13
+Bureaucrat 12
+Silver 6
+Duchy 13
+Copper 5
+Bureaucrat 14

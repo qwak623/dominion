@@ -1,0 +1,16 @@
+4
+14
+8
+8
+Gold 7
+Library 1
+Silver 14
+Library 5
+Bureaucrat 5
+Library 7
+Duchy 5
+Province 10
+Province 11
+Gold 101
+Duchy 8
+Duchy 11

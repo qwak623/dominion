@@ -1,0 +1,15 @@
+7
+16
+8
+7
+Gold 101
+Province 9
+Witch 5
+Silver 11
+Gardens 9
+Gardens 11
+Copper 4
+Estate 9
+Laboratory 12
+Province 1
+Moneylender 5

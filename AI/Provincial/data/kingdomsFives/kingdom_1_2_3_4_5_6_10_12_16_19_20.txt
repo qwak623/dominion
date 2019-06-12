@@ -1,0 +1,16 @@
+4
+11
+8
+7
+Province 9
+Gold 102
+Militia 6
+Gold 11
+Silver 12
+Feast 8
+Province 8
+Chapel 7
+Market 11
+Silver 10
+Estate 7
+Duchy 8

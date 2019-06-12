@@ -1,0 +1,18 @@
+5
+14
+17
+8
+Gold 5
+Market 8
+Province 2
+Market 8
+Gold 100
+Silver 13
+Feast 10
+Gold 3
+Feast 6
+Duchy 5
+Adventurer 2
+Market 3
+Village 8
+Mine 13

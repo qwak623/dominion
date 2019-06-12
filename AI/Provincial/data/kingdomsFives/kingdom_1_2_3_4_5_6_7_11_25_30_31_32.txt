@@ -1,0 +1,15 @@
+2
+13
+8
+8
+Gold 100
+Witch 5
+Silver 13
+Copper 4
+Curse 2
+Witch 11
+Province 7
+Estate 11
+Woodcutter 14
+Smithy 2
+Gold 11

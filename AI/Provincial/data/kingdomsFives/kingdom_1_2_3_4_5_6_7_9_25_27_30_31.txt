@@ -1,0 +1,18 @@
+7
+10
+20
+7
+Duchy 14
+Bureaucrat 2
+Province 12
+Province 6
+Gold 101
+Silver 11
+Smithy 5
+Copper 5
+Copper 11
+Gold 8
+Thief 11
+Woodcutter 4
+Curse 6
+Smithy 8

@@ -1,0 +1,15 @@
+0
+5
+8
+7
+Duchy 3
+Duchy 12
+Province 7
+Gold 11
+Gardens 9
+Chancellor 3
+Copper 5
+Gold 100
+Estate 5
+Estate 7
+Silver 12

@@ -1,0 +1,13 @@
+3
+8
+8
+6
+Gold 5
+Gold 100
+CouncilRoom 3
+Province 6
+Silver 12
+Adventurer 13
+Library 6
+Copper 7
+Duchy 5

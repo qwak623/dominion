@@ -1,0 +1,15 @@
+1
+9
+6
+4
+Gold 4
+Province 15
+Gold 99
+Festival 2
+Festival 12
+Silver 12
+Gold 9
+Feast 3
+Library 9
+Festival 6
+Duchy 7

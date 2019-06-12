@@ -1,0 +1,15 @@
+6
+13
+10
+8
+Duchy 8
+Province 5
+Gold 102
+Library 7
+Silver 14
+Silver 9
+Thief 8
+Copper 4
+Moat 8
+Estate 9
+Woodcutter 7

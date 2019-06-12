@@ -1,0 +1,16 @@
+7
+16
+8
+7
+Bureaucrat 3
+Gold 101
+Gardens 12
+Silver 12
+Market 5
+Copper 7
+Laboratory 4
+Estate 8
+Copper 1
+Copper 8
+Bureaucrat 10
+Militia 8

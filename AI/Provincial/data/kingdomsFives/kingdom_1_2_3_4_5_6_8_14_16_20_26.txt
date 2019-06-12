@@ -1,0 +1,16 @@
+1
+9
+6
+6
+Province 5
+Gold 100
+Silver 10
+Gardens 13
+Province 5
+Militia 7
+Silver 12
+Adventurer 5
+Chapel 8
+Copper 13
+Spy 8
+Duchy 9

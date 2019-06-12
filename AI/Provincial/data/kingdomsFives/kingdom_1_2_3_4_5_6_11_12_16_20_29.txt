@@ -1,0 +1,16 @@
+1
+14
+6
+3
+Gold 13
+Silver 10
+Militia 9
+Gold 99
+Silver 10
+Province 10
+Chapel 9
+CouncilRoom 9
+Village 1
+Silver 10
+Village 2
+Estate 9

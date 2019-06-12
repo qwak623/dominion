@@ -1,0 +1,17 @@
+6
+12
+7
+7
+Gold 12
+Silver 9
+Silver 10
+Chapel 5
+Estate 10
+Province 7
+Gold 101
+Duchy 3
+Mine 11
+Workshop 7
+Silver 4
+Silver 2
+Militia 9

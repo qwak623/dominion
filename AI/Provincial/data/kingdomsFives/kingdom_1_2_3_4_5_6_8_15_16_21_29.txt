@@ -1,0 +1,17 @@
+1
+15
+7
+6
+Gold 7
+Gold 101
+Silver 10
+Silver 11
+Gold 5
+Silver 8
+Chapel 12
+Province 9
+Village 13
+Copper 6
+Mine 9
+Chancellor 7
+Estate 3

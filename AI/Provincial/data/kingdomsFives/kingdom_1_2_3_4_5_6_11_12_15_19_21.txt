@@ -1,0 +1,13 @@
+7
+13
+15
+6
+Gold 10
+Province 9
+CouncilRoom 6
+Duchy 8
+Province 3
+Silver 11
+Copper 10
+Estate 3
+Silver 9

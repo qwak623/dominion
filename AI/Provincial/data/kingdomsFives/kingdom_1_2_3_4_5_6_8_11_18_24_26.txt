@@ -1,0 +1,20 @@
+0
+14
+6
+5
+Gold 100
+Province 10
+Province 7
+CouncilRoom 10
+Duchy 4
+Gold 6
+Silver 7
+Gold 5
+Remodel 4
+Province 3
+Gold 8
+Library 7
+Remodel 5
+Silver 7
+Silver 10
+Remodel 9

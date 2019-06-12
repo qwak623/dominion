@@ -1,0 +1,17 @@
+0
+12
+7
+7
+Gold 10
+CouncilRoom 3
+Silver 12
+Silver 1
+Copper 10
+Silver 3
+Spy 9
+Festival 7
+Spy 8
+Silver 7
+Estate 6
+Spy 7
+Estate 101

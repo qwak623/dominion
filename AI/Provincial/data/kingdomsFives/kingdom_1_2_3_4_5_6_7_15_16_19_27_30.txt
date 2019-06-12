@@ -1,0 +1,14 @@
+2
+23
+8
+7
+Gold 7
+Witch 10
+Witch 9
+Gold 102
+Market 7
+Silver 15
+Chapel 5
+Silver 5
+Silver 10
+Silver 10

@@ -1,0 +1,15 @@
+1
+17
+8
+8
+Gold 103
+Province 9
+Witch 5
+Silver 12
+Silver 11
+Gold 16
+Feast 2
+Chapel 10
+Copper 5
+Province 8
+Gold 2

@@ -1,0 +1,14 @@
+6
+13
+7
+5
+Gold 104
+Province 11
+Mine 2
+Festival 2
+Silver 14
+Duchy 12
+Copper 3
+Mine 14
+Estate 4
+Adventurer 9

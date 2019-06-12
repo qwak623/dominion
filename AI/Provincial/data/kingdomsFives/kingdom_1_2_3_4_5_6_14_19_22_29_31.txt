@@ -1,0 +1,17 @@
+0
+11
+6
+4
+Gold 100
+Silver 5
+Province 1
+Gardens 12
+Duchy 11
+Moat 2
+Estate 2
+Copper 5
+Estate 6
+Woodcutter 4
+Market 4
+Gold 9
+Silver 12

@@ -1,0 +1,11 @@
+0
+9
+8
+6
+Gold 5
+Province 12
+Laboratory 103
+Silver 11
+Duchy 12
+Silver 13
+Smithy 9

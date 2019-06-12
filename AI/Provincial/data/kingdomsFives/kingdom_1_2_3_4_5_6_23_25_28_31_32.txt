@@ -1,0 +1,18 @@
+3
+13
+7
+5
+Gold 6
+Silver 12
+Gold 102
+Woodcutter 7
+ThroneRoom 6
+Duchy 6
+Smithy 7
+Gold 2
+Workshop 11
+Duchy 9
+Woodcutter 4
+ThroneRoom 5
+Duchy 3
+Moneylender 10

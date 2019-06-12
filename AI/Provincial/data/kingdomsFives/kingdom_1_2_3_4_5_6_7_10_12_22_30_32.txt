@@ -1,0 +1,16 @@
+6
+13
+8
+8
+Gold 5
+Witch 13
+Silver 2
+Cellar 1
+Province 99
+Duchy 10
+Silver 6
+Copper 8
+Cellar 5
+Silver 14
+Workshop 11
+Moat 6

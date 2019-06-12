@@ -1,0 +1,16 @@
+0
+19
+7
+4
+Gold 99
+Gold 7
+Silver 11
+Moat 6
+Library 8
+Copper 7
+Duchy 7
+Gold 6
+Estate 10
+Laboratory 11
+Festival 9
+Silver 4

@@ -1,0 +1,19 @@
+1
+14
+8
+6
+Bureaucrat 2
+Gold 103
+Province 5
+Silver 3
+CouncilRoom 9
+Silver 13
+Village 8
+Village 14
+CouncilRoom 1
+Gold 2
+Copper 11
+Cellar 4
+Copper 8
+Remodel 3
+Cellar 5

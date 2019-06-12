@@ -1,0 +1,16 @@
+2
+11
+8
+8
+Province 5
+Laboratory 100
+Bureaucrat 10
+Silver 14
+Silver 8
+Copper 12
+Duchy 10
+Copper 1
+Duchy 8
+Estate 10
+Moneylender 6
+Festival 14

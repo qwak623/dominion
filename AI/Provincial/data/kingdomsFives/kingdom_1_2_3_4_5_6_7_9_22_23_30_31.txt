@@ -1,0 +1,15 @@
+7
+16
+8
+8
+Gold 101
+Witch 11
+Silver 10
+Woodcutter 10
+Woodcutter 7
+Bureaucrat 10
+Copper 14
+Gold 5
+Moat 3
+Estate 8
+Moneylender 13

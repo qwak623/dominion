@@ -1,0 +1,16 @@
+1
+9
+10
+7
+Province 9
+Gold 102
+Workshop 3
+Gardens 10
+Gold 6
+Gardens 4
+Feast 10
+Moneylender 4
+Silver 10
+Copper 8
+Silver 11
+Estate 6

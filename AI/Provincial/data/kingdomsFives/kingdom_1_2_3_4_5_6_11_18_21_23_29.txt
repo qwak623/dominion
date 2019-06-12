@@ -1,0 +1,22 @@
+7
+10
+8
+5
+Province 5
+Mine 2
+Gold 9
+Gold 100
+Silver 11
+Moneylender 6
+CouncilRoom 3
+Silver 5
+Province 4
+Mine 8
+Duchy 10
+Moneylender 9
+Mine 4
+Village 7
+Silver 7
+Duchy 10
+Duchy 12
+Village 12

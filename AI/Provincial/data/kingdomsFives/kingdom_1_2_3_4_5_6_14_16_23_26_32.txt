@@ -1,0 +1,14 @@
+6
+11
+6
+6
+Gold 102
+Province 8
+Silver 8
+Silver 13
+Chapel 9
+Moneylender 13
+Workshop 7
+Gardens 11
+Chapel 3
+Copper 6

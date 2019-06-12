@@ -1,0 +1,16 @@
+7
+13
+6
+6
+Province 13
+Gold 101
+Silver 12
+Adventurer 13
+Silver 2
+Copper 8
+Feast 5
+Moneylender 3
+Estate 3
+Silver 4
+Duchy 2
+Moneylender 4

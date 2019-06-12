@@ -1,0 +1,17 @@
+3
+10
+7
+4
+Province 10
+Smithy 1
+Gold 103
+Gold 10
+Silver 6
+Duchy 6
+Gardens 9
+Copper 6
+Silver 9
+Silver 10
+Province 1
+Duchy 3
+Estate 11

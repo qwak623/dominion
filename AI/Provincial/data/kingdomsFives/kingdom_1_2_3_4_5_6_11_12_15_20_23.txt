@@ -1,0 +1,17 @@
+2
+13
+8
+8
+Gold 102
+Militia 1
+Silver 13
+Gold 13
+Duchy 11
+Feast 11
+Copper 8
+Estate 3
+Estate 6
+Feast 11
+CouncilRoom 9
+Moneylender 12
+Silver 9

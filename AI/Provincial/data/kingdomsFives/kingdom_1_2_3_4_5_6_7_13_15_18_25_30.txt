@@ -1,0 +1,10 @@
+1
+10
+8
+8
+Province 13
+Witch 10
+Duchy 7
+Silver 14
+Copper 9
+Copper 8

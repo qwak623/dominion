@@ -1,0 +1,14 @@
+0
+13
+8
+8
+Witch 4
+Gold 7
+Silver 5
+Festival 9
+Silver 13
+Copper 3
+CouncilRoom 4
+Duchy 8
+Copper 4
+Curse 11

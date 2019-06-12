@@ -1,0 +1,16 @@
+6
+10
+7
+7
+Province 9
+Gold 6
+Silver 3
+Silver 7
+Silver 13
+Feast 5
+Cellar 5
+Copper 4
+Estate 11
+Gold 99
+Estate 13
+Moneylender 8

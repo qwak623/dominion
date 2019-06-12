@@ -1,0 +1,15 @@
+6
+4
+10
+8
+Province 9
+Library 3
+Duchy 15
+Gold 6
+Silver 12
+Witch 7
+Province 4
+Cellar 12
+Copper 10
+Duchy 7
+Smithy 11

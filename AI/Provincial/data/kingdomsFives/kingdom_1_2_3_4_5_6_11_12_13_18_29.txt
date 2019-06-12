@@ -1,0 +1,15 @@
+1
+17
+6
+3
+Library 1
+Gold 100
+Silver 4
+CouncilRoom 10
+Gold 6
+Festival 5
+Silver 14
+Copper 3
+Feast 9
+Library 8
+Estate 11

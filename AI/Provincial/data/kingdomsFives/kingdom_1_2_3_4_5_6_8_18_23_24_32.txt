@@ -1,0 +1,14 @@
+6
+13
+7
+7
+Gold 11
+Province 8
+Silver 14
+Remodel 10
+Copper 8
+Estate 8
+Workshop 3
+Duchy 13
+Remodel 11
+Remodel 11

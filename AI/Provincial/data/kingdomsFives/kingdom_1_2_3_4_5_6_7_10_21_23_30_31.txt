@@ -1,0 +1,14 @@
+1
+19
+8
+8
+Gold 101
+Witch 9
+Silver 9
+Cellar 4
+Estate 7
+Moneylender 9
+Mine 5
+Mine 10
+Silver 11
+Duchy 10

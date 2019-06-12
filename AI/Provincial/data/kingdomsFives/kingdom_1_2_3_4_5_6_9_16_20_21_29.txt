@@ -1,0 +1,17 @@
+3
+13
+7
+6
+Mine 1
+Bureaucrat 1
+Province 12
+Gold 101
+Militia 1
+Gold 10
+Silver 12
+Copper 10
+Bureaucrat 10
+Silver 13
+Chapel 5
+Duchy 11
+Village 8

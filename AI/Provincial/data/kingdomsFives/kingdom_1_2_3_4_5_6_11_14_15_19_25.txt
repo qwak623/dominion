@@ -1,0 +1,18 @@
+4
+11
+6
+5
+Smithy 1
+Gold 8
+Province 6
+Silver 13
+Copper 8
+Silver 8
+CouncilRoom 10
+Estate 2
+Chancellor 7
+Copper 4
+Province 7
+CouncilRoom 8
+Smithy 2
+Gardens 6

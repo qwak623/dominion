@@ -1,0 +1,16 @@
+3
+14
+7
+4
+Copper 1
+Bureaucrat 1
+Province 11
+Gold 101
+Silver 14
+CouncilRoom 6
+Copper 6
+Estate 3
+Gold 6
+Chapel 7
+Silver 11
+Festival 6

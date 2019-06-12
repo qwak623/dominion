@@ -1,0 +1,17 @@
+5
+14
+8
+8
+Laboratory 9
+Silver 1
+Province 13
+Gold 3
+Duchy 7
+Gold 7
+Adventurer 6
+Province 9
+Bureaucrat 7
+Copper 13
+Estate 10
+Gold 104
+Duchy 10

@@ -1,0 +1,15 @@
+5
+14
+6
+6
+Bureaucrat 1
+Gold 99
+Silver 12
+Province 9
+Remodel 5
+Chapel 1
+Silver 12
+Gold 12
+Market 7
+Duchy 4
+Copper 11

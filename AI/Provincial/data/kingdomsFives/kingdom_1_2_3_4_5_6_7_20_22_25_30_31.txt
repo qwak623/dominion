@@ -1,0 +1,15 @@
+2
+12
+8
+8
+Province 8
+Witch 16
+Silver 9
+Duchy 12
+Militia 7
+Estate 5
+Militia 5
+Silver 12
+Smithy 9
+Woodcutter 5
+Gold 100

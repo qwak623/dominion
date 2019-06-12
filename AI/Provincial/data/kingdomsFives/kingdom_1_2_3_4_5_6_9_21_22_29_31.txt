@@ -1,0 +1,15 @@
+0
+13
+20
+7
+Gold 100
+Bureaucrat 7
+Silver 13
+Woodcutter 7
+Copper 11
+Duchy 10
+Bureaucrat 8
+Mine 6
+Estate 5
+Estate 6
+Duchy 9

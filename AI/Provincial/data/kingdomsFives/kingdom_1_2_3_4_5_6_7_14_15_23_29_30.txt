@@ -1,0 +1,15 @@
+4
+15
+14
+8
+Gardens 7
+Duchy 6
+Duchy 100
+Gardens 8
+Gardens 5
+Silver 10
+Estate 6
+Estate 8
+Copper 10
+Moneylender 5
+Silver 10

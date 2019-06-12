@@ -1,0 +1,18 @@
+3
+16
+8
+7
+Witch 4
+Gold 7
+Silver 12
+Copper 4
+Duchy 10
+Gold 100
+Silver 4
+Province 10
+Militia 12
+Witch 6
+Feast 9
+Estate 5
+Estate 2
+Curse 2

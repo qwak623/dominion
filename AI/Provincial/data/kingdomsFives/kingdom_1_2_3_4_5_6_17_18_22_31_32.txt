@@ -1,0 +1,20 @@
+4
+8
+5
+4
+Province 10
+Gold 7
+Laboratory 7
+Gold 101
+Duchy 3
+Duchy 6
+Silver 12
+Woodcutter 4
+Woodcutter 4
+Moat 2
+Library 3
+Estate 3
+Workshop 1
+Estate 3
+Silver 7
+Moat 2

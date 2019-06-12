@@ -1,0 +1,14 @@
+0
+11
+7
+7
+Silver 8
+Duchy 9
+Gardens 11
+Chancellor 6
+Bureaucrat 10
+Silver 2
+Gold 6
+Bureaucrat 102
+Moneylender 10
+Village 6

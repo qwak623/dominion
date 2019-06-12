@@ -1,0 +1,14 @@
+5
+17
+14
+6
+Duchy 3
+Province 7
+Adventurer 7
+Silver 12
+Silver 13
+Library 4
+Chapel 11
+Library 9
+Cellar 12
+Duchy 8

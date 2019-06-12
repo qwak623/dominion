@@ -1,0 +1,14 @@
+7
+17
+5
+5
+Gold 14
+Festival 6
+Smithy 5
+Duchy 13
+Silver 12
+Gold 102
+Smithy 5
+Festival 8
+Market 4
+Copper 3

@@ -1,0 +1,16 @@
+7
+16
+7
+5
+Gold 100
+Province 6
+CouncilRoom 5
+CouncilRoom 5
+Province 10
+Silver 8
+Copper 7
+Feast 6
+Gold 10
+Market 5
+Silver 14
+Copper 4

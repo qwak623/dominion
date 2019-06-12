@@ -1,0 +1,17 @@
+4
+16
+8
+6
+Gold 101
+Bureaucrat 4
+Gold 8
+Silver 11
+Bureaucrat 3
+Silver 6
+Silver 10
+Copper 9
+Gold 6
+Woodcutter 10
+Province 7
+Silver 2
+Woodcutter 3

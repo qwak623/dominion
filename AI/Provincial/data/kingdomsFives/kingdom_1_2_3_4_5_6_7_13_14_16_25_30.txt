@@ -1,0 +1,17 @@
+7
+14
+8
+7
+Province 8
+Chapel 1
+Gold 103
+Province 2
+Witch 5
+Silver 12
+Duchy 2
+Gardens 6
+Chapel 2
+Witch 8
+Estate 10
+Festival 4
+Gardens 9

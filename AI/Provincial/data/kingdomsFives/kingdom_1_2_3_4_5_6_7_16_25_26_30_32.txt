@@ -1,0 +1,18 @@
+3
+11
+7
+6
+Province 9
+Gold 101
+Witch 2
+Silver 12
+Gold 6
+Duchy 3
+Silver 8
+Spy 3
+Smithy 14
+Duchy 2
+Chapel 3
+Copper 11
+Chapel 3
+Curse 3

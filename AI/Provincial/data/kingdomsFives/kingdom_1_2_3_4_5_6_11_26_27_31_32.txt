@@ -1,0 +1,14 @@
+5
+12
+6
+3
+Province 5
+Gold 101
+Gold 8
+CouncilRoom 11
+Silver 7
+Silver 13
+Copper 5
+Gold 8
+Spy 4
+Woodcutter 11

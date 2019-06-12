@@ -1,0 +1,16 @@
+4
+17
+6
+5
+Gold 100
+Province 9
+Silver 11
+Silver 9
+Spy 10
+Moneylender 3
+Thief 9
+Spy 3
+Copper 4
+Thief 3
+Copper 3
+Estate 6

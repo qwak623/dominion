@@ -1,0 +1,15 @@
+0
+11
+7
+4
+Province 12
+Gold 6
+Library 3
+Province 7
+Silver 7
+Adventurer 7
+Market 8
+Adventurer 8
+Copper 5
+Workshop 12
+Gold 102

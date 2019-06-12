@@ -1,0 +1,16 @@
+1
+5
+8
+8
+Province 8
+Cellar 1
+Witch 5
+Duchy 11
+Province 13
+Silver 12
+Silver 2
+Estate 4
+Militia 4
+Curse 6
+Curse 5
+Gold 102

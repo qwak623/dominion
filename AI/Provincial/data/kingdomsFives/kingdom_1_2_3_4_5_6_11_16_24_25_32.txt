@@ -1,0 +1,14 @@
+0
+12
+7
+5
+Silver 2
+Gold 102
+Smithy 4
+Province 18
+Silver 15
+Copper 5
+Gold 11
+Duchy 8
+Remodel 6
+CouncilRoom 9

@@ -1,0 +1,14 @@
+7
+13
+8
+8
+Bureaucrat 4
+Province 8
+Gold 102
+Silver 9
+Bureaucrat 9
+Bureaucrat 9
+Duchy 9
+Library 8
+Woodcutter 6
+Silver 11

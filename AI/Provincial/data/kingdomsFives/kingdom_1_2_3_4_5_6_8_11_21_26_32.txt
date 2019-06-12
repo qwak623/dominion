@@ -1,0 +1,14 @@
+4
+16
+6
+4
+Gold 104
+Mine 2
+Gold 9
+CouncilRoom 10
+Copper 1
+CouncilRoom 6
+Duchy 13
+Province 12
+Silver 12
+Silver 10

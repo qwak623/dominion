@@ -1,0 +1,15 @@
+4
+20
+7
+7
+Gold 100
+Library 3
+Silver 12
+Province 4
+Remodel 4
+Duchy 14
+Library 5
+Silver 10
+Remodel 7
+Duchy 4
+Moneylender 3

@@ -1,0 +1,20 @@
+0
+10
+5
+4
+Gold 9
+Silver 3
+Copper 1
+Province 13
+Market 5
+CouncilRoom 4
+Smithy 6
+Silver 15
+CouncilRoom 4
+Duchy 11
+Gold 12
+Estate 10
+Gold 101
+Estate 10
+Market 8
+Bureaucrat 7

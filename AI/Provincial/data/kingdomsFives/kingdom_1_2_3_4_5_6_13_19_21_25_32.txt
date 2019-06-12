@@ -1,0 +1,15 @@
+2
+15
+6
+5
+Gold 102
+Mine 11
+Gold 3
+Silver 15
+Festival 13
+Smithy 8
+Silver 6
+Silver 5
+Festival 10
+Province 1
+Province 6

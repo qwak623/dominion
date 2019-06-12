@@ -1,0 +1,14 @@
+4
+14
+8
+8
+Province 13
+Gold 100
+Bureaucrat 9
+Duchy 3
+Silver 8
+CouncilRoom 9
+Laboratory 7
+Duchy 12
+Bureaucrat 14
+Copper 1

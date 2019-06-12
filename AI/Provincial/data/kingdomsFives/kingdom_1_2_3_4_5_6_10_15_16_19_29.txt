@@ -1,0 +1,16 @@
+7
+13
+16
+8
+Gold 4
+Gold 7
+Market 10
+Silver 11
+Cellar 12
+Gold 9
+Province 5
+Chancellor 4
+Silver 2
+Province 4
+Province 103
+Chapel 8

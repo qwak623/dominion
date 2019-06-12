@@ -1,0 +1,16 @@
+6
+11
+5
+4
+Gold 10
+Province 7
+Laboratory 4
+Gold 100
+Silver 5
+Gardens 11
+Moneylender 5
+Duchy 2
+Silver 10
+Copper 4
+Gold 10
+Estate 5

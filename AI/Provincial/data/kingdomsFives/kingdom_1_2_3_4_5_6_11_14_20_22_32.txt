@@ -1,0 +1,16 @@
+4
+11
+8
+8
+Province 10
+Workshop 1
+Gold 99
+Militia 3
+Gold 14
+Gardens 8
+Duchy 8
+Silver 11
+Silver 4
+Copper 8
+CouncilRoom 11
+Moat 5

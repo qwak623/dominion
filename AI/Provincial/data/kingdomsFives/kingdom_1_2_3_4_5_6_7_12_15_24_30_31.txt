@@ -1,0 +1,17 @@
+2
+10
+8
+8
+Province 11
+Gold 103
+Witch 2
+Gold 5
+Silver 9
+Chancellor 11
+Copper 6
+Silver 12
+Gold 11
+Feast 10
+Curse 8
+Witch 3
+Woodcutter 9

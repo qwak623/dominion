@@ -1,0 +1,15 @@
+5
+12
+8
+8
+Gold 102
+Silver 13
+Province 11
+Silver 7
+Chapel 3
+Woodcutter 3
+Copper 10
+Estate 4
+Chancellor 2
+Estate 3
+Curse 15

@@ -1,0 +1,17 @@
+2
+11
+7
+6
+Province 9
+Gold 99
+Province 8
+CouncilRoom 12
+Festival 5
+Silver 15
+Silver 9
+Province 9
+Gold 4
+Duchy 12
+Festival 8
+Festival 2
+Militia 7

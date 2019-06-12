@@ -1,0 +1,15 @@
+3
+14
+8
+8
+Gold 6
+Witch 13
+Duchy 11
+Silver 9
+Duchy 6
+Woodcutter 6
+Witch 7
+Bureaucrat 9
+Gold 101
+Bureaucrat 3
+Workshop 10

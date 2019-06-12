@@ -1,0 +1,20 @@
+4
+10
+10
+8
+Gardens 11
+Gardens 100
+Woodcutter 8
+Cellar 4
+Duchy 8
+Silver 8
+Gold 4
+Silver 7
+Workshop 7
+Silver 11
+Gardens 6
+Province 7
+Gold 11
+Estate 5
+Thief 5
+Copper 8

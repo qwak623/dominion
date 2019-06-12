@@ -1,0 +1,13 @@
+5
+10
+6
+6
+Silver 7
+Chapel 1
+Province 7
+Gold 102
+Silver 12
+Estate 11
+Woodcutter 10
+Chapel 6
+Gold 12

@@ -1,0 +1,16 @@
+4
+16
+6
+6
+Gold 9
+Silver 3
+Silver 11
+Gold 100
+Chancellor 6
+Feast 4
+Chapel 1
+Duchy 4
+Feast 9
+Remodel 4
+Village 9
+Province 7

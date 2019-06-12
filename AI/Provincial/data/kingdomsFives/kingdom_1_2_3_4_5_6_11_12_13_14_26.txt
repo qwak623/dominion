@@ -1,0 +1,14 @@
+6
+14
+8
+6
+Silver 8
+Gardens 11
+CouncilRoom 12
+Province 9
+Silver 12
+Spy 7
+Gold 100
+Copper 1
+Duchy 6
+Copper 6

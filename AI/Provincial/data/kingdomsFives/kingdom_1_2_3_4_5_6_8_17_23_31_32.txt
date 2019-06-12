@@ -1,0 +1,15 @@
+2
+15
+6
+5
+Gold 3
+Gold 14
+Adventurer 10
+Laboratory 4
+Province 101
+Silver 13
+Copper 11
+Workshop 5
+Silver 9
+Moneylender 2
+Copper 4

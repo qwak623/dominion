@@ -1,0 +1,12 @@
+1
+15
+6
+6
+Mine 1
+Province 12
+Gold 100
+Festival 9
+Silver 13
+Duchy 11
+Gold 11
+Festival 5

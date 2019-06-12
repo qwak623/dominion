@@ -1,0 +1,18 @@
+1
+13
+7
+3
+Cellar 1
+Gold 100
+Silver 12
+Copper 6
+Cellar 3
+ThroneRoom 8
+Duchy 3
+Silver 9
+Thief 4
+Estate 7
+CouncilRoom 7
+Province 12
+Spy 8
+Spy 6

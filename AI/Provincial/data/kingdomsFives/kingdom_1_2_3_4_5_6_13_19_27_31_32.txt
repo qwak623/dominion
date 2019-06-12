@@ -1,0 +1,13 @@
+7
+17
+7
+6
+Gold 8
+Province 7
+Province 101
+Market 12
+Silver 13
+Woodcutter 11
+Duchy 7
+Copper 1
+Estate 5

@@ -1,0 +1,15 @@
+4
+19
+8
+8
+Market 5
+Duchy 6
+Militia 7
+Bureaucrat 10
+Duchy 9
+Province 8
+Silver 13
+Village 5
+Cellar 2
+Estate 4
+Gold 100

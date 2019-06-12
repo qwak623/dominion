@@ -1,0 +1,17 @@
+0
+13
+5
+5
+Gold 99
+Gold 8
+Library 2
+Silver 8
+Festival 3
+Remodel 5
+Copper 10
+Market 5
+Remodel 5
+Copper 5
+Province 12
+Gold 7
+Militia 10

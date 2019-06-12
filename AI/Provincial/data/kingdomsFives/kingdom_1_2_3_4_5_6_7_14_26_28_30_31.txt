@@ -1,0 +1,15 @@
+7
+11
+13
+8
+Duchy 13
+Province 5
+Gardens 11
+Gardens 6
+Gold 99
+Silver 12
+Spy 14
+Spy 6
+ThroneRoom 13
+Estate 8
+Gold 5

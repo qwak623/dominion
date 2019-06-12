@@ -1,0 +1,19 @@
+0
+13
+6
+5
+Gold 11
+CouncilRoom 9
+Library 13
+Province 8
+CouncilRoom 8
+CouncilRoom 6
+Silver 6
+Copper 1
+Gold 100
+Village 7
+Silver 12
+Gold 2
+Library 10
+Remodel 3
+Chancellor 2

@@ -1,0 +1,16 @@
+7
+13
+14
+8
+Province 9
+Gardens 12
+Market 12
+Bureaucrat 11
+Silver 14
+Bureaucrat 11
+Chancellor 3
+Chancellor 7
+Gold 100
+Copper 10
+Festival 7
+Chancellor 9

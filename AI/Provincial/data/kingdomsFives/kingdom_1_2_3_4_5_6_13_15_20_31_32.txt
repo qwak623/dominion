@@ -1,0 +1,16 @@
+2
+5
+8
+8
+Festival 5
+Duchy 8
+Province 14
+Militia 101
+Copper 6
+Estate 13
+Estate 6
+Workshop 3
+Gold 5
+Duchy 3
+Silver 10
+Workshop 6

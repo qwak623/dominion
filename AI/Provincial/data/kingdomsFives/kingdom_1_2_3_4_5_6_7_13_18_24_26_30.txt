@@ -1,0 +1,20 @@
+2
+10
+12
+8
+Witch 10
+Province 8
+Silver 3
+Silver 14
+Festival 8
+Copper 3
+Remodel 1
+Estate 5
+Gold 99
+Province 9
+Spy 9
+Estate 3
+Remodel 5
+Province 3
+Remodel 8
+Estate 2

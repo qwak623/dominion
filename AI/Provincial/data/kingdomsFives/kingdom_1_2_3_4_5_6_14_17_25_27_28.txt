@@ -1,0 +1,16 @@
+3
+12
+6
+6
+Laboratory 2
+Silver 9
+Gardens 9
+Smithy 3
+Province 10
+Silver 15
+Gardens 9
+Gold 6
+Duchy 14
+ThroneRoom 7
+Copper 12
+Laboratory 99

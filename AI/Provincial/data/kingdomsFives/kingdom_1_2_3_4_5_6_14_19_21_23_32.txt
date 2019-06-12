@@ -1,0 +1,16 @@
+4
+11
+8
+7
+Market 10
+Province 9
+Gardens 9
+Silver 13
+Copper 14
+Duchy 13
+Estate 6
+Market 2
+Workshop 8
+Copper 99
+Moneylender 7
+Mine 11

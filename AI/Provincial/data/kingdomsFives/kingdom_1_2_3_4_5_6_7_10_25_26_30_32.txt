@@ -1,0 +1,18 @@
+5
+19
+8
+6
+Silver 11
+Gold 5
+Duchy 12
+Gold 6
+Smithy 13
+Silver 12
+Spy 2
+Workshop 8
+Cellar 10
+Gold 6
+Gold 5
+Copper 10
+Curse 6
+Estate 11

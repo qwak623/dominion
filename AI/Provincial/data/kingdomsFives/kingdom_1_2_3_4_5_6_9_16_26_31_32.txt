@@ -1,0 +1,16 @@
+7
+12
+7
+5
+Gold 11
+Bureaucrat 2
+Province 7
+Silver 12
+Silver 7
+Spy 14
+Copper 5
+Chapel 7
+Estate 4
+Spy 5
+Gold 100
+Duchy 11

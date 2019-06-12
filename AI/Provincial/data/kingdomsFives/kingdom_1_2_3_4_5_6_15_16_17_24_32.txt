@@ -1,0 +1,13 @@
+5
+15
+5
+4
+Gold 8
+Laboratory 10
+Silver 12
+Laboratory 7
+Province 4
+Chapel 14
+Workshop 13
+Duchy 12
+Chancellor 11

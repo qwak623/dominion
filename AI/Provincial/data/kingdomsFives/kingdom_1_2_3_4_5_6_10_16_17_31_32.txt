@@ -1,0 +1,16 @@
+0
+11
+7
+7
+Province 5
+Province 7
+Gold 8
+Silver 12
+Laboratory 10
+Province 1
+Chapel 3
+Province 9
+Cellar 3
+Duchy 4
+Silver 7
+Copper 8

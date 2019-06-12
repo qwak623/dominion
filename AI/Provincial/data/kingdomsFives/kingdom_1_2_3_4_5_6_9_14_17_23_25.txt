@@ -1,0 +1,16 @@
+7
+15
+7
+4
+Province 2
+Bureaucrat 1
+Province 9
+Province 9
+Gold 101
+Laboratory 5
+Silver 13
+Smithy 13
+Silver 7
+Silver 6
+Copper 6
+Gold 13

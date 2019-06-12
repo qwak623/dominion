@@ -1,0 +1,15 @@
+5
+12
+5
+3
+Province 9
+Gold 7
+Laboratory 10
+Gold 100
+Mine 13
+Silver 11
+Duchy 10
+Chancellor 7
+Silver 13
+Remodel 7
+Chancellor 9

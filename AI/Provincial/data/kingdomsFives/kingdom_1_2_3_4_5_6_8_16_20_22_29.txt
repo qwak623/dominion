@@ -1,0 +1,16 @@
+5
+15
+8
+8
+Silver 13
+Adventurer 2
+Adventurer 8
+Province 7
+Silver 4
+Moat 101
+Silver 6
+Chapel 5
+Copper 8
+Copper 3
+Militia 12
+Adventurer 14

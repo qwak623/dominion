@@ -1,0 +1,15 @@
+7
+13
+8
+5
+Gold 10
+Silver 10
+Province 7
+Silver 5
+Copper 4
+Workshop 6
+Adventurer 5
+Estate 6
+Festival 7
+Silver 12
+Gold 100

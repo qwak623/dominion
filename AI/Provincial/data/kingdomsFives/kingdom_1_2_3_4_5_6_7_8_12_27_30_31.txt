@@ -1,0 +1,19 @@
+3
+9
+17
+8
+Witch 9
+Gold 100
+Silver 8
+Silver 11
+Feast 5
+Woodcutter 12
+Silver 9
+Duchy 6
+Copper 11
+Estate 5
+Silver 5
+Silver 5
+Feast 11
+Thief 2
+Curse 3

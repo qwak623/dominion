@@ -1,0 +1,16 @@
+5
+15
+8
+7
+Gold 4
+CouncilRoom 9
+Market 11
+CouncilRoom 2
+Silver 14
+Smithy 10
+Remodel 9
+Silver 10
+CouncilRoom 11
+Gold 105
+Copper 4
+Copper 3

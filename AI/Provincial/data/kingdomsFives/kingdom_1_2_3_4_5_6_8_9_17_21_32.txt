@@ -1,0 +1,19 @@
+5
+14
+7
+6
+Gold 4
+Bureaucrat 2
+Adventurer 10
+Silver 10
+Gold 101
+Bureaucrat 8
+Adventurer 9
+Copper 4
+Estate 11
+Silver 12
+Province 12
+Estate 10
+Laboratory 5
+Gold 7
+Workshop 6

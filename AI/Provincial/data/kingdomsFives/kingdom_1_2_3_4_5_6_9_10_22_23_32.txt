@@ -1,0 +1,14 @@
+5
+22
+8
+8
+Gold 5
+Gold 5
+Gold 102
+Silver 17
+Cellar 7
+Estate 3
+Duchy 5
+Province 9
+Silver 11
+Duchy 11

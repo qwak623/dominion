@@ -1,0 +1,19 @@
+2
+15
+8
+8
+Witch 101
+Duchy 9
+Festival 10
+Province 4
+Market 5
+Silver 12
+Copper 6
+Gold 4
+Cellar 8
+Festival 5
+Curse 6
+Estate 11
+Witch 11
+Silver 4
+Witch 12

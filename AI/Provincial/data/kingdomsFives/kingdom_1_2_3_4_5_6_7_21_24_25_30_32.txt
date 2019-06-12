@@ -1,0 +1,16 @@
+1
+4
+8
+8
+Province 15
+Witch 8
+Silver 7
+Duchy 3
+Estate 6
+Gold 6
+Mine 4
+Estate 10
+Mine 99
+Remodel 4
+Silver 14
+Smithy 9

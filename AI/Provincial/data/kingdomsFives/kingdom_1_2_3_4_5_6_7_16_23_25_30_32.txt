@@ -1,0 +1,17 @@
+6
+12
+8
+7
+Province 6
+Gold 7
+Gold 7
+Witch 11
+Gold 6
+Silver 11
+Chapel 7
+Smithy 7
+Silver 8
+Workshop 4
+Gold 101
+Curse 10
+Silver 7

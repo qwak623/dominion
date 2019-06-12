@@ -1,0 +1,15 @@
+0
+11
+8
+4
+Province 6
+Silver 8
+Gardens 12
+Gold 100
+Adventurer 8
+Gardens 5
+Estate 9
+Gold 12
+Militia 5
+Silver 12
+Remodel 13

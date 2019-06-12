@@ -1,0 +1,15 @@
+4
+10
+13
+4
+Duchy 10
+Witch 7
+Silver 11
+Estate 99
+Silver 4
+ThroneRoom 11
+Copper 5
+Festival 9
+Feast 3
+Estate 7
+Woodcutter 8

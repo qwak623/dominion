@@ -1,0 +1,16 @@
+4
+12
+8
+8
+Witch 2
+Gold 99
+Silver 12
+Province 3
+Spy 9
+Copper 11
+Estate 13
+Gold 3
+Adventurer 8
+Duchy 12
+Witch 10
+Moneylender 6

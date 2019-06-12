@@ -1,0 +1,17 @@
+5
+15
+8
+6
+Gold 104
+Gold 2
+Bureaucrat 3
+Silver 10
+Gold 8
+Copper 10
+Village 13
+Woodcutter 13
+Province 2
+Festival 3
+Estate 5
+Province 4
+Silver 12

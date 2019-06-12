@@ -1,0 +1,14 @@
+2
+11
+7
+4
+Province 10
+Gold 9
+Laboratory 5
+Silver 8
+Copper 4
+Silver 5
+Feast 4
+Feast 10
+Duchy 8
+Gold 102

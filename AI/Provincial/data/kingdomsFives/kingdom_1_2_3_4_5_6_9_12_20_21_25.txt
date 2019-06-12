@@ -1,0 +1,16 @@
+0
+12
+7
+5
+Gold 101
+Mine 10
+Silver 11
+Silver 6
+Feast 15
+Bureaucrat 6
+Gold 9
+Duchy 9
+Gold 2
+Smithy 9
+Province 6
+Copper 5

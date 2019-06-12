@@ -1,0 +1,17 @@
+3
+14
+8
+5
+Gold 101
+Silver 6
+Silver 12
+Bureaucrat 6
+Bureaucrat 9
+Gold 2
+Moat 7
+Silver 9
+Duchy 14
+Adventurer 6
+Province 7
+Copper 4
+Estate 8

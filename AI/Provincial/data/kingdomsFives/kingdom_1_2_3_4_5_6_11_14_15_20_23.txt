@@ -1,0 +1,17 @@
+0
+18
+16
+6
+Silver 6
+Copper 1
+Gardens 9
+Estate 8
+Gold 101
+Duchy 4
+Militia 9
+Moneylender 2
+Gold 6
+Estate 6
+Copper 2
+Silver 16
+Chancellor 2

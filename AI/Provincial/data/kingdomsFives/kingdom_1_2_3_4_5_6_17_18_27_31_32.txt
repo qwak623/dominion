@@ -1,0 +1,19 @@
+7
+10
+8
+5
+Province 5
+Gold 7
+Gold 4
+Laboratory 12
+Silver 11
+Gold 102
+Thief 10
+Workshop 10
+Copper 12
+Library 11
+Silver 4
+Province 1
+Province 7
+Estate 8
+Estate 2

@@ -1,0 +1,15 @@
+4
+21
+8
+7
+Witch 10
+Silver 5
+Duchy 12
+Library 9
+Mine 3
+Mine 3
+Gold 9
+Gold 100
+Estate 8
+Silver 7
+Silver 13

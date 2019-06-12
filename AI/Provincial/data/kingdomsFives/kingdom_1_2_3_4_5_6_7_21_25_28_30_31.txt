@@ -1,0 +1,19 @@
+6
+13
+8
+7
+Province 5
+Gold 7
+Witch 10
+Duchy 11
+Gold 9
+Silver 5
+Silver 14
+Gold 2
+Gold 11
+Gold 100
+Smithy 13
+Copper 3
+Estate 8
+Witch 7
+Witch 6

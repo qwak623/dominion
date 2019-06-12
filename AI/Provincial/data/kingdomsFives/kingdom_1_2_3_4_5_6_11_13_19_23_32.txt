@@ -1,0 +1,16 @@
+2
+14
+8
+8
+Gold 99
+CouncilRoom 7
+Silver 11
+Province 12
+Moneylender 8
+CouncilRoom 10
+Duchy 4
+Copper 6
+Festival 6
+Workshop 3
+Duchy 11
+Market 6

@@ -1,0 +1,14 @@
+0
+9
+8
+5
+Province 9
+Gold 104
+Mine 2
+Festival 3
+Adventurer 10
+Silver 15
+Militia 3
+Province 7
+Silver 11
+Estate 1

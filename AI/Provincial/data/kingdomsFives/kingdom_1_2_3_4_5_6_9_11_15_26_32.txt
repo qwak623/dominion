@@ -1,0 +1,13 @@
+4
+13
+8
+7
+Province 5
+Gold 5
+Bureaucrat 3
+Silver 16
+Province 13
+Copper 8
+Chancellor 4
+Spy 8
+Silver 7

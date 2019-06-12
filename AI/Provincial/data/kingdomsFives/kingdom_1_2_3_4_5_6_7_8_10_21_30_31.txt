@@ -1,0 +1,17 @@
+5
+8
+8
+8
+Province 8
+Witch 6
+Silver 10
+Duchy 6
+Mine 4
+Silver 11
+Copper 9
+Mine 7
+Woodcutter 7
+Curse 4
+Silver 9
+Cellar 4
+Gold 99

@@ -1,0 +1,18 @@
+2
+14
+6
+4
+Gold 99
+Silver 10
+Silver 3
+Silver 8
+Silver 10
+Cellar 9
+Copper 3
+Estate 7
+Copper 6
+Copper 8
+Duchy 8
+Bureaucrat 1
+Workshop 3
+Chancellor 7

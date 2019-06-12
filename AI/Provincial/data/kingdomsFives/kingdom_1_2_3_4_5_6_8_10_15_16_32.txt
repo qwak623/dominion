@@ -1,0 +1,17 @@
+3
+13
+6
+4
+Gold 7
+Silver 11
+Province 13
+Silver 6
+Chapel 5
+Copper 6
+Silver 11
+Gold 103
+Estate 4
+Silver 6
+Cellar 2
+Chancellor 7
+Chapel 7

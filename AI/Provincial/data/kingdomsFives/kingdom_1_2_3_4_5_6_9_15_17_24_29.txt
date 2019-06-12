@@ -1,0 +1,17 @@
+1
+12
+6
+4
+Gold 8
+Gold 99
+Laboratory 4
+Silver 4
+Silver 4
+Bureaucrat 9
+Duchy 10
+Village 8
+Province 10
+Province 2
+Remodel 9
+Bureaucrat 4
+Chancellor 14

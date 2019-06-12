@@ -1,0 +1,16 @@
+0
+9
+8
+7
+Province 2
+Province 104
+Witch 5
+Duchy 11
+Province 4
+Mine 4
+CouncilRoom 12
+Silver 11
+Mine 10
+Estate 7
+Gold 3
+Mine 12

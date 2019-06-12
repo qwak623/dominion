@@ -1,0 +1,17 @@
+0
+10
+7
+7
+Province 8
+CouncilRoom 1
+Province 6
+Gold 10
+Gold 7
+Gold 100
+Silver 9
+Duchy 10
+CouncilRoom 11
+Festival 8
+Silver 11
+Estate 6
+Woodcutter 12

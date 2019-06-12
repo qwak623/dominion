@@ -1,0 +1,17 @@
+6
+10
+13
+5
+Gold 99
+Province 8
+Silver 13
+Silver 13
+Duchy 13
+Woodcutter 7
+Woodcutter 8
+Moat 4
+Woodcutter 5
+Library 12
+Library 7
+Moat 5
+Estate 13

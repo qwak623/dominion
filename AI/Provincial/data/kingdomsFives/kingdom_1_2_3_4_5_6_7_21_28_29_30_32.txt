@@ -1,0 +1,16 @@
+3
+14
+8
+7
+Gold 99
+Gold 3
+Province 7
+Witch 3
+Silver 13
+Witch 8
+Witch 4
+Mine 9
+Witch 4
+Workshop 6
+Province 1
+ThroneRoom 12

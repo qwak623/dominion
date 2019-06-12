@@ -1,0 +1,16 @@
+5
+17
+7
+6
+Mine 2
+Gold 11
+Silver 12
+Province 5
+Silver 9
+Duchy 14
+Smithy 5
+Duchy 10
+Mine 5
+Cellar 4
+Mine 2
+Copper 11

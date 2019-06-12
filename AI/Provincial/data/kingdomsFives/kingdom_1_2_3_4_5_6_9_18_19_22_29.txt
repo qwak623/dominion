@@ -1,0 +1,14 @@
+3
+18
+8
+8
+Gold 5
+Bureaucrat 5
+Silver 10
+Province 12
+Copper 7
+Bureaucrat 6
+Province 9
+Market 9
+Estate 101
+Estate 10

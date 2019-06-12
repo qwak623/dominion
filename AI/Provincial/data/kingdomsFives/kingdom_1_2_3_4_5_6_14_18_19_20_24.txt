@@ -1,0 +1,16 @@
+0
+16
+6
+5
+Library 1
+Gold 102
+Province 11
+Gold 9
+Silver 6
+Market 4
+Copper 3
+Gardens 3
+Duchy 8
+Militia 2
+Remodel 3
+Silver 10

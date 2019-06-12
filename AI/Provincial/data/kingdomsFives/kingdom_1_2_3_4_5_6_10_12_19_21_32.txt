@@ -1,0 +1,13 @@
+2
+19
+8
+8
+Market 5
+Silver 10
+Copper 2
+Estate 103
+Mine 9
+Mine 11
+Duchy 11
+Market 9
+Workshop 13

@@ -1,0 +1,14 @@
+6
+6
+5
+4
+Province 2
+Province 8
+Gold 100
+Laboratory 5
+Gold 7
+Silver 10
+Copper 11
+Silver 13
+Chancellor 8
+Gold 5

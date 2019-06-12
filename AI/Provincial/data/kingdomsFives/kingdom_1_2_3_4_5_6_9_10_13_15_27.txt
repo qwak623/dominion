@@ -1,0 +1,16 @@
+0
+17
+6
+5
+Gold 101
+Silver 2
+Silver 13
+Bureaucrat 9
+Festival 10
+Copper 12
+Thief 9
+Estate 8
+Gold 5
+Silver 7
+Province 7
+Copper 5

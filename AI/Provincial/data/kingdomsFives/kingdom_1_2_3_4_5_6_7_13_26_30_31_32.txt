@@ -1,0 +1,15 @@
+4
+10
+8
+8
+Province 9
+Witch 3
+Duchy 8
+Silver 11
+Spy 7
+Festival 10
+Spy 99
+Province 4
+Estate 7
+Duchy 5
+Estate 4

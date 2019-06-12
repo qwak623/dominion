@@ -1,0 +1,18 @@
+1
+13
+7
+4
+Province 2
+Gold 8
+Silver 10
+Moat 4
+Province 8
+Silver 13
+Gold 102
+Moneylender 6
+Estate 11
+Cellar 10
+Cellar 3
+Copper 5
+Silver 11
+Adventurer 5

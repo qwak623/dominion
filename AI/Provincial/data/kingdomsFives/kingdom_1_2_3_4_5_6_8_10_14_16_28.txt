@@ -1,0 +1,13 @@
+7
+14
+7
+5
+Gold 105
+Silver 11
+Chapel 4
+Duchy 13
+Gardens 9
+Cellar 13
+Copper 8
+Copper 9
+Province 4

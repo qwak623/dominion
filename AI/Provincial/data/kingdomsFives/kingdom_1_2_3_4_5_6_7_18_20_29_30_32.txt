@@ -1,0 +1,15 @@
+7
+13
+8
+7
+Province 10
+Witch 2
+Duchy 12
+Silver 7
+Estate 11
+Village 9
+Copper 101
+Library 7
+Village 10
+Province 7
+Curse 8

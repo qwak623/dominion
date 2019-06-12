@@ -1,0 +1,18 @@
+5
+17
+17
+6
+Gold 17
+Silver 2
+Witch 3
+Silver 10
+Province 6
+Duchy 9
+Province 9
+Remodel 7
+Province 13
+Cellar 9
+Library 4
+Gold 99
+Silver 2
+Woodcutter 14

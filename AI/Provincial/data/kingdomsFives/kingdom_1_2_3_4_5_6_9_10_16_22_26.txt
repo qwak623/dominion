@@ -1,0 +1,12 @@
+1
+15
+8
+8
+Gold 99
+Gold 8
+Silver 7
+Gold 1
+Moat 10
+Province 12
+Chapel 13
+Bureaucrat 9

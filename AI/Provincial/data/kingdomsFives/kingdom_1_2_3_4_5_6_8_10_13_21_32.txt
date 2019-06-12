@@ -1,0 +1,13 @@
+4
+13
+8
+4
+Province 4
+Gold 7
+Province 2
+Silver 14
+Duchy 13
+Adventurer 4
+Silver 6
+Copper 7
+Gold 102

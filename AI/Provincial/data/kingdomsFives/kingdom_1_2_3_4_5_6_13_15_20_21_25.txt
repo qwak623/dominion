@@ -1,0 +1,18 @@
+1
+17
+12
+8
+Duchy 12
+Festival 4
+Militia 5
+Silver 14
+Estate 10
+Mine 7
+Smithy 10
+Militia 11
+Chancellor 10
+Copper 2
+Copper 9
+Copper 10
+Province 5
+Estate 7

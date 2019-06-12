@@ -1,0 +1,17 @@
+5
+5
+8
+8
+Province 11
+Province 6
+Witch 11
+Duchy 6
+Province 8
+Silver 13
+Copper 8
+Silver 5
+Cellar 11
+Militia 6
+Silver 100
+CouncilRoom 9
+Curse 7

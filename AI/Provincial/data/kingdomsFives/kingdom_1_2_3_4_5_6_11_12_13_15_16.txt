@@ -1,0 +1,20 @@
+1
+11
+8
+7
+Province 5
+Gold 4
+Silver 11
+Silver 9
+Duchy 10
+Silver 9
+CouncilRoom 4
+Feast 4
+Chapel 5
+Estate 9
+Feast 9
+Estate 6
+Festival 3
+Estate 6
+Festival 4
+Festival 6

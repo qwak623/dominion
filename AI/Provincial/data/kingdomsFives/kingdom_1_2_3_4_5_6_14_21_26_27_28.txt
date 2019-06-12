@@ -1,0 +1,16 @@
+3
+13
+8
+6
+Thief 5
+Duchy 8
+Gardens 8
+Gold 100
+Copper 1
+Province 10
+Silver 14
+Mine 4
+Spy 3
+ThroneRoom 7
+Gold 10
+Copper 9

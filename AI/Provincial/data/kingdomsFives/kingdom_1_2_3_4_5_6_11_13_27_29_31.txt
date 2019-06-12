@@ -1,0 +1,16 @@
+5
+10
+8
+8
+Province 5
+Silver 12
+CouncilRoom 5
+Village 7
+Copper 8
+Woodcutter 3
+Copper 2
+Copper 5
+Duchy 10
+Duchy 104
+Duchy 10
+Woodcutter 11

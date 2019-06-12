@@ -1,0 +1,16 @@
+6
+19
+6
+4
+Gold 100
+Province 5
+Copper 1
+Laboratory 10
+Silver 11
+Remodel 2
+Estate 6
+Gold 12
+Silver 12
+Workshop 5
+Duchy 5
+Woodcutter 3

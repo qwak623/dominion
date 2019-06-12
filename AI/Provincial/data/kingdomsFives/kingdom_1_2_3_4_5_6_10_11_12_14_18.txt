@@ -1,0 +1,16 @@
+1
+15
+8
+7
+Silver 6
+Province 3
+Province 7
+Gold 102
+Library 5
+Gardens 10
+Duchy 11
+Feast 11
+Cellar 4
+Estate 4
+CouncilRoom 7
+Estate 12

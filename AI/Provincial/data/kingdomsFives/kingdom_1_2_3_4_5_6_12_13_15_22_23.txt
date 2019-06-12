@@ -1,0 +1,14 @@
+0
+14
+8
+8
+Gold 102
+Silver 8
+Moat 11
+Moat 10
+Estate 9
+Copper 5
+Chancellor 9
+Gold 6
+Festival 9
+Province 5

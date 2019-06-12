@@ -1,0 +1,14 @@
+7
+8
+8
+8
+Gold 3
+Province 9
+Gold 102
+Laboratory 6
+Silver 1
+Militia 4
+Silver 9
+Adventurer 11
+Duchy 11
+Workshop 11

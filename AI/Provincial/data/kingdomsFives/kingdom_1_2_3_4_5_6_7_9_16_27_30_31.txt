@@ -1,0 +1,13 @@
+4
+14
+8
+7
+Witch 3
+Duchy 11
+Silver 9
+Province 13
+Duchy 3
+Estate 11
+Copper 13
+Thief 7
+Gold 101

@@ -1,0 +1,11 @@
+0
+9
+8
+8
+Gold 12
+Laboratory 13
+Militia 4
+Silver 10
+Adventurer 10
+Militia 4
+Copper 10

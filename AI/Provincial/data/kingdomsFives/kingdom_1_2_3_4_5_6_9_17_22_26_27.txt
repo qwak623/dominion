@@ -1,0 +1,15 @@
+3
+15
+7
+7
+Province 5
+Gold 99
+Silver 9
+Duchy 4
+Duchy 5
+Bureaucrat 8
+Spy 2
+Duchy 12
+Moat 9
+Copper 5
+Laboratory 9

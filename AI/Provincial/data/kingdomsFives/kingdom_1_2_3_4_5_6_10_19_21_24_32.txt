@@ -1,0 +1,15 @@
+5
+8
+8
+8
+Province 6
+Gold 99
+Gold 3
+Mine 2
+Silver 9
+Cellar 12
+Silver 7
+Copper 3
+Gold 6
+Remodel 7
+Remodel 13

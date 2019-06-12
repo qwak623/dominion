@@ -1,0 +1,14 @@
+1
+13
+6
+5
+Gold 8
+Laboratory 7
+Militia 2
+Silver 7
+Silver 11
+Duchy 5
+Festival 7
+Adventurer 7
+Spy 5
+Province 9

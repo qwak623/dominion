@@ -1,0 +1,19 @@
+7
+12
+7
+7
+Thief 1
+Gold 9
+Gold 101
+Silver 12
+Province 3
+Cellar 5
+Chapel 4
+Copper 11
+Gold 7
+Gold 2
+Market 10
+Duchy 10
+Duchy 5
+Market 2
+Silver 8

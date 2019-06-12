@@ -1,0 +1,19 @@
+4
+14
+21
+7
+Gold 7
+Duchy 7
+Silver 12
+Moat 3
+Market 4
+Market 5
+Market 7
+Copper 8
+Gold 102
+Duchy 6
+Estate 5
+Woodcutter 3
+Estate 5
+Market 11
+Duchy 7

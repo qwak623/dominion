@@ -1,0 +1,16 @@
+7
+11
+6
+2
+Province 8
+Gold 101
+Gold 6
+Silver 4
+Market 12
+Gardens 6
+Silver 10
+ThroneRoom 7
+Province 12
+Duchy 7
+Market 6
+Silver 6

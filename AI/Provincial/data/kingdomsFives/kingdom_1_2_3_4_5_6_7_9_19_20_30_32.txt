@@ -1,0 +1,15 @@
+4
+10
+8
+8
+Witch 6
+Province 3
+Duchy 10
+Silver 12
+Workshop 9
+Duchy 2
+Province 7
+Gold 6
+Bureaucrat 5
+Market 10
+Copper 3

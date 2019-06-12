@@ -1,0 +1,18 @@
+2
+9
+8
+8
+Gold 3
+Witch 3
+Province 14
+Silver 11
+Copper 7
+Estate 13
+Workshop 4
+Duchy 6
+Witch 3
+Chancellor 6
+Estate 4
+Chancellor 5
+Gold 9
+Gold 102

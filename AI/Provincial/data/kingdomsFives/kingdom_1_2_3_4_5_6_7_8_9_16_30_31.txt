@@ -1,0 +1,16 @@
+3
+10
+8
+8
+Adventurer 12
+Gold 11
+Witch 7
+Silver 11
+Bureaucrat 3
+Silver 10
+Province 11
+Estate 3
+Witch 11
+Duchy 6
+Curse 3
+Gold 102

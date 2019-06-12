@@ -1,0 +1,16 @@
+6
+15
+8
+8
+Smithy 1
+Province 10
+Gold 12
+Silver 12
+Silver 9
+Copper 12
+Laboratory 7
+Woodcutter 5
+Duchy 12
+Library 3
+Gold 102
+Silver 3

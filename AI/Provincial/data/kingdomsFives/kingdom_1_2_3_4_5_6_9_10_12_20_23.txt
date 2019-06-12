@@ -1,0 +1,15 @@
+2
+21
+8
+8
+Militia 5
+Gold 100
+Gold 9
+Duchy 12
+Silver 12
+Copper 4
+Bureaucrat 12
+Estate 10
+Gold 3
+Estate 6
+Silver 11

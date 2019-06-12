@@ -1,0 +1,15 @@
+2
+8
+7
+7
+Adventurer 3
+Laboratory 4
+Province 11
+Gold 100
+Silver 4
+Duchy 7
+Gardens 3
+CouncilRoom 7
+Silver 10
+Copper 5
+Chancellor 3

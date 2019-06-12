@@ -1,0 +1,16 @@
+3
+16
+8
+6
+Province 2
+Gold 11
+Mine 3
+Spy 8
+Gold 102
+Silver 10
+CouncilRoom 11
+Province 5
+Workshop 10
+Festival 10
+Duchy 10
+Workshop 8

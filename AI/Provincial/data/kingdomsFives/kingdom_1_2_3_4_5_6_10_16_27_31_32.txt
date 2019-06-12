@@ -1,0 +1,19 @@
+1
+14
+5
+4
+Gold 7
+Gold 5
+Silver 12
+Duchy 9
+Silver 11
+Thief 5
+Chapel 4
+Woodcutter 6
+Gold 100
+Workshop 8
+Chapel 11
+Workshop 6
+Cellar 14
+Copper 7
+Thief 9

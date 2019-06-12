@@ -1,0 +1,17 @@
+4
+13
+7
+3
+Gold 100
+Adventurer 7
+Laboratory 9
+Silver 15
+Moat 2
+Gold 3
+Duchy 8
+Copper 1
+Copper 8
+Village 8
+Festival 14
+Estate 11
+Silver 7

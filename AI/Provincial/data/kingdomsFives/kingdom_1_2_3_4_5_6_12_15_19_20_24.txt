@@ -1,0 +1,14 @@
+2
+13
+8
+8
+Province 7
+Gold 7
+Militia 5
+Gold 12
+Duchy 12
+Silver 10
+Remodel 4
+Remodel 10
+Feast 5
+Chancellor 10

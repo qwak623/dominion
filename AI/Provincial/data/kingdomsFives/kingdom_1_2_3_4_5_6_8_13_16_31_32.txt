@@ -1,0 +1,21 @@
+2
+7
+6
+5
+Province 11
+Gold 9
+Festival 7
+Gold 101
+Silver 11
+Copper 1
+Workshop 8
+Woodcutter 5
+Silver 4
+Duchy 1
+Workshop 4
+Copper 1
+Workshop 8
+Adventurer 1
+Adventurer 3
+Festival 2
+Adventurer 12

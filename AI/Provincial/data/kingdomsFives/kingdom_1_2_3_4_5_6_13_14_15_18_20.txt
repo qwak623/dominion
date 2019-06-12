@@ -1,0 +1,18 @@
+1
+19
+8
+3
+Province 10
+Gold 8
+Library 2
+Gold 6
+Silver 12
+Militia 8
+Province 14
+Militia 4
+Province 13
+Duchy 6
+Gardens 8
+Estate 1
+Library 99
+Library 12

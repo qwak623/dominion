@@ -1,0 +1,19 @@
+3
+12
+8
+8
+Gold 6
+CouncilRoom 6
+Silver 12
+Gold 101
+Province 9
+Duchy 8
+Library 10
+Silver 4
+Chancellor 8
+Market 10
+Silver 8
+CouncilRoom 4
+Copper 11
+Silver 14
+Duchy 13

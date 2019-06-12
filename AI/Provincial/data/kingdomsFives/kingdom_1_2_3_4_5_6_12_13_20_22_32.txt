@@ -1,0 +1,16 @@
+5
+17
+10
+8
+Gold 7
+Militia 8
+Province 5
+Silver 11
+Workshop 5
+Copper 8
+Estate 5
+Festival 10
+Gold 5
+Gold 101
+Feast 5
+Feast 4

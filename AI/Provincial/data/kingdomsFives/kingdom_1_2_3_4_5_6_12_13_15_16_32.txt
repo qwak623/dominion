@@ -1,0 +1,14 @@
+7
+8
+5
+5
+Province 12
+Gold 8
+Gold 7
+Silver 12
+Province 103
+Chancellor 11
+Chapel 7
+Estate 6
+Copper 6
+Workshop 5

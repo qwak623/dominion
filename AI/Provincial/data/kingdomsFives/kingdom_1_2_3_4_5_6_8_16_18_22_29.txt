@@ -1,0 +1,19 @@
+7
+13
+5
+4
+Gold 99
+Library 2
+Silver 14
+Copper 7
+Chapel 5
+Moat 3
+Library 2
+Chapel 1
+Gold 3
+Silver 1
+Silver 5
+Estate 1
+Duchy 13
+Silver 7
+Province 7

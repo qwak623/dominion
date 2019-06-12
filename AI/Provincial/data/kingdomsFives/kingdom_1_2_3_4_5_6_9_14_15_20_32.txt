@@ -1,0 +1,16 @@
+7
+13
+13
+8
+Bureaucrat 3
+Copper 1
+Gardens 12
+Workshop 10
+Province 7
+Duchy 14
+Gold 101
+Gold 5
+Silver 11
+Militia 10
+Copper 7
+Chancellor 10

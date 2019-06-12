@@ -1,0 +1,16 @@
+6
+13
+8
+7
+Militia 4
+Province 4
+Gold 100
+Militia 5
+Duchy 11
+Mine 11
+Mine 4
+Gold 14
+Militia 5
+Silver 10
+Silver 9
+Copper 8

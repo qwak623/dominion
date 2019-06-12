@@ -1,0 +1,22 @@
+1
+17
+8
+8
+Witch 4
+Gold 7
+Duchy 11
+Silver 13
+Gold 100
+Copper 10
+Province 10
+Copper 7
+Cellar 5
+Estate 4
+Copper 6
+Woodcutter 9
+Witch 7
+Curse 11
+Silver 7
+Estate 6
+Mine 7
+Copper 5

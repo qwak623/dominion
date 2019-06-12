@@ -1,0 +1,19 @@
+7
+14
+13
+8
+Duchy 9
+Woodcutter 3
+Gardens 8
+Duchy 8
+Gold 9
+Workshop 9
+Gold 6
+Woodcutter 2
+Gold 8
+Copper 12
+Gold 99
+Estate 12
+Silver 14
+Estate 11
+Feast 6

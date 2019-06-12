@@ -1,0 +1,15 @@
+2
+9
+5
+4
+Province 6
+Gold 8
+Gold 102
+Silver 11
+Gardens 3
+Moat 4
+Cellar 6
+Silver 11
+Village 9
+Silver 13
+Estate 5

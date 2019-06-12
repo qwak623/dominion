@@ -1,0 +1,16 @@
+5
+14
+8
+8
+Silver 13
+Silver 12
+Province 5
+Copper 5
+Province 11
+Gold 101
+Duchy 6
+Province 13
+Feast 9
+Moneylender 10
+Estate 13
+Chancellor 4

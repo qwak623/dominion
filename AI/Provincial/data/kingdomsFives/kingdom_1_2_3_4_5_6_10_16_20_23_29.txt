@@ -1,0 +1,16 @@
+0
+12
+10
+8
+Gold 11
+Militia 6
+Province 6
+Silver 14
+Village 9
+Village 12
+Gold 100
+Duchy 5
+Moneylender 7
+Copper 7
+Chapel 3
+Village 5

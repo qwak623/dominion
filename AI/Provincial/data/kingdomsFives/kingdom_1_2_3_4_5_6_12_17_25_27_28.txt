@@ -1,0 +1,17 @@
+1
+13
+5
+3
+Gold 7
+Gold 106
+Laboratory 9
+Silver 11
+Copper 11
+Copper 11
+Province 9
+Estate 6
+Silver 10
+Smithy 7
+Duchy 2
+ThroneRoom 2
+Estate 13

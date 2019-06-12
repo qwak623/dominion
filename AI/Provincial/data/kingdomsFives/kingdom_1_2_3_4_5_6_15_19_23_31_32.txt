@@ -1,0 +1,15 @@
+4
+11
+7
+5
+Gold 6
+Silver 6
+Silver 10
+Chancellor 11
+Chancellor 12
+Moneylender 11
+Duchy 10
+Woodcutter 8
+Silver 13
+Workshop 10
+Copper 1

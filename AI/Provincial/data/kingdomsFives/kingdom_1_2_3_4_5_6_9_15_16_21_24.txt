@@ -1,0 +1,15 @@
+6
+12
+11
+8
+Gold 104
+Mine 12
+Bureaucrat 13
+Province 11
+Silver 11
+Duchy 7
+Silver 10
+Chancellor 7
+Remodel 11
+Chancellor 6
+Duchy 7

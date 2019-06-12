@@ -1,0 +1,21 @@
+5
+19
+7
+6
+Silver 7
+Gold 10
+Duchy 8
+Silver 2
+Moat 9
+Bureaucrat 8
+Estate 6
+Silver 10
+Remodel 10
+Duchy 9
+Moneylender 14
+Moat 6
+Remodel 8
+Remodel 2
+Province 10
+Moneylender 1
+Gold 102

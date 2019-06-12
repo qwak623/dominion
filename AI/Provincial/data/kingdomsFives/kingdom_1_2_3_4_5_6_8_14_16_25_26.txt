@@ -1,0 +1,14 @@
+1
+11
+5
+5
+Province 6
+Gold 106
+Silver 7
+Smithy 4
+Silver 12
+Chapel 4
+Gardens 7
+Gold 13
+Copper 7
+Spy 6

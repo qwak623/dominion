@@ -1,0 +1,19 @@
+0
+8
+7
+7
+Gold 3
+Province 13
+Gold 99
+Silver 7
+Moat 10
+Duchy 9
+Library 2
+Chancellor 3
+Village 10
+Estate 8
+Festival 10
+Gold 12
+Library 3
+Silver 11
+Gold 8

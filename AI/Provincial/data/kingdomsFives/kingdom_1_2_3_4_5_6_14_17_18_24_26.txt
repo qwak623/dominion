@@ -1,0 +1,14 @@
+3
+19
+6
+6
+Gold 5
+Library 3
+Gold 100
+Silver 9
+Gardens 13
+Remodel 5
+Copper 6
+Silver 12
+Spy 8
+Province 13

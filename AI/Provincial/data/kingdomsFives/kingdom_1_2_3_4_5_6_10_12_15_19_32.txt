@@ -1,0 +1,15 @@
+0
+16
+6
+4
+Province 8
+Province 1
+Gold 9
+Market 9
+Silver 11
+Duchy 11
+Chancellor 8
+Gold 99
+Workshop 13
+Silver 13
+Feast 5

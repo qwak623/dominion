@@ -1,0 +1,14 @@
+1
+11
+6
+5
+Gold 6
+Library 2
+Silver 8
+Gold 7
+Library 102
+Cellar 5
+Estate 7
+Silver 13
+Duchy 14
+Chancellor 7

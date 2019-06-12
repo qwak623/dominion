@@ -1,0 +1,14 @@
+6
+14
+6
+5
+Silver 11
+Gardens 7
+Province 4
+Bureaucrat 1
+Duchy 11
+Workshop 7
+Copper 9
+Gold 108
+Bureaucrat 12
+ThroneRoom 13

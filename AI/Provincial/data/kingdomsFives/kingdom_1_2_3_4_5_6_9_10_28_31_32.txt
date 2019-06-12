@@ -1,0 +1,16 @@
+7
+10
+8
+5
+Bureaucrat 3
+Gold 10
+Cellar 1
+Duchy 3
+Silver 10
+Province 2
+ThroneRoom 4
+Gold 100
+Copper 4
+Silver 11
+Duchy 6
+Estate 7

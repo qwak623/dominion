@@ -1,0 +1,17 @@
+4
+16
+17
+8
+Gardens 11
+Gold 100
+Duchy 8
+Gold 7
+Silver 3
+Copper 7
+Gardens 6
+Estate 12
+CouncilRoom 7
+Silver 11
+Laboratory 5
+Moat 7
+Moneylender 5

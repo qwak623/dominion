@@ -1,0 +1,15 @@
+3
+8
+5
+5
+Province 8
+Gold 9
+Silver 12
+Smithy 7
+Chapel 7
+Moneylender 2
+Duchy 4
+Duchy 8
+Smithy 9
+Silver 12
+Gold 104

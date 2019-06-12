@@ -1,0 +1,18 @@
+0
+12
+8
+8
+Province 11
+Gold 101
+Witch 10
+Duchy 13
+Gold 4
+Silver 5
+Silver 10
+Estate 9
+Duchy 7
+Province 6
+Curse 7
+Militia 6
+Curse 6
+Militia 10

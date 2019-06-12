@@ -1,0 +1,16 @@
+0
+12
+7
+4
+Province 4
+Gold 99
+Adventurer 5
+Silver 11
+Province 7
+Chancellor 9
+Moat 9
+Militia 5
+Moat 6
+Duchy 9
+Silver 6
+Gold 12

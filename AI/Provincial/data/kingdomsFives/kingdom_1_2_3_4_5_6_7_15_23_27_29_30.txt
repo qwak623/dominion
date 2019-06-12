@@ -1,0 +1,13 @@
+4
+12
+21
+7
+Duchy 6
+Gold 101
+Witch 6
+Silver 15
+Silver 5
+Gold 10
+Chancellor 5
+Copper 11
+Moneylender 4

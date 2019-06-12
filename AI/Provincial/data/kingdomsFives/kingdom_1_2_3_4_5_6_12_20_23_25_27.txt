@@ -1,0 +1,13 @@
+6
+16
+7
+6
+Gold 11
+Silver 5
+Smithy 2
+Silver 10
+Militia 7
+Thief 10
+Feast 11
+Gold 102
+Moneylender 11

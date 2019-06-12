@@ -1,0 +1,16 @@
+1
+17
+5
+4
+Gold 100
+Library 7
+Province 8
+Silver 13
+Copper 6
+Library 6
+Festival 6
+Estate 9
+Chapel 1
+Copper 9
+Cellar 6
+Chapel 8

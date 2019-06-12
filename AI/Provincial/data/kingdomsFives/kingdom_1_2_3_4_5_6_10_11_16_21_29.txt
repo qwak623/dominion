@@ -1,0 +1,17 @@
+2
+8
+5
+4
+Province 4
+Silver 2
+Silver 2
+Province 6
+Gold 102
+CouncilRoom 5
+Silver 11
+Chapel 6
+CouncilRoom 12
+Mine 8
+Village 6
+Cellar 3
+Mine 8

@@ -1,0 +1,16 @@
+0
+13
+7
+6
+Province 9
+Gold 103
+Festival 3
+Smithy 2
+Cellar 1
+Festival 9
+Gold 11
+Duchy 5
+Silver 11
+Smithy 9
+Moneylender 3
+Silver 4

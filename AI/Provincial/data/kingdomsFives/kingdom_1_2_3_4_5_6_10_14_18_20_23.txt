@@ -1,0 +1,16 @@
+2
+10
+12
+8
+Gardens 17
+Silver 5
+Gold 101
+Province 11
+Library 9
+Silver 13
+Cellar 7
+Militia 7
+Moneylender 6
+Copper 5
+Duchy 7
+Militia 7

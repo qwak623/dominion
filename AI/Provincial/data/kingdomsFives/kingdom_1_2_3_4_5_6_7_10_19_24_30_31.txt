@@ -1,0 +1,14 @@
+4
+11
+10
+7
+Witch 4
+Silver 10
+Silver 9
+Witch 11
+Market 5
+Market 9
+Copper 8
+Estate 10
+Province 12
+Woodcutter 2

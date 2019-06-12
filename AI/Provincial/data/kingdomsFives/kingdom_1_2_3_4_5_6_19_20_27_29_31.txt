@@ -1,0 +1,13 @@
+2
+13
+8
+7
+Gold 105
+Province 8
+Market 7
+Militia 3
+Silver 14
+Woodcutter 9
+Thief 4
+Market 5
+Province 10

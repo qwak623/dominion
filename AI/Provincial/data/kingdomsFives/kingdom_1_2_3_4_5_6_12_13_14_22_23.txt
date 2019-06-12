@@ -1,0 +1,16 @@
+0
+14
+8
+4
+Province 8
+Silver 10
+Duchy 3
+Gardens 9
+Province 3
+Estate 7
+Silver 3
+Estate 4
+Gardens 8
+Feast 4
+Estate 8
+Gold 10

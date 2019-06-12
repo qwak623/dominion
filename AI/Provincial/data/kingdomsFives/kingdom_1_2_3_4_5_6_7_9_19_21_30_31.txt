@@ -1,0 +1,12 @@
+6
+13
+8
+8
+Witch 2
+Province 11
+Silver 5
+Duchy 100
+Silver 11
+Copper 5
+Copper 8
+Silver 8

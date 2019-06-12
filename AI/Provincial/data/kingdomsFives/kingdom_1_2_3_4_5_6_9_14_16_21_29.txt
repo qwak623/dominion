@@ -1,0 +1,15 @@
+7
+10
+7
+6
+Gold 4
+Province 11
+Silver 10
+Gardens 12
+Bureaucrat 10
+Chapel 14
+Gold 102
+Copper 9
+Estate 9
+Village 2
+Silver 10

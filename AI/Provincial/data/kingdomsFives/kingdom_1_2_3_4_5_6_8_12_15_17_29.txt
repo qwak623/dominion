@@ -1,0 +1,18 @@
+4
+19
+8
+8
+Laboratory 1
+Gold 9
+Laboratory 7
+Silver 14
+Duchy 11
+Duchy 9
+Feast 12
+Gold 100
+Village 8
+Province 12
+Copper 6
+Silver 7
+Village 3
+Adventurer 6

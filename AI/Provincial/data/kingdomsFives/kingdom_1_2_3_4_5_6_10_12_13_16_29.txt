@@ -1,0 +1,13 @@
+7
+19
+8
+3
+Silver 11
+Gold 8
+Duchy 14
+Gold 101
+Silver 13
+Chapel 5
+Estate 7
+Village 1
+Feast 3

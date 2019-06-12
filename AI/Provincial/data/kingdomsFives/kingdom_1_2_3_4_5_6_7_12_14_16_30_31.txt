@@ -1,0 +1,18 @@
+3
+9
+8
+5
+Gold 100
+Witch 2
+Province 9
+Silver 5
+Province 13
+Duchy 9
+Gold 8
+Gold 5
+Province 8
+Gardens 5
+Silver 1
+Feast 10
+Silver 11
+Gold 7

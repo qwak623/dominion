@@ -1,0 +1,16 @@
+0
+13
+8
+8
+Festival 5
+Province 10
+Province 102
+Duchy 14
+Silver 10
+Copper 2
+Gold 5
+Estate 3
+Gold 1
+Estate 11
+Adventurer 1
+Adventurer 13

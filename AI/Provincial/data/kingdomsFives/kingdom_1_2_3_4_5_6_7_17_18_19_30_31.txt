@@ -1,0 +1,15 @@
+7
+14
+8
+8
+Gold 101
+Witch 4
+Silver 5
+Library 7
+Laboratory 4
+Silver 4
+Market 3
+Market 8
+Duchy 8
+Silver 13
+Gold 5

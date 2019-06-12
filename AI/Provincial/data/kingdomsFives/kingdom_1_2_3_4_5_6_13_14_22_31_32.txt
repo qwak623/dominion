@@ -1,0 +1,16 @@
+4
+16
+8
+8
+Gold 4
+Silver 5
+Gardens 12
+Duchy 11
+Workshop 10
+Festival 5
+Moat 7
+Copper 6
+Festival 8
+Woodcutter 5
+Silver 12
+Festival 5

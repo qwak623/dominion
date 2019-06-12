@@ -1,0 +1,16 @@
+3
+15
+13
+7
+Gold 101
+Market 9
+Silver 10
+Duchy 14
+Province 4
+Remodel 8
+Woodcutter 9
+Gold 11
+Market 11
+Woodcutter 5
+Workshop 10
+Gold 9

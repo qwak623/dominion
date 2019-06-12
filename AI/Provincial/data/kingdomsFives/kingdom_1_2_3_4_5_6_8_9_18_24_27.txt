@@ -1,0 +1,16 @@
+1
+13
+5
+3
+Province 10
+Gold 101
+Library 2
+Silver 11
+Thief 7
+Bureaucrat 5
+Copper 11
+Silver 14
+Remodel 6
+Gold 3
+Province 8
+Adventurer 11

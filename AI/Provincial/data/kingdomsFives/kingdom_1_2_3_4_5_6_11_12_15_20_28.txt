@@ -1,0 +1,16 @@
+5
+11
+8
+8
+Province 12
+Gold 3
+Militia 5
+Duchy 6
+Province 8
+Gold 102
+CouncilRoom 3
+Silver 11
+CouncilRoom 5
+Copper 2
+ThroneRoom 10
+Feast 4

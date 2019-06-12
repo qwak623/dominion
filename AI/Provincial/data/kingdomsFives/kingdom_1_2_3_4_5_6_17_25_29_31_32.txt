@@ -1,0 +1,15 @@
+1
+10
+6
+6
+Province 11
+Gold 100
+Silver 4
+Smithy 4
+Silver 14
+Gold 11
+Laboratory 10
+Duchy 8
+Copper 6
+Woodcutter 4
+Estate 5

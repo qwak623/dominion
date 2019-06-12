@@ -1,0 +1,15 @@
+0
+13
+8
+7
+Gold 104
+Province 13
+Mine 12
+Silver 11
+Woodcutter 5
+Silver 3
+Copper 4
+Estate 9
+Feast 7
+Feast 10
+CouncilRoom 5

@@ -1,0 +1,15 @@
+5
+13
+15
+6
+Duchy 6
+Duchy 7
+Workshop 2
+Gardens 13
+Gold 100
+Silver 10
+Gold 9
+Gardens 7
+Cellar 5
+Estate 9
+Market 6

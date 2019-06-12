@@ -1,0 +1,12 @@
+4
+12
+8
+7
+Gold 102
+Market 6
+Festival 11
+Silver 11
+ThroneRoom 12
+Province 4
+Moneylender 8
+Gold 4

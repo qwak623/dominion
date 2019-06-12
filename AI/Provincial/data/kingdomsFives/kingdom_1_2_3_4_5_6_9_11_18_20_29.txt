@@ -1,0 +1,22 @@
+0
+14
+13
+8
+Duchy 1
+CouncilRoom 8
+Gold 101
+Duchy 6
+CouncilRoom 6
+Bureaucrat 9
+Silver 8
+Copper 13
+Silver 10
+Province 1
+Gold 13
+Village 12
+Library 11
+Estate 9
+Gold 5
+Silver 12
+Library 6
+Militia 9

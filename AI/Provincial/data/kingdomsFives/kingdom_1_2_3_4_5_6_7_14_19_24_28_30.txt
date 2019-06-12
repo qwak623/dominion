@@ -1,0 +1,17 @@
+2
+10
+8
+7
+Province 6
+Gold 102
+Witch 4
+Duchy 11
+Silver 4
+Silver 14
+ThroneRoom 10
+Province 9
+Copper 6
+Copper 5
+Witch 8
+Market 10
+Gardens 5

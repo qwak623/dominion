@@ -1,0 +1,15 @@
+3
+11
+7
+6
+Province 8
+Gold 6
+Mine 3
+Laboratory 9
+Market 6
+Gold 104
+Silver 14
+Cellar 12
+Copper 10
+Silver 13
+CouncilRoom 5

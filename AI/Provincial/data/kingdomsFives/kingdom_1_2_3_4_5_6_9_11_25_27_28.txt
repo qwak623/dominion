@@ -1,0 +1,15 @@
+0
+18
+16
+8
+Copper 1
+Gold 10
+Bureaucrat 9
+Province 8
+Silver 5
+Gold 100
+Estate 9
+Smithy 12
+Duchy 11
+Thief 10
+CouncilRoom 3

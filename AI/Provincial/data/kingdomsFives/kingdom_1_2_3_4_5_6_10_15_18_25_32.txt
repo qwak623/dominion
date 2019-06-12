@@ -1,0 +1,17 @@
+2
+18
+6
+4
+Gold 101
+Silver 11
+Duchy 9
+Chancellor 10
+Cellar 5
+Estate 2
+Cellar 8
+Silver 1
+Province 11
+Library 9
+Gold 8
+Workshop 6
+Copper 12

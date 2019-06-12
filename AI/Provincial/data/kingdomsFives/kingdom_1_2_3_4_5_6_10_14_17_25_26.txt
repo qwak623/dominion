@@ -1,0 +1,15 @@
+2
+5
+11
+8
+Silver 4
+Duchy 2
+Gardens 13
+Province 5
+Cellar 1
+Estate 13
+Smithy 10
+Laboratory 5
+Cellar 102
+Silver 10
+Copper 13

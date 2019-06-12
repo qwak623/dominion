@@ -1,0 +1,17 @@
+1
+15
+8
+8
+Gold 101
+Witch 6
+Witch 3
+Province 11
+Silver 13
+Silver 7
+Workshop 9
+Moat 10
+Workshop 1
+Duchy 8
+Chancellor 7
+Estate 9
+Copper 11

@@ -1,0 +1,15 @@
+6
+10
+8
+7
+Gold 99
+Bureaucrat 2
+Province 2
+Gold 5
+Silver 11
+Copper 3
+Remodel 8
+ThroneRoom 9
+ThroneRoom 12
+Province 8
+Estate 5

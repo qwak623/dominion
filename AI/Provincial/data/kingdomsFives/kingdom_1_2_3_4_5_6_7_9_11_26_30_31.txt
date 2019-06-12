@@ -1,0 +1,13 @@
+4
+14
+8
+7
+Gold 100
+Witch 12
+Province 9
+CouncilRoom 11
+Silver 14
+CouncilRoom 2
+Bureaucrat 9
+Silver 7
+Spy 2

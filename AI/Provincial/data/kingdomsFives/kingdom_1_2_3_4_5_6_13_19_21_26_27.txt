@@ -1,0 +1,15 @@
+2
+13
+7
+5
+Province 5
+Province 10
+Mine 2
+Gold 100
+Market 7
+Spy 3
+Festival 14
+Silver 9
+Silver 3
+Silver 9
+Festival 2

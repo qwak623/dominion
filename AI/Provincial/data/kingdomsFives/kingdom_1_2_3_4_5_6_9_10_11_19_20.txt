@@ -1,0 +1,15 @@
+0
+15
+7
+7
+Bureaucrat 2
+Gold 103
+Gold 2
+Province 11
+Market 2
+Market 7
+Militia 10
+Silver 11
+Bureaucrat 13
+Silver 8
+Duchy 10

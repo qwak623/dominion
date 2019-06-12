@@ -1,0 +1,17 @@
+6
+8
+7
+5
+Gold 3
+Province 5
+Gold 101
+Province 9
+Silver 10
+Duchy 8
+Chancellor 9
+Copper 8
+Silver 10
+Remodel 10
+Estate 9
+Cellar 13
+Woodcutter 10

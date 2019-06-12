@@ -1,0 +1,20 @@
+0
+12
+7
+5
+Province 8
+Gold 10
+Mine 2
+Silver 14
+Copper 8
+Mine 6
+Silver 2
+Silver 9
+Gold 103
+Copper 7
+Feast 7
+Duchy 5
+Workshop 8
+Duchy 12
+Duchy 2
+Workshop 9

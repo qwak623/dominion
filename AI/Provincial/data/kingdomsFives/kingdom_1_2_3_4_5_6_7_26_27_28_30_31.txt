@@ -1,0 +1,20 @@
+2
+10
+12
+8
+Witch 6
+Silver 5
+Silver 12
+Estate 9
+Province 13
+Gold 102
+Spy 13
+Silver 6
+Witch 11
+Copper 9
+ThroneRoom 8
+Duchy 5
+Thief 7
+ThroneRoom 9
+Woodcutter 3
+Silver 4

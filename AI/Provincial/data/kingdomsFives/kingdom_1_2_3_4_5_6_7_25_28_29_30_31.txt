@@ -1,0 +1,15 @@
+0
+19
+8
+5
+Witch 7
+Gold 1
+Gold 101
+Silver 7
+Smithy 8
+Silver 11
+Copper 5
+Estate 11
+Gold 8
+Village 7
+Smithy 5

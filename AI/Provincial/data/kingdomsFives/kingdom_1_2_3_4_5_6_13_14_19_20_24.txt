@@ -1,0 +1,16 @@
+6
+16
+8
+7
+Market 4
+Silver 5
+Province 9
+Copper 4
+Gardens 12
+Silver 12
+Militia 6
+Gold 100
+Remodel 8
+Copper 4
+Festival 6
+Gold 8

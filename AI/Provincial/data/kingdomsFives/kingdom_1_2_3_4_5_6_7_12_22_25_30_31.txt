@@ -1,0 +1,14 @@
+3
+15
+8
+8
+Curse 1
+Gold 104
+Witch 5
+Province 11
+Duchy 8
+Silver 9
+Gold 2
+Copper 5
+Silver 10
+Feast 13

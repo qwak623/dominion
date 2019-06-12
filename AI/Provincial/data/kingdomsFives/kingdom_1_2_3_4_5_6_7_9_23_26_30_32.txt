@@ -1,0 +1,17 @@
+2
+7
+8
+8
+Witch 2
+Duchy 8
+Silver 5
+Estate 10
+Gold 10
+Bureaucrat 3
+Province 4
+Silver 13
+Spy 8
+Copper 10
+Silver 1
+Spy 10
+Gold 99

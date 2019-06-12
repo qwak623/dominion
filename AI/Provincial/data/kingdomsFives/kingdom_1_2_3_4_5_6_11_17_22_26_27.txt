@@ -1,0 +1,20 @@
+5
+13
+8
+6
+Gold 101
+CouncilRoom 2
+Laboratory 11
+Province 10
+Province 4
+Silver 8
+Copper 3
+Spy 8
+Laboratory 5
+Thief 5
+Copper 3
+Estate 2
+Spy 6
+Moat 6
+Province 4
+CouncilRoom 2

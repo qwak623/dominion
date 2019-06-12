@@ -1,0 +1,14 @@
+3
+17
+7
+6
+Gold 100
+Laboratory 6
+Militia 9
+Silver 12
+Mine 7
+Smithy 4
+Province 5
+Silver 9
+Smithy 4
+Gardens 7

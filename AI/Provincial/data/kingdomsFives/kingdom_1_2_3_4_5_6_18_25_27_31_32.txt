@@ -1,0 +1,15 @@
+5
+11
+7
+5
+Gold 5
+Silver 4
+Smithy 2
+Gold 100
+Silver 11
+Copper 4
+Duchy 8
+Province 11
+Thief 3
+Thief 12
+Smithy 10

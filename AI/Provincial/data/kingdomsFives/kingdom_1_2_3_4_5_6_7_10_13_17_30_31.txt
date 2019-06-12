@@ -1,0 +1,15 @@
+0
+11
+8
+7
+Witch 8
+Duchy 102
+Silver 12
+Witch 13
+Duchy 16
+Festival 4
+Festival 5
+Copper 2
+Province 14
+Laboratory 5
+Cellar 3

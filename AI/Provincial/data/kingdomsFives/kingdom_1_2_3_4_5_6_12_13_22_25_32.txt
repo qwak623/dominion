@@ -1,0 +1,14 @@
+5
+12
+8
+4
+Province 13
+Gold 104
+Gold 10
+Silver 8
+Smithy 4
+Silver 12
+Duchy 11
+Moat 6
+Workshop 7
+Copper 9

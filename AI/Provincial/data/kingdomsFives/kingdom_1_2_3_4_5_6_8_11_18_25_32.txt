@@ -1,0 +1,14 @@
+7
+15
+6
+6
+Gold 100
+Adventurer 3
+CouncilRoom 2
+Silver 11
+Province 3
+CouncilRoom 10
+Province 11
+Copper 8
+Smithy 6
+CouncilRoom 11

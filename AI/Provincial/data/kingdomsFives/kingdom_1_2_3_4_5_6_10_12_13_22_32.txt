@@ -1,0 +1,17 @@
+3
+17
+8
+8
+Gold 101
+Gold 3
+Silver 14
+Duchy 7
+Silver 7
+Moat 2
+Feast 3
+Duchy 7
+Estate 3
+Workshop 8
+Copper 8
+Estate 12
+Festival 5

@@ -1,0 +1,17 @@
+1
+15
+7
+6
+Gold 104
+Silver 9
+Gold 3
+Library 4
+Moat 9
+Estate 6
+Moat 4
+Silver 11
+Province 10
+Silver 10
+Remodel 9
+Estate 8
+Copper 8

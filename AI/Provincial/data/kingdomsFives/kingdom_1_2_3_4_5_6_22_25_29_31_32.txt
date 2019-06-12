@@ -1,0 +1,18 @@
+7
+10
+6
+3
+Province 9
+Smithy 2
+Gold 101
+Gold 9
+Silver 11
+Copper 11
+Woodcutter 7
+Copper 3
+Woodcutter 8
+Smithy 7
+Duchy 6
+Silver 12
+Moat 8
+Workshop 7

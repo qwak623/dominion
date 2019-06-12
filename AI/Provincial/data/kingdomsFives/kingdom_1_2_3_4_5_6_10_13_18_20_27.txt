@@ -1,0 +1,16 @@
+6
+12
+6
+4
+Gold 101
+Province 8
+Library 2
+Silver 10
+Cellar 13
+Copper 14
+Thief 4
+Silver 11
+Estate 2
+Festival 4
+Militia 3
+Gold 11

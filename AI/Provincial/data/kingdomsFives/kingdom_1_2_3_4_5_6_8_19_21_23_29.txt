@@ -1,0 +1,17 @@
+7
+16
+8
+6
+Gold 6
+Gold 102
+Mine 7
+Silver 14
+Duchy 7
+Copper 8
+Silver 10
+Moneylender 8
+Mine 3
+Estate 7
+Adventurer 5
+Mine 1
+Village 10

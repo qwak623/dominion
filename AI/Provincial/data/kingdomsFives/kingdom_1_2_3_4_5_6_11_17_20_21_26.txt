@@ -1,0 +1,17 @@
+3
+17
+7
+4
+Province 8
+Gold 9
+Laboratory 10
+Militia 3
+CouncilRoom 3
+Laboratory 8
+Gold 103
+Silver 11
+Duchy 11
+Silver 11
+Estate 3
+CouncilRoom 1
+Estate 3

@@ -1,0 +1,16 @@
+2
+10
+6
+5
+Silver 3
+Province 12
+Copper 1
+Gold 11
+Library 9
+Silver 12
+Spy 5
+Copper 4
+Estate 3
+Bureaucrat 13
+Smithy 9
+Gold 102

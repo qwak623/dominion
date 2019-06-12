@@ -1,0 +1,17 @@
+5
+17
+6
+5
+Province 8
+Province 9
+Gold 11
+Gold 102
+Silver 12
+Silver 10
+Copper 9
+Smithy 9
+Chancellor 5
+Moneylender 5
+Thief 6
+Thief 3
+Estate 8

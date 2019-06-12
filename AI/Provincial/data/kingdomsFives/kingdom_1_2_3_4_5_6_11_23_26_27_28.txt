@@ -1,0 +1,16 @@
+5
+19
+7
+3
+Gold 101
+CouncilRoom 8
+Silver 13
+Spy 9
+Copper 7
+Thief 6
+Duchy 6
+Silver 10
+Silver 7
+Thief 10
+Province 6
+ThroneRoom 5

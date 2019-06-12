@@ -1,0 +1,15 @@
+5
+18
+7
+6
+Gold 99
+Province 9
+Silver 11
+Library 2
+Militia 8
+Chapel 4
+Silver 13
+Estate 4
+Workshop 8
+Workshop 10
+Gold 8

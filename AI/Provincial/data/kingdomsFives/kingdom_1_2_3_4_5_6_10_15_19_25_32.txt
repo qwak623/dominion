@@ -1,0 +1,16 @@
+2
+9
+6
+4
+Province 11
+Gold 100
+Silver 12
+Gold 10
+Province 6
+Duchy 3
+Market 4
+Chancellor 3
+Cellar 11
+Silver 12
+Copper 4
+Workshop 4

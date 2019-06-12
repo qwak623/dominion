@@ -1,0 +1,14 @@
+4
+12
+7
+6
+Province 7
+Province 9
+Gold 6
+Bureaucrat 2
+Spy 5
+Silver 7
+Silver 12
+Feast 9
+Silver 13
+Adventurer 6

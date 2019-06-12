@@ -1,0 +1,13 @@
+6
+23
+8
+5
+Woodcutter 7
+Gold 103
+Witch 6
+Silver 14
+Gold 11
+Duchy 8
+Workshop 11
+Thief 4
+Copper 9

@@ -1,0 +1,17 @@
+0
+2
+14
+8
+Gardens 11
+Duchy 10
+Gold 100
+Adventurer 2
+Silver 5
+Adventurer 8
+Duchy 3
+Estate 8
+CouncilRoom 2
+Silver 13
+Adventurer 14
+Copper 11
+Village 10

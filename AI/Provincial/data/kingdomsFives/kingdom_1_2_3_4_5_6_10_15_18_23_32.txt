@@ -1,0 +1,15 @@
+1
+8
+8
+5
+Province 11
+Gold 7
+Library 8
+Silver 5
+Silver 5
+Duchy 6
+Gold 7
+Silver 14
+Gold 102
+Moneylender 4
+Workshop 9

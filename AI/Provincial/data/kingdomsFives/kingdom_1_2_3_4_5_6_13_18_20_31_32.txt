@@ -1,0 +1,17 @@
+4
+11
+6
+5
+Province 7
+Gold 99
+Festival 9
+Militia 12
+Militia 3
+Duchy 3
+Province 6
+Province 8
+Silver 13
+Workshop 8
+Woodcutter 4
+Workshop 7
+Library 11

@@ -1,0 +1,12 @@
+2
+10
+6
+5
+Gold 102
+Laboratory 8
+Province 9
+Silver 4
+Workshop 1
+Silver 17
+Cellar 8
+Feast 8

@@ -1,0 +1,19 @@
+6
+11
+8
+3
+Gold 100
+Silver 12
+Smithy 5
+Smithy 10
+Chapel 5
+Silver 10
+Market 3
+Smithy 8
+Chapel 10
+Chapel 8
+Feast 9
+Copper 7
+Duchy 7
+Cellar 6
+Province 7

@@ -1,0 +1,16 @@
+7
+11
+13
+8
+Gold 100
+Militia 6
+Gold 3
+Province 12
+Silver 8
+Copper 3
+Province 9
+Estate 13
+Chancellor 10
+Estate 4
+Village 2
+Cellar 4

@@ -1,0 +1,18 @@
+2
+8
+14
+8
+Gardens 7
+Gold 2
+Duchy 3
+Workshop 7
+Estate 11
+Silver 8
+Woodcutter 99
+Chancellor 11
+Copper 10
+Estate 3
+Chapel 2
+Silver 11
+Chapel 9
+Woodcutter 10

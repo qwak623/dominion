@@ -1,0 +1,17 @@
+5
+12
+6
+5
+Gold 8
+CouncilRoom 1
+Silver 14
+Province 10
+Silver 7
+Copper 1
+Laboratory 8
+Copper 3
+Market 10
+Gold 6
+Smithy 7
+Gold 99
+Estate 9

@@ -1,0 +1,16 @@
+7
+20
+8
+4
+Gold 103
+Gold 10
+Silver 14
+Cellar 7
+Estate 11
+Market 3
+Copper 8
+Duchy 3
+Cellar 8
+Silver 8
+Feast 2
+Mine 3

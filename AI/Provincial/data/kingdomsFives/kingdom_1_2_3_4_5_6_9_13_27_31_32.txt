@@ -1,0 +1,16 @@
+1
+12
+7
+7
+Province 6
+Bureaucrat 6
+Gold 102
+Silver 7
+Thief 2
+Silver 18
+Copper 6
+Copper 10
+Thief 13
+Thief 6
+Duchy 7
+Gold 4

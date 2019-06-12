@@ -1,0 +1,17 @@
+1
+9
+8
+8
+Gold 11
+Mine 2
+Silver 8
+Silver 12
+Moneylender 9
+Duchy 6
+Copper 6
+Gold 101
+Remodel 11
+Mine 7
+Province 11
+Chancellor 2
+Workshop 11

@@ -1,0 +1,16 @@
+2
+9
+6
+5
+Province 9
+Market 4
+Silver 7
+Gardens 6
+Duchy 9
+Copper 11
+Estate 5
+Silver 14
+Festival 9
+Library 3
+Gold 101
+Copper 4

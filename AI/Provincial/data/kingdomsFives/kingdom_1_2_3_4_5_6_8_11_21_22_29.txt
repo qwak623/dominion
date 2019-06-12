@@ -1,0 +1,16 @@
+3
+15
+6
+6
+Gold 100
+Adventurer 7
+Silver 8
+Province 6
+Village 10
+Adventurer 5
+Moat 4
+CouncilRoom 10
+Silver 11
+Copper 4
+Duchy 3
+Duchy 9

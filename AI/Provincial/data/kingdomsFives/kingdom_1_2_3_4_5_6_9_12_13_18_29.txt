@@ -1,0 +1,12 @@
+3
+19
+5
+5
+Gold 104
+Province 5
+Library 5
+Silver 14
+Bureaucrat 6
+Duchy 12
+Duchy 4
+Festival 7

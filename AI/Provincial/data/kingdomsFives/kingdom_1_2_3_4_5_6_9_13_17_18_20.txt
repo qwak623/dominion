@@ -1,0 +1,12 @@
+1
+15
+7
+6
+Gold 101
+Laboratory 7
+Province 8
+Duchy 5
+Militia 9
+Silver 11
+Bureaucrat 11
+Militia 5

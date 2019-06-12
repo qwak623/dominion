@@ -1,0 +1,19 @@
+7
+13
+7
+7
+Gold 7
+Smithy 1
+Gold 102
+Silver 12
+Gold 11
+Smithy 4
+Bureaucrat 3
+Province 5
+Silver 4
+Workshop 5
+Bureaucrat 8
+Province 4
+Duchy 7
+Smithy 10
+Workshop 9

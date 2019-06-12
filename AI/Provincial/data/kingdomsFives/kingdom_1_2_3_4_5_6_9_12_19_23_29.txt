@@ -1,0 +1,15 @@
+4
+8
+13
+8
+Duchy 7
+Province 7
+Gold 100
+Bureaucrat 12
+Silver 12
+Silver 12
+Copper 9
+Feast 14
+Estate 9
+Moneylender 5
+Market 11

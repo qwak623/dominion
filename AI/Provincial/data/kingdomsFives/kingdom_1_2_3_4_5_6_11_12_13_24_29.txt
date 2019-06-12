@@ -1,0 +1,16 @@
+1
+8
+7
+6
+Gold 3
+Province 6
+Gold 100
+CouncilRoom 2
+Silver 12
+Village 9
+Village 3
+Festival 10
+Copper 7
+Estate 8
+Duchy 10
+Remodel 5

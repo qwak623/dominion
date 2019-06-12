@@ -1,0 +1,17 @@
+1
+12
+7
+4
+Silver 9
+Gardens 7
+Province 7
+Gardens 12
+Gold 101
+Silver 4
+Moat 6
+Silver 11
+Gardens 10
+Estate 8
+Cellar 6
+Feast 8
+CouncilRoom 6

@@ -1,0 +1,19 @@
+2
+13
+7
+5
+Gold 7
+Library 8
+Copper 2
+Province 8
+Gold 7
+Silver 12
+Bureaucrat 6
+Gold 2
+Estate 6
+Duchy 11
+Estate 4
+Silver 9
+Province 101
+Province 6
+Chancellor 7

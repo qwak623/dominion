@@ -1,0 +1,18 @@
+0
+20
+8
+7
+Witch 6
+Gold 10
+Duchy 7
+Silver 14
+Bureaucrat 7
+Silver 8
+Chapel 4
+Mine 11
+Copper 10
+Curse 14
+Province 9
+Witch 6
+Witch 7
+Gold 102

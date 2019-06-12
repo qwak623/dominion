@@ -1,0 +1,16 @@
+0
+16
+8
+6
+Gold 99
+Library 4
+Bureaucrat 4
+Silver 11
+Duchy 11
+Silver 10
+Workshop 9
+Chancellor 7
+Copper 7
+Gold 5
+Province 4
+Estate 11

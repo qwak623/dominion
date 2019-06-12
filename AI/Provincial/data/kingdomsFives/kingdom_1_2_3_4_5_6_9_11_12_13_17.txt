@@ -1,0 +1,14 @@
+3
+16
+13
+8
+Gold 12
+Copper 1
+Festival 8
+Bureaucrat 5
+Silver 13
+Silver 6
+Gold 101
+Estate 11
+Feast 12
+Gold 9

@@ -1,0 +1,17 @@
+6
+17
+5
+5
+Province 13
+Gold 7
+Library 3
+Spy 11
+Spy 10
+Village 4
+Woodcutter 5
+Village 12
+Copper 3
+Gold 5
+Gold 2
+Estate 6
+Estate 8

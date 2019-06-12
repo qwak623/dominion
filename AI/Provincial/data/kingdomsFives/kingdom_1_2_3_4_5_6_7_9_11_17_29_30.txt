@@ -1,0 +1,17 @@
+3
+12
+8
+8
+Province 7
+Gold 12
+Witch 7
+Silver 12
+Gold 100
+Village 11
+Copper 5
+Duchy 10
+Province 8
+Laboratory 6
+Bureaucrat 13
+Estate 3
+Estate 8

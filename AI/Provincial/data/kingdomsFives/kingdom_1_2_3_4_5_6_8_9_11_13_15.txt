@@ -1,0 +1,16 @@
+6
+8
+6
+4
+CouncilRoom 2
+Province 9
+Gold 8
+Adventurer 12
+Silver 11
+Bureaucrat 13
+Copper 10
+Adventurer 4
+Festival 102
+Adventurer 8
+Estate 12
+Festival 2

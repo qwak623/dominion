@@ -1,0 +1,17 @@
+2
+8
+12
+8
+Duchy 10
+Province 3
+Silver 10
+Gold 102
+Moneylender 10
+Gold 4
+Moneylender 3
+Market 7
+Market 10
+Estate 7
+Silver 1
+Moneylender 11
+Silver 12

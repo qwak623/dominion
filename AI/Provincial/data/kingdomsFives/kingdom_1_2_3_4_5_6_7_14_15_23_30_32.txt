@@ -1,0 +1,14 @@
+0
+16
+8
+8
+Gold 11
+Witch 8
+Silver 12
+Gardens 12
+Workshop 2
+Duchy 5
+Silver 10
+Gold 100
+Silver 3
+Moneylender 8

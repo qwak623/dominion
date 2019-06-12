@@ -1,0 +1,15 @@
+6
+11
+6
+4
+Gold 102
+Province 11
+Library 3
+Silver 5
+Silver 11
+Woodcutter 10
+Copper 10
+Province 6
+Copper 8
+Gold 9
+Adventurer 7

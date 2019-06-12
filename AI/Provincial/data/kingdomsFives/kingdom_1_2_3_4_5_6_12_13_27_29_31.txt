@@ -1,0 +1,19 @@
+6
+13
+18
+8
+Gold 4
+Gold 5
+Silver 11
+Province 7
+Festival 99
+Province 6
+Silver 9
+Woodcutter 5
+Woodcutter 10
+Province 5
+Feast 4
+Copper 7
+Duchy 8
+Gold 13
+Estate 9

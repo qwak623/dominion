@@ -1,0 +1,18 @@
+2
+8
+7
+5
+Gold 3
+Province 6
+Gold 5
+Gold 102
+Silver 10
+Silver 13
+Chapel 5
+Copper 7
+Estate 5
+Village 5
+Moneylender 3
+Library 7
+Silver 5
+Market 6

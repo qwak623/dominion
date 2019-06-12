@@ -1,0 +1,13 @@
+6
+8
+6
+5
+Festival 11
+Province 11
+Gold 102
+Smithy 10
+Province 11
+Silver 11
+Gold 9
+Duchy 10
+Market 6

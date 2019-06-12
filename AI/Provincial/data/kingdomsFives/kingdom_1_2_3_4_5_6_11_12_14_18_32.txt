@@ -1,0 +1,16 @@
+2
+9
+8
+8
+Province 6
+Workshop 3
+Silver 7
+Duchy 12
+CouncilRoom 5
+Province 6
+Gardens 12
+Silver 103
+Feast 8
+Province 10
+CouncilRoom 11
+Province 8

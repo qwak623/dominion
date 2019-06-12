@@ -1,0 +1,15 @@
+0
+18
+8
+8
+Gold 10
+Gold 100
+Silver 2
+Silver 13
+Silver 9
+Province 14
+Moneylender 5
+Chapel 10
+Province 10
+Militia 9
+Militia 5

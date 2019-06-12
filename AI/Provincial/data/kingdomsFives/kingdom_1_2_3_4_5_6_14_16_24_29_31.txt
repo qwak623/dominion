@@ -1,0 +1,18 @@
+0
+13
+4
+8
+Duchy 4
+Gardens 9
+Duchy 8
+Woodcutter 8
+Copper 6
+Province 3
+Duchy 5
+Estate 15
+Silver 5
+Remodel 4
+Village 11
+Woodcutter 9
+Silver 10
+Gold 105

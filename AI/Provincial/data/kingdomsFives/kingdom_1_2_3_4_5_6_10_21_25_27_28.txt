@@ -1,0 +1,15 @@
+7
+15
+8
+5
+Gold 101
+Thief 3
+Silver 13
+Smithy 4
+Silver 8
+Province 2
+ThroneRoom 5
+Smithy 6
+Gold 10
+Duchy 3
+Thief 8

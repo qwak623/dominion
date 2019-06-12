@@ -1,0 +1,15 @@
+0
+9
+7
+3
+Bureaucrat 1
+Province 8
+Gold 4
+Gold 100
+Laboratory 5
+Silver 11
+Cellar 4
+Silver 13
+Silver 15
+Cellar 6
+Workshop 2

@@ -1,0 +1,13 @@
+5
+13
+6
+4
+Gold 12
+Silver 13
+Gold 104
+Chancellor 5
+Chancellor 11
+Silver 11
+Adventurer 8
+Province 10
+Gold 8

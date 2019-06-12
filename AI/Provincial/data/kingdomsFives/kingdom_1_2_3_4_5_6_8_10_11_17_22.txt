@@ -1,0 +1,13 @@
+3
+9
+6
+4
+Province 8
+Gold 104
+Adventurer 4
+Silver 14
+Moat 1
+Silver 3
+Duchy 7
+Copper 8
+Cellar 6

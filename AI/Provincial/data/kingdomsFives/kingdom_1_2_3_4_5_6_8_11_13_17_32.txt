@@ -1,0 +1,13 @@
+2
+9
+7
+6
+Gold 101
+Silver 12
+Province 13
+Silver 7
+Adventurer 9
+Workshop 5
+Copper 9
+Gold 11
+CouncilRoom 5

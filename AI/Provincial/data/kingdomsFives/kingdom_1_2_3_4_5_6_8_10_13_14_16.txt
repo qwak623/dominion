@@ -1,0 +1,14 @@
+0
+21
+5
+5
+Gold 9
+Silver 11
+Silver 6
+Province 9
+Chapel 6
+Festival 14
+Gold 101
+Duchy 5
+Chapel 9
+Cellar 11

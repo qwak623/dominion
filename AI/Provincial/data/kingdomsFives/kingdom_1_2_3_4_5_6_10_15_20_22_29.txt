@@ -1,0 +1,16 @@
+1
+14
+9
+7
+Gold 101
+Province 13
+Militia 7
+Silver 3
+Estate 10
+Duchy 10
+Chancellor 1
+Gold 5
+Village 4
+Chancellor 8
+Estate 7
+Village 11

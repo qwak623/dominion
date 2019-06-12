@@ -1,0 +1,15 @@
+4
+15
+5
+4
+Silver 10
+Duchy 12
+Gardens 11
+Moat 5
+Cellar 11
+Gold 99
+Gold 3
+Estate 9
+Cellar 12
+Silver 11
+Copper 11

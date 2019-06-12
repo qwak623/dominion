@@ -1,0 +1,16 @@
+0
+15
+8
+8
+Bureaucrat 5
+Duchy 10
+Province 8
+Gold 100
+Silver 11
+Feast 4
+Mine 1
+Silver 8
+Silver 5
+Festival 5
+Workshop 7
+Workshop 1

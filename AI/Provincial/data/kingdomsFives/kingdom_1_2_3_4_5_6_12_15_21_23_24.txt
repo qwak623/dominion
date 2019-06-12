@@ -1,0 +1,13 @@
+1
+14
+7
+5
+Gold 104
+Province 8
+Mine 9
+Silver 13
+Gold 14
+Silver 4
+Feast 7
+Moneylender 4
+Chancellor 15

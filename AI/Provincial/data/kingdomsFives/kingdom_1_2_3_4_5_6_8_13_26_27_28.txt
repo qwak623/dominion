@@ -1,0 +1,17 @@
+4
+10
+13
+7
+Province 12
+Gold 102
+Silver 12
+Silver 10
+Copper 8
+Festival 13
+ThroneRoom 11
+Gold 10
+Estate 3
+Thief 7
+Duchy 10
+Festival 5
+Spy 6

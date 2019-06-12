@@ -1,0 +1,15 @@
+1
+17
+6
+6
+Gold 101
+Laboratory 7
+Adventurer 13
+Militia 7
+Duchy 3
+Silver 12
+Province 3
+Militia 7
+Duchy 3
+Silver 8
+Duchy 10

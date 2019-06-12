@@ -1,0 +1,17 @@
+6
+14
+5
+4
+Gold 100
+Gold 11
+Silver 3
+Laboratory 2
+Province 6
+Silver 10
+Duchy 10
+Moat 3
+Chancellor 13
+Copper 6
+Laboratory 8
+Village 7
+Market 8

@@ -1,0 +1,16 @@
+1
+9
+8
+8
+Witch 2
+Province 8
+Province 5
+Gold 102
+Silver 11
+Smithy 7
+Copper 9
+Silver 10
+Silver 10
+Workshop 10
+Witch 6
+Witch 4

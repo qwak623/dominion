@@ -1,0 +1,18 @@
+3
+18
+7
+5
+Gold 6
+Thief 5
+Gardens 7
+Copper 7
+Copper 6
+Province 5
+Chancellor 10
+Estate 14
+Thief 12
+Gardens 6
+Gold 101
+Silver 13
+Silver 7
+Duchy 6

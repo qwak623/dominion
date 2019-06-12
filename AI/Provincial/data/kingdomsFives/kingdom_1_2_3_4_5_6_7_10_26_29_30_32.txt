@@ -1,0 +1,18 @@
+2
+11
+18
+8
+Gold 101
+Silver 13
+Province 5
+Cellar 4
+Estate 13
+Gold 7
+Duchy 9
+Village 7
+Silver 4
+Gold 6
+Copper 10
+Village 9
+Copper 7
+Curse 5

@@ -1,0 +1,16 @@
+7
+9
+11
+8
+Witch 9
+Library 7
+Silver 12
+Copper 6
+Library 1
+Laboratory 7
+Gold 8
+Silver 15
+Estate 2
+Library 1
+Province 12
+Duchy 5

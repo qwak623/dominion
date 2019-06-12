@@ -1,0 +1,18 @@
+7
+16
+8
+7
+Gold 10
+Silver 11
+Duchy 10
+Witch 8
+Cellar 10
+Copper 8
+Silver 4
+CouncilRoom 8
+Village 6
+Silver 11
+Estate 9
+Duchy 101
+Woodcutter 8
+Province 2

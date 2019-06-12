@@ -1,0 +1,16 @@
+4
+11
+8
+2
+Province 9
+Witch 9
+Gardens 10
+Gold 104
+Province 6
+Silver 11
+Cellar 1
+Laboratory 3
+Gold 9
+Duchy 10
+Estate 10
+Cellar 7

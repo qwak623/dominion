@@ -1,0 +1,18 @@
+0
+14
+15
+7
+Gardens 9
+Province 9
+Duchy 5
+Silver 8
+Duchy 9
+Estate 9
+Silver 8
+Duchy 102
+Duchy 12
+Militia 9
+Gold 6
+Market 8
+Copper 10
+Gold 1

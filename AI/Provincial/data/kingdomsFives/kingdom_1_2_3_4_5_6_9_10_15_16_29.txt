@@ -1,0 +1,16 @@
+6
+15
+8
+8
+Bureaucrat 5
+Duchy 7
+Province 6
+Silver 12
+Copper 5
+Province 8
+Chapel 6
+Village 4
+Chancellor 3
+Village 6
+Silver 15
+Gold 102

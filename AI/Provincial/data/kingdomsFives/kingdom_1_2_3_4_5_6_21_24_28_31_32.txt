@@ -1,0 +1,17 @@
+5
+10
+7
+5
+Province 11
+Gold 100
+Mine 2
+Silver 9
+Gold 5
+Silver 6
+Workshop 4
+Copper 6
+Woodcutter 11
+Silver 10
+Remodel 4
+Estate 11
+Gold 10

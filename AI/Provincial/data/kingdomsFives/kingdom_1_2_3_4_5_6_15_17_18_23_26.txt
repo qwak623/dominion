@@ -1,0 +1,14 @@
+1
+14
+8
+5
+Gold 103
+Library 12
+Silver 13
+Spy 1
+Silver 10
+Duchy 9
+Gold 4
+Chancellor 7
+Moneylender 13
+Moneylender 8

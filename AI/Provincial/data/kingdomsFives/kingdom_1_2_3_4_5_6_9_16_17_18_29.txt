@@ -1,0 +1,18 @@
+5
+18
+8
+8
+Gold 7
+Laboratory 10
+Duchy 11
+Bureaucrat 8
+Bureaucrat 10
+Silver 12
+Province 9
+Silver 7
+Chapel 2
+Library 3
+Copper 9
+Chapel 3
+Village 2
+Gold 5

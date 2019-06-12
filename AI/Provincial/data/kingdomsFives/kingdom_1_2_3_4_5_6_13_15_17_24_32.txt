@@ -1,0 +1,15 @@
+7
+17
+7
+5
+Gold 9
+Province 7
+Gold 103
+Laboratory 7
+Province 9
+Silver 13
+Duchy 9
+Silver 13
+Copper 13
+Festival 4
+Laboratory 9

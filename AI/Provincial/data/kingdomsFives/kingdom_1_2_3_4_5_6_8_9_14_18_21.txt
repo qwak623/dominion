@@ -1,0 +1,19 @@
+2
+12
+6
+6
+Gold 4
+Province 9
+Library 2
+Copper 1
+Silver 7
+Province 13
+Gardens 10
+Gold 99
+Copper 2
+Estate 3
+Duchy 6
+Mine 10
+Mine 3
+Silver 11
+Silver 2

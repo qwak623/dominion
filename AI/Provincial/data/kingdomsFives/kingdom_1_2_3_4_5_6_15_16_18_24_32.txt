@@ -1,0 +1,17 @@
+4
+17
+7
+3
+Gold 7
+Library 2
+Gold 9
+Copper 1
+Gold 99
+Province 7
+Silver 13
+Chapel 7
+Silver 9
+Estate 7
+Workshop 7
+Library 14
+Chapel 2

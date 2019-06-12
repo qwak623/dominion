@@ -1,0 +1,16 @@
+4
+13
+15
+8
+Gold 9
+Silver 4
+Gardens 10
+Laboratory 2
+Silver 14
+Silver 6
+Feast 11
+Laboratory 12
+Feast 9
+Silver 99
+Copper 5
+Estate 3

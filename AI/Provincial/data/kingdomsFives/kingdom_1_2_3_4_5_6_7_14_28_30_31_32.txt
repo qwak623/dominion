@@ -1,0 +1,15 @@
+0
+13
+14
+8
+Workshop 2
+Gardens 8
+Silver 4
+Duchy 6
+Province 12
+Woodcutter 11
+Copper 6
+Estate 10
+Silver 12
+Woodcutter 101
+ThroneRoom 5

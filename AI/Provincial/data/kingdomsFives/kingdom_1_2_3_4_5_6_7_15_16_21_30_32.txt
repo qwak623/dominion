@@ -1,0 +1,14 @@
+6
+15
+8
+7
+Witch 11
+Province 5
+Duchy 13
+Mine 10
+Silver 8
+Estate 12
+Copper 9
+Workshop 7
+Silver 11
+Gold 104

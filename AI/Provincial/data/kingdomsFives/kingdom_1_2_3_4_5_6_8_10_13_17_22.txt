@@ -1,0 +1,16 @@
+4
+10
+7
+7
+Gold 101
+Silver 13
+Festival 12
+Silver 5
+Laboratory 7
+Moat 10
+Gold 6
+Province 12
+Adventurer 10
+Festival 10
+Copper 11
+Estate 6

@@ -1,0 +1,15 @@
+6
+15
+17
+8
+Province 4
+Workshop 4
+Gardens 10
+Silver 11
+Witch 4
+Witch 7
+Copper 6
+Estate 100
+Gardens 3
+Copper 8
+Library 10

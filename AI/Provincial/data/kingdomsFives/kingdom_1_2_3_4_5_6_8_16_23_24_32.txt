@@ -1,0 +1,15 @@
+2
+18
+6
+5
+Gold 102
+Adventurer 7
+Silver 15
+Province 13
+Copper 10
+Silver 6
+Estate 2
+Silver 4
+Remodel 7
+Adventurer 9
+Moneylender 12

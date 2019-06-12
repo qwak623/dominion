@@ -1,0 +1,15 @@
+5
+17
+8
+4
+Province 5
+Gold 101
+Silver 11
+Market 9
+Silver 13
+Cellar 5
+Estate 8
+Province 8
+Thief 5
+Duchy 11
+Gold 7

@@ -1,0 +1,18 @@
+3
+12
+18
+8
+Province 7
+Gardens 8
+Gold 12
+Province 8
+Gardens 8
+Gold 101
+CouncilRoom 3
+Silver 12
+Copper 10
+Chapel 3
+Duchy 9
+Bureaucrat 10
+Gardens 10
+Adventurer 10

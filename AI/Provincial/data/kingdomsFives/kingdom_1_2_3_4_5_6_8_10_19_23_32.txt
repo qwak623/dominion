@@ -1,0 +1,16 @@
+4
+12
+6
+6
+Province 10
+Gold 8
+Silver 11
+Silver 8
+Adventurer 1
+Moneylender 1
+Silver 10
+Cellar 15
+Copper 2
+Market 8
+Estate 6
+Gold 101

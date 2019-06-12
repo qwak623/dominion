@@ -1,0 +1,16 @@
+1
+15
+7
+6
+Province 8
+Gold 100
+Thief 3
+Silver 13
+Adventurer 5
+Remodel 5
+Province 5
+Thief 9
+Remodel 9
+Province 10
+Silver 10
+Gold 9

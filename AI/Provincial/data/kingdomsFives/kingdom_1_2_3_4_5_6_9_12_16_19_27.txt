@@ -1,0 +1,15 @@
+0
+16
+8
+8
+Gold 100
+Bureaucrat 10
+Silver 6
+Feast 12
+Copper 11
+Market 8
+Chapel 12
+Silver 13
+Bureaucrat 8
+Province 8
+Thief 12

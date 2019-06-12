@@ -1,0 +1,18 @@
+4
+10
+17
+8
+Witch 1
+Province 9
+Gold 5
+Witch 6
+Gold 99
+Witch 10
+Silver 11
+Copper 2
+Feast 8
+Copper 5
+Duchy 12
+Curse 11
+Silver 12
+Duchy 7

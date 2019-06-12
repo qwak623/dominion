@@ -1,0 +1,16 @@
+7
+14
+5
+4
+Province 5
+Gold 99
+Library 11
+Silver 11
+Estate 12
+Estate 8
+Duchy 5
+Gold 3
+Adventurer 3
+Silver 2
+Laboratory 7
+Silver 12

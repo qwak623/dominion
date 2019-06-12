@@ -1,0 +1,14 @@
+1
+12
+7
+6
+Province 7
+Thief 5
+Gold 99
+Gold 6
+ThroneRoom 2
+Library 6
+Silver 9
+Duchy 10
+Silver 14
+Feast 9

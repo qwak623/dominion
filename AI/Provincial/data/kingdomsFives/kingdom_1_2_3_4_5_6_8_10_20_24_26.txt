@@ -1,0 +1,18 @@
+7
+14
+18
+8
+Gold 6
+Gold 5
+Militia 8
+Gold 5
+Gold 9
+Province 10
+Silver 7
+Spy 2
+Duchy 4
+Adventurer 6
+Silver 13
+Militia 11
+Province 102
+Copper 9

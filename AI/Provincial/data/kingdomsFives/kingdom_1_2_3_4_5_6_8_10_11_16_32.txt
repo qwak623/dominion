@@ -1,0 +1,12 @@
+5
+9
+6
+4
+Province 6
+Gold 100
+Silver 10
+Silver 11
+Chapel 3
+Gold 6
+Estate 11
+Adventurer 7

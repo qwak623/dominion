@@ -1,0 +1,17 @@
+4
+11
+8
+8
+Witch 8
+Duchy 9
+Gold 101
+Gold 10
+Market 7
+Market 5
+Silver 10
+Spy 12
+Cellar 7
+Curse 4
+Duchy 5
+Silver 5
+Province 11

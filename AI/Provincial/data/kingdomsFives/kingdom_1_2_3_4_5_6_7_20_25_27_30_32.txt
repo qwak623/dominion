@@ -1,0 +1,16 @@
+0
+13
+8
+7
+Province 6
+Gold 10
+Witch 2
+Silver 11
+Copper 11
+Estate 6
+Copper 9
+Curse 12
+Thief 4
+Militia 6
+Workshop 102
+Curse 12

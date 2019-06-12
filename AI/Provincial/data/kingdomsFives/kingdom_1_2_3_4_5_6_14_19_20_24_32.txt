@@ -1,0 +1,15 @@
+6
+11
+8
+8
+Province 5
+Workshop 2
+Duchy 6
+Province 100
+Silver 5
+Gardens 6
+Gold 10
+Silver 10
+Militia 7
+Market 10
+Estate 10

@@ -1,0 +1,15 @@
+5
+16
+7
+3
+Gold 103
+Library 2
+Silver 8
+Laboratory 10
+Silver 13
+Laboratory 7
+Laboratory 11
+Cellar 11
+Market 14
+Library 14
+Province 7

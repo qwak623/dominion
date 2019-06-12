@@ -1,0 +1,17 @@
+3
+8
+6
+6
+Province 10
+Silver 9
+Gold 2
+Gardens 6
+Copper 10
+Village 13
+Silver 12
+Gardens 8
+Gold 103
+Province 4
+Copper 6
+Estate 10
+Moneylender 9

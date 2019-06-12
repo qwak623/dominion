@@ -1,0 +1,16 @@
+6
+17
+8
+7
+Gold 99
+Gold 11
+Witch 5
+Silver 12
+Silver 5
+Woodcutter 7
+Province 5
+Woodcutter 7
+Mine 5
+Province 13
+Duchy 4
+Moat 3

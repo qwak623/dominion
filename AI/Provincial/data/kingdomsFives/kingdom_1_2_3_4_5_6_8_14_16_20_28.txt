@@ -1,0 +1,16 @@
+3
+12
+20
+8
+Gold 9
+Gardens 11
+Silver 11
+Duchy 8
+Adventurer 6
+Copper 5
+Gold 99
+Estate 10
+Chapel 4
+ThroneRoom 8
+Gardens 6
+Copper 9

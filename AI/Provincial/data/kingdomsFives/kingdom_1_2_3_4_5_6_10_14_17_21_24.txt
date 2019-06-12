@@ -1,0 +1,15 @@
+2
+12
+7
+7
+Silver 9
+Gardens 8
+Silver 12
+Copper 11
+Mine 2
+Copper 10
+Silver 6
+Gold 10
+Remodel 5
+Gold 101
+Estate 7

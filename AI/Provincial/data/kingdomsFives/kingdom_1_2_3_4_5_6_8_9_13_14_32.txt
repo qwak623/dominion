@@ -1,0 +1,16 @@
+4
+11
+8
+8
+Province 5
+Gold 101
+Bureaucrat 3
+Province 8
+Workshop 4
+Gardens 9
+Copper 2
+Duchy 4
+Silver 11
+Festival 7
+Estate 2
+Silver 4

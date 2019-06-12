@@ -1,0 +1,19 @@
+3
+12
+8
+8
+Gold 12
+Silver 3
+Silver 10
+Province 12
+Silver 4
+Moneylender 5
+Duchy 9
+Silver 4
+Market 1
+Copper 7
+Estate 10
+Militia 8
+Market 4
+Gold 101
+Moneylender 6

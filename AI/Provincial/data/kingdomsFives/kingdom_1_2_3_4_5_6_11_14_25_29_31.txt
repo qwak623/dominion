@@ -1,0 +1,16 @@
+7
+13
+6
+5
+Province 13
+Gold 100
+CouncilRoom 2
+Silver 11
+Smithy 8
+CouncilRoom 6
+Copper 11
+CouncilRoom 7
+Village 13
+Silver 11
+Estate 5
+Gold 12

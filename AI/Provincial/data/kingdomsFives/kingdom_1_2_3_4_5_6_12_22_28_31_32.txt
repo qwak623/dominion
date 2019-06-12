@@ -1,0 +1,18 @@
+5
+16
+7
+7
+Copper 1
+Gold 10
+Silver 4
+Silver 8
+Gold 102
+Workshop 1
+Silver 5
+Estate 11
+Duchy 5
+Estate 3
+Woodcutter 10
+ThroneRoom 6
+Feast 13
+Gold 3

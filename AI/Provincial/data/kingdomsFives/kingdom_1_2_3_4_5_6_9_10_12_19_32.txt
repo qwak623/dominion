@@ -1,0 +1,15 @@
+4
+13
+8
+8
+Bureaucrat 5
+Duchy 9
+Province 5
+Silver 5
+Copper 5
+Estate 9
+Gold 102
+Gold 5
+Market 5
+Duchy 12
+Cellar 5

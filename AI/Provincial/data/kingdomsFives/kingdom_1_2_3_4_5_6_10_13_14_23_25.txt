@@ -1,0 +1,20 @@
+7
+16
+8
+8
+Festival 8
+Gardens 11
+Duchy 11
+Silver 13
+Gold 100
+Cellar 10
+Silver 8
+Estate 3
+Estate 9
+Copper 12
+Cellar 10
+Festival 4
+Smithy 12
+Moneylender 6
+Silver 9
+Gold 5

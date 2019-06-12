@@ -1,0 +1,15 @@
+5
+14
+8
+8
+Gold 6
+Witch 4
+Silver 13
+Cellar 4
+Copper 2
+Silver 7
+Province 4
+Militia 9
+Gold 105
+Gold 4
+Estate 6

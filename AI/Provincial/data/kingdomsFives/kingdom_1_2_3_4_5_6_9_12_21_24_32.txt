@@ -1,0 +1,16 @@
+1
+22
+8
+7
+Gold 101
+Mine 7
+Silver 6
+Silver 10
+Feast 8
+Copper 3
+Gold 3
+Estate 1
+Duchy 13
+Duchy 10
+Remodel 10
+Silver 8

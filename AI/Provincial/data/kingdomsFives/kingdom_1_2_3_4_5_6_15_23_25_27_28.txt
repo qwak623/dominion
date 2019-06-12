@@ -1,0 +1,15 @@
+1
+15
+7
+4
+Province 13
+Gold 101
+Province 9
+Thief 4
+Silver 12
+Duchy 11
+Gold 7
+Silver 10
+Chancellor 8
+Copper 11
+Moneylender 3

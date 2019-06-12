@@ -1,0 +1,18 @@
+2
+16
+7
+5
+Gold 101
+Militia 5
+Silver 4
+Silver 13
+Village 6
+Gold 4
+Silver 10
+Moat 8
+Copper 7
+Gardens 7
+Moat 8
+Gold 12
+Chancellor 10
+Duchy 11

@@ -1,0 +1,14 @@
+0
+13
+8
+8
+Gold 103
+Gold 10
+Silver 11
+Silver 11
+Remodel 9
+Moat 6
+Province 11
+Remodel 12
+Duchy 5
+Copper 4

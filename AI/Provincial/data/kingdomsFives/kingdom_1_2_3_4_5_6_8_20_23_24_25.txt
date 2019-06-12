@@ -1,0 +1,15 @@
+1
+19
+5
+3
+Smithy 1
+Province 9
+Gold 9
+Gold 2
+Silver 12
+Province 5
+Moneylender 7
+Militia 11
+Remodel 7
+Silver 10
+Moneylender 3

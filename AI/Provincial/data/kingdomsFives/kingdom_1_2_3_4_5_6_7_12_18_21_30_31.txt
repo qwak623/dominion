@@ -1,0 +1,14 @@
+5
+20
+8
+8
+Witch 101
+Silver 13
+Copper 11
+Library 10
+Province 4
+Duchy 10
+Woodcutter 5
+Duchy 10
+Feast 5
+Estate 7

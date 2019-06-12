@@ -1,0 +1,19 @@
+0
+9
+6
+6
+Province 6
+Gold 1
+Smithy 1
+Gold 8
+Gold 101
+Market 9
+Province 3
+Market 5
+Duchy 8
+Silver 9
+Copper 5
+Silver 11
+Estate 3
+Gold 12
+Festival 5

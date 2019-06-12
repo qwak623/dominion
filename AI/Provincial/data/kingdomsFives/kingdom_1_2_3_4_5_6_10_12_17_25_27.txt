@@ -1,0 +1,18 @@
+2
+15
+7
+5
+Gold 1
+Silver 7
+Smithy 4
+Province 6
+Silver 10
+Copper 7
+Feast 10
+Thief 11
+Silver 9
+Smithy 7
+Cellar 8
+Smithy 11
+Estate 5
+Silver 12

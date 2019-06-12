@@ -1,0 +1,15 @@
+3
+15
+15
+6
+Gold 8
+CouncilRoom 7
+Silver 8
+Silver 14
+Province 9
+Cellar 9
+Gold 100
+Duchy 10
+Chancellor 7
+Militia 9
+Duchy 8

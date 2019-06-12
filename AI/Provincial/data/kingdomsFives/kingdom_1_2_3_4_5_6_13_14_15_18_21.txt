@@ -1,0 +1,14 @@
+2
+13
+7
+3
+Province 12
+Gold 99
+Gold 5
+Library 5
+Province 10
+Silver 7
+Silver 13
+Copper 12
+Mine 6
+Gardens 4

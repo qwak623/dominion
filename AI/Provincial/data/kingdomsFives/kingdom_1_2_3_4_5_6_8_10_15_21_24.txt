@@ -1,0 +1,15 @@
+6
+12
+7
+5
+Gold 9
+Mine 7
+Silver 15
+Adventurer 6
+Chancellor 3
+Province 3
+Adventurer 7
+Gold 104
+Duchy 10
+Silver 4
+Remodel 6

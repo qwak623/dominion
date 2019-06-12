@@ -1,0 +1,14 @@
+5
+14
+8
+5
+Gold 8
+Gold 104
+Province 8
+Silver 9
+Gardens 4
+Silver 10
+Festival 10
+Gardens 5
+Moat 9
+Estate 4

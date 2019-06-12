@@ -1,0 +1,15 @@
+3
+13
+6
+4
+Province 8
+Gold 104
+Gold 5
+Silver 14
+Silver 5
+Chapel 9
+Adventurer 8
+Duchy 5
+Silver 9
+Feast 7
+Village 3

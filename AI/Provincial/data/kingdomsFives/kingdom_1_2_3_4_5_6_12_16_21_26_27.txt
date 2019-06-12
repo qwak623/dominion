@@ -1,0 +1,13 @@
+4
+17
+6
+5
+Gold 101
+Mine 2
+Spy 9
+Province 12
+Spy 9
+Gold 8
+Silver 10
+Feast 14
+Feast 1

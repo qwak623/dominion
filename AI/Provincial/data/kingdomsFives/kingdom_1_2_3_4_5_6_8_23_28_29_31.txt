@@ -1,0 +1,13 @@
+3
+14
+7
+6
+Gold 104
+Silver 13
+Silver 4
+Adventurer 6
+Woodcutter 4
+Moneylender 13
+Village 6
+Duchy 8
+Duchy 9

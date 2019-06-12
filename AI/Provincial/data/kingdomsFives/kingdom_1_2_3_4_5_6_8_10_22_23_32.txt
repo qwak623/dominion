@@ -1,0 +1,18 @@
+6
+15
+7
+5
+Province 7
+Gold 12
+Silver 7
+Silver 5
+Moat 12
+Workshop 6
+Cellar 3
+Province 1
+Province 3
+Adventurer 6
+Duchy 7
+Silver 13
+Duchy 102
+Copper 12

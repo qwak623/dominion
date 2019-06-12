@@ -1,0 +1,17 @@
+5
+17
+8
+7
+Gold 6
+Gold 5
+Mine 7
+Silver 9
+Copper 4
+Militia 12
+Gold 101
+Thief 4
+Duchy 14
+Estate 10
+Silver 11
+Chancellor 3
+Mine 8

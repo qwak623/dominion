@@ -1,0 +1,15 @@
+6
+13
+6
+6
+Province 12
+Gold 12
+Gold 103
+CouncilRoom 12
+Silver 12
+Remodel 9
+Silver 6
+Chancellor 4
+Copper 6
+Estate 6
+Province 4

@@ -1,0 +1,14 @@
+6
+17
+17
+7
+Witch 5
+Silver 9
+Estate 11
+Silver 11
+Estate 6
+Witch 5
+Duchy 6
+Village 7
+Woodcutter 4
+Woodcutter 5

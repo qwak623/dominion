@@ -1,0 +1,14 @@
+7
+15
+7
+7
+Gold 102
+Festival 2
+Estate 1
+Province 10
+Silver 5
+Gardens 6
+Duchy 15
+Gardens 4
+Silver 10
+Gold 13

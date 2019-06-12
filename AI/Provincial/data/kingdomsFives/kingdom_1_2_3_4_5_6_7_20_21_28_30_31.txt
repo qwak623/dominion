@@ -1,0 +1,15 @@
+7
+14
+8
+8
+Witch 5
+Duchy 5
+Gold 99
+Silver 12
+Mine 9
+Silver 8
+Woodcutter 9
+Copper 8
+Estate 10
+ThroneRoom 13
+Mine 12

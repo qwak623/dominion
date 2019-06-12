@@ -1,0 +1,17 @@
+0
+15
+7
+6
+Gold 101
+Silver 11
+Province 4
+Silver 13
+Bureaucrat 11
+Moneylender 3
+Copper 10
+Province 1
+Adventurer 4
+Duchy 7
+Workshop 4
+Silver 12
+Estate 11

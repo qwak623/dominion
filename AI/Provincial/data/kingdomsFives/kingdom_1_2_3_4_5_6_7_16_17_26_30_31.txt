@@ -1,0 +1,16 @@
+1
+13
+8
+8
+Province 8
+Gold 101
+Gold 2
+Province 8
+Witch 7
+Silver 11
+Duchy 4
+Laboratory 7
+Duchy 11
+Silver 3
+Chapel 9
+Estate 1

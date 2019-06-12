@@ -1,0 +1,15 @@
+1
+13
+6
+6
+Gold 11
+Silver 8
+Library 3
+Province 10
+Silver 11
+Militia 7
+Gold 100
+Remodel 13
+Chapel 10
+Moneylender 3
+Copper 9

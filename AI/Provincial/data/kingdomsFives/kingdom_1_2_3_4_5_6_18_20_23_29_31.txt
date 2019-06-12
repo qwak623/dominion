@@ -1,0 +1,16 @@
+2
+11
+7
+6
+Copper 1
+Province 12
+Gold 11
+Library 8
+Silver 16
+Woodcutter 12
+Village 1
+Village 102
+Estate 2
+Estate 11
+Duchy 4
+Militia 3

@@ -1,0 +1,19 @@
+3
+10
+8
+8
+Province 5
+Witch 4
+Gold 9
+Duchy 5
+Silver 12
+Silver 2
+Copper 6
+Silver 11
+Woodcutter 3
+Estate 8
+Curse 7
+Chancellor 7
+Woodcutter 10
+Gold 101
+Estate 8

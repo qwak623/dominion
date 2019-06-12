@@ -1,0 +1,14 @@
+3
+14
+6
+6
+Gold 100
+Silver 10
+Duchy 6
+Spy 1
+Market 13
+Remodel 2
+Silver 6
+Silver 13
+Feast 5
+Remodel 9

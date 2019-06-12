@@ -1,0 +1,16 @@
+4
+15
+8
+7
+Copper 1
+Gold 3
+Province 9
+Gold 101
+CouncilRoom 4
+Silver 12
+CouncilRoom 13
+Silver 12
+Copper 12
+Moat 13
+Estate 11
+Gold 9

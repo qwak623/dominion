@@ -1,0 +1,14 @@
+5
+11
+7
+5
+Province 7
+Gold 100
+Library 7
+Silver 13
+Festival 13
+Adventurer 11
+Cellar 14
+Silver 5
+Copper 6
+Gold 9

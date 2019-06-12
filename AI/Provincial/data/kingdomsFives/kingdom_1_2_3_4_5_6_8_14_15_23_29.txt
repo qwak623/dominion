@@ -1,0 +1,17 @@
+3
+17
+8
+4
+Silver 10
+Gardens 13
+Province 4
+Duchy 2
+Gold 100
+Gold 8
+Silver 11
+Copper 7
+Estate 5
+Adventurer 8
+Moneylender 4
+Village 9
+Chancellor 5

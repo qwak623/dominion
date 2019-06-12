@@ -1,0 +1,17 @@
+5
+16
+7
+6
+Gold 100
+Mine 5
+Market 7
+Festival 8
+Silver 12
+Duchy 3
+Duchy 7
+Gold 8
+Workshop 6
+Cellar 6
+Estate 10
+Province 4
+Festival 3

@@ -1,0 +1,13 @@
+2
+15
+6
+5
+Gold 101
+Silver 12
+Woodcutter 7
+Duchy 4
+Duchy 7
+Chapel 5
+Gold 8
+Estate 11
+Cellar 9

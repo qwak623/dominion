@@ -1,0 +1,14 @@
+7
+18
+8
+5
+Bureaucrat 1
+Gold 6
+Laboratory 13
+Library 9
+Silver 14
+Copper 103
+Province 6
+Bureaucrat 4
+Copper 11
+Moneylender 13

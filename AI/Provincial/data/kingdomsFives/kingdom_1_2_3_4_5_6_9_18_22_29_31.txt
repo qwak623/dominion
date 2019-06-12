@@ -1,0 +1,14 @@
+3
+19
+5
+5
+Gold 9
+Silver 10
+Duchy 6
+Library 8
+Moat 9
+Province 6
+Silver 10
+Gold 100
+Village 3
+Estate 8

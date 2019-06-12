@@ -1,0 +1,16 @@
+4
+17
+8
+8
+Gold 8
+Witch 3
+Silver 11
+Witch 99
+Moneylender 9
+Province 5
+Witch 7
+Silver 9
+Gold 8
+Adventurer 12
+Adventurer 10
+Village 10

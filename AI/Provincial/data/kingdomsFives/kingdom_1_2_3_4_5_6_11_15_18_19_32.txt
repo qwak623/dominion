@@ -1,0 +1,19 @@
+6
+16
+8
+4
+Gold 6
+Library 2
+Gold 12
+Silver 13
+Province 9
+CouncilRoom 5
+Copper 9
+Market 5
+Chancellor 2
+Estate 6
+Silver 6
+Estate 6
+Market 9
+Workshop 8
+Gold 100

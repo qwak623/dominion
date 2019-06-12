@@ -1,0 +1,16 @@
+6
+17
+8
+5
+Silver 8
+Province 5
+Adventurer 9
+Gardens 7
+Silver 13
+Moat 10
+Cellar 10
+Copper 6
+Estate 9
+Moneylender 3
+Duchy 3
+Duchy 103

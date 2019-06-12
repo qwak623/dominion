@@ -1,0 +1,16 @@
+5
+12
+6
+5
+Adventurer 2
+Province 8
+Gold 102
+Silver 12
+Gold 7
+Silver 7
+Duchy 12
+Moneylender 2
+Copper 5
+Estate 9
+Chancellor 5
+Feast 5

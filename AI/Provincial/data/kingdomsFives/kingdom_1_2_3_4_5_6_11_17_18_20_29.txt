@@ -1,0 +1,16 @@
+4
+10
+7
+6
+Gold 99
+CouncilRoom 4
+Silver 4
+Province 4
+Gold 6
+Silver 11
+Copper 12
+Library 7
+Laboratory 10
+Estate 4
+Laboratory 6
+Militia 6

@@ -1,0 +1,13 @@
+3
+14
+16
+8
+Duchy 2
+Gold 101
+Militia 13
+Silver 14
+Duchy 13
+Mine 10
+Workshop 8
+Woodcutter 10
+Silver 16

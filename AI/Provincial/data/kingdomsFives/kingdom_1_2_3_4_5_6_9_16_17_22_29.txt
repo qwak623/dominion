@@ -1,0 +1,20 @@
+0
+17
+6
+6
+Gold 11
+Silver 6
+Duchy 1
+Moat 1
+Province 9
+Gold 100
+Silver 13
+Moat 9
+Gold 9
+Laboratory 7
+Bureaucrat 6
+Chapel 7
+Copper 9
+Copper 2
+Chapel 3
+Chapel 8

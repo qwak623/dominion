@@ -1,0 +1,18 @@
+6
+10
+19
+6
+Library 3
+Festival 2
+Silver 9
+Silver 100
+Province 8
+Feast 9
+Province 4
+Duchy 8
+Copper 11
+Duchy 8
+Estate 8
+Silver 11
+Workshop 6
+Moneylender 5

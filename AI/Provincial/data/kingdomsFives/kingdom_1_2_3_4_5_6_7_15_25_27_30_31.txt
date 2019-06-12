@@ -1,0 +1,18 @@
+0
+15
+8
+8
+Gold 99
+Gold 4
+Witch 9
+Silver 10
+Copper 3
+Copper 7
+Woodcutter 8
+Curse 9
+Duchy 4
+Duchy 10
+Silver 4
+Chancellor 2
+Smithy 11
+Thief 8

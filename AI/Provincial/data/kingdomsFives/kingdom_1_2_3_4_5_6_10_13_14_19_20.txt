@@ -1,0 +1,14 @@
+4
+10
+6
+6
+Market 15
+Province 6
+Market 10
+Silver 4
+Gardens 9
+Duchy 9
+Silver 2
+Cellar 5
+Militia 9
+Estate 99

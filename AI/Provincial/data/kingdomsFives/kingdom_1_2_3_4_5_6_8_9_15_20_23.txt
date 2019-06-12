@@ -1,0 +1,18 @@
+4
+15
+8
+8
+Gold 99
+Militia 6
+Gold 8
+Silver 11
+Silver 13
+Silver 3
+Copper 6
+Adventurer 3
+Moneylender 2
+Province 4
+Gold 3
+Militia 9
+Gold 4
+Estate 3

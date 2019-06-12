@@ -1,0 +1,16 @@
+2
+15
+6
+5
+Gold 100
+Province 11
+Silver 9
+Adventurer 4
+Silver 13
+Copper 14
+Festival 11
+Adventurer 2
+Adventurer 7
+Duchy 10
+Moneylender 6
+Gold 9

@@ -1,0 +1,16 @@
+3
+14
+7
+6
+Silver 1
+Gold 101
+Gold 3
+Thief 8
+Silver 13
+Province 6
+Silver 6
+ThroneRoom 6
+Province 12
+Library 9
+Library 12
+Duchy 4

@@ -1,0 +1,18 @@
+6
+14
+8
+3
+Gold 9
+Copper 1
+Library 10
+Silver 5
+Gold 5
+Festival 7
+Silver 8
+Copper 1
+Estate 5
+Gold 102
+Feast 3
+Province 13
+Silver 11
+Remodel 9

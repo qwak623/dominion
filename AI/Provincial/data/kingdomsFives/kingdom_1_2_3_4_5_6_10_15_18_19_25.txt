@@ -1,0 +1,15 @@
+7
+16
+7
+3
+Gold 99
+Silver 5
+Smithy 7
+Gold 8
+Duchy 12
+Silver 12
+Silver 6
+Copper 6
+Estate 5
+Cellar 6
+Smithy 2

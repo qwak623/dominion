@@ -1,0 +1,19 @@
+1
+14
+7
+5
+Gold 100
+Province 4
+CouncilRoom 7
+Silver 7
+Province 6
+Silver 11
+CouncilRoom 3
+Woodcutter 7
+CouncilRoom 2
+Duchy 9
+CouncilRoom 10
+Workshop 9
+Workshop 4
+Copper 4
+Gold 8

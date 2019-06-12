@@ -1,0 +1,18 @@
+7
+15
+12
+8
+Gold 101
+Silver 11
+Gold 6
+Smithy 10
+Province 6
+Silver 4
+Copper 10
+Silver 11
+Duchy 5
+CouncilRoom 11
+Chancellor 8
+Estate 11
+Chancellor 2
+Duchy 9

@@ -1,0 +1,19 @@
+0
+12
+6
+6
+Province 8
+Gold 101
+Laboratory 6
+Silver 1
+Province 9
+Bureaucrat 9
+Silver 6
+Silver 8
+Gold 2
+Bureaucrat 9
+Duchy 8
+Thief 4
+Copper 1
+Gold 3
+Silver 12

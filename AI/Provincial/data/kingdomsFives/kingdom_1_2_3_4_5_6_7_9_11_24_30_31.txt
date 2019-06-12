@@ -1,0 +1,13 @@
+6
+9
+8
+7
+Province 10
+Gold 6
+Gold 101
+Witch 8
+CouncilRoom 4
+CouncilRoom 7
+Silver 11
+Witch 10
+Silver 6

@@ -1,0 +1,14 @@
+3
+17
+8
+7
+Witch 5
+Province 7
+Gold 101
+Silver 15
+Duchy 10
+Bureaucrat 11
+Mine 8
+Bureaucrat 11
+Chapel 7
+Estate 6

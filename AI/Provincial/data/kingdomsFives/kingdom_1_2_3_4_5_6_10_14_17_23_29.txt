@@ -1,0 +1,18 @@
+1
+15
+7
+5
+Silver 6
+Gold 3
+Gardens 14
+Copper 2
+Estate 6
+Gold 7
+Duchy 6
+Duchy 9
+Silver 13
+Moneylender 8
+Duchy 5
+Laboratory 5
+Cellar 8
+Cellar 101

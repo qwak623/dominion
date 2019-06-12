@@ -1,0 +1,16 @@
+2
+10
+7
+7
+Province 10
+Gold 8
+Silver 14
+Cellar 5
+Festival 9
+Silver 9
+Spy 4
+Cellar 8
+Gold 12
+Gold 99
+Silver 5
+Estate 8

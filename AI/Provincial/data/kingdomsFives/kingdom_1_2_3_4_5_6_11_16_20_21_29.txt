@@ -1,0 +1,15 @@
+0
+15
+8
+8
+Gold 4
+CouncilRoom 10
+Silver 11
+Militia 10
+Copper 9
+Mine 5
+Silver 6
+Estate 12
+Village 6
+Duchy 11
+Militia 7

@@ -1,0 +1,17 @@
+5
+16
+7
+6
+Gold 4
+Adventurer 12
+Gold 101
+Market 9
+Militia 7
+Adventurer 6
+Market 3
+Province 6
+Duchy 4
+Silver 13
+Remodel 4
+Remodel 6
+Remodel 6

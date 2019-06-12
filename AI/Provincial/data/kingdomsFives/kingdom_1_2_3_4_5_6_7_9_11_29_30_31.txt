@@ -1,0 +1,17 @@
+5
+16
+15
+8
+Bureaucrat 4
+Gold 5
+Duchy 8
+Witch 5
+Witch 101
+CouncilRoom 3
+Silver 15
+Silver 5
+Copper 10
+Gold 4
+Village 4
+Bureaucrat 7
+Estate 1

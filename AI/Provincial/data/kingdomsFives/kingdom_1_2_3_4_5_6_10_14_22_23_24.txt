@@ -1,0 +1,16 @@
+1
+15
+6
+4
+Province 6
+Gold 101
+Silver 3
+Silver 13
+Moneylender 12
+Silver 5
+Duchy 5
+Gold 8
+Silver 8
+Gardens 6
+Moneylender 10
+Remodel 12

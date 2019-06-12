@@ -1,0 +1,18 @@
+5
+12
+13
+8
+Province 5
+Gold 1
+Gardens 103
+Festival 4
+Silver 9
+Gold 6
+Market 4
+Thief 7
+Gardens 3
+Gardens 2
+Copper 6
+Duchy 9
+Silver 11
+Estate 2

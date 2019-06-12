@@ -1,0 +1,15 @@
+5
+9
+7
+6
+Province 7
+Adventurer 9
+Silver 11
+Duchy 8
+Silver 7
+Market 14
+Copper 6
+Copper 8
+Thief 101
+Duchy 6
+Silver 10

@@ -1,0 +1,16 @@
+0
+12
+8
+3
+Market 3
+Gardens 12
+Silver 11
+Province 10
+Market 5
+Copper 12
+Duchy 8
+Festival 4
+Adventurer 2
+Gold 102
+Workshop 8
+Gardens 13

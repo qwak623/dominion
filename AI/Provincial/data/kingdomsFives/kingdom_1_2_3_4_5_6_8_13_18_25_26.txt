@@ -1,0 +1,18 @@
+5
+11
+5
+5
+Smithy 1
+Copper 1
+Province 4
+Gold 101
+Silver 8
+Library 4
+Spy 10
+Adventurer 3
+Duchy 3
+Spy 4
+Silver 11
+Festival 3
+Library 5
+Estate 12

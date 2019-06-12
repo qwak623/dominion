@@ -1,0 +1,17 @@
+0
+11
+17
+8
+Gold 5
+Province 5
+Gold 8
+Silver 8
+Silver 7
+Duchy 104
+Copper 2
+Bureaucrat 7
+Estate 11
+Silver 10
+Festival 14
+Duchy 5
+Feast 7

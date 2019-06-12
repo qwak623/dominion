@@ -1,0 +1,16 @@
+1
+20
+6
+6
+Gold 6
+Silver 12
+Chapel 6
+Silver 4
+Gold 101
+Estate 8
+Estate 4
+Copper 5
+Chancellor 4
+Thief 11
+Workshop 2
+Silver 15

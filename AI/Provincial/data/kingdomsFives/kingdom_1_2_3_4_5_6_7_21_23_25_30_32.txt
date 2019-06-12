@@ -1,0 +1,16 @@
+0
+15
+8
+8
+Province 11
+Witch 100
+Witch 12
+Duchy 6
+Silver 8
+Silver 11
+Moneylender 6
+Moneylender 9
+Silver 12
+Smithy 12
+Copper 4
+Workshop 13

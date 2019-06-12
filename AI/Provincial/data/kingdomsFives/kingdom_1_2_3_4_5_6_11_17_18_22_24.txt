@@ -1,0 +1,15 @@
+6
+14
+6
+4
+Gold 5
+CouncilRoom 8
+Province 6
+Duchy 8
+Silver 12
+Copper 8
+CouncilRoom 8
+CouncilRoom 9
+Laboratory 7
+Copper 99
+Library 2

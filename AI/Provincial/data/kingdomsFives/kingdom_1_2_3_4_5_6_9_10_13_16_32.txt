@@ -1,0 +1,16 @@
+4
+17
+8
+8
+Province 8
+Gold 7
+Silver 8
+Silver 13
+Cellar 11
+Festival 3
+Estate 7
+Copper 7
+Workshop 10
+Gold 99
+Gold 2
+Estate 6

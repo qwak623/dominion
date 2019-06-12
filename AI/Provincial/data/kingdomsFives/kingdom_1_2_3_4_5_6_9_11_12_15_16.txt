@@ -1,0 +1,16 @@
+1
+7
+10
+8
+Feast 13
+Gold 10
+Silver 3
+Duchy 9
+Gold 105
+Estate 11
+Duchy 7
+Bureaucrat 3
+CouncilRoom 16
+Copper 4
+Silver 11
+Estate 1

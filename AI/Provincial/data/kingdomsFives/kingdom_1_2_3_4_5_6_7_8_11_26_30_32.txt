@@ -1,0 +1,17 @@
+5
+16
+8
+7
+Gold 102
+Gold 5
+Witch 11
+Silver 11
+Adventurer 6
+Duchy 10
+Silver 2
+Spy 9
+CouncilRoom 5
+CouncilRoom 2
+Silver 9
+Silver 10
+Province 10

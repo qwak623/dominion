@@ -1,0 +1,15 @@
+3
+15
+8
+7
+Gold 100
+Silver 13
+Province 9
+Silver 10
+Remodel 8
+Moneylender 4
+Festival 9
+Duchy 7
+Mine 9
+Gold 4
+Mine 6

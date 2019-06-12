@@ -1,0 +1,14 @@
+7
+14
+5
+5
+Gold 100
+Province 4
+Laboratory 13
+Market 3
+Militia 11
+Silver 11
+Copper 6
+Province 5
+Estate 10
+Chancellor 8

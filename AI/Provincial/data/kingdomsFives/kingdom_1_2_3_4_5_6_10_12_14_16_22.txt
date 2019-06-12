@@ -1,0 +1,15 @@
+4
+17
+5
+4
+Gold 8
+Silver 10
+Gardens 10
+Province 8
+Moat 8
+Copper 3
+Gardens 8
+Duchy 12
+Copper 12
+Gold 5
+Cellar 8

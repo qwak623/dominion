@@ -1,0 +1,15 @@
+4
+15
+6
+6
+Gold 102
+Silver 11
+Festival 3
+Copper 9
+Remodel 5
+Adventurer 9
+Adventurer 5
+Province 7
+Estate 2
+Gold 5
+Remodel 7

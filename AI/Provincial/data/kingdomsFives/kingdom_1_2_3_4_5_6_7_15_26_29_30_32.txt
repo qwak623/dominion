@@ -1,0 +1,16 @@
+6
+12
+12
+8
+Witch 11
+Witch 2
+Duchy 9
+Silver 13
+Gold 99
+Silver 3
+Witch 9
+Silver 7
+Estate 7
+Curse 2
+Chancellor 3
+Spy 6

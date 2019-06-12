@@ -1,0 +1,15 @@
+7
+9
+6
+4
+Gold 8
+Province 9
+Gold 103
+Library 10
+Silver 11
+Remodel 7
+Silver 4
+Moneylender 7
+Silver 9
+Duchy 3
+Spy 5

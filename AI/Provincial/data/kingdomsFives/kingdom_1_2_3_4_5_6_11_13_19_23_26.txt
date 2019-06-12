@@ -1,0 +1,18 @@
+7
+10
+7
+4
+Gold 100
+CouncilRoom 2
+Province 3
+Silver 13
+Copper 5
+Province 9
+Festival 7
+Moneylender 2
+CouncilRoom 3
+Province 2
+Spy 8
+Duchy 6
+Silver 11
+CouncilRoom 5

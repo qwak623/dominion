@@ -1,0 +1,15 @@
+0
+9
+5
+4
+Province 9
+Gold 10
+Silver 7
+Smithy 4
+Moat 12
+Estate 101
+Market 7
+Smithy 2
+Mine 12
+Festival 8
+Moat 9

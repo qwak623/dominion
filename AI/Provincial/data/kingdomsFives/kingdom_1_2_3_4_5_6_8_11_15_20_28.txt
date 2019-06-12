@@ -1,0 +1,19 @@
+4
+14
+6
+4
+Gold 11
+Silver 11
+Province 3
+Adventurer 3
+Duchy 9
+Duchy 11
+Province 101
+Copper 8
+Silver 8
+Estate 9
+Chancellor 6
+Adventurer 9
+Duchy 7
+Chancellor 8
+ThroneRoom 4

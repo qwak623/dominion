@@ -1,0 +1,15 @@
+3
+9
+7
+6
+Province 7
+Gold 9
+Silver 11
+Gold 100
+Woodcutter 6
+Copper 11
+Mine 6
+Copper 7
+Library 10
+Silver 10
+Remodel 11

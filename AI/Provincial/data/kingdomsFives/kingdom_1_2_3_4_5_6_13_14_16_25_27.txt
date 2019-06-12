@@ -1,0 +1,16 @@
+6
+16
+9
+6
+Gold 9
+Thief 7
+Gold 100
+Gardens 12
+Silver 5
+Silver 11
+Copper 6
+Duchy 9
+Estate 6
+Thief 9
+Silver 10
+Chapel 2

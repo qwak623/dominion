@@ -1,0 +1,13 @@
+6
+18
+8
+8
+Gold 15
+Bureaucrat 8
+Silver 13
+Gold 102
+Province 5
+Spy 8
+Duchy 4
+Province 7
+Silver 14

@@ -1,0 +1,16 @@
+0
+12
+12
+8
+Bureaucrat 1
+Province 8
+Duchy 6
+Gold 103
+Militia 6
+Silver 6
+Cellar 4
+Estate 11
+Feast 7
+Silver 15
+Militia 10
+Copper 12

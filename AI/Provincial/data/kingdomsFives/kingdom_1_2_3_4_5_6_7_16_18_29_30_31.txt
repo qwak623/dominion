@@ -1,0 +1,14 @@
+3
+12
+6
+6
+Gold 12
+Silver 10
+Chapel 2
+Gold 11
+Copper 9
+Woodcutter 13
+Gold 101
+Copper 9
+Estate 5
+Estate 16

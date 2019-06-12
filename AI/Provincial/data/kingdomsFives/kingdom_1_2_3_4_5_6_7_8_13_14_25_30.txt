@@ -1,0 +1,14 @@
+2
+15
+8
+8
+Witch 4
+Gardens 11
+Gold 104
+Duchy 5
+Province 2
+Silver 4
+Festival 12
+Estate 13
+Copper 8
+Adventurer 6

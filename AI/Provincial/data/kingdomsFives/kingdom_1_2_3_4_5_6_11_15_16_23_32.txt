@@ -1,0 +1,18 @@
+1
+16
+5
+4
+Gold 9
+Silver 3
+Silver 11
+CouncilRoom 6
+Duchy 12
+Gold 101
+CouncilRoom 6
+Chapel 6
+Province 1
+Chancellor 9
+Silver 9
+Moneylender 10
+Copper 11
+Duchy 8

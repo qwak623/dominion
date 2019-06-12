@@ -1,0 +1,16 @@
+3
+17
+8
+8
+Festival 8
+Duchy 5
+Adventurer 2
+Workshop 4
+Copper 1
+Gardens 12
+Silver 9
+Province 6
+Estate 6
+Laboratory 14
+Silver 12
+Silver 101

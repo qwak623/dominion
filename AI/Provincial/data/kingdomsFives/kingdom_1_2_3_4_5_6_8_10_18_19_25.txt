@@ -1,0 +1,17 @@
+3
+14
+8
+8
+Gold 100
+Library 8
+Silver 7
+Gold 12
+Duchy 9
+Smithy 5
+Adventurer 6
+Library 4
+Province 12
+Cellar 8
+Silver 2
+Duchy 8
+Silver 10

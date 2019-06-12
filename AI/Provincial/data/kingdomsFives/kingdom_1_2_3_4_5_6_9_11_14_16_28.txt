@@ -1,0 +1,16 @@
+1
+16
+5
+5
+Gold 6
+Gold 101
+Silver 12
+Gold 5
+Gardens 6
+CouncilRoom 7
+Silver 5
+Chapel 7
+Bureaucrat 7
+Province 3
+Estate 9
+ThroneRoom 7

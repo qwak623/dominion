@@ -1,0 +1,16 @@
+6
+17
+7
+4
+Laboratory 8
+Silver 7
+Library 2
+Gold 9
+Duchy 10
+Cellar 9
+Library 11
+Copper 11
+ThroneRoom 6
+Copper 1
+Estate 9
+Moneylender 3

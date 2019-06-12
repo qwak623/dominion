@@ -1,0 +1,17 @@
+4
+14
+8
+4
+Gold 4
+Adventurer 6
+Silver 14
+Duchy 2
+Chapel 7
+Silver 8
+Silver 8
+Silver 4
+Estate 11
+Thief 4
+Province 2
+Gold 103
+Copper 9

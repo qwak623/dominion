@@ -1,0 +1,15 @@
+1
+19
+6
+3
+Gold 4
+Gold 101
+Laboratory 10
+Duchy 8
+Silver 8
+Silver 13
+Woodcutter 9
+Gold 6
+Copper 4
+Village 4
+Province 12

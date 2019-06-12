@@ -1,0 +1,17 @@
+0
+11
+7
+7
+Province 10
+Gold 5
+Witch 3
+Duchy 11
+Silver 9
+Silver 13
+Workshop 8
+Bureaucrat 14
+Province 7
+Gold 7
+Gold 99
+CouncilRoom 8
+Workshop 8

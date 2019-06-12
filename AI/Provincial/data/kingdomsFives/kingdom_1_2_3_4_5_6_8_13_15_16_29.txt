@@ -1,0 +1,15 @@
+6
+11
+5
+3
+Province 9
+Gold 99
+Silver 5
+Adventurer 6
+Adventurer 9
+Silver 11
+Village 3
+Festival 4
+Chapel 8
+Chancellor 10
+Estate 8

@@ -1,0 +1,16 @@
+0
+16
+5
+5
+Gold 99
+Laboratory 11
+Market 10
+Silver 12
+Silver 9
+Moat 10
+Gold 3
+Estate 8
+Duchy 6
+Copper 9
+Gold 6
+Gold 5

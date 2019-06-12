@@ -1,0 +1,17 @@
+4
+19
+8
+6
+Gold 4
+Mine 6
+Province 11
+Gold 101
+Silver 11
+Adventurer 9
+Adventurer 8
+Silver 14
+Duchy 12
+Gold 7
+Village 4
+Chapel 8
+Estate 2

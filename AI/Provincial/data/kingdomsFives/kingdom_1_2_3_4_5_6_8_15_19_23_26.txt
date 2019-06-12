@@ -1,0 +1,14 @@
+1
+19
+8
+8
+Gold 102
+Gold 5
+Silver 13
+Market 3
+Adventurer 4
+Silver 11
+Province 2
+Chancellor 9
+Spy 11
+Duchy 9

@@ -1,0 +1,16 @@
+5
+20
+12
+8
+Gold 6
+Province 14
+Thief 3
+Laboratory 7
+Duchy 7
+Silver 10
+Spy 6
+Copper 1
+Silver 10
+Mine 10
+Festival 5
+Silver 9

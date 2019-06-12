@@ -1,0 +1,11 @@
+3
+14
+4
+4
+Gold 8
+CouncilRoom 9
+Silver 11
+Province 11
+Chancellor 7
+Silver 10
+Province 4

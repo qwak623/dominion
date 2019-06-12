@@ -1,0 +1,14 @@
+0
+15
+7
+6
+Gold 102
+Province 7
+Gold 6
+Adventurer 3
+Festival 3
+Silver 3
+Silver 11
+Thief 11
+Woodcutter 4
+Silver 6

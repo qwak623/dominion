@@ -1,0 +1,18 @@
+6
+19
+6
+3
+Library 4
+Gold 102
+Silver 10
+Cellar 8
+Silver 13
+Gold 3
+Library 7
+Feast 10
+Province 5
+Silver 7
+Silver 13
+Library 12
+Duchy 5
+Estate 10

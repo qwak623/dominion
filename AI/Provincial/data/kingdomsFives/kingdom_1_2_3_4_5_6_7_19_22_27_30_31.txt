@@ -1,0 +1,17 @@
+5
+12
+7
+3
+Gold 104
+Silver 10
+Market 11
+Thief 2
+Moat 6
+Moat 7
+Copper 7
+Curse 4
+Gold 7
+Moat 2
+Estate 5
+Estate 12
+Duchy 7

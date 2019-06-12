@@ -1,0 +1,16 @@
+0
+9
+13
+8
+Gardens 10
+Duchy 99
+Duchy 7
+Silver 3
+Copper 6
+Estate 7
+Moat 6
+Gold 6
+Duchy 13
+Chapel 12
+Silver 12
+Gardens 5

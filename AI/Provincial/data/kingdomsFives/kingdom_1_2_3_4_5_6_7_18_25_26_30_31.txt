@@ -1,0 +1,17 @@
+2
+16
+8
+8
+Gold 4
+Witch 4
+Gold 100
+Silver 7
+Library 4
+Silver 12
+Copper 9
+Spy 11
+Province 8
+Estate 11
+Woodcutter 2
+Duchy 8
+Spy 2

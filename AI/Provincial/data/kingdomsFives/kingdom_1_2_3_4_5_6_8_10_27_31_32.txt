@@ -1,0 +1,18 @@
+6
+11
+8
+8
+Adventurer 2
+Gold 104
+Province 4
+Silver 13
+Gold 8
+Duchy 8
+Cellar 13
+Woodcutter 2
+Silver 3
+Workshop 5
+Gold 9
+Woodcutter 4
+Copper 8
+Province 9

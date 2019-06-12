@@ -1,0 +1,16 @@
+4
+8
+8
+4
+Gold 3
+Province 10
+CouncilRoom 2
+Silver 13
+Gold 99
+Duchy 5
+Militia 5
+Silver 5
+Bureaucrat 1
+Moneylender 11
+Bureaucrat 8
+Bureaucrat 11

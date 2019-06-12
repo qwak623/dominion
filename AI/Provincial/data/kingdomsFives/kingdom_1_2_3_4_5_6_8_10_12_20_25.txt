@@ -1,0 +1,16 @@
+4
+17
+16
+8
+Gold 100
+Province 7
+Gold 8
+Silver 10
+Silver 2
+Smithy 7
+Feast 7
+Copper 3
+Silver 14
+Adventurer 9
+Estate 8
+Cellar 12

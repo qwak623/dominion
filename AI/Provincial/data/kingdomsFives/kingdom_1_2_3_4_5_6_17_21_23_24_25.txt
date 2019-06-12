@@ -1,0 +1,18 @@
+4
+10
+6
+4
+Copper 1
+Gold 100
+Province 7
+Silver 5
+Laboratory 3
+Duchy 9
+Smithy 8
+Copper 7
+Duchy 9
+Silver 13
+Moneylender 12
+Laboratory 3
+Remodel 5
+Remodel 10

@@ -1,0 +1,17 @@
+3
+21
+8
+7
+Province 9
+Moat 1
+Gold 4
+Witch 3
+Silver 6
+Silver 11
+Witch 11
+Duchy 7
+Copper 7
+Moat 4
+Copper 8
+Copper 9
+Curse 8

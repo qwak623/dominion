@@ -1,0 +1,16 @@
+4
+20
+6
+4
+Province 6
+Gold 100
+Gold 3
+Silver 12
+Moat 5
+Moat 3
+Duchy 12
+CouncilRoom 3
+Moneylender 8
+CouncilRoom 10
+Moat 10
+Copper 6

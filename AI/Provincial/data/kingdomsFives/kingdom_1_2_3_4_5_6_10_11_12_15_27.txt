@@ -1,0 +1,12 @@
+1
+14
+11
+6
+Feast 11
+Thief 5
+Silver 12
+Cellar 4
+CouncilRoom 102
+Chancellor 11
+Gold 9
+Estate 9

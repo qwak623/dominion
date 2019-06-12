@@ -1,0 +1,16 @@
+3
+12
+8
+8
+Gold 3
+Adventurer 11
+Gold 102
+Adventurer 3
+Silver 15
+Bureaucrat 6
+Silver 2
+Chapel 4
+Gold 9
+Duchy 3
+Militia 10
+Militia 8

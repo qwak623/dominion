@@ -1,0 +1,15 @@
+5
+14
+8
+8
+Gold 100
+Witch 8
+Witch 14
+Copper 4
+Silver 14
+Province 8
+Chapel 9
+Feast 11
+Duchy 5
+Duchy 10
+Workshop 3

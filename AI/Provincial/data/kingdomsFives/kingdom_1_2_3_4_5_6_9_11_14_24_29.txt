@@ -1,0 +1,15 @@
+7
+8
+8
+8
+Bureaucrat 4
+Gardens 4
+Gardens 9
+Province 1
+Duchy 2
+Duchy 8
+Silver 7
+Province 6
+Silver 12
+Silver 101
+CouncilRoom 9

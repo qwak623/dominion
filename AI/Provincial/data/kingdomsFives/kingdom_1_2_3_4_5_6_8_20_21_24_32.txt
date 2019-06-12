@@ -1,0 +1,20 @@
+4
+25
+16
+8
+Gold 10
+Gold 3
+Silver 10
+Militia 4
+Estate 9
+Adventurer 9
+Gold 100
+Silver 2
+Duchy 8
+Silver 10
+Province 4
+Estate 14
+Silver 8
+Mine 6
+Remodel 10
+Province 11

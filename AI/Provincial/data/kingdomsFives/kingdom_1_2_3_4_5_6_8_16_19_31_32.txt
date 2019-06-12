@@ -1,0 +1,16 @@
+0
+23
+7
+5
+Adventurer 1
+Gold 9
+Silver 9
+Silver 8
+Chapel 11
+Silver 12
+Duchy 2
+Market 15
+Woodcutter 2
+Duchy 8
+Gold 100
+Workshop 4

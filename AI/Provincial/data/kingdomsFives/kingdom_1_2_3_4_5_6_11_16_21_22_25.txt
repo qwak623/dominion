@@ -1,0 +1,15 @@
+0
+7
+7
+5
+Province 10
+Mine 1
+Gold 5
+CouncilRoom 12
+Silver 10
+Copper 12
+Duchy 7
+Moat 3
+Gold 6
+Estate 6
+Smithy 2

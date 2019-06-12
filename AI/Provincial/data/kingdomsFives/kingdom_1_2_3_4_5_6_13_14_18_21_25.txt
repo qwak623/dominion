@@ -1,0 +1,18 @@
+3
+19
+7
+3
+Library 1
+Gold 11
+Silver 11
+Library 10
+Festival 7
+Gardens 9
+Copper 6
+Smithy 3
+Gardens 7
+Mine 6
+Gold 100
+Library 2
+Duchy 10
+Province 6

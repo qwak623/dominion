@@ -1,0 +1,16 @@
+7
+13
+17
+8
+Gold 7
+Duchy 7
+Militia 5
+Gold 10
+Silver 14
+Remodel 1
+Militia 10
+Silver 7
+Workshop 3
+Gold 99
+Silver 9
+Woodcutter 4

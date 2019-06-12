@@ -1,0 +1,17 @@
+2
+16
+15
+5
+Province 4
+Gold 7
+Laboratory 5
+Duchy 12
+Duchy 9
+Laboratory 11
+Silver 13
+Copper 11
+Gold 99
+Village 12
+Gold 2
+Feast 12
+Moneylender 8

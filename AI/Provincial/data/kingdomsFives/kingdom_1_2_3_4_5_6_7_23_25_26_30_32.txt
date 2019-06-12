@@ -1,0 +1,16 @@
+1
+14
+5
+3
+Smithy 1
+Gold 10
+Silver 13
+Duchy 7
+Moneylender 10
+Province 9
+Workshop 4
+Silver 4
+Spy 5
+Smithy 10
+Moneylender 12
+Silver 99

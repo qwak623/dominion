@@ -1,0 +1,17 @@
+5
+13
+6
+4
+Copper 2
+Province 9
+Gold 5
+Adventurer 3
+Silver 11
+Copper 100
+Silver 11
+Gardens 3
+Bureaucrat 9
+Feast 13
+Estate 10
+Silver 6
+Bureaucrat 5

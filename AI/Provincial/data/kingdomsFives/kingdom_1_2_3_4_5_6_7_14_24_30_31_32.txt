@@ -1,0 +1,15 @@
+6
+12
+8
+8
+Workshop 2
+Province 8
+Silver 7
+Gold 4
+Gardens 7
+Duchy 10
+Curse 1
+Gardens 3
+Silver 11
+Gold 101
+Workshop 3

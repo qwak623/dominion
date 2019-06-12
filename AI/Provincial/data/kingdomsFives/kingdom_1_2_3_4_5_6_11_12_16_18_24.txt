@@ -1,0 +1,21 @@
+6
+14
+6
+5
+Gold 6
+Silver 13
+Duchy 6
+Gold 8
+CouncilRoom 101
+Chapel 9
+Silver 10
+Estate 8
+Remodel 4
+Province 7
+Gold 14
+Silver 12
+Silver 9
+Province 3
+Library 1
+Province 7
+Copper 10

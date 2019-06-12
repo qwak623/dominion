@@ -1,0 +1,18 @@
+7
+12
+8
+8
+Gold 100
+Festival 6
+Gardens 7
+Duchy 7
+Woodcutter 1
+Gardens 3
+Province 6
+Gardens 10
+Silver 12
+Copper 7
+Gold 12
+Estate 9
+Festival 7
+Woodcutter 5

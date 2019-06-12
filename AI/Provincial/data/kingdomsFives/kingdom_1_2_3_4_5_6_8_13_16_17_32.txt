@@ -1,0 +1,18 @@
+2
+22
+5
+5
+Laboratory 4
+Gold 6
+Gold 5
+Gold 103
+Festival 10
+Festival 11
+Silver 12
+Chapel 1
+Province 8
+Duchy 10
+Gold 9
+Adventurer 12
+Silver 12
+Workshop 11

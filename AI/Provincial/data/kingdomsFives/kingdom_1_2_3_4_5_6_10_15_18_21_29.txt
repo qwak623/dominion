@@ -1,0 +1,16 @@
+6
+11
+7
+5
+Gold 10
+Library 3
+Silver 13
+Mine 10
+Chancellor 4
+Province 10
+Silver 5
+Duchy 13
+Copper 4
+Library 2
+Gold 102
+Estate 5

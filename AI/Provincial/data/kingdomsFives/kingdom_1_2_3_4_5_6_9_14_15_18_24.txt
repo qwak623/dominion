@@ -1,0 +1,18 @@
+2
+14
+7
+5
+Province 7
+Gold 5
+Library 5
+Silver 10
+Gardens 6
+Gold 2
+Silver 13
+Gold 99
+Chancellor 6
+Remodel 7
+Province 9
+Gardens 6
+Chancellor 6
+Chancellor 11

@@ -1,0 +1,13 @@
+6
+12
+8
+8
+Province 9
+Gold 102
+Witch 2
+Silver 11
+Gold 4
+CouncilRoom 15
+Silver 6
+ThroneRoom 9
+Woodcutter 8

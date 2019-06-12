@@ -1,0 +1,14 @@
+3
+11
+6
+5
+Gold 100
+CouncilRoom 3
+Silver 10
+Copper 7
+Silver 15
+Province 8
+Estate 12
+Workshop 6
+Mine 11
+Duchy 9

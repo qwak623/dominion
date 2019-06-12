@@ -1,0 +1,15 @@
+1
+11
+6
+5
+Gold 101
+Province 11
+Library 4
+Festival 10
+Silver 10
+Silver 13
+Gold 4
+Chancellor 11
+Bureaucrat 7
+Bureaucrat 7
+Militia 2

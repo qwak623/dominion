@@ -1,0 +1,16 @@
+0
+16
+8
+8
+Gold 9
+Bureaucrat 5
+Gold 10
+Silver 14
+Silver 4
+Bureaucrat 8
+Copper 12
+Duchy 10
+Copper 1
+Gold 6
+Copper 8
+ThroneRoom 7

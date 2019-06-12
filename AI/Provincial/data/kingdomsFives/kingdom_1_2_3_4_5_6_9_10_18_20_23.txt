@@ -1,0 +1,15 @@
+1
+12
+8
+5
+Militia 1
+Duchy 1
+Province 8
+Gold 100
+Library 6
+Silver 11
+Cellar 9
+Estate 6
+Bureaucrat 4
+Silver 9
+Moneylender 4

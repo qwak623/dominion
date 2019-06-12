@@ -1,0 +1,13 @@
+3
+11
+8
+8
+Witch 2
+Gold 105
+Province 8
+Silver 10
+Witch 12
+Copper 11
+Silver 7
+Silver 6
+Adventurer 2

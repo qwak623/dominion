@@ -1,0 +1,16 @@
+7
+13
+8
+6
+Gold 100
+Adventurer 8
+Silver 14
+Province 4
+Copper 5
+Province 11
+Duchy 6
+Estate 6
+Silver 3
+Thief 4
+Estate 4
+Province 9

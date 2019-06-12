@@ -1,0 +1,14 @@
+3
+13
+8
+8
+Witch 11
+Duchy 10
+Silver 11
+Duchy 7
+Copper 15
+Militia 12
+Gold 101
+Duchy 7
+Chancellor 14
+Silver 7

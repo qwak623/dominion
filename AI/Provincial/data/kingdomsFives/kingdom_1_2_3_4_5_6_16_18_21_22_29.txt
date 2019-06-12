@@ -1,0 +1,14 @@
+0
+12
+8
+8
+Gold 7
+Silver 13
+Moat 4
+Gold 101
+Library 9
+Silver 3
+Duchy 7
+Copper 11
+Mine 11
+Village 11

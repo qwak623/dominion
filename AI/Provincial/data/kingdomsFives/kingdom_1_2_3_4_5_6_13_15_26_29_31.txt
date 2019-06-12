@@ -1,0 +1,15 @@
+6
+10
+7
+4
+Chancellor 2
+Province 6
+Gold 5
+Gold 100
+Silver 9
+Duchy 6
+Woodcutter 6
+Village 8
+Festival 11
+Duchy 11
+Spy 13

@@ -1,0 +1,19 @@
+0
+12
+8
+6
+Gold 12
+Library 3
+Silver 12
+Library 7
+Copper 7
+Province 3
+Mine 4
+Estate 12
+Library 7
+Duchy 8
+Copper 10
+Silver 2
+Moneylender 10
+Festival 4
+Gold 102

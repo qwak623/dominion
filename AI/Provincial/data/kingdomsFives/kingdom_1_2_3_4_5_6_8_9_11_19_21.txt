@@ -1,0 +1,14 @@
+1
+13
+7
+6
+Bureaucrat 1
+Mine 1
+Gold 5
+Gold 99
+Market 7
+Silver 10
+Mine 4
+Duchy 2
+Gold 6
+Province 12

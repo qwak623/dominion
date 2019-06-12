@@ -1,0 +1,14 @@
+5
+16
+6
+6
+Gold 5
+Laboratory 6
+Silver 14
+Duchy 6
+Market 14
+Copper 3
+Province 9
+Silver 1
+Spy 4
+Chancellor 10

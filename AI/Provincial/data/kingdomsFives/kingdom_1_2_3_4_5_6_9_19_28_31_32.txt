@@ -1,0 +1,17 @@
+5
+16
+7
+7
+Bureaucrat 2
+Province 4
+Province 4
+Gold 103
+Province 6
+Market 7
+Silver 6
+Silver 11
+Gold 3
+ThroneRoom 9
+Copper 10
+Estate 11
+Copper 3

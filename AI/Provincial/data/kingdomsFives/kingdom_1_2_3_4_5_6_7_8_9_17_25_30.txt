@@ -1,0 +1,16 @@
+2
+16
+8
+8
+Witch 2
+Adventurer 14
+Duchy 12
+Silver 10
+Copper 102
+Bureaucrat 6
+Estate 10
+Copper 11
+Smithy 8
+Curse 2
+Province 10
+Gold 10

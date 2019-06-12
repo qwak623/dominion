@@ -1,0 +1,18 @@
+5
+9
+8
+8
+Province 8
+Gold 100
+Silver 10
+Duchy 8
+Silver 12
+Adventurer 5
+Cellar 6
+Adventurer 4
+Estate 11
+Village 6
+Chancellor 9
+Estate 5
+Chancellor 5
+Estate 8

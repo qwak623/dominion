@@ -1,0 +1,14 @@
+1
+15
+6
+4
+Gold 9
+Market 7
+Silver 11
+Province 10
+Gold 9
+Copper 1
+Gold 103
+Silver 3
+Village 4
+Moneylender 4

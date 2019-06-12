@@ -1,0 +1,15 @@
+5
+16
+6
+6
+Province 2
+Gold 100
+Mine 1
+Silver 15
+Mine 4
+Mine 10
+Festival 6
+Silver 8
+Remodel 10
+Duchy 11
+Chancellor 4

@@ -1,0 +1,13 @@
+3
+12
+12
+8
+Province 8
+Gold 3
+Gold 101
+Militia 10
+Silver 11
+Silver 6
+Village 10
+Feast 6
+Province 14

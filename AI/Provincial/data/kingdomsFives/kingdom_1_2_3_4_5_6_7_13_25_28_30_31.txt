@@ -1,0 +1,15 @@
+1
+12
+8
+8
+Witch 9
+Duchy 100
+Silver 14
+Woodcutter 11
+Gold 11
+Smithy 10
+Woodcutter 7
+Duchy 11
+Silver 9
+Silver 10
+Silver 6

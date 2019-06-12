@@ -1,0 +1,16 @@
+6
+9
+9
+8
+Province 2
+Gold 9
+Gardens 10
+Gold 4
+Province 13
+Workshop 10
+Gardens 4
+Gardens 6
+Estate 7
+Copper 6
+Silver 10
+Curse 11

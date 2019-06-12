@@ -1,0 +1,13 @@
+5
+20
+8
+8
+Province 13
+Gold 100
+Province 11
+Library 12
+Silver 13
+Remodel 4
+Copper 3
+Gold 6
+Estate 8

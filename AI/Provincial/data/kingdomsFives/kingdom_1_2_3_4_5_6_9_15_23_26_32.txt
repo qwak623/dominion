@@ -1,0 +1,19 @@
+6
+14
+8
+8
+Gold 7
+Bureaucrat 2
+Silver 10
+Gold 100
+Silver 9
+Silver 9
+Duchy 8
+Chancellor 10
+Province 6
+Gold 2
+Moneylender 2
+Province 11
+Copper 10
+Spy 12
+Moneylender 5

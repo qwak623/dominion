@@ -1,0 +1,16 @@
+5
+11
+10
+8
+Gold 4
+Gold 102
+Witch 7
+Province 8
+Silver 10
+Copper 9
+Silver 11
+Moneylender 9
+Witch 9
+Workshop 3
+Curse 5
+Chapel 7

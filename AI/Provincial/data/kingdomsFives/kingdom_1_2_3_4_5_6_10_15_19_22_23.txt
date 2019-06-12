@@ -1,0 +1,17 @@
+6
+20
+7
+3
+Gold 99
+Silver 13
+Province 4
+Chancellor 6
+Moat 9
+Estate 3
+Silver 11
+Gold 11
+Chancellor 12
+Chancellor 4
+Silver 14
+Silver 3
+Duchy 12

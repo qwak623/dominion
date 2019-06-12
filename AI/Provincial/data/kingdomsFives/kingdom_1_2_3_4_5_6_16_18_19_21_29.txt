@@ -1,0 +1,16 @@
+0
+16
+7
+7
+Gold 100
+Silver 12
+Market 6
+Silver 6
+Duchy 11
+Copper 7
+Village 2
+Estate 6
+Estate 3
+Province 8
+Copper 8
+Village 10

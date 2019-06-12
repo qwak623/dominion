@@ -1,0 +1,16 @@
+7
+11
+14
+6
+Duchy 11
+Province 13
+Gold 101
+CouncilRoom 8
+Silver 12
+Province 3
+Mine 5
+Silver 13
+Moat 10
+Workshop 3
+Chapel 9
+Estate 3

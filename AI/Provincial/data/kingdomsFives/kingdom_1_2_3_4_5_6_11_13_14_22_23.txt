@@ -1,0 +1,16 @@
+7
+13
+7
+5
+Gold 102
+Festival 12
+Duchy 6
+Province 13
+Moat 2
+Gardens 8
+Silver 15
+Gardens 2
+Copper 8
+Moneylender 1
+Copper 6
+Estate 10

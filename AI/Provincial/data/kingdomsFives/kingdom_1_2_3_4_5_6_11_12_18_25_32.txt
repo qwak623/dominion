@@ -1,0 +1,16 @@
+6
+12
+6
+6
+Gold 10
+Province 5
+Library 9
+Silver 5
+CouncilRoom 7
+Copper 10
+Smithy 13
+Gold 102
+Province 5
+Gold 9
+Feast 10
+Duchy 14

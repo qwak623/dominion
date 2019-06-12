@@ -1,0 +1,18 @@
+3
+12
+8
+8
+Province 9
+Gold 13
+Militia 7
+Festival 8
+Silver 11
+Copper 5
+Gold 100
+Chapel 1
+Estate 7
+Chapel 6
+Duchy 3
+Militia 7
+Festival 3
+Silver 12

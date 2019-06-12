@@ -1,0 +1,16 @@
+7
+12
+5
+5
+Province 12
+Gold 102
+Gold 9
+Adventurer 7
+Silver 6
+Silver 11
+CouncilRoom 11
+Workshop 12
+Moat 4
+Moneylender 4
+Copper 7
+Silver 4

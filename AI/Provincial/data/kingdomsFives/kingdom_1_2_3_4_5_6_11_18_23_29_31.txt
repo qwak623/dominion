@@ -1,0 +1,18 @@
+5
+14
+8
+4
+Gold 4
+CouncilRoom 2
+Province 7
+Silver 14
+Silver 9
+Duchy 7
+Library 9
+CouncilRoom 5
+Woodcutter 4
+Province 5
+Duchy 7
+Woodcutter 8
+Gold 101
+Village 10

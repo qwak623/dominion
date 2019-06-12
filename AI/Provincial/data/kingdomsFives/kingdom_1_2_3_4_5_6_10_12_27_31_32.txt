@@ -1,0 +1,15 @@
+7
+7
+6
+4
+Gold 1
+Province 12
+Gold 6
+Silver 8
+Silver 12
+Duchy 8
+Cellar 2
+Workshop 6
+Gold 100
+Estate 11
+Cellar 4

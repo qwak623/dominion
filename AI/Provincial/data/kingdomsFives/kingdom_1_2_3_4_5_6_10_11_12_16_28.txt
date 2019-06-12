@@ -1,0 +1,13 @@
+7
+10
+6
+6
+Gold 103
+Gold 6
+Province 7
+Silver 10
+Silver 13
+Chapel 13
+Copper 8
+Cellar 4
+Duchy 11

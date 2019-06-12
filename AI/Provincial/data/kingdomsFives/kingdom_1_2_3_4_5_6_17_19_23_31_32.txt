@@ -1,0 +1,15 @@
+3
+13
+8
+8
+Silver 6
+Gold 101
+Silver 10
+Moneylender 12
+Silver 11
+Duchy 10
+Laboratory 4
+Copper 5
+Woodcutter 10
+Market 4
+Moneylender 8

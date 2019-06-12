@@ -1,0 +1,16 @@
+1
+20
+7
+7
+Gold 102
+Silver 12
+Copper 2
+Estate 10
+Province 7
+Estate 4
+Gold 4
+Laboratory 7
+Silver 9
+Duchy 6
+Gold 11
+Silver 4

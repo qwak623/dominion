@@ -1,0 +1,17 @@
+0
+10
+7
+6
+Silver 1
+Province 5
+Gold 10
+Gold 101
+Silver 12
+Duchy 8
+Copper 2
+Moneylender 9
+ThroneRoom 9
+Festival 9
+Library 4
+Estate 6
+Festival 11

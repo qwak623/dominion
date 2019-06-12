@@ -1,0 +1,17 @@
+6
+15
+7
+6
+Gold 100
+Province 11
+Gold 9
+Bureaucrat 3
+Silver 8
+Silver 12
+Bureaucrat 7
+Silver 9
+Silver 8
+Copper 9
+Village 9
+Estate 2
+Cellar 6

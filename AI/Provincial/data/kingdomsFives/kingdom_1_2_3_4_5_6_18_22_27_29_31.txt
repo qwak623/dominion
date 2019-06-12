@@ -1,0 +1,16 @@
+7
+9
+6
+5
+Gold 2
+Province 5
+Gold 101
+Silver 14
+Moat 12
+Copper 8
+Estate 11
+Thief 3
+Library 8
+Silver 5
+Woodcutter 3
+Library 6

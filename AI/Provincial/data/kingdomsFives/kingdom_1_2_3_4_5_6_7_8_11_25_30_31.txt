@@ -1,0 +1,14 @@
+6
+10
+8
+7
+Province 10
+Gold 9
+Adventurer 6
+Witch 3
+Silver 12
+Duchy 7
+Woodcutter 7
+Smithy 14
+Silver 7
+Smithy 7

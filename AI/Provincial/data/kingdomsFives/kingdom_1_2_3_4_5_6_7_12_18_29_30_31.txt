@@ -1,0 +1,12 @@
+7
+13
+17
+6
+Gold 3
+Province 7
+Gold 106
+Witch 12
+Silver 12
+Copper 10
+Estate 13
+Village 2

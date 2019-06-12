@@ -1,0 +1,15 @@
+2
+16
+6
+6
+Gold 100
+Gold 8
+Silver 4
+Smithy 8
+Province 11
+Gardens 7
+Feast 10
+Duchy 12
+Market 10
+Silver 11
+Gardens 10

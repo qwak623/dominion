@@ -1,0 +1,17 @@
+5
+12
+6
+6
+Gold 7
+Gold 102
+Gold 11
+Festival 6
+Silver 4
+Silver 2
+Thief 5
+Province 7
+Mine 6
+Duchy 14
+Mine 7
+Duchy 6
+Village 11

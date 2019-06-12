@@ -1,0 +1,17 @@
+7
+8
+8
+8
+Gardens 12
+Province 7
+Duchy 10
+Silver 11
+Smithy 6
+Copper 10
+Laboratory 7
+Estate 2
+Mine 3
+Smithy 12
+Cellar 2
+Gold 10
+Gold 101

@@ -1,0 +1,14 @@
+3
+17
+7
+4
+Province 6
+Gold 100
+Market 7
+Adventurer 6
+Militia 5
+Adventurer 3
+Gardens 4
+Silver 11
+Duchy 12
+Remodel 1

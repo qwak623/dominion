@@ -24,7 +24,8 @@ namespace GameCore
         {
             this.Logger = logger;
             Kingdom = kingdom;
-            this.users = users;Trash = new List<Card>();
+            this.users = users;
+            Trash = new List<Card>();
         }
 
         public Task<GameResults> Play()

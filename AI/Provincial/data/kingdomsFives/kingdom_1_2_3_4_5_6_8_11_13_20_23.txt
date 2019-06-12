@@ -1,0 +1,15 @@
+5
+9
+6
+5
+Province 5
+Gold 99
+CouncilRoom 10
+Duchy 13
+Silver 10
+Militia 5
+Moneylender 13
+Adventurer 11
+Festival 10
+Duchy 3
+Adventurer 10

@@ -1,0 +1,15 @@
+4
+11
+5
+5
+Province 11
+Gold 101
+Silver 12
+Duchy 9
+Chapel 14
+Feast 6
+Gold 7
+Bureaucrat 11
+Laboratory 8
+Bureaucrat 6
+Copper 12

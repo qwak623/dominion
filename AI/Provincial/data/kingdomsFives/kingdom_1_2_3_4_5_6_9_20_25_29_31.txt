@@ -1,0 +1,14 @@
+3
+14
+10
+8
+Duchy 10
+Province 10
+Gold 102
+Duchy 2
+Militia 7
+Silver 12
+Copper 9
+Copper 4
+Smithy 5
+Silver 8

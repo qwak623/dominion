@@ -1,0 +1,18 @@
+1
+11
+6
+4
+Gold 8
+CouncilRoom 2
+Silver 13
+Copper 9
+Silver 11
+Woodcutter 11
+Province 7
+Chapel 7
+Moneylender 10
+CouncilRoom 14
+Province 10
+Woodcutter 11
+Gold 100
+Duchy 7

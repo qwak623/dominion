@@ -1,0 +1,14 @@
+5
+15
+7
+5
+Province 9
+Gold 102
+Mine 3
+Silver 3
+Silver 11
+Cellar 3
+Chapel 10
+Copper 8
+Province 7
+Estate 11

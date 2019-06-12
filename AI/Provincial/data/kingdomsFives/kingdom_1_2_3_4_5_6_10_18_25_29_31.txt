@@ -1,0 +1,18 @@
+5
+10
+7
+6
+Gold 10
+Library 7
+Province 9
+Silver 10
+Library 3
+Silver 13
+Silver 6
+Woodcutter 4
+Cellar 7
+Duchy 7
+Village 7
+Library 5
+Gold 99
+Copper 9

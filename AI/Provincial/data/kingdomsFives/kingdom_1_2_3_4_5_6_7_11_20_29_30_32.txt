@@ -1,0 +1,15 @@
+1
+8
+8
+7
+Gold 13
+CouncilRoom 2
+Silver 6
+Copper 3
+Silver 7
+Silver 11
+Gold 101
+Workshop 3
+Duchy 9
+Province 8
+Militia 12

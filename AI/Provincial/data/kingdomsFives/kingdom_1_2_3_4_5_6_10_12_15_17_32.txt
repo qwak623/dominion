@@ -1,0 +1,15 @@
+5
+17
+8
+5
+Gold 102
+Gold 12
+Laboratory 10
+Silver 9
+Cellar 3
+Province 5
+Silver 10
+Chancellor 12
+Chancellor 5
+Province 7
+Feast 1

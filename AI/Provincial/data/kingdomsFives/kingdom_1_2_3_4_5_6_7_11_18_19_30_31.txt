@@ -1,0 +1,16 @@
+3
+14
+8
+8
+Gold 8
+Witch 2
+Gold 99
+Silver 6
+Silver 4
+Estate 12
+Duchy 7
+Woodcutter 9
+Gold 13
+Curse 2
+Library 7
+Estate 4

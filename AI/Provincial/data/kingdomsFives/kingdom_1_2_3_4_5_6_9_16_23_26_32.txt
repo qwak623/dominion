@@ -1,0 +1,16 @@
+7
+7
+7
+6
+Gold 7
+Silver 8
+Province 11
+Duchy 10
+Silver 3
+Bureaucrat 12
+Province 9
+Chapel 101
+Moneylender 9
+Workshop 8
+Chapel 11
+Estate 8

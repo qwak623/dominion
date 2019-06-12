@@ -1,0 +1,12 @@
+0
+11
+15
+8
+Gold 100
+Duchy 12
+Silver 14
+Woodcutter 8
+Woodcutter 6
+Silver 9
+Province 6
+Workshop 9

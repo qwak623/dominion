@@ -1,0 +1,18 @@
+4
+12
+7
+6
+Province 9
+Gold 8
+Province 9
+Gold 100
+Silver 10
+Duchy 7
+Market 6
+Gold 3
+Moat 6
+Estate 8
+Moneylender 8
+Province 4
+Festival 1
+Silver 11

@@ -1,0 +1,14 @@
+7
+13
+7
+6
+Gold 8
+Mine 2
+Spy 10
+Library 2
+Militia 9
+Spy 4
+Silver 6
+Gold 101
+Duchy 7
+Silver 17

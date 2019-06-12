@@ -1,0 +1,15 @@
+5
+9
+8
+8
+Witch 5
+Gardens 12
+Duchy 11
+Silver 4
+Silver 10
+Gold 102
+Woodcutter 10
+Copper 9
+Adventurer 12
+Duchy 7
+Curse 6

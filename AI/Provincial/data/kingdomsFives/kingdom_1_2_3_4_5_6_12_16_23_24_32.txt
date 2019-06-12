@@ -1,0 +1,19 @@
+6
+10
+7
+5
+Gold 9
+Copper 1
+Silver 14
+Province 10
+Moneylender 102
+Workshop 5
+Silver 3
+Province 7
+Feast 7
+Duchy 4
+Duchy 11
+Workshop 6
+Duchy 8
+Copper 8
+Duchy 8

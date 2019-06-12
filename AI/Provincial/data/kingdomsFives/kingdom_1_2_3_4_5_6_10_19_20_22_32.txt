@@ -1,0 +1,15 @@
+3
+11
+7
+7
+Militia 4
+Province 8
+Gold 102
+Market 9
+Silver 9
+Militia 7
+Copper 9
+Duchy 3
+Duchy 8
+Cellar 4
+Silver 10

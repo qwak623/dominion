@@ -1,0 +1,15 @@
+5
+10
+6
+6
+Province 11
+Gold 5
+Gold 101
+Silver 8
+Gardens 10
+Chapel 1
+Copper 2
+Estate 9
+Silver 14
+Copper 7
+Feast 6

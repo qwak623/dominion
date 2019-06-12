@@ -1,0 +1,15 @@
+7
+14
+21
+5
+Gold 104
+Silver 13
+Chapel 1
+Witch 4
+Woodcutter 10
+Copper 9
+Copper 5
+Gold 5
+Estate 7
+Witch 9
+Curse 9

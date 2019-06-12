@@ -1,0 +1,15 @@
+5
+14
+7
+5
+Gold 101
+Gold 7
+Mine 9
+Silver 12
+Feast 5
+Copper 6
+CouncilRoom 6
+Copper 9
+Province 6
+Estate 8
+Library 3

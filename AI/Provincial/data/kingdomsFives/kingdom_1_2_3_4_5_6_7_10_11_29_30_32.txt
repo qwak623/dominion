@@ -1,0 +1,17 @@
+2
+17
+10
+8
+Gold 101
+Province 4
+Witch 9
+Cellar 1
+Silver 13
+CouncilRoom 5
+CouncilRoom 4
+Silver 4
+Estate 7
+Gold 1
+Estate 2
+Silver 7
+Workshop 5

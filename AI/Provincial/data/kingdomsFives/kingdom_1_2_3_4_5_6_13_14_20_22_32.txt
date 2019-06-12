@@ -1,0 +1,14 @@
+6
+8
+5
+7
+Province 9
+Silver 10
+Gardens 12
+Duchy 8
+Moat 7
+Festival 12
+Copper 5
+Militia 7
+Silver 13
+Estate 6

@@ -1,0 +1,17 @@
+3
+14
+8
+8
+Gold 9
+Gold 7
+Gold 4
+Gold 101
+Witch 2
+Silver 14
+Silver 5
+CouncilRoom 4
+Workshop 7
+Copper 10
+Gold 8
+Copper 2
+Thief 10

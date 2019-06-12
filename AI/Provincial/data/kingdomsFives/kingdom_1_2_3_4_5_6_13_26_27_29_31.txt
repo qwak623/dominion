@@ -1,0 +1,15 @@
+2
+18
+6
+6
+Gold 6
+Silver 11
+Festival 4
+Thief 7
+Gold 101
+Spy 8
+Copper 4
+Silver 12
+Estate 13
+Province 9
+Village 2

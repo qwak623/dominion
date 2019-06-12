@@ -1,0 +1,14 @@
+4
+17
+24
+6
+Gold 102
+Silver 14
+Duchy 3
+Copper 7
+Workshop 4
+Feast 4
+Estate 10
+Estate 7
+Silver 5
+Gold 4

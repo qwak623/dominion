@@ -1,0 +1,16 @@
+4
+13
+13
+8
+Gold 102
+Witch 11
+Market 6
+Gardens 10
+Province 9
+Gardens 11
+Gold 12
+Workshop 10
+Market 5
+Estate 6
+Estate 12
+Copper 7

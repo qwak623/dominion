@@ -1,0 +1,17 @@
+7
+15
+5
+3
+Province 10
+Gold 100
+Province 9
+Gold 2
+Library 3
+Silver 11
+Village 4
+ThroneRoom 12
+ThroneRoom 3
+Festival 8
+Silver 4
+Copper 11
+Estate 12

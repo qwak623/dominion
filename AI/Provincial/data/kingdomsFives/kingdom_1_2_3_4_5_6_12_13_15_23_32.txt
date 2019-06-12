@@ -1,0 +1,17 @@
+5
+9
+6
+3
+Province 7
+Gold 100
+Silver 14
+Province 10
+Festival 9
+Silver 14
+Duchy 11
+Workshop 5
+Province 10
+Province 9
+Copper 10
+Moneylender 2
+Estate 7

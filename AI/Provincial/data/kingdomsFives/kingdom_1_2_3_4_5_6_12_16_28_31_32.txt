@@ -1,0 +1,16 @@
+5
+14
+6
+5
+Gold 101
+Silver 11
+Province 5
+Duchy 6
+Gold 5
+Feast 8
+Woodcutter 4
+ThroneRoom 4
+Chapel 1
+Duchy 10
+Copper 3
+Estate 7

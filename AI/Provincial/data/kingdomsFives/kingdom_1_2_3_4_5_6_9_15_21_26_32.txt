@@ -1,0 +1,19 @@
+6
+18
+8
+8
+Mine 2
+Gold 102
+Spy 3
+Silver 8
+Copper 1
+Silver 10
+Mine 8
+Province 10
+Copper 6
+Workshop 1
+Gold 3
+Silver 9
+Bureaucrat 11
+Chancellor 6
+Estate 2

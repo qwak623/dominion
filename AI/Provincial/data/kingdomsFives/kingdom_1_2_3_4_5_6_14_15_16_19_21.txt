@@ -1,0 +1,14 @@
+1
+15
+5
+4
+Gold 6
+Market 8
+Gold 1
+Duchy 5
+Silver 10
+Chancellor 8
+Chapel 2
+Silver 12
+Silver 12
+Mine 13

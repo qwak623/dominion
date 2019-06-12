@@ -1,0 +1,15 @@
+3
+15
+8
+8
+Gold 100
+Bureaucrat 5
+Duchy 4
+Silver 5
+Silver 11
+Province 7
+Workshop 12
+Copper 5
+Chancellor 2
+Chapel 7
+Estate 5

@@ -1,0 +1,16 @@
+4
+12
+8
+8
+Witch 4
+Silver 1
+Gold 100
+Duchy 9
+Library 2
+Province 11
+Silver 12
+Copper 5
+Curse 8
+Library 4
+Gold 9
+Market 9

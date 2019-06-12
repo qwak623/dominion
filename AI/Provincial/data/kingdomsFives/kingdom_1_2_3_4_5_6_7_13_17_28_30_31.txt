@@ -1,0 +1,15 @@
+4
+16
+8
+8
+Gold 102
+Gold 6
+Witch 3
+Silver 13
+Duchy 12
+Laboratory 10
+Province 6
+Copper 4
+Festival 14
+Festival 2
+Woodcutter 7

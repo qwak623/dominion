@@ -1,0 +1,14 @@
+2
+6
+11
+8
+Gardens 13
+Feast 5
+Feast 12
+Workshop 2
+CouncilRoom 3
+Silver 12
+Province 4
+Copper 7
+Market 9
+Gold 6

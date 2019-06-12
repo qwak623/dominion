@@ -1,0 +1,18 @@
+5
+13
+7
+5
+Silver 8
+Gold 5
+Gardens 10
+Gold 99
+Duchy 4
+Province 8
+Province 6
+Duchy 8
+Silver 11
+Village 3
+Gardens 9
+Copper 10
+Militia 11
+Silver 8

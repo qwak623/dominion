@@ -1,0 +1,18 @@
+4
+16
+7
+7
+Gold 103
+Mine 1
+Silver 12
+Copper 1
+Adventurer 3
+Chapel 4
+Laboratory 6
+Village 11
+Estate 8
+Province 9
+Copper 4
+Province 4
+Laboratory 6
+Gold 4

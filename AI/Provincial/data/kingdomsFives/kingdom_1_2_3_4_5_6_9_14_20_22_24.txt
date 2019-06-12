@@ -1,0 +1,15 @@
+4
+12
+8
+8
+Gold 3
+Bureaucrat 4
+Duchy 7
+Gardens 7
+Gold 9
+Gold 100
+Silver 12
+Militia 3
+Moat 11
+Silver 7
+Estate 5

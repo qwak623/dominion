@@ -1,0 +1,16 @@
+5
+14
+9
+7
+Gold 10
+Cellar 2
+Library 3
+Duchy 6
+Silver 11
+Market 10
+Duchy 11
+Gold 11
+Gold 8
+Estate 10
+Cellar 4
+Silver 12

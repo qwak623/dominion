@@ -1,0 +1,18 @@
+0
+13
+5
+5
+Gold 101
+Province 4
+Library 4
+Silver 11
+Silver 15
+Duchy 9
+Moneylender 1
+Library 2
+Duchy 8
+Estate 13
+Laboratory 10
+Province 9
+Workshop 8
+Library 6

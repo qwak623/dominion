@@ -1,0 +1,18 @@
+1
+17
+6
+5
+Silver 11
+Gold 101
+Duchy 12
+Woodcutter 4
+Smithy 11
+Smithy 14
+Chapel 10
+Smithy 4
+Woodcutter 9
+Copper 8
+Province 2
+Smithy 3
+Workshop 6
+Workshop 6

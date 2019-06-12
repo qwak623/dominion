@@ -1,0 +1,14 @@
+3
+13
+8
+4
+Gold 9
+Laboratory 103
+Province 12
+Silver 11
+Spy 9
+Duchy 5
+Chapel 5
+Duchy 10
+Laboratory 10
+Thief 5

@@ -1,0 +1,16 @@
+4
+13
+7
+6
+Province 5
+Adventurer 1
+Gold 100
+Silver 10
+Gardens 3
+Gardens 5
+Silver 11
+Duchy 6
+Feast 9
+Province 9
+Silver 11
+Laboratory 4

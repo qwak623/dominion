@@ -1,0 +1,14 @@
+2
+17
+6
+5
+Province 9
+Gold 101
+Gold 7
+Library 9
+Duchy 12
+Silver 11
+Festival 6
+Festival 12
+Bureaucrat 5
+Workshop 8

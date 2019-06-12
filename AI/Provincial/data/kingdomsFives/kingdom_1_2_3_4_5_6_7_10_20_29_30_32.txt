@@ -1,0 +1,14 @@
+5
+19
+15
+7
+Cellar 2
+Province 9
+Gold 8
+Witch 12
+Silver 13
+Duchy 9
+Militia 11
+Workshop 12
+Copper 7
+Province 7

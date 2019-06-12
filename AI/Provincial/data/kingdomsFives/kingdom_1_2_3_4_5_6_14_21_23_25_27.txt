@@ -1,0 +1,15 @@
+6
+13
+7
+6
+Gold 11
+Mine 2
+Gold 100
+Silver 15
+Thief 8
+Gold 4
+Copper 6
+Estate 10
+Gardens 7
+Smithy 11
+Duchy 11

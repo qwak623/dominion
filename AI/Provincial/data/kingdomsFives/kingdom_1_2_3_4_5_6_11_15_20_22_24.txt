@@ -1,0 +1,17 @@
+1
+8
+8
+6
+Province 7
+Gold 102
+Moat 1
+Province 4
+Silver 7
+Silver 11
+Militia 8
+Estate 4
+Chancellor 8
+Remodel 3
+Militia 5
+Duchy 11
+Militia 10

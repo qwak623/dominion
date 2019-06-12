@@ -1,0 +1,17 @@
+2
+11
+6
+6
+Gold 101
+Silver 13
+Gold 9
+Province 7
+Silver 2
+Festival 9
+Cellar 9
+Festival 9
+Estate 6
+CouncilRoom 7
+Duchy 7
+CouncilRoom 8
+Estate 7

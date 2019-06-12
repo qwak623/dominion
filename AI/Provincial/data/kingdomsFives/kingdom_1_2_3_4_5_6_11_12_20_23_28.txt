@@ -1,0 +1,18 @@
+6
+13
+8
+8
+Gold 101
+Province 7
+Province 8
+CouncilRoom 10
+CouncilRoom 4
+Silver 7
+Silver 13
+Duchy 8
+Moneylender 7
+Silver 10
+ThroneRoom 3
+Copper 11
+Feast 11
+Province 1

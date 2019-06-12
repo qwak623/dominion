@@ -1,0 +1,19 @@
+7
+9
+9
+8
+Province 2
+Witch 9
+Silver 1
+Duchy 7
+Silver 9
+Duchy 5
+Estate 8
+Silver 11
+Thief 2
+Gold 100
+Silver 8
+Chancellor 10
+Remodel 3
+Copper 3
+Thief 5

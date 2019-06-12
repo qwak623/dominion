@@ -1,0 +1,18 @@
+3
+11
+8
+8
+Gold 100
+Mine 8
+Silver 9
+Gold 5
+Laboratory 8
+Gold 5
+Province 8
+Duchy 5
+Silver 10
+Silver 12
+Copper 11
+Laboratory 2
+Duchy 7
+Festival 11

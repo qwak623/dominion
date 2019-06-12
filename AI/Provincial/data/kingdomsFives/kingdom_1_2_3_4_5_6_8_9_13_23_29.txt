@@ -1,0 +1,15 @@
+5
+12
+6
+6
+Gold 2
+Province 7
+Gold 103
+Province 11
+Festival 3
+Silver 11
+Moneylender 8
+Moneylender 5
+Bureaucrat 13
+Adventurer 13
+Adventurer 11

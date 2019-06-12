@@ -1,0 +1,13 @@
+6
+14
+5
+4
+Province 8
+Chapel 1
+Gold 102
+Silver 15
+Thief 11
+Smithy 10
+Duchy 11
+Silver 7
+Smithy 10

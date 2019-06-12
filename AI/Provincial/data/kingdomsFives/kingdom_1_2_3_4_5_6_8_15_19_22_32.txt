@@ -1,0 +1,14 @@
+0
+13
+5
+5
+Gold 15
+Adventurer 5
+Province 9
+Silver 13
+Moat 7
+Province 11
+Silver 5
+Workshop 2
+Moat 7
+Copper 9

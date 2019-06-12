@@ -1,0 +1,17 @@
+5
+12
+6
+5
+Gold 99
+Market 4
+Province 13
+Market 9
+Silver 10
+Silver 7
+Workshop 9
+Chapel 5
+Duchy 3
+Workshop 10
+Moneylender 8
+Gold 2
+Duchy 8

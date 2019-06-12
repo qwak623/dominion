@@ -1,0 +1,16 @@
+3
+15
+7
+7
+Province 12
+Gold 103
+Silver 4
+Smithy 2
+Gold 6
+Market 4
+Province 10
+Gold 6
+Province 11
+CouncilRoom 6
+Silver 11
+Silver 4

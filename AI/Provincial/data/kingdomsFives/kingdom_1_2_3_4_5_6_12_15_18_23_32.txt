@@ -1,0 +1,12 @@
+6
+16
+7
+6
+Province 8
+Gold 10
+Silver 11
+Chancellor 7
+Moneylender 5
+Copper 3
+Moneylender 8
+Duchy 7

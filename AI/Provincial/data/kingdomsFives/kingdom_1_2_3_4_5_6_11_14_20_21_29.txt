@@ -1,0 +1,20 @@
+4
+9
+7
+7
+Province 10
+Copper 1
+Mine 3
+Silver 10
+Gardens 8
+CouncilRoom 7
+Gold 6
+Militia 11
+Silver 11
+Gold 101
+Village 12
+Copper 3
+Estate 9
+Militia 9
+Estate 5
+Gold 7

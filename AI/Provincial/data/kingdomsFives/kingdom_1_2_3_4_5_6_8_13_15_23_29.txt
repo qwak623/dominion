@@ -1,0 +1,14 @@
+2
+14
+12
+7
+Gold 9
+Silver 11
+Festival 5
+Silver 10
+Festival 9
+Chancellor 11
+Province 7
+Copper 5
+Copper 7
+Estate 11

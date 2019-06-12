@@ -1,0 +1,13 @@
+1
+11
+8
+8
+Gold 7
+Militia 6
+Gold 103
+Silver 13
+Village 6
+Chancellor 4
+Silver 7
+Copper 13
+Copper 11

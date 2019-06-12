@@ -1,0 +1,13 @@
+6
+7
+8
+7
+Bureaucrat 5
+Gardens 11
+Duchy 7
+Bureaucrat 15
+Gold 103
+Gardens 4
+Feast 12
+Silver 12
+Village 5

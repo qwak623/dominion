@@ -1,0 +1,15 @@
+1
+8
+7
+7
+Province 4
+Province 5
+Gold 99
+Gold 5
+Mine 6
+Province 6
+Duchy 7
+CouncilRoom 4
+Silver 13
+Silver 2
+Chancellor 2

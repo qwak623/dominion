@@ -1,0 +1,16 @@
+6
+14
+6
+4
+CouncilRoom 1
+Province 4
+Gold 12
+Adventurer 6
+Adventurer 9
+Silver 14
+Copper 5
+Duchy 5
+Cellar 6
+Estate 3
+Gold 100
+Estate 7

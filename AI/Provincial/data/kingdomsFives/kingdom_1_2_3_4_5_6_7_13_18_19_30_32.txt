@@ -1,0 +1,16 @@
+1
+12
+8
+7
+Gold 7
+Witch 8
+Duchy 6
+Market 8
+Witch 11
+Silver 3
+Library 3
+Province 11
+Duchy 11
+Gold 101
+Silver 7
+Silver 12

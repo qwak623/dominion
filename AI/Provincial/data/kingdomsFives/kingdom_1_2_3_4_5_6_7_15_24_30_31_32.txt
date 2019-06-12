@@ -1,0 +1,14 @@
+7
+16
+6
+6
+Gold 103
+Silver 13
+Witch 7
+Copper 8
+Estate 7
+Woodcutter 7
+Remodel 14
+Workshop 6
+Silver 9
+Curse 5

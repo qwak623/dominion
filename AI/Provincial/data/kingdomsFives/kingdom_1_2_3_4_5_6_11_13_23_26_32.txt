@@ -1,0 +1,15 @@
+4
+13
+6
+4
+Gold 6
+CouncilRoom 11
+Province 9
+Silver 13
+Gold 99
+Moneylender 2
+Duchy 4
+Duchy 12
+Silver 11
+Festival 14
+Spy 9

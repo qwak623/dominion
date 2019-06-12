@@ -1,0 +1,13 @@
+6
+10
+13
+8
+Silver 8
+Duchy 7
+Duchy 8
+Gold 99
+Silver 14
+ThroneRoom 8
+Thief 10
+Estate 11
+Remodel 12

@@ -1,0 +1,20 @@
+0
+13
+8
+6
+Province 6
+Laboratory 8
+Silver 11
+Silver 8
+Mine 5
+Duchy 11
+Duchy 4
+Mine 4
+Smithy 10
+Smithy 3
+Thief 4
+Thief 7
+Province 7
+ThroneRoom 6
+Duchy 3
+ThroneRoom 102

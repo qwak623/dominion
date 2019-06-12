@@ -1,0 +1,14 @@
+0
+9
+6
+5
+Gold 102
+Province 7
+CouncilRoom 2
+Province 8
+Silver 13
+Adventurer 10
+Festival 9
+Estate 6
+Estate 10
+ThroneRoom 14

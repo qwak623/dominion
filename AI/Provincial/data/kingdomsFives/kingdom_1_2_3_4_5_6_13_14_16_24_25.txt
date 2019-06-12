@@ -1,0 +1,12 @@
+6
+15
+6
+5
+Gold 9
+Gold 3
+Silver 15
+Gold 14
+Chapel 8
+Province 9
+Duchy 12
+Copper 7

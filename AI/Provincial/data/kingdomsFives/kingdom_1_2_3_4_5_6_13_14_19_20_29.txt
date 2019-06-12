@@ -1,0 +1,15 @@
+1
+17
+14
+8
+Gardens 11
+Market 10
+Militia 7
+Festival 11
+Silver 10
+Gold 101
+Silver 8
+Copper 12
+Gold 9
+Estate 8
+Village 7

@@ -1,0 +1,17 @@
+4
+13
+18
+8
+Province 8
+Gardens 12
+Province 3
+Silver 3
+Market 7
+Smithy 3
+Silver 13
+Witch 8
+Silver 101
+Duchy 3
+Market 7
+Duchy 2
+Copper 11

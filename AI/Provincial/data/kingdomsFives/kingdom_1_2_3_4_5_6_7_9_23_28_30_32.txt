@@ -1,0 +1,15 @@
+4
+17
+8
+8
+Gold 101
+Witch 4
+Duchy 8
+Gold 8
+Silver 14
+Moneylender 5
+ThroneRoom 13
+Copper 8
+ThroneRoom 13
+Province 10
+Province 12

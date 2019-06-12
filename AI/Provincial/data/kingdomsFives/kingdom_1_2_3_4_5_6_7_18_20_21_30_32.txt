@@ -1,0 +1,23 @@
+2
+17
+6
+5
+Library 1
+Gold 9
+Witch 2
+Gold 8
+Silver 13
+Library 5
+Workshop 6
+Copper 6
+Copper 6
+Mine 7
+Militia 2
+Gold 99
+Library 3
+Library 10
+Workshop 2
+Duchy 10
+Curse 3
+Silver 6
+Silver 7

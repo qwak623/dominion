@@ -1,0 +1,18 @@
+2
+16
+8
+6
+Gold 104
+Mine 1
+Silver 11
+Gold 7
+Remodel 10
+Mine 9
+Duchy 9
+Laboratory 8
+Moneylender 9
+Mine 7
+Adventurer 12
+Duchy 10
+Silver 12
+Silver 8

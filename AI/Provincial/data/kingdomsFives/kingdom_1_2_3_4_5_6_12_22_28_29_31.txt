@@ -1,0 +1,18 @@
+2
+12
+8
+8
+Silver 9
+Duchy 8
+Province 4
+Gold 99
+Moat 9
+Village 4
+Gold 5
+Estate 8
+Estate 9
+Woodcutter 9
+Copper 9
+Silver 13
+Silver 7
+ThroneRoom 11

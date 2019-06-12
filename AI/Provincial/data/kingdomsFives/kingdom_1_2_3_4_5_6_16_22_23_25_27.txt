@@ -1,0 +1,17 @@
+5
+13
+6
+5
+Gold 3
+Province 2
+Gold 103
+Silver 11
+Gold 4
+Moat 3
+Province 12
+Smithy 8
+Moneylender 11
+Copper 1
+Silver 8
+Province 13
+Estate 5

@@ -1,0 +1,15 @@
+5
+15
+14
+5
+Gold 101
+Silver 8
+Smithy 11
+Copper 4
+Estate 6
+Estate 7
+Chancellor 7
+Thief 7
+Market 15
+ThroneRoom 7
+Province 3

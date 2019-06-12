@@ -1,0 +1,16 @@
+0
+16
+7
+7
+Gold 105
+Mine 2
+Silver 15
+Moat 6
+Chapel 7
+Province 8
+Silver 11
+Silver 5
+Copper 7
+Duchy 16
+Estate 6
+Province 5

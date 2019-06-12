@@ -1,0 +1,17 @@
+6
+4
+8
+5
+Bureaucrat 8
+Gardens 3
+Province 11
+Gardens 8
+Silver 5
+Duchy 4
+Adventurer 9
+Adventurer 6
+Estate 7
+Library 11
+Remodel 11
+Library 12
+Gold 99

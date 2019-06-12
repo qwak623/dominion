@@ -1,0 +1,20 @@
+2
+14
+8
+8
+Province 7
+Witch 8
+Witch 8
+Silver 3
+Gold 101
+Silver 11
+Feast 3
+Woodcutter 6
+Copper 9
+Silver 8
+Silver 6
+Curse 7
+Silver 11
+Gold 9
+Silver 7
+Smithy 4

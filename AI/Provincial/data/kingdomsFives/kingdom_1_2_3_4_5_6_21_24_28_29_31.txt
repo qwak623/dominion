@@ -1,0 +1,14 @@
+4
+8
+7
+3
+Woodcutter 1
+Province 9
+Gold 101
+Gold 10
+Silver 13
+Mine 13
+Duchy 7
+Woodcutter 4
+Silver 13
+ThroneRoom 5

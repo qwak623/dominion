@@ -1,0 +1,16 @@
+2
+16
+8
+4
+Gold 100
+Market 7
+Silver 12
+Remodel 3
+Adventurer 3
+Feast 12
+Adventurer 5
+Silver 13
+Militia 10
+Market 9
+Duchy 8
+Remodel 3

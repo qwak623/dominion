@@ -1,0 +1,18 @@
+5
+11
+8
+7
+Gold 9
+Witch 2
+Silver 11
+Workshop 3
+Copper 5
+Estate 11
+Duchy 5
+Feast 7
+Province 10
+Curse 2
+Gold 100
+Feast 5
+Village 2
+Witch 6

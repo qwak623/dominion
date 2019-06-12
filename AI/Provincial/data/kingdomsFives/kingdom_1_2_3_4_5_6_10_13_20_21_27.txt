@@ -1,0 +1,17 @@
+3
+14
+16
+8
+Gold 101
+Festival 7
+Militia 9
+Duchy 6
+Festival 7
+Mine 5
+Militia 8
+Gold 2
+Province 9
+Silver 13
+Thief 5
+Province 4
+Province 2

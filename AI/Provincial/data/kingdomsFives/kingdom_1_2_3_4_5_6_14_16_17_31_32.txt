@@ -1,0 +1,14 @@
+0
+12
+15
+8
+Duchy 5
+Gardens 8
+Workshop 12
+Estate 12
+Copper 11
+Laboratory 7
+Gold 7
+Copper 5
+Gold 104
+Chapel 1

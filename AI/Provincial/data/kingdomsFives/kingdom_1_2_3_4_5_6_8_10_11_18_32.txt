@@ -1,0 +1,17 @@
+2
+16
+7
+6
+Province 7
+Gold 6
+Library 9
+Silver 10
+Adventurer 10
+Workshop 9
+Silver 5
+Gold 100
+Cellar 10
+Adventurer 1
+Copper 8
+Silver 5
+Estate 5

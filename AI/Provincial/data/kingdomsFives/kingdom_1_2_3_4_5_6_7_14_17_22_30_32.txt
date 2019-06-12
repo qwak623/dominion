@@ -1,0 +1,22 @@
+0
+17
+12
+8
+Gardens 7
+Witch 9
+Gardens 9
+Silver 12
+Workshop 5
+Witch 6
+Moat 5
+Estate 9
+Province 11
+Workshop 12
+Silver 10
+Laboratory 6
+Witch 3
+Copper 6
+Province 9
+Gold 2
+Witch 9
+Gold 101

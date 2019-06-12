@@ -1,0 +1,16 @@
+2
+8
+5
+4
+Province 13
+Gold 5
+Silver 6
+Gold 101
+Gardens 6
+Silver 9
+CouncilRoom 5
+Silver 13
+Moat 6
+Copper 4
+Moat 14
+Gold 11

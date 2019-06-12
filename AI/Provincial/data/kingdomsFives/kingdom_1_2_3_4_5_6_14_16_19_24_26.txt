@@ -1,0 +1,17 @@
+5
+15
+8
+6
+Gold 8
+Silver 7
+Gardens 9
+Gardens 8
+Duchy 10
+Gold 6
+Silver 12
+Copper 2
+Remodel 6
+Spy 13
+Gardens 5
+Gardens 6
+Estate 13

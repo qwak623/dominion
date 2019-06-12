@@ -1,0 +1,12 @@
+6
+12
+8
+7
+Gold 12
+Province 14
+Witch 15
+Silver 12
+Woodcutter 11
+Chancellor 8
+Chancellor 7
+Smithy 5

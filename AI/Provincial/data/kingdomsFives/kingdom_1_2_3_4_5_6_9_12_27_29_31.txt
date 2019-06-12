@@ -1,0 +1,15 @@
+2
+15
+6
+5
+Gold 7
+Province 11
+Province 5
+Woodcutter 1
+Gold 100
+Silver 11
+Thief 11
+Feast 9
+Duchy 7
+Feast 1
+Silver 7

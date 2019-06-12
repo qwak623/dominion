@@ -1,0 +1,15 @@
+3
+12
+7
+4
+Province 6
+Thief 3
+Silver 14
+Smithy 7
+Silver 9
+Woodcutter 10
+Duchy 11
+Silver 10
+Workshop 7
+Remodel 4
+Copper 5

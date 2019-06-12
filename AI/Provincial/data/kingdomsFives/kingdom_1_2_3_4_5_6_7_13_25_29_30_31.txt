@@ -1,0 +1,17 @@
+0
+12
+8
+5
+Witch 2
+Duchy 9
+Silver 6
+Estate 8
+Province 3
+Silver 13
+Smithy 9
+Gold 101
+Province 9
+Village 11
+Smithy 8
+Estate 9
+Silver 12

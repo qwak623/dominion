@@ -1,0 +1,13 @@
+6
+13
+7
+3
+Gold 99
+Silver 15
+Copper 3
+Woodcutter 6
+Remodel 2
+Feast 1
+Copper 9
+Silver 9
+Village 14

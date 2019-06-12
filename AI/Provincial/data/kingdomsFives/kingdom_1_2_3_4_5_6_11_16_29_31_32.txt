@@ -1,0 +1,15 @@
+1
+14
+7
+3
+Province 5
+Gold 100
+Silver 10
+Silver 5
+Gold 3
+Chapel 3
+Village 11
+Woodcutter 5
+Copper 1
+Estate 9
+Workshop 11

@@ -1,0 +1,13 @@
+2
+14
+8
+7
+Gold 101
+Festival 4
+Gardens 8
+Province 7
+Silver 7
+Copper 13
+Silver 10
+Festival 12
+Estate 10

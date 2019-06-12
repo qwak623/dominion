@@ -1,0 +1,16 @@
+1
+6
+8
+8
+Province 12
+Gold 100
+Silver 3
+Militia 11
+Duchy 4
+Gold 10
+Moneylender 5
+Feast 6
+Silver 11
+Feast 7
+Workshop 7
+Workshop 5

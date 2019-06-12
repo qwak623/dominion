@@ -1,0 +1,16 @@
+6
+12
+8
+7
+Gold 103
+Gold 4
+Mine 11
+Province 7
+Gold 9
+Silver 13
+Gold 6
+Village 5
+Chapel 8
+Estate 11
+Silver 12
+Duchy 6

@@ -1,0 +1,15 @@
+4
+12
+6
+4
+Copper 1
+Province 9
+Gold 99
+Silver 13
+CouncilRoom 11
+Festival 7
+Chancellor 10
+Province 6
+CouncilRoom 13
+Duchy 11
+Copper 13

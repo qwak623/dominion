@@ -1,0 +1,19 @@
+0
+14
+8
+8
+Gold 6
+Bureaucrat 5
+Province 5
+Silver 11
+Silver 10
+Province 1
+Mine 4
+Moneylender 1
+Moneylender 12
+Mine 2
+Workshop 3
+Gold 99
+Province 7
+CouncilRoom 12
+Duchy 11

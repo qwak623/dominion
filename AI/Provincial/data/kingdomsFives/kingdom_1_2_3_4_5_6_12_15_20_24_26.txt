@@ -1,0 +1,16 @@
+6
+18
+12
+8
+Gold 102
+Militia 1
+Militia 7
+Province 12
+Silver 9
+Spy 3
+Silver 15
+Province 10
+Feast 8
+Province 9
+Spy 11
+Spy 6

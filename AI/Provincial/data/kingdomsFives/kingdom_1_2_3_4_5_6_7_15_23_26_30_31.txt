@@ -1,0 +1,14 @@
+2
+14
+8
+8
+Witch 9
+Duchy 6
+Silver 10
+Copper 7
+Curse 12
+Province 8
+Estate 11
+Spy 4
+Curse 11
+Chancellor 3

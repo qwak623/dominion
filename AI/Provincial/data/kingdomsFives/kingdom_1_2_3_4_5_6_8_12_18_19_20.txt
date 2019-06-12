@@ -1,0 +1,15 @@
+5
+10
+5
+3
+Province 14
+Gold 12
+Adventurer 6
+Province 4
+Library 2
+Silver 10
+Library 99
+Silver 7
+Militia 1
+Feast 8
+Market 7

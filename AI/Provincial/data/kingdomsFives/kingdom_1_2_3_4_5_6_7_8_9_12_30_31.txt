@@ -1,0 +1,13 @@
+6
+8
+8
+7
+Province 9
+Witch 3
+Gold 102
+Gold 12
+Silver 9
+Woodcutter 11
+Silver 10
+Province 5
+Bureaucrat 3

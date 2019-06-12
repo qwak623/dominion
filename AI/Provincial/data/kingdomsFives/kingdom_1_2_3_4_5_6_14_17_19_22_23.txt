@@ -1,0 +1,15 @@
+2
+3
+8
+8
+Silver 7
+Duchy 10
+Gardens 7
+Estate 12
+Gold 99
+Laboratory 13
+Gold 5
+Copper 13
+Moneylender 7
+Silver 12
+Province 13

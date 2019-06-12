@@ -1,0 +1,17 @@
+5
+11
+5
+3
+Province 2
+Province 8
+Gold 12
+Laboratory 4
+Silver 10
+Duchy 6
+Smithy 6
+Smithy 3
+Gardens 9
+Gardens 7
+Gold 99
+Remodel 11
+Gold 8

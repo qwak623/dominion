@@ -1,0 +1,17 @@
+7
+10
+8
+7
+Province 6
+Gold 4
+Witch 3
+Silver 10
+Duchy 7
+Duchy 3
+Chancellor 11
+Smithy 102
+Silver 5
+Silver 3
+Province 6
+Copper 10
+Curse 5

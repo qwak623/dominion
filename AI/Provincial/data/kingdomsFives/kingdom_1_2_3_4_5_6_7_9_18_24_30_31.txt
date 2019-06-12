@@ -1,0 +1,16 @@
+4
+11
+8
+8
+Province 14
+Witch 4
+Province 7
+Duchy 7
+Silver 11
+Silver 100
+Woodcutter 11
+Witch 5
+Woodcutter 8
+Silver 9
+Remodel 6
+Library 3

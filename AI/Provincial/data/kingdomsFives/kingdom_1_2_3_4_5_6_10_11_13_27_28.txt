@@ -1,0 +1,15 @@
+5
+16
+6
+5
+Gold 11
+Silver 8
+CouncilRoom 4
+Silver 11
+Silver 8
+Province 5
+ThroneRoom 3
+Gold 101
+Silver 12
+Cellar 2
+Estate 3

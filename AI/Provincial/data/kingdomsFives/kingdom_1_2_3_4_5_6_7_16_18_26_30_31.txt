@@ -1,0 +1,14 @@
+7
+14
+7
+7
+Witch 2
+Province 12
+Chapel 1
+Copper 2
+Gold 100
+Silver 10
+Woodcutter 11
+Silver 8
+Copper 6
+Library 10

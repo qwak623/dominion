@@ -1,0 +1,13 @@
+1
+16
+8
+8
+Gold 5
+Gold 99
+Witch 4
+Silver 12
+Silver 8
+Witch 12
+Feast 7
+Bureaucrat 6
+Gardens 6

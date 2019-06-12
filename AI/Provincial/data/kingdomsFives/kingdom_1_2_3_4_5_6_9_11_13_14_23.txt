@@ -1,0 +1,11 @@
+5
+11
+7
+7
+Province 13
+Silver 11
+Gardens 13
+Duchy 10
+Estate 12
+Silver 14
+Gold 105

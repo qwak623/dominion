@@ -1,0 +1,16 @@
+5
+13
+8
+7
+Mine 5
+Gold 102
+Silver 9
+Duchy 5
+Province 14
+Silver 11
+Cellar 13
+Estate 8
+Village 4
+Copper 7
+Village 3
+Village 4

@@ -1,0 +1,16 @@
+2
+10
+7
+7
+Province 8
+Gold 103
+Silver 13
+Adventurer 9
+Spy 8
+Silver 4
+Duchy 8
+Moat 6
+Spy 4
+Silver 15
+Estate 5
+Moat 7

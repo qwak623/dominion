@@ -1,0 +1,19 @@
+5
+12
+6
+6
+Province 5
+Gold 100
+Library 6
+Silver 5
+Silver 11
+Duchy 7
+Bureaucrat 7
+Copper 3
+Estate 1
+Feast 11
+Silver 13
+Bureaucrat 9
+Bureaucrat 3
+Copper 2
+Market 4

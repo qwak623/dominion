@@ -1,0 +1,14 @@
+3
+14
+8
+8
+Gold 102
+Laboratory 8
+Militia 8
+Silver 11
+Copper 11
+Duchy 7
+Province 12
+Workshop 5
+Festival 9
+Duchy 9

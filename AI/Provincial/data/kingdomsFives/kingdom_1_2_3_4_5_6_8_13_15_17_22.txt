@@ -1,0 +1,17 @@
+0
+6
+6
+5
+Province 10
+Gold 99
+Gold 10
+Silver 7
+Silver 9
+Moat 6
+Laboratory 11
+Copper 5
+Moat 4
+Adventurer 8
+Adventurer 5
+Chancellor 8
+Chancellor 4

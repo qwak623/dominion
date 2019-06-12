@@ -1,0 +1,14 @@
+1
+16
+8
+6
+Silver 6
+Gold 10
+Library 100
+Province 5
+Silver 12
+Library 11
+Militia 10
+Copper 13
+Moneylender 9
+Estate 9

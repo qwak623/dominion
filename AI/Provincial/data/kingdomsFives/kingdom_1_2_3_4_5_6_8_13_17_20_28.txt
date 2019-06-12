@@ -1,0 +1,19 @@
+1
+11
+13
+8
+Gold 101
+Gold 5
+Militia 7
+Festival 4
+Gold 2
+Province 11
+Silver 11
+Silver 3
+Adventurer 6
+Copper 6
+Militia 9
+Estate 7
+Estate 6
+ThroneRoom 11
+Duchy 4

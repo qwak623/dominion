@@ -1,0 +1,16 @@
+7
+17
+8
+7
+Witch 11
+Duchy 10
+Silver 10
+Gold 11
+Estate 9
+Village 3
+Witch 9
+Woodcutter 7
+Estate 5
+Gold 12
+Gold 100
+Witch 12

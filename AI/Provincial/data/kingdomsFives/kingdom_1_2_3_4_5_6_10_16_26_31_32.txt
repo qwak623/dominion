@@ -1,0 +1,12 @@
+0
+9
+16
+8
+Province 7
+Province 9
+Gold 12
+Silver 16
+Gold 9
+Silver 3
+Woodcutter 6
+Cellar 7

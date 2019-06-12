@@ -1,0 +1,16 @@
+2
+12
+6
+4
+Gold 2
+Gold 102
+Silver 4
+Market 9
+Silver 11
+Silver 2
+Copper 5
+Province 11
+Workshop 1
+Province 12
+Estate 5
+Mine 4

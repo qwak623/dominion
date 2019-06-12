@@ -1,0 +1,14 @@
+5
+14
+7
+6
+Gold 101
+Silver 13
+Gold 6
+Province 8
+Gardens 9
+Spy 7
+CouncilRoom 6
+Feast 12
+Silver 2
+Feast 10

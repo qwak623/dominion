@@ -1,0 +1,16 @@
+7
+14
+7
+7
+Chapel 1
+Gold 9
+Silver 10
+Silver 10
+Workshop 7
+Cellar 9
+Chapel 7
+Estate 5
+Province 11
+Copper 9
+Silver 7
+Gold 103

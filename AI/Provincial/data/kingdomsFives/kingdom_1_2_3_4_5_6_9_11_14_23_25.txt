@@ -1,0 +1,17 @@
+1
+9
+8
+8
+Gardens 9
+Duchy 6
+Silver 11
+Copper 7
+Duchy 8
+Estate 6
+Gardens 4
+Gold 7
+CouncilRoom 8
+Gold 99
+Smithy 11
+Silver 10
+Moneylender 1

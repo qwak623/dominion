@@ -1,0 +1,15 @@
+2
+15
+8
+8
+Gold 106
+Gold 10
+Market 5
+Duchy 11
+Market 10
+Silver 11
+Silver 11
+Cellar 7
+Moneylender 4
+Estate 5
+Province 6

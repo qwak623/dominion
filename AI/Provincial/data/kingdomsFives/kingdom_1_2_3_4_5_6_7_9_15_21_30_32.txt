@@ -1,0 +1,15 @@
+6
+16
+8
+8
+Witch 3
+Gold 6
+Silver 8
+Silver 12
+Mine 10
+Copper 8
+Gold 99
+Estate 10
+Workshop 12
+Curse 5
+Province 9

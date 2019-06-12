@@ -1,0 +1,12 @@
+4
+16
+12
+6
+Gold 12
+Gold 101
+Market 12
+Province 12
+Province 1
+Bureaucrat 4
+Market 9
+Silver 12

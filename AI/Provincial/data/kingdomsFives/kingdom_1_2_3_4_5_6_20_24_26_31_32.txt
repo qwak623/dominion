@@ -1,0 +1,13 @@
+4
+12
+13
+8
+Militia 5
+Province 10
+Gold 101
+Silver 13
+Duchy 7
+Woodcutter 11
+Copper 9
+Estate 7
+Workshop 9

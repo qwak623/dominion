@@ -1,0 +1,14 @@
+6
+16
+7
+7
+Gold 103
+Mine 2
+Silver 12
+Silver 7
+Duchy 11
+Chancellor 2
+Militia 12
+Militia 8
+Adventurer 17
+Gold 10

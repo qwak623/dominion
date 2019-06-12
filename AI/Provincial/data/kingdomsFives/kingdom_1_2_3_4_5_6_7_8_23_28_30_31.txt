@@ -1,0 +1,14 @@
+6
+13
+8
+8
+Province 15
+Witch 7
+Duchy 100
+Gold 8
+Silver 16
+Duchy 5
+ThroneRoom 3
+Woodcutter 7
+Adventurer 10
+Moneylender 1

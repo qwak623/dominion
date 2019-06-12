@@ -1,0 +1,15 @@
+4
+10
+6
+6
+Province 7
+Gold 7
+Gold 2
+Gold 100
+Silver 8
+Workshop 1
+Copper 7
+Gardens 4
+Estate 2
+Silver 11
+Duchy 2

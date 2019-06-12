@@ -1,0 +1,15 @@
+5
+12
+8
+6
+Bureaucrat 3
+Village 1
+Province 6
+Gold 102
+Province 13
+Province 11
+CouncilRoom 5
+Duchy 7
+Silver 14
+CouncilRoom 2
+Village 12

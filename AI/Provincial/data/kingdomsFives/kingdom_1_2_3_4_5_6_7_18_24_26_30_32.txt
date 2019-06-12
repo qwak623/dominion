@@ -1,0 +1,15 @@
+5
+10
+8
+8
+Witch 2
+Silver 11
+Duchy 5
+Estate 10
+Remodel 9
+Library 5
+Gold 100
+Workshop 3
+Remodel 11
+Gold 9
+Silver 3

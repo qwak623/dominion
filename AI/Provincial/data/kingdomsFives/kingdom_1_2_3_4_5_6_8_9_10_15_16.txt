@@ -1,0 +1,11 @@
+3
+13
+8
+8
+Gold 5
+Bureaucrat 5
+Duchy 101
+Silver 13
+Cellar 9
+Estate 11
+Chancellor 8

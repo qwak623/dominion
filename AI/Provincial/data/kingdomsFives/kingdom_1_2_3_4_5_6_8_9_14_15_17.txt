@@ -1,0 +1,16 @@
+2
+16
+8
+8
+Bureaucrat 8
+Gardens 10
+Province 4
+Duchy 5
+Adventurer 9
+Laboratory 6
+Silver 6
+Duchy 6
+Gold 5
+Silver 11
+Adventurer 12
+Copper 6

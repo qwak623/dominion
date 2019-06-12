@@ -1,0 +1,16 @@
+1
+22
+15
+7
+Gold 8
+Silver 11
+Gold 7
+Duchy 2
+Silver 8
+Moat 10
+ThroneRoom 12
+Gold 101
+Moat 8
+Province 12
+Thief 8
+Remodel 7

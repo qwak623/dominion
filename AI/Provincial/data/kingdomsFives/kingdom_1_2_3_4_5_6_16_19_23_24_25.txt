@@ -1,0 +1,20 @@
+5
+11
+15
+5
+Gold 9
+Silver 11
+Copper 3
+Remodel 4
+Province 8
+Gold 3
+Silver 10
+Duchy 9
+Moneylender 8
+Gold 99
+Remodel 6
+Duchy 7
+Remodel 12
+Moneylender 4
+Market 11
+Gold 9

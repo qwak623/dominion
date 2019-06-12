@@ -1,0 +1,17 @@
+0
+13
+7
+3
+Gold 5
+Gold 100
+Silver 7
+CouncilRoom 9
+Silver 12
+CouncilRoom 6
+Feast 13
+Woodcutter 2
+Chapel 3
+Province 9
+Workshop 11
+Gold 2
+Estate 9

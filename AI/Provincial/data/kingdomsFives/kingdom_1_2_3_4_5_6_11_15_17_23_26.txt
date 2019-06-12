@@ -1,0 +1,17 @@
+4
+17
+7
+7
+Gold 100
+CouncilRoom 6
+Silver 10
+Laboratory 11
+Spy 8
+Copper 9
+Province 12
+Moneylender 2
+CouncilRoom 7
+CouncilRoom 2
+Silver 6
+Silver 10
+Estate 10

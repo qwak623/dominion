@@ -1,0 +1,15 @@
+3
+20
+12
+8
+Gardens 9
+Gold 12
+Province 7
+Silver 7
+Gold 102
+Gardens 5
+Estate 10
+Duchy 8
+Copper 7
+Silver 12
+Market 3

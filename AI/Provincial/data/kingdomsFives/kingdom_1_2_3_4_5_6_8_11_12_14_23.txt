@@ -1,0 +1,15 @@
+1
+16
+6
+5
+Gold 16
+Gold 101
+CouncilRoom 10
+Silver 11
+Copper 9
+Gold 7
+Estate 11
+Silver 4
+Gardens 9
+Feast 6
+Moneylender 4

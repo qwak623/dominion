@@ -1,0 +1,17 @@
+5
+13
+8
+8
+Witch 10
+Duchy 5
+Mine 10
+Festival 4
+Gold 8
+Province 6
+Silver 6
+Estate 12
+Copper 5
+Copper 102
+Copper 2
+Silver 12
+Copper 1

@@ -1,0 +1,15 @@
+5
+15
+8
+6
+Gold 9
+Library 4
+Silver 9
+Spy 10
+Province 5
+Gold 101
+Province 10
+Smithy 8
+Remodel 10
+Silver 14
+Library 8

@@ -1,0 +1,15 @@
+7
+11
+8
+4
+Bureaucrat 5
+Gardens 6
+Gold 100
+Province 12
+Silver 10
+Silver 10
+Moneylender 9
+Province 5
+Militia 8
+Silver 11
+Copper 7

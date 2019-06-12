@@ -1,0 +1,17 @@
+1
+8
+6
+4
+Province 5
+Province 9
+Remodel 1
+Gold 101
+Silver 13
+Smithy 7
+Smithy 9
+Province 2
+Copper 12
+Estate 10
+Copper 8
+Bureaucrat 6
+Duchy 4

@@ -1,0 +1,17 @@
+5
+16
+8
+8
+Witch 13
+Silver 4
+Silver 12
+Witch 7
+Woodcutter 11
+Laboratory 1
+Silver 5
+Gold 3
+Copper 5
+Estate 10
+Copper 99
+Bureaucrat 6
+Curse 6

@@ -1,0 +1,19 @@
+3
+16
+8
+7
+Gold 9
+Silver 14
+Gold 102
+Woodcutter 10
+Duchy 6
+Copper 8
+Workshop 2
+Duchy 5
+Copper 4
+Workshop 2
+Market 4
+Village 7
+Workshop 8
+Province 6
+Woodcutter 12

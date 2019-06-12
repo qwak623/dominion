@@ -1,0 +1,15 @@
+7
+13
+8
+7
+Gold 17
+Adventurer 9
+Silver 6
+Gold 101
+Silver 12
+Adventurer 11
+Gold 7
+Market 13
+Duchy 9
+Province 8
+Village 7

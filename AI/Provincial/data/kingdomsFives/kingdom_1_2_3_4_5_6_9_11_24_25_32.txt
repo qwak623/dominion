@@ -1,0 +1,15 @@
+2
+12
+7
+6
+Gold 8
+Province 3
+Gold 101
+Gold 2
+Silver 12
+Smithy 5
+Copper 12
+Province 7
+Silver 11
+Workshop 7
+Province 13

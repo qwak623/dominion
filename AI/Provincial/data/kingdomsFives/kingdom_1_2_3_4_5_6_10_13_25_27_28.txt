@@ -1,0 +1,16 @@
+5
+16
+8
+8
+Festival 10
+Gold 8
+Smithy 7
+Silver 13
+Province 9
+Gold 105
+Cellar 8
+Smithy 2
+Estate 13
+Cellar 9
+Silver 13
+Province 6

@@ -1,0 +1,16 @@
+6
+11
+6
+6
+Adventurer 1
+Province 8
+Gold 11
+Laboratory 11
+Silver 10
+Cellar 5
+Gold 101
+Gardens 9
+CouncilRoom 6
+Copper 3
+Cellar 7
+Gardens 2

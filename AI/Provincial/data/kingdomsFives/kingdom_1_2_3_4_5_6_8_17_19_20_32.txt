@@ -1,0 +1,14 @@
+2
+21
+8
+8
+Adventurer 11
+Province 11
+Silver 8
+Laboratory 3
+Duchy 5
+Silver 11
+Silver 12
+Militia 11
+Laboratory 7
+Duchy 6

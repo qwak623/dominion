@@ -1,0 +1,15 @@
+3
+15
+7
+7
+Gold 99
+Province 14
+Mine 2
+Market 3
+Mine 3
+Silver 11
+Gardens 2
+Gardens 7
+Gold 6
+Copper 11
+Silver 6

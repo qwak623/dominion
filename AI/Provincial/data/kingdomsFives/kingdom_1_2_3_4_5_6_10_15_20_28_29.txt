@@ -1,0 +1,16 @@
+2
+7
+10
+8
+Militia 11
+Duchy 11
+Cellar 1
+Silver 4
+Duchy 10
+Gold 9
+Province 10
+Chancellor 5
+Village 2
+Village 9
+Gold 103
+Copper 2

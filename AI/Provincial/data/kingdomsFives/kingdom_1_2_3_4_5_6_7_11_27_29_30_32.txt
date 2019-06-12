@@ -1,0 +1,16 @@
+3
+13
+8
+8
+Gold 101
+Witch 6
+Silver 11
+Silver 4
+Gold 9
+Copper 3
+Village 1
+Estate 11
+Estate 12
+CouncilRoom 10
+Province 12
+Duchy 6

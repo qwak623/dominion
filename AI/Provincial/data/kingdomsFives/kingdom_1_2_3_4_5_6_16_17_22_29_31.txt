@@ -1,0 +1,16 @@
+7
+14
+6
+6
+Gold 101
+Province 5
+Gold 10
+Silver 8
+Silver 4
+Duchy 8
+Chapel 5
+Silver 14
+Village 3
+Woodcutter 7
+Province 7
+Copper 10

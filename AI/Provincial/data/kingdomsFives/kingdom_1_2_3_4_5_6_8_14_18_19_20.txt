@@ -1,0 +1,19 @@
+2
+11
+8
+7
+Militia 3
+Silver 2
+Province 9
+Gold 101
+Gardens 12
+Silver 13
+Library 7
+Copper 4
+Silver 2
+Adventurer 5
+Duchy 8
+Silver 9
+Copper 8
+Province 7
+Market 8

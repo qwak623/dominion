@@ -1,0 +1,16 @@
+2
+10
+8
+8
+Spy 1
+Gold 102
+Province 9
+Silver 11
+Duchy 7
+Silver 14
+ThroneRoom 3
+Silver 10
+Duchy 6
+Woodcutter 2
+Remodel 9
+Copper 13

@@ -1,0 +1,20 @@
+7
+11
+6
+3
+Gold 100
+Gold 6
+Silver 10
+Silver 4
+Province 9
+Adventurer 9
+Remodel 6
+Moat 7
+Copper 8
+Estate 5
+Adventurer 4
+Province 5
+Chapel 6
+Moneylender 6
+Gold 2
+Silver 11

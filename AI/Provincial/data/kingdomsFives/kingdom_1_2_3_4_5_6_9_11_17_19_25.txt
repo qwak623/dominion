@@ -1,0 +1,17 @@
+2
+13
+7
+6
+Gold 8
+Laboratory 6
+Province 8
+Bureaucrat 6
+Duchy 5
+Smithy 3
+Smithy 3
+Silver 5
+Copper 3
+CouncilRoom 5
+Silver 10
+Gold 101
+CouncilRoom 6

@@ -1,0 +1,13 @@
+5
+13
+7
+3
+Gold 101
+Silver 13
+Moat 4
+Cellar 4
+CouncilRoom 9
+Chapel 6
+Moat 10
+Province 5
+Silver 7

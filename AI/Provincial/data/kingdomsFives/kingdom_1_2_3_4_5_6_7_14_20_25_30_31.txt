@@ -1,0 +1,15 @@
+5
+14
+8
+7
+Witch 4
+Gardens 13
+Silver 10
+Estate 13
+Militia 8
+Copper 8
+Duchy 9
+Gold 10
+Silver 14
+Province 2
+Duchy 101

@@ -1,0 +1,15 @@
+7
+11
+7
+3
+Province 6
+Gold 100
+Silver 14
+Silver 14
+Duchy 8
+Moneylender 11
+Moneylender 10
+Chapel 12
+Copper 13
+Province 13
+Gold 9

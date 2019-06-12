@@ -1,0 +1,15 @@
+2
+12
+6
+5
+Gold 99
+Laboratory 8
+Market 7
+Bureaucrat 8
+Province 3
+Silver 12
+Bureaucrat 11
+Duchy 13
+Gold 9
+Duchy 6
+Smithy 7

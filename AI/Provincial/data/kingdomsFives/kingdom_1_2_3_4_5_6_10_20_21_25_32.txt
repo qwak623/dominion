@@ -1,0 +1,17 @@
+6
+15
+14
+8
+Gold 101
+Province 2
+Militia 7
+Silver 8
+Silver 6
+Copper 6
+Workshop 4
+Militia 8
+Gold 6
+Silver 13
+Militia 6
+Smithy 7
+Cellar 9

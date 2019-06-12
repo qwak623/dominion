@@ -1,0 +1,17 @@
+3
+8
+6
+6
+Province 11
+Silver 5
+Gold 101
+Smithy 7
+Silver 13
+Duchy 11
+Cellar 7
+CouncilRoom 5
+Province 3
+Smithy 1
+Gold 6
+Estate 5
+Copper 4

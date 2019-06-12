@@ -1,0 +1,18 @@
+5
+14
+5
+5
+Gold 101
+Silver 11
+Province 6
+Silver 5
+Market 10
+Gold 11
+Province 4
+Bureaucrat 2
+Chapel 1
+Gold 4
+Copper 12
+Estate 9
+Thief 15
+Silver 5

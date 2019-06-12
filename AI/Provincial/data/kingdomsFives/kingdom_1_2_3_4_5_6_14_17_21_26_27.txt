@@ -1,0 +1,15 @@
+5
+11
+6
+6
+Silver 10
+Gold 2
+Gardens 12
+Province 5
+Laboratory 5
+Copper 4
+Spy 12
+Estate 9
+Mine 6
+Gardens 4
+Silver 3

@@ -1,0 +1,13 @@
+3
+8
+7
+4
+Bureaucrat 2
+Province 15
+Gold 104
+Silver 12
+Moat 3
+Bureaucrat 1
+Copper 9
+Cellar 3
+Province 8

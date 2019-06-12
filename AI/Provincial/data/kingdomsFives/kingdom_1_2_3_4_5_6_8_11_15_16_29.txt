@@ -1,0 +1,17 @@
+6
+17
+12
+5
+Gold 5
+CouncilRoom 3
+Silver 11
+Copper 4
+Chancellor 1
+Gold 101
+Estate 8
+Copper 8
+CouncilRoom 6
+Duchy 10
+Silver 3
+Village 4
+Estate 7

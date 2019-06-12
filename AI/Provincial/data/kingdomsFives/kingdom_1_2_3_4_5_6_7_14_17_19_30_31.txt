@@ -1,0 +1,17 @@
+6
+10
+18
+6
+Province 2
+Gardens 4
+Gardens 8
+Province 4
+Woodcutter 11
+Silver 13
+Duchy 8
+Copper 11
+Gold 4
+Witch 3
+Estate 12
+Duchy 12
+Witch 1

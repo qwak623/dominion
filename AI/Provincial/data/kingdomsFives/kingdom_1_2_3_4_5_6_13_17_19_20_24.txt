@@ -1,0 +1,18 @@
+2
+11
+8
+6
+Gold 102
+Gold 2
+Laboratory 10
+Militia 10
+Silver 9
+Copper 9
+Market 7
+Estate 6
+Duchy 9
+Silver 11
+Remodel 10
+Duchy 4
+Militia 6
+Duchy 10

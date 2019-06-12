@@ -1,0 +1,16 @@
+0
+20
+8
+8
+Silver 11
+Gardens 10
+Gold 5
+Silver 4
+Thief 7
+Copper 9
+Estate 9
+Market 9
+Chapel 11
+Gold 6
+Curse 2
+Market 8

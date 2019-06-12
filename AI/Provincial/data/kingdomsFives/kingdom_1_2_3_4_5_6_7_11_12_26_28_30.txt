@@ -1,0 +1,18 @@
+3
+14
+8
+8
+Witch 4
+Gold 6
+Silver 13
+Silver 10
+Gold 101
+Spy 4
+Silver 14
+Feast 7
+Duchy 8
+Spy 13
+Gold 4
+ThroneRoom 6
+ThroneRoom 5
+Feast 3

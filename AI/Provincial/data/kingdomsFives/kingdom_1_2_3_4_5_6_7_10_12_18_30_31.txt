@@ -1,0 +1,16 @@
+4
+12
+8
+7
+Gold 102
+Province 5
+Province 12
+Gold 6
+Witch 2
+Silver 11
+Duchy 9
+Woodcutter 3
+Feast 2
+Silver 5
+Library 6
+Gold 9

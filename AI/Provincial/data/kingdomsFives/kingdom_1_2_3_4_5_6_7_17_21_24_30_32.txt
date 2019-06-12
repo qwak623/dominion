@@ -1,0 +1,19 @@
+0
+9
+8
+8
+Gold 8
+Witch 3
+Silver 6
+Duchy 14
+Silver 11
+Workshop 2
+Witch 11
+Gold 100
+Copper 3
+Curse 4
+Curse 11
+Province 10
+Witch 3
+Copper 4
+Laboratory 2

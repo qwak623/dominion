@@ -1,0 +1,16 @@
+1
+10
+7
+6
+Gold 5
+Province 12
+Silver 15
+Mine 12
+Gold 102
+Duchy 10
+Moat 6
+Market 3
+Cellar 11
+Copper 3
+Silver 9
+Province 3

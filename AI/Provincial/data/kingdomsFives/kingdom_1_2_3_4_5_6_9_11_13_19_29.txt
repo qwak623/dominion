@@ -1,0 +1,17 @@
+4
+19
+8
+8
+Gold 101
+Silver 13
+Market 6
+Copper 11
+Province 5
+Gold 10
+Duchy 9
+Gold 12
+Province 10
+Village 12
+Copper 5
+Estate 2
+CouncilRoom 3

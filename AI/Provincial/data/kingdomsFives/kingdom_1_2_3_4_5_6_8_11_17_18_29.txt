@@ -1,0 +1,14 @@
+6
+12
+6
+5
+Gold 6
+CouncilRoom 12
+Silver 15
+Province 5
+Duchy 8
+Adventurer 15
+Library 6
+Village 14
+Adventurer 4
+Laboratory 9

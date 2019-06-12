@@ -1,0 +1,13 @@
+6
+13
+6
+6
+Gold 11
+CouncilRoom 3
+Silver 11
+Village 8
+Moneylender 13
+Province 14
+Gold 101
+Province 5
+Silver 14

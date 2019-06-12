@@ -1,0 +1,17 @@
+2
+8
+6
+6
+Estate 1
+Silver 6
+Province 7
+Gold 99
+Smithy 5
+Silver 12
+Woodcutter 8
+Village 12
+ThroneRoom 5
+Workshop 7
+Province 6
+Gold 11
+Workshop 7

@@ -1,0 +1,15 @@
+1
+11
+8
+5
+Gold 101
+Silver 14
+Province 11
+Copper 4
+Remodel 10
+Estate 7
+Village 10
+Province 10
+Village 8
+Silver 9
+Duchy 10

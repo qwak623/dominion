@@ -1,0 +1,18 @@
+1
+8
+9
+8
+Gold 99
+Province 9
+Province 7
+Laboratory 2
+Silver 9
+Gardens 2
+Gardens 5
+Duchy 3
+Festival 8
+Moneylender 4
+Duchy 6
+Silver 12
+Village 10
+Duchy 5

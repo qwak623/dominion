@@ -1,0 +1,17 @@
+3
+9
+8
+8
+Witch 6
+Duchy 11
+Silver 6
+Feast 1
+Province 4
+Remodel 7
+Silver 10
+Copper 5
+Estate 6
+Woodcutter 10
+Witch 2
+Gold 100
+Moat 8

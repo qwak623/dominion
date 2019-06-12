@@ -1,0 +1,16 @@
+5
+16
+6
+4
+Gold 101
+Silver 11
+Chancellor 9
+Laboratory 12
+Laboratory 5
+Moat 11
+Province 9
+Cellar 7
+Chancellor 14
+Estate 8
+Gold 10
+Spy 9

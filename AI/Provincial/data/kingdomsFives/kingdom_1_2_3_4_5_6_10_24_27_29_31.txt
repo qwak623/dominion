@@ -1,0 +1,13 @@
+1
+19
+6
+6
+Gold 5
+Gold 99
+Silver 11
+Cellar 8
+Village 6
+Province 6
+Copper 5
+Thief 2
+Silver 11

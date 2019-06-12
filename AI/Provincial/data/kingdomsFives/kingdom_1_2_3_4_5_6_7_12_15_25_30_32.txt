@@ -1,0 +1,14 @@
+2
+22
+8
+8
+Gold 99
+Witch 2
+Silver 14
+Copper 6
+Curse 8
+Chancellor 13
+Workshop 2
+Workshop 9
+Gold 6
+Silver 14

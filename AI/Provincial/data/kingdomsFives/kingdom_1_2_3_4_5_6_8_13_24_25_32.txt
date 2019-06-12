@@ -1,0 +1,15 @@
+6
+9
+6
+4
+Gold 103
+Festival 4
+Smithy 3
+Gold 5
+Silver 13
+Gold 4
+Remodel 9
+Remodel 12
+Remodel 4
+Adventurer 6
+Province 13

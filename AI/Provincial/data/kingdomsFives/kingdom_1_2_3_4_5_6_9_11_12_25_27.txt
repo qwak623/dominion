@@ -1,0 +1,17 @@
+0
+17
+8
+8
+Bureaucrat 4
+Gold 102
+Province 4
+Silver 9
+Thief 9
+Smithy 7
+Bureaucrat 4
+Feast 2
+Duchy 7
+Province 6
+Bureaucrat 1
+Silver 11
+Feast 11

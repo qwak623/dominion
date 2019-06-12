@@ -1,0 +1,18 @@
+6
+10
+6
+6
+Gold 5
+Silver 4
+Smithy 2
+Gold 102
+Silver 10
+Duchy 6
+Cellar 5
+Spy 7
+Silver 12
+Cellar 8
+Estate 2
+Province 10
+Duchy 12
+Copper 7

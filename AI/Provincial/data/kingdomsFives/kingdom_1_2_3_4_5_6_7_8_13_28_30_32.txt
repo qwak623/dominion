@@ -1,0 +1,16 @@
+4
+9
+8
+8
+Province 6
+Province 2
+Gold 12
+Witch 10
+Duchy 8
+Silver 11
+ThroneRoom 10
+ThroneRoom 10
+Silver 11
+Festival 10
+Gold 102
+Workshop 11

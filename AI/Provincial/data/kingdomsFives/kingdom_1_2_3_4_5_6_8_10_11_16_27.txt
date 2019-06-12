@@ -1,0 +1,16 @@
+0
+12
+15
+6
+Duchy 11
+Gold 99
+CouncilRoom 3
+Silver 9
+Silver 11
+CouncilRoom 4
+Cellar 5
+CouncilRoom 7
+Silver 9
+Thief 8
+Copper 10
+Province 2

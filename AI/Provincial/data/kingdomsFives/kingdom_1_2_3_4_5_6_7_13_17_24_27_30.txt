@@ -1,0 +1,17 @@
+5
+16
+8
+7
+Gold 7
+Province 6
+Witch 12
+Silver 14
+Copper 2
+Thief 6
+Remodel 8
+Gold 7
+Festival 5
+Silver 8
+Witch 9
+Estate 5
+Gold 101

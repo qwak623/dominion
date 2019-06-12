@@ -1,0 +1,16 @@
+1
+14
+6
+6
+Gold 4
+Thief 4
+Gold 4
+Gold 6
+Silver 11
+Silver 13
+Gold 100
+Copper 3
+Silver 4
+Province 10
+Moneylender 9
+ThroneRoom 4

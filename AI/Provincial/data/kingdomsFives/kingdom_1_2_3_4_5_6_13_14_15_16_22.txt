@@ -1,0 +1,17 @@
+5
+11
+8
+8
+Festival 11
+Gardens 6
+Province 7
+Gold 101
+Gardens 8
+Silver 8
+Copper 7
+Copper 12
+Estate 4
+Chapel 4
+Moat 4
+Chancellor 12
+Chapel 8

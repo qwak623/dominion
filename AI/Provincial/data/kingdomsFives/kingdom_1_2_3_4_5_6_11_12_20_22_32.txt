@@ -1,0 +1,17 @@
+0
+14
+7
+6
+Gold 5
+Gold 99
+Gold 3
+Province 5
+Silver 9
+CouncilRoom 16
+Duchy 8
+Moat 6
+Feast 3
+Moat 11
+CouncilRoom 6
+Gold 2
+Estate 3

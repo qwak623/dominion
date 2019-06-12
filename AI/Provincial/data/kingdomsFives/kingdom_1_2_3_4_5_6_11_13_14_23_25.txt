@@ -1,0 +1,13 @@
+2
+10
+6
+5
+Gold 5
+Province 10
+Gold 101
+Silver 5
+Smithy 3
+Province 11
+Gardens 7
+Smithy 10
+Duchy 7

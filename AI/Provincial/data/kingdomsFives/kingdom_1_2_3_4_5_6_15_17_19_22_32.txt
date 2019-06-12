@@ -1,0 +1,16 @@
+5
+16
+5
+4
+Province 6
+Gold 9
+Silver 9
+Silver 13
+Moat 7
+Estate 10
+Copper 4
+Market 6
+Gold 99
+Market 3
+Province 12
+Workshop 8

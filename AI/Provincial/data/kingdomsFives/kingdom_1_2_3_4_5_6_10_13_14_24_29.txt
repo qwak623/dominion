@@ -1,0 +1,17 @@
+2
+13
+7
+6
+Gold 4
+Province 8
+Silver 7
+Duchy 7
+Gardens 7
+Remodel 14
+Gold 102
+Copper 4
+Estate 6
+Silver 11
+Village 10
+Festival 9
+Province 12

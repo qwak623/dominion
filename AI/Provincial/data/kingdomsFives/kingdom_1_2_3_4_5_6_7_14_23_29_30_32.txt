@@ -1,0 +1,15 @@
+6
+11
+7
+8
+Gold 3
+Witch 3
+Province 6
+Province 8
+Gardens 10
+Duchy 2
+Gold 101
+Workshop 4
+Silver 10
+Silver 13
+Estate 11

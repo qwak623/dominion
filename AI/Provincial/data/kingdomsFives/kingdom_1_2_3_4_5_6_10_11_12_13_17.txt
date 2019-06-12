@@ -1,0 +1,15 @@
+4
+21
+17
+5
+Duchy 13
+Gold 10
+Silver 4
+CouncilRoom 13
+CouncilRoom 17
+Silver 11
+Cellar 11
+Duchy 9
+Gold 102
+Estate 8
+Laboratory 9

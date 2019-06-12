@@ -1,0 +1,13 @@
+7
+12
+5
+5
+Gold 107
+Province 11
+Library 9
+Silver 9
+Copper 5
+Bureaucrat 10
+Adventurer 4
+Silver 16
+Village 6

@@ -1,0 +1,13 @@
+2
+10
+8
+7
+Province 9
+Gold 11
+Witch 13
+Silver 8
+Mine 3
+Moneylender 12
+Copper 7
+Gold 104
+Silver 13

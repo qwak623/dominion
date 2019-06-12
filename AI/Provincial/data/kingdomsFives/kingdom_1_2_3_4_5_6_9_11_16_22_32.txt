@@ -1,0 +1,15 @@
+3
+8
+8
+6
+Bureaucrat 2
+Copper 1
+CouncilRoom 1
+Province 4
+Gold 101
+Province 3
+Silver 11
+CouncilRoom 10
+Gold 2
+Copper 12
+Chapel 8

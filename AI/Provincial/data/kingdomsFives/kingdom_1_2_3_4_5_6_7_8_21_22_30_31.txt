@@ -1,0 +1,17 @@
+2
+14
+18
+8
+Gold 103
+Witch 7
+Adventurer 3
+Witch 10
+Silver 11
+Province 11
+Moat 8
+Mine 10
+Copper 12
+Woodcutter 8
+Silver 11
+Estate 10
+Estate 10

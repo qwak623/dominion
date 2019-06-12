@@ -1,0 +1,16 @@
+1
+12
+5
+3
+Gold 8
+Silver 15
+Silver 14
+Gold 100
+Library 5
+Province 11
+Library 11
+Adventurer 6
+Duchy 3
+Silver 7
+Moat 4
+Gold 6

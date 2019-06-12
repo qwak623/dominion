@@ -1,0 +1,20 @@
+5
+14
+5
+4
+Silver 9
+Province 6
+Gold 10
+Gardens 4
+Moat 2
+Gardens 4
+Mine 9
+Duchy 11
+Village 3
+Mine 4
+Silver 12
+Mine 10
+Gardens 10
+Gold 101
+Moat 6
+Copper 4

@@ -1,0 +1,15 @@
+5
+15
+8
+7
+Province 12
+Woodcutter 5
+Gardens 10
+Duchy 12
+Gardens 3
+Estate 13
+Copper 11
+Gold 100
+Silver 5
+Feast 6
+Estate 6

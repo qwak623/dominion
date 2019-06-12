@@ -1,0 +1,15 @@
+3
+13
+5
+4
+Province 11
+Gold 6
+Adventurer 2
+CouncilRoom 7
+Silver 14
+Gold 100
+Gold 5
+Feast 6
+Copper 12
+Silver 5
+Chapel 6

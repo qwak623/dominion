@@ -1,0 +1,14 @@
+2
+19
+5
+5
+Gold 101
+Laboratory 2
+Laboratory 4
+CouncilRoom 8
+Silver 11
+Mine 11
+Silver 6
+Feast 9
+Remodel 10
+Feast 12

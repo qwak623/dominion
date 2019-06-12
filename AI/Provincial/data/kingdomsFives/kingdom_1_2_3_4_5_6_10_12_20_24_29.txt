@@ -1,0 +1,16 @@
+0
+13
+13
+8
+Province 10
+Gold 6
+Militia 6
+Silver 11
+Silver 10
+Feast 10
+Gold 100
+Copper 6
+Province 9
+Village 10
+Remodel 5
+Cellar 3

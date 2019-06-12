@@ -1,0 +1,17 @@
+0
+12
+6
+5
+Adventurer 1
+Province 12
+Gold 100
+Mine 6
+Adventurer 4
+Silver 9
+Festival 8
+Silver 8
+Silver 10
+Copper 1
+Village 12
+Copper 6
+Festival 6

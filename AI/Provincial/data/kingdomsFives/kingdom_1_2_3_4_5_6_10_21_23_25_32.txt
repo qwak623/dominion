@@ -1,0 +1,13 @@
+2
+19
+7
+5
+Province 2
+Gold 103
+Mine 5
+Province 9
+Silver 17
+Silver 7
+Workshop 9
+Moneylender 10
+Duchy 9

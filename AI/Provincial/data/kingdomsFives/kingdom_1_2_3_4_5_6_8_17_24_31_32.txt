@@ -1,0 +1,16 @@
+1
+11
+8
+6
+Gold 3
+Province 11
+Gold 11
+Gold 11
+Adventurer 3
+Laboratory 11
+Laboratory 9
+Gold 103
+Silver 11
+Adventurer 6
+Silver 10
+Duchy 12

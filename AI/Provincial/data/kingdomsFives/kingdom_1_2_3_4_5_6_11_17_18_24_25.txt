@@ -1,0 +1,15 @@
+6
+13
+5
+4
+CouncilRoom 1
+Province 9
+Gold 99
+Laboratory 9
+Duchy 7
+Smithy 5
+Remodel 7
+Remodel 9
+Smithy 4
+Copper 12
+Library 3

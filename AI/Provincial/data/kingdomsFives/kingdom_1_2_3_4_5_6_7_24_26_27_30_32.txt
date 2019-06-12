@@ -1,0 +1,14 @@
+3
+11
+8
+7
+Gold 101
+Witch 11
+Silver 4
+Province 4
+Silver 12
+Copper 3
+Duchy 12
+Thief 12
+Workshop 10
+Remodel 2

@@ -1,0 +1,15 @@
+0
+8
+8
+8
+Province 10
+Witch 3
+Gold 11
+Silver 10
+CouncilRoom 6
+Festival 3
+Copper 12
+Gold 100
+Estate 1
+Silver 10
+Smithy 10

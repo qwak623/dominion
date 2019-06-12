@@ -1,0 +1,14 @@
+5
+15
+8
+5
+Gold 5
+Market 12
+Silver 12
+Feast 9
+Market 5
+Duchy 6
+Feast 12
+Chancellor 8
+Moneylender 7
+Gold 7

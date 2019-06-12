@@ -1,0 +1,12 @@
+7
+16
+8
+5
+Gold 14
+Province 7
+Mine 4
+Silver 15
+Workshop 7
+Gold 103
+Silver 9
+Laboratory 11

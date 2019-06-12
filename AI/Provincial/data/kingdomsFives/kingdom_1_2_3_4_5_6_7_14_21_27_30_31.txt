@@ -1,0 +1,12 @@
+7
+11
+8
+8
+Province 13
+Gold 8
+Witch 2
+Silver 12
+Duchy 11
+Mine 7
+Thief 2
+Woodcutter 12

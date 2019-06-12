@@ -1,0 +1,16 @@
+3
+13
+6
+6
+CouncilRoom 4
+Copper 1
+Province 6
+Province 2
+Silver 13
+Copper 6
+Copper 4
+Bureaucrat 12
+Copper 5
+Silver 6
+Silver 13
+Duchy 10

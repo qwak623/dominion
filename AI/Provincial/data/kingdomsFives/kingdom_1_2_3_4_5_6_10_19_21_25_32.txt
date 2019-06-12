@@ -1,0 +1,14 @@
+7
+13
+8
+6
+Gold 102
+Copper 1
+Province 5
+Mine 2
+Silver 12
+Silver 12
+Duchy 4
+Workshop 6
+Workshop 9
+Market 6

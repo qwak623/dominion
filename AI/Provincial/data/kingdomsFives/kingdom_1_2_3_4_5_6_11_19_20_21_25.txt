@@ -1,0 +1,17 @@
+7
+14
+8
+8
+Gold 6
+Smithy 3
+Copper 1
+Silver 13
+Militia 6
+CouncilRoom 12
+Gold 100
+Province 9
+Duchy 11
+Market 4
+Market 7
+Estate 7
+Mine 11

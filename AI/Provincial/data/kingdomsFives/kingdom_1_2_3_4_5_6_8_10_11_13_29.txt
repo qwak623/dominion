@@ -1,0 +1,15 @@
+5
+13
+8
+6
+Gold 100
+CouncilRoom 9
+CouncilRoom 7
+Festival 4
+Silver 10
+Village 10
+Adventurer 12
+Duchy 9
+Copper 15
+Estate 11
+Gold 7

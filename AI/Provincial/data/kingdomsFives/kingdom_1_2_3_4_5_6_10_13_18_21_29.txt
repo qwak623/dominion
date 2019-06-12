@@ -1,0 +1,19 @@
+7
+18
+8
+5
+Gold 6
+Library 8
+Duchy 4
+Duchy 11
+Silver 12
+Cellar 9
+Mine 6
+Duchy 7
+Festival 11
+Silver 13
+Mine 3
+Silver 5
+Library 1
+Festival 103
+Estate 7

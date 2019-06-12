@@ -1,0 +1,18 @@
+4
+17
+7
+4
+Province 7
+Gold 9
+Silver 10
+Festival 3
+Copper 8
+Province 6
+Province 9
+Estate 7
+Estate 4
+Adventurer 5
+Chapel 5
+Silver 11
+Spy 5
+Festival 1

@@ -1,0 +1,15 @@
+3
+4
+8
+8
+Province 8
+Gold 6
+Witch 7
+Duchy 5
+Laboratory 11
+Gold 100
+Silver 13
+Copper 8
+Adventurer 11
+Estate 13
+Curse 7

@@ -1,0 +1,17 @@
+5
+10
+7
+5
+Province 10
+Gold 10
+Mine 7
+Silver 6
+Silver 12
+CouncilRoom 10
+Feast 13
+Duchy 12
+CouncilRoom 4
+Chancellor 8
+Village 10
+Gold 101
+Chancellor 11

@@ -1,0 +1,15 @@
+4
+12
+6
+5
+Copper 1
+Adventurer 2
+Province 6
+Bureaucrat 1
+Gold 100
+Silver 14
+Bureaucrat 9
+Silver 8
+Silver 10
+Duchy 3
+Feast 5

@@ -1,0 +1,22 @@
+3
+14
+8
+8
+Gold 7
+Province 8
+Silver 4
+Gold 101
+Laboratory 2
+Duchy 8
+Moat 10
+Silver 10
+Library 1
+Estate 7
+Copper 3
+Militia 7
+Moat 3
+Duchy 5
+Duchy 9
+Library 9
+Library 2
+Village 6

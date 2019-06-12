@@ -1,0 +1,18 @@
+3
+17
+7
+5
+Gold 5
+Province 2
+CouncilRoom 6
+Silver 5
+Gold 102
+Silver 12
+Woodcutter 2
+Silver 9
+Festival 10
+Silver 9
+Duchy 7
+Silver 11
+Festival 4
+Festival 11

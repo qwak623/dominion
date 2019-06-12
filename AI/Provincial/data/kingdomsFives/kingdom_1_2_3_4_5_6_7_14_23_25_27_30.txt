@@ -1,0 +1,17 @@
+1
+15
+8
+8
+Witch 2
+Gold 7
+Silver 11
+Smithy 13
+Duchy 6
+Duchy 5
+Moneylender 10
+Gold 102
+Estate 9
+Silver 4
+Gardens 3
+Province 8
+Moneylender 3

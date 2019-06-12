@@ -1,0 +1,17 @@
+4
+12
+8
+6
+Bureaucrat 2
+Gold 99
+Silver 11
+Silver 12
+Moneylender 9
+Workshop 5
+Mine 11
+Copper 11
+Silver 6
+Estate 8
+Workshop 2
+Feast 5
+Province 10

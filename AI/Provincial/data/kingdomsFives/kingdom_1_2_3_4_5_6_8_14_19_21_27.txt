@@ -1,0 +1,16 @@
+4
+11
+6
+4
+Province 5
+Gold 101
+Silver 7
+Gardens 10
+Copper 13
+Silver 4
+Market 13
+Copper 2
+Adventurer 10
+Estate 7
+Silver 10
+Mine 7

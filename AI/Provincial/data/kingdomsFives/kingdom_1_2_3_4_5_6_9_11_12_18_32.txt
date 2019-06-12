@@ -1,0 +1,16 @@
+4
+13
+5
+4
+Gold 101
+Silver 2
+Gold 3
+CouncilRoom 6
+Province 1
+Silver 13
+Bureaucrat 4
+Feast 6
+Silver 9
+Workshop 3
+Library 7
+Duchy 7

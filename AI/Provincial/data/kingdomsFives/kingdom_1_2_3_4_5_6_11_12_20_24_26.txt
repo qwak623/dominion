@@ -1,0 +1,17 @@
+3
+13
+8
+7
+Gold 6
+Militia 4
+Province 4
+Silver 9
+Spy 6
+CouncilRoom 6
+Silver 12
+Remodel 6
+Province 7
+Feast 5
+Province 2
+Gold 100
+Province 13

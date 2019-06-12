@@ -1,0 +1,14 @@
+4
+14
+7
+4
+Witch 7
+Province 5
+Gold 5
+Gold 101
+Silver 15
+Province 7
+Gold 3
+Witch 13
+Gardens 2
+Cellar 11

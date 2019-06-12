@@ -1,0 +1,19 @@
+4
+13
+8
+7
+Gold 102
+Province 9
+Adventurer 6
+Witch 9
+Gold 4
+Adventurer 4
+Duchy 3
+Silver 11
+Festival 7
+Copper 3
+Festival 3
+Woodcutter 6
+CouncilRoom 12
+Woodcutter 4
+Estate 11

@@ -1,0 +1,16 @@
+0
+15
+7
+6
+Gold 103
+Province 13
+Library 2
+Gold 10
+Silver 9
+Silver 10
+Silver 7
+Feast 7
+Woodcutter 11
+Workshop 5
+Duchy 11
+Copper 11

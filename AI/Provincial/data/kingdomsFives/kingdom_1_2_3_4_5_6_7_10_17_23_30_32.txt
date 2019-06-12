@@ -1,0 +1,17 @@
+0
+19
+8
+8
+Gold 102
+Witch 2
+Silver 10
+Workshop 4
+Silver 8
+Laboratory 12
+Cellar 10
+Copper 14
+Laboratory 5
+Curse 4
+Estate 4
+Gold 7
+Witch 8

@@ -1,0 +1,18 @@
+2
+17
+7
+6
+Gold 102
+Thief 3
+Province 3
+Smithy 2
+Silver 12
+Woodcutter 4
+Duchy 4
+Spy 6
+Copper 7
+Woodcutter 7
+Gold 4
+Silver 14
+Thief 4
+Spy 11

@@ -1,0 +1,18 @@
+2
+14
+8
+6
+Witch 7
+Market 10
+Silver 3
+Province 12
+Market 7
+Province 9
+Gold 2
+Silver 102
+Copper 8
+Silver 14
+Estate 12
+Mine 5
+Market 7
+CouncilRoom 3

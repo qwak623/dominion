@@ -1,0 +1,14 @@
+6
+13
+7
+4
+Gold 103
+Province 11
+Province 9
+Silver 8
+Woodcutter 7
+Adventurer 7
+Adventurer 6
+Village 7
+Silver 11
+Moneylender 12

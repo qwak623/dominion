@@ -1,0 +1,16 @@
+1
+6
+8
+8
+Province 6
+Gold 9
+Gold 100
+Gold 7
+Silver 11
+Smithy 13
+Spy 9
+Gold 2
+Smithy 5
+Moneylender 15
+Silver 13
+Duchy 12

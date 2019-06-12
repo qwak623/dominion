@@ -1,0 +1,15 @@
+5
+13
+7
+5
+Gold 11
+Mine 11
+Silver 7
+Province 7
+Library 9
+Smithy 11
+Silver 11
+Copper 1
+Gold 101
+Duchy 9
+Duchy 5

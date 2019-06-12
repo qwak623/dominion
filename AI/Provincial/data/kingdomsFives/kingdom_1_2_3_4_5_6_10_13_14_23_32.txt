@@ -1,0 +1,17 @@
+1
+10
+12
+8
+Workshop 4
+Gardens 8
+Duchy 7
+Gold 4
+Gold 101
+Workshop 13
+Cellar 4
+Estate 7
+Moneylender 5
+Gold 9
+Silver 15
+Copper 8
+Duchy 3

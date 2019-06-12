@@ -1,0 +1,17 @@
+7
+13
+8
+7
+Gold 12
+Market 5
+Festival 4
+Silver 12
+Gold 103
+Market 2
+Chancellor 8
+Gold 11
+Duchy 6
+Cellar 5
+Festival 4
+Market 4
+Festival 8

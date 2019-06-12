@@ -1,0 +1,16 @@
+7
+12
+6
+6
+Gold 100
+Gold 10
+Silver 10
+Silver 10
+Library 6
+Chapel 13
+Market 7
+Duchy 13
+Province 14
+Silver 10
+Library 4
+Copper 8

@@ -1,0 +1,11 @@
+7
+14
+6
+5
+Province 10
+Gold 101
+Festival 9
+Library 12
+Silver 14
+Gold 3
+Workshop 12

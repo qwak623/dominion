@@ -1,0 +1,16 @@
+5
+11
+6
+5
+Gold 9
+Smithy 2
+Estate 1
+Province 8
+Silver 11
+Smithy 11
+Village 5
+Feast 5
+Duchy 11
+Gold 102
+Smithy 4
+Woodcutter 10

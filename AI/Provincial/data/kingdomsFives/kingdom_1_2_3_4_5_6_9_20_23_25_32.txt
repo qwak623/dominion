@@ -1,0 +1,16 @@
+5
+9
+6
+5
+Gold 2
+Gold 102
+Province 7
+Silver 5
+Smithy 11
+Moneylender 2
+Copper 6
+Workshop 11
+Moneylender 11
+Province 9
+Estate 13
+Silver 11

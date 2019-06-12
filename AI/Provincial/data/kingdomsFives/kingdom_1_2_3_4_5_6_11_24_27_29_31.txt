@@ -1,0 +1,15 @@
+4
+10
+18
+5
+Province 3
+Province 11
+Gold 101
+Silver 10
+Woodcutter 10
+Duchy 1
+Copper 4
+Duchy 1
+Thief 6
+Remodel 11
+Estate 4

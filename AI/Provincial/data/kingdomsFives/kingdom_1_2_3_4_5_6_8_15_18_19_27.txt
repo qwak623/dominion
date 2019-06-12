@@ -1,0 +1,13 @@
+3
+15
+8
+7
+Gold 103
+Library 5
+Silver 10
+Silver 13
+Silver 11
+Chancellor 10
+Duchy 16
+Market 9
+Market 9

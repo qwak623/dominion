@@ -1,0 +1,15 @@
+2
+16
+8
+6
+Gold 101
+Mine 10
+Duchy 12
+Silver 13
+Moat 7
+Estate 4
+Workshop 7
+Curse 4
+Province 4
+Gold 6
+Silver 11

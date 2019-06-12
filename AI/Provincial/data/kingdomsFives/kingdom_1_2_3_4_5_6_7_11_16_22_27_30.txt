@@ -1,0 +1,17 @@
+6
+20
+8
+8
+Witch 4
+Gold 10
+Silver 8
+Chapel 2
+Province 9
+Copper 6
+Duchy 3
+Province 5
+Curse 1
+Gold 99
+Thief 10
+Silver 12
+Curse 3

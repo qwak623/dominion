@@ -1,0 +1,17 @@
+6
+13
+7
+6
+Gold 6
+Province 1
+Silver 10
+ThroneRoom 2
+Chapel 1
+Gardens 2
+Gardens 8
+Silver 5
+Copper 4
+Festival 2
+Province 5
+Feast 10
+Gold 101

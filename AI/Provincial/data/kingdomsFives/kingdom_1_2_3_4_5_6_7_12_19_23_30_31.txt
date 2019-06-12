@@ -1,0 +1,15 @@
+6
+13
+8
+8
+Gold 10
+Witch 13
+Duchy 11
+Silver 15
+Gold 103
+Province 12
+Silver 11
+Copper 12
+Woodcutter 7
+Market 11
+Estate 1

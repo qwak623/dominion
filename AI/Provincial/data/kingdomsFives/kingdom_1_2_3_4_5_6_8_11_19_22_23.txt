@@ -1,0 +1,17 @@
+4
+14
+7
+7
+Gold 99
+Silver 15
+Market 4
+Market 2
+Silver 12
+Moat 8
+Province 4
+Adventurer 6
+Province 4
+CouncilRoom 13
+Province 9
+Duchy 4
+Estate 7

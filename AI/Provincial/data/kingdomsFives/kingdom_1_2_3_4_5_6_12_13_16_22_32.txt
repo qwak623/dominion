@@ -1,0 +1,17 @@
+1
+18
+8
+6
+Gold 12
+Silver 6
+Silver 11
+Gold 4
+Moat 7
+Gold 100
+Workshop 10
+Duchy 8
+Festival 3
+Copper 2
+Copper 4
+Province 1
+Province 4

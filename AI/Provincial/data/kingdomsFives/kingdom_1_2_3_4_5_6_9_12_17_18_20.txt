@@ -1,0 +1,15 @@
+2
+10
+8
+4
+Province 11
+Gold 102
+Library 7
+Duchy 10
+Silver 11
+Militia 3
+Bureaucrat 11
+Library 3
+Feast 11
+Laboratory 8
+Duchy 10

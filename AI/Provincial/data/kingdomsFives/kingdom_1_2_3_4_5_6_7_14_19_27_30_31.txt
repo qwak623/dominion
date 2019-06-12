@@ -1,0 +1,19 @@
+2
+10
+8
+8
+Gold 5
+Woodcutter 3
+Gardens 10
+Duchy 105
+Silver 14
+Market 8
+Gold 9
+Copper 10
+Gardens 11
+Woodcutter 6
+Copper 7
+Thief 5
+Estate 8
+Province 4
+Woodcutter 5

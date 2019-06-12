@@ -1,0 +1,16 @@
+7
+10
+6
+4
+Province 7
+Province 9
+Woodcutter 2
+Copper 1
+Gold 102
+Festival 12
+Duchy 5
+Silver 9
+Workshop 9
+Estate 9
+Remodel 6
+Silver 13

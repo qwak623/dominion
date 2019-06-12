@@ -1,0 +1,13 @@
+6
+10
+13
+8
+Cellar 3
+Gardens 10
+Silver 8
+Estate 10
+Gardens 7
+Duchy 9
+Silver 12
+Adventurer 7
+Copper 6

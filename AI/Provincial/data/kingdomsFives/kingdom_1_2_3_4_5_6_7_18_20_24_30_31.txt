@@ -1,0 +1,17 @@
+0
+18
+8
+8
+Witch 11
+Duchy 6
+Witch 13
+Silver 9
+Witch 7
+Silver 11
+Copper 6
+Curse 9
+Gold 5
+Library 7
+Militia 4
+Gold 101
+Gold 7

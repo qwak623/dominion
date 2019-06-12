@@ -1,0 +1,18 @@
+4
+10
+6
+6
+Chancellor 1
+Province 6
+Gold 2
+Moat 1
+Gold 102
+Silver 8
+Duchy 4
+Festival 7
+Spy 4
+Moat 11
+Spy 3
+Silver 12
+Silver 12
+Province 9

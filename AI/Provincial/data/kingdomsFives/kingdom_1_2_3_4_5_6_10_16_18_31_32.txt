@@ -1,0 +1,15 @@
+0
+12
+6
+5
+Province 4
+Gold 100
+Silver 11
+Silver 10
+Workshop 7
+Woodcutter 8
+Library 7
+Cellar 5
+Cellar 4
+Chapel 4
+Copper 5

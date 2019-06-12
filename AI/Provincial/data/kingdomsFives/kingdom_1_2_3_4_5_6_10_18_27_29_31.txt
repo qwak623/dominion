@@ -1,0 +1,16 @@
+5
+14
+8
+3
+Province 4
+Gold 11
+Library 9
+Silver 11
+Copper 4
+Estate 7
+Gold 101
+Village 5
+Duchy 7
+Thief 11
+Thief 2
+Woodcutter 5

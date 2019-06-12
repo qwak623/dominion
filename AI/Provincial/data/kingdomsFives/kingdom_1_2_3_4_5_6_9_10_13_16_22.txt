@@ -1,0 +1,15 @@
+6
+11
+7
+5
+Province 4
+Moat 1
+Gold 102
+Silver 10
+Silver 5
+Duchy 4
+Cellar 3
+Estate 3
+Bureaucrat 7
+Cellar 5
+Festival 4

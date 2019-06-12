@@ -1,0 +1,16 @@
+5
+16
+8
+8
+Gold 9
+Witch 4
+Province 6
+Duchy 102
+Adventurer 9
+Silver 11
+Copper 6
+Estate 11
+Woodcutter 4
+Curse 3
+Estate 13
+Duchy 11

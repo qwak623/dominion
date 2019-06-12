@@ -1,0 +1,16 @@
+4
+12
+8
+6
+Gold 100
+Silver 12
+Province 12
+Feast 6
+Silver 9
+CouncilRoom 9
+Duchy 8
+Moat 7
+Feast 8
+Chancellor 12
+Gold 4
+Copper 8

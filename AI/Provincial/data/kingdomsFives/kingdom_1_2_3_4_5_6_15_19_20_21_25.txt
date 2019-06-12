@@ -1,0 +1,15 @@
+0
+13
+7
+7
+Mine 1
+Province 5
+Gold 99
+Market 11
+Silver 8
+Silver 7
+Smithy 1
+Gold 14
+Province 5
+Militia 3
+Silver 10

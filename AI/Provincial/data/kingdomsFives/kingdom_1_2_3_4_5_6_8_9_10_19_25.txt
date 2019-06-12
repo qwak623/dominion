@@ -1,0 +1,15 @@
+4
+13
+8
+6
+Gold 11
+Bureaucrat 3
+Province 9
+Market 5
+Smithy 5
+Market 12
+Adventurer 9
+Gold 102
+Silver 11
+Smithy 9
+Bureaucrat 13

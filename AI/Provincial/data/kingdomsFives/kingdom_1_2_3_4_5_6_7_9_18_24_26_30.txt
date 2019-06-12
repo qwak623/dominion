@@ -1,0 +1,13 @@
+1
+14
+18
+8
+Witch 4
+Gold 2
+Silver 8
+Gold 102
+Copper 2
+Gold 14
+Estate 10
+Gold 8
+Spy 11

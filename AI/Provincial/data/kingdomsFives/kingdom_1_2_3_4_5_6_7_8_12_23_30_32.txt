@@ -1,0 +1,17 @@
+6
+9
+8
+8
+Witch 5
+Province 4
+Duchy 5
+Silver 6
+Copper 5
+Province 8
+Curse 2
+Estate 11
+Moneylender 12
+Silver 100
+Moneylender 4
+Province 11
+Feast 10

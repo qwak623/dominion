@@ -1,0 +1,15 @@
+0
+11
+17
+8
+Province 6
+Witch 9
+Silver 11
+Copper 7
+Adventurer 8
+Woodcutter 5
+Curse 2
+Moneylender 10
+Silver 5
+Gold 102
+Silver 12

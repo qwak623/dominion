@@ -1,0 +1,14 @@
+6
+12
+6
+5
+Gold 10
+Silver 5
+Smithy 9
+Duchy 7
+Silver 13
+Village 9
+Province 13
+Copper 5
+Gold 100
+Woodcutter 6

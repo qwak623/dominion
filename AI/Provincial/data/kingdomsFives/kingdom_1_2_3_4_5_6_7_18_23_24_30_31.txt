@@ -1,0 +1,13 @@
+0
+14
+8
+8
+Gold 7
+Gold 9
+Witch 16
+Silver 12
+Gold 101
+Estate 9
+Moneylender 4
+Library 4
+Woodcutter 6

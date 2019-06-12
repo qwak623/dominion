@@ -1,0 +1,17 @@
+0
+14
+13
+8
+Gold 99
+Silver 10
+Silver 15
+Bureaucrat 10
+Adventurer 2
+Moat 4
+Copper 7
+Copper 10
+Chapel 9
+Duchy 10
+Chapel 5
+Moat 1
+Village 11

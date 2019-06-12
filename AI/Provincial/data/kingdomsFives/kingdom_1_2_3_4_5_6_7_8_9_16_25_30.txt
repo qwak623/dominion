@@ -1,0 +1,16 @@
+5
+12
+7
+7
+Witch 2
+Gold 101
+Silver 9
+Adventurer 8
+Gold 6
+Gold 11
+Silver 14
+Adventurer 9
+Chapel 2
+Duchy 3
+Province 11
+Bureaucrat 5

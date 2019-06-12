@@ -1,0 +1,19 @@
+1
+12
+8
+8
+Gold 11
+Laboratory 10
+Bureaucrat 7
+Gold 11
+Silver 10
+Copper 3
+Silver 3
+Laboratory 5
+Thief 5
+Province 8
+Province 4
+Laboratory 4
+Estate 15
+Estate 10
+Laboratory 10

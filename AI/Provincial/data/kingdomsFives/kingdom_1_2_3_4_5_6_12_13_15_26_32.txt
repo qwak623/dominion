@@ -1,0 +1,17 @@
+3
+12
+6
+5
+Gold 7
+Silver 4
+Silver 13
+Gold 10
+Silver 5
+Gold 102
+Duchy 10
+Copper 11
+Festival 5
+Estate 4
+Chancellor 7
+Province 11
+Workshop 2

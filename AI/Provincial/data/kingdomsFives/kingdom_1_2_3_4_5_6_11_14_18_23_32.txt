@@ -1,0 +1,17 @@
+3
+16
+7
+6
+Province 7
+Gold 5
+Library 2
+Gold 5
+Silver 12
+Copper 5
+Moneylender 5
+Silver 6
+Library 12
+Moneylender 6
+Estate 1
+CouncilRoom 7
+Workshop 12

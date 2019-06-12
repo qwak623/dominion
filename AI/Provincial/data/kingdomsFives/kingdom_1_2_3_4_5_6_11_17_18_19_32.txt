@@ -1,0 +1,17 @@
+5
+12
+7
+6
+Gold 3
+Silver 7
+CouncilRoom 7
+Province 9
+Library 3
+Silver 10
+Gold 4
+Library 17
+Market 5
+Laboratory 7
+CouncilRoom 6
+Workshop 12
+Market 4

@@ -1,0 +1,14 @@
+3
+12
+7
+7
+Gold 8
+Silver 13
+Province 4
+Copper 10
+Spy 4
+Spy 2
+Estate 16
+Gold 12
+Gold 100
+Spy 5

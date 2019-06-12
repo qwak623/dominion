@@ -1,0 +1,14 @@
+7
+13
+8
+5
+Province 9
+Gold 5
+Silver 9
+Gold 100
+Spy 11
+Woodcutter 13
+Copper 11
+Estate 8
+Duchy 16
+Workshop 11

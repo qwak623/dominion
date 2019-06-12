@@ -1,0 +1,16 @@
+7
+14
+7
+7
+Silver 11
+Gardens 8
+Chancellor 8
+Gold 103
+Province 3
+Village 6
+Gardens 12
+Copper 5
+Cellar 4
+Feast 11
+Silver 10
+Estate 8

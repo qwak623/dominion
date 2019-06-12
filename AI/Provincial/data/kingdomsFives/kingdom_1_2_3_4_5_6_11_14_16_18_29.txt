@@ -1,0 +1,14 @@
+4
+12
+7
+3
+Gold 7
+CouncilRoom 4
+Gardens 9
+Duchy 8
+Gardens 6
+Silver 13
+Gold 101
+Copper 9
+Estate 9
+Silver 8

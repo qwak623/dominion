@@ -1,0 +1,15 @@
+6
+15
+5
+4
+Gold 99
+Silver 14
+Gold 12
+Gold 5
+CouncilRoom 7
+Duchy 10
+Moat 14
+Silver 10
+Duchy 10
+Estate 12
+Estate 2

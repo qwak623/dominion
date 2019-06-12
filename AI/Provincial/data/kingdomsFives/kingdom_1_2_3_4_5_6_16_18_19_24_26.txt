@@ -1,0 +1,16 @@
+3
+13
+7
+4
+Gold 6
+Market 6
+Province 8
+Silver 8
+Remodel 11
+Silver 11
+Gold 101
+Chapel 10
+Library 3
+Remodel 8
+Spy 11
+Estate 7

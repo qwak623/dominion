@@ -1,0 +1,14 @@
+2
+9
+8
+8
+Province 8
+Gold 14
+Militia 4
+Silver 15
+Gold 99
+Silver 9
+Militia 1
+Copper 2
+Spy 12
+Copper 10

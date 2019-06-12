@@ -1,0 +1,14 @@
+1
+12
+8
+7
+Duchy 1
+Gold 12
+Province 11
+Gold 10
+Silver 10
+Market 12
+Militia 6
+Spy 9
+Silver 11
+Moat 3

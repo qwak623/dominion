@@ -1,0 +1,16 @@
+2
+14
+8
+6
+Gold 3
+Library 1
+Adventurer 11
+Silver 10
+Gold 100
+Duchy 1
+Province 2
+Duchy 2
+Silver 14
+Duchy 7
+Market 10
+Market 3

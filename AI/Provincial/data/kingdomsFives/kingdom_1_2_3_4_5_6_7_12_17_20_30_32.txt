@@ -1,0 +1,18 @@
+0
+6
+10
+8
+Witch 10
+Duchy 7
+Silver 8
+Estate 8
+Witch 3
+Witch 6
+Silver 12
+Gold 100
+Estate 7
+Militia 10
+Silver 12
+Laboratory 10
+Gold 8
+Copper 8

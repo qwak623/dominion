@@ -1,0 +1,14 @@
+1
+21
+6
+6
+Gold 101
+Laboratory 5
+Silver 7
+Remodel 3
+Cellar 8
+Silver 14
+Chapel 4
+Remodel 5
+Chapel 11
+Gold 7

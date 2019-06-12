@@ -1,0 +1,15 @@
+1
+10
+5
+5
+Laboratory 3
+Province 11
+Gold 102
+Laboratory 4
+Gold 5
+Militia 3
+Silver 11
+Silver 15
+Copper 13
+Silver 2
+Gold 8

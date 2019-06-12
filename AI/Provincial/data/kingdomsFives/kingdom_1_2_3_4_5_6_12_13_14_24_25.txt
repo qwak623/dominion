@@ -1,0 +1,15 @@
+3
+10
+7
+6
+Province 13
+Gold 6
+Festival 10
+Gold 100
+Smithy 3
+Gardens 6
+Silver 8
+Silver 10
+Feast 9
+Remodel 10
+Remodel 6

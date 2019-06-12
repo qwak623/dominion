@@ -1,0 +1,18 @@
+1
+14
+8
+7
+Gold 100
+Mine 3
+Province 5
+Silver 14
+Adventurer 10
+Gold 5
+Copper 6
+Duchy 11
+Adventurer 3
+Duchy 4
+Library 2
+Estate 4
+Silver 11
+Estate 2

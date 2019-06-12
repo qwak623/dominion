@@ -1,0 +1,15 @@
+7
+11
+6
+3
+Province 6
+Gold 105
+CouncilRoom 3
+Silver 9
+Duchy 2
+Workshop 12
+Moneylender 7
+Silver 14
+Silver 14
+Woodcutter 10
+Gold 8

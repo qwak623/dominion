@@ -1,0 +1,15 @@
+2
+15
+7
+6
+Gold 1
+Province 9
+Gold 101
+Festival 9
+Duchy 9
+Bureaucrat 12
+Silver 11
+Festival 11
+Silver 12
+Gardens 3
+Spy 10

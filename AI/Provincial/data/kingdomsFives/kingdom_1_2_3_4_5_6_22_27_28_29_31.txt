@@ -1,0 +1,18 @@
+4
+13
+5
+4
+Gold 8
+Province 6
+Silver 10
+Gold 8
+Duchy 8
+Silver 12
+Thief 2
+ThroneRoom 13
+Moat 7
+Gold 8
+Silver 103
+Village 2
+Woodcutter 6
+Estate 5

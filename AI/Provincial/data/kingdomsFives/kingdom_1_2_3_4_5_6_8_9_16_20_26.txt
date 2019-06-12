@@ -1,0 +1,17 @@
+6
+13
+8
+8
+Province 11
+Gold 100
+Gold 7
+Gold 8
+Militia 5
+Adventurer 7
+Copper 1
+Duchy 8
+Duchy 2
+Silver 12
+Estate 5
+Bureaucrat 7
+Estate 2

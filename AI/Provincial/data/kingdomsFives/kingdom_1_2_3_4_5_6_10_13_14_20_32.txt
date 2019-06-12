@@ -1,0 +1,17 @@
+4
+12
+20
+8
+Gardens 13
+Festival 6
+Militia 6
+Festival 6
+Province 4
+Silver 10
+Silver 9
+Silver 12
+Cellar 4
+Gold 101
+Estate 1
+Copper 8
+Province 11

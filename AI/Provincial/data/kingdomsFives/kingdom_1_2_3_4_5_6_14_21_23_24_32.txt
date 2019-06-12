@@ -1,0 +1,18 @@
+2
+13
+6
+5
+Gold 7
+Silver 9
+Province 6
+Gardens 10
+Gold 10
+Moneylender 6
+Duchy 13
+Workshop 10
+Gold 101
+Gold 12
+Mine 7
+Silver 11
+Workshop 5
+Province 4

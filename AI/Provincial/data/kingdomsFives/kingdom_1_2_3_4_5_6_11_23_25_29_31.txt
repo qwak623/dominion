@@ -1,0 +1,17 @@
+7
+18
+7
+6
+Gold 2
+CouncilRoom 9
+Silver 10
+Silver 8
+Gold 102
+Gold 3
+Moneylender 7
+Copper 8
+Duchy 7
+Province 11
+Smithy 1
+Village 15
+Woodcutter 7

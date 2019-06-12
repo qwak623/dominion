@@ -1,0 +1,13 @@
+7
+17
+6
+6
+Gold 100
+Silver 5
+Smithy 12
+Copper 9
+Duchy 10
+Curse 10
+Silver 12
+Province 13
+Workshop 5

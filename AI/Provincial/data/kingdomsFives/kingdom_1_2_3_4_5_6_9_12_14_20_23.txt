@@ -1,0 +1,18 @@
+3
+18
+14
+8
+Gardens 12
+Gold 3
+Bureaucrat 4
+Gold 11
+Gold 101
+Gardens 9
+Silver 7
+Copper 3
+Estate 7
+Militia 6
+Gold 10
+Militia 4
+Bureaucrat 13
+Silver 14

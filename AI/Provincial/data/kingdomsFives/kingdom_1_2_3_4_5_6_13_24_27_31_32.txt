@@ -1,0 +1,13 @@
+7
+16
+8
+5
+Gold 5
+Silver 10
+Festival 10
+Remodel 2
+Gold 101
+Silver 12
+Copper 6
+Duchy 3
+Remodel 6

@@ -1,0 +1,15 @@
+0
+12
+11
+8
+Gold 7
+Gardens 10
+CouncilRoom 13
+Province 14
+Silver 14
+Duchy 3
+Moat 3
+Gold 102
+Estate 8
+Copper 9
+Chapel 10

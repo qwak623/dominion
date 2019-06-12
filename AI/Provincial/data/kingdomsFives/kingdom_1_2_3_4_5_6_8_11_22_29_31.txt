@@ -1,0 +1,16 @@
+7
+18
+8
+8
+Gold 6
+Silver 4
+Gold 6
+Gold 100
+Silver 12
+CouncilRoom 9
+Moat 4
+Province 10
+Copper 7
+Duchy 10
+Estate 7
+Village 9

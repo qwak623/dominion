@@ -1,0 +1,16 @@
+6
+15
+8
+8
+Province 7
+Gold 104
+Chancellor 2
+Silver 13
+Silver 11
+Moat 6
+Remodel 3
+Province 15
+Gold 7
+Copper 11
+Gold 4
+Estate 11

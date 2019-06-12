@@ -1,0 +1,15 @@
+6
+14
+5
+5
+Gold 102
+Library 3
+Silver 8
+Copper 7
+Feast 8
+Festival 10
+Duchy 9
+CouncilRoom 3
+Library 8
+Estate 9
+Silver 10

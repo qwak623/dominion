@@ -1,0 +1,14 @@
+7
+12
+8
+4
+Market 1
+Province 9
+Gold 102
+Silver 3
+Silver 13
+Copper 2
+Duchy 12
+Market 8
+Spy 3
+Moneylender 7

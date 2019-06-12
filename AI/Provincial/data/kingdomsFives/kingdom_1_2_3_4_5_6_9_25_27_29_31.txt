@@ -1,0 +1,13 @@
+5
+14
+8
+8
+Gold 4
+Gold 102
+Bureaucrat 5
+Silver 8
+Thief 9
+Village 9
+Copper 11
+Estate 10
+Woodcutter 14

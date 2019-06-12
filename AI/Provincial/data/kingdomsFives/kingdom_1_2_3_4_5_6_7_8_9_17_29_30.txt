@@ -1,0 +1,17 @@
+7
+13
+8
+8
+Witch 2
+Province 6
+Gold 3
+Silver 5
+Duchy 8
+Adventurer 5
+Adventurer 100
+Silver 12
+Laboratory 6
+Adventurer 6
+Duchy 3
+Village 8
+Laboratory 9

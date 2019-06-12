@@ -1,0 +1,17 @@
+1
+15
+7
+5
+Province 6
+Gold 100
+Gold 4
+Silver 5
+Chapel 1
+Silver 11
+Chancellor 2
+Province 9
+Duchy 9
+Copper 2
+Village 6
+Gardens 8
+Province 8

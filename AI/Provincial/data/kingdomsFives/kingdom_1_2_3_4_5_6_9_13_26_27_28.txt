@@ -1,0 +1,14 @@
+6
+12
+8
+8
+Thief 4
+Gold 7
+Silver 2
+Copper 2
+Silver 15
+Estate 8
+Bureaucrat 102
+Province 5
+ThroneRoom 10
+Festival 4

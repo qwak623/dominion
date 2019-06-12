@@ -1,0 +1,20 @@
+3
+17
+6
+5
+Province 4
+Gold 6
+Festival 10
+Silver 10
+Duchy 7
+Silver 11
+Library 4
+Gold 100
+Festival 6
+Spy 9
+Chancellor 7
+Duchy 14
+Gold 2
+Remodel 6
+Remodel 3
+Chancellor 10

@@ -1,0 +1,15 @@
+2
+13
+7
+6
+Gold 101
+Province 4
+Bureaucrat 2
+Silver 14
+Chancellor 9
+Copper 9
+Copper 11
+Moneylender 6
+Estate 10
+Village 6
+Market 12

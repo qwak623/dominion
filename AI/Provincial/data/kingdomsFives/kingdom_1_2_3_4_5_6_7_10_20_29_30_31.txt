@@ -1,0 +1,16 @@
+6
+12
+15
+8
+Duchy 6
+Witch 102
+Silver 9
+Village 5
+Village 6
+Cellar 11
+Gold 2
+Copper 9
+Province 9
+Silver 12
+Estate 9
+Woodcutter 6

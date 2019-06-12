@@ -1,0 +1,18 @@
+2
+18
+8
+6
+Gold 5
+Gold 100
+Laboratory 12
+Silver 4
+Silver 4
+CouncilRoom 15
+Spy 3
+Spy 3
+CouncilRoom 4
+Silver 11
+Gold 4
+Moneylender 6
+CouncilRoom 9
+Moneylender 5

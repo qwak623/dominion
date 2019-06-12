@@ -1,0 +1,15 @@
+4
+17
+18
+8
+Woodcutter 3
+Gardens 8
+Gold 8
+Copper 2
+Estate 14
+Gold 101
+Witch 11
+Silver 5
+Province 9
+Copper 12
+Copper 11

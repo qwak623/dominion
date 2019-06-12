@@ -1,0 +1,17 @@
+7
+12
+7
+6
+Gold 100
+Witch 5
+Copper 1
+Province 5
+Province 7
+Laboratory 1
+Duchy 11
+Silver 10
+Estate 5
+Smithy 2
+Laboratory 11
+Duchy 12
+Chapel 5

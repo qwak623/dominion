@@ -1,0 +1,13 @@
+6
+10
+8
+8
+Silver 12
+Library 12
+Duchy 5
+Copper 7
+Estate 8
+Province 4
+Woodcutter 12
+Village 3
+Duchy 8

@@ -1,0 +1,14 @@
+2
+17
+8
+6
+Gold 8
+Militia 5
+Silver 5
+Province 8
+Duchy 8
+Silver 11
+Woodcutter 6
+Copper 7
+Estate 12
+Village 6

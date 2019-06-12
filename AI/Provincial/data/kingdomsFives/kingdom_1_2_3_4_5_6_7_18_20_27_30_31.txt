@@ -1,0 +1,16 @@
+6
+15
+8
+8
+Gold 13
+Province 9
+Witch 2
+Silver 15
+Copper 8
+Gold 103
+Curse 9
+Thief 7
+Estate 10
+Silver 7
+Estate 5
+Province 8

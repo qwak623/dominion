@@ -1,0 +1,16 @@
+4
+18
+7
+6
+Gold 5
+Mine 2
+Silver 5
+Province 6
+Duchy 12
+Silver 7
+Silver 12
+Library 6
+Woodcutter 3
+Library 12
+Workshop 7
+ThroneRoom 5

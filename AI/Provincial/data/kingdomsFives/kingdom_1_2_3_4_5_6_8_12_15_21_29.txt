@@ -1,0 +1,16 @@
+3
+21
+7
+6
+Gold 101
+Mine 4
+Silver 6
+Silver 16
+Chancellor 2
+Gold 3
+Copper 11
+Adventurer 7
+Gold 6
+Province 9
+Feast 9
+Adventurer 8

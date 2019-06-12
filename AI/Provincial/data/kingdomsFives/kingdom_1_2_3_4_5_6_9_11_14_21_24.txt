@@ -1,0 +1,18 @@
+0
+11
+8
+6
+Gold 14
+Province 7
+Bureaucrat 3
+Gardens 7
+Duchy 8
+Gold 99
+Silver 3
+Remodel 4
+Mine 3
+Mine 4
+Bureaucrat 6
+Mine 5
+Duchy 8
+Silver 10

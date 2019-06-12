@@ -1,0 +1,15 @@
+6
+10
+6
+4
+Gold 9
+Province 3
+Silver 11
+Silver 5
+Copper 12
+Gold 1
+Festival 9
+Province 8
+Feast 8
+Province 12
+Gold 100

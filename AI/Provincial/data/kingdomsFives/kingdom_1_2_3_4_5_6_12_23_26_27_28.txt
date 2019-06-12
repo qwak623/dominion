@@ -1,0 +1,17 @@
+7
+12
+7
+7
+Gold 8
+Province 9
+Silver 7
+Gold 102
+Silver 16
+Copper 9
+Copper 9
+Feast 8
+Moneylender 3
+Duchy 10
+Gold 12
+Spy 9
+Estate 6

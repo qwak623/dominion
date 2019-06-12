@@ -1,0 +1,16 @@
+3
+10
+6
+6
+Gold 103
+Adventurer 12
+CouncilRoom 11
+Silver 11
+Bureaucrat 8
+Province 10
+Duchy 2
+Copper 8
+Adventurer 5
+Estate 11
+Silver 4
+Spy 9

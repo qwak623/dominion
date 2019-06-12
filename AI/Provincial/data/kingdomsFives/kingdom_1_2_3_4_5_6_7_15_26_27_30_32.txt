@@ -1,0 +1,16 @@
+5
+14
+8
+8
+Witch 5
+Gold 10
+Silver 10
+Spy 8
+Copper 4
+Estate 10
+Gold 7
+Province 5
+Curse 101
+Copper 8
+Thief 9
+Witch 3

@@ -1,0 +1,14 @@
+1
+11
+6
+5
+Gold 99
+Province 4
+Silver 5
+Smithy 6
+Silver 13
+Gold 6
+Moat 6
+Militia 7
+Copper 8
+Estate 5

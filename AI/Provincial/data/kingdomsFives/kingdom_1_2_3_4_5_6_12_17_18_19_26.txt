@@ -1,0 +1,15 @@
+6
+11
+6
+6
+Province 5
+Gold 100
+Silver 11
+Feast 5
+Copper 5
+Market 5
+Silver 6
+Laboratory 10
+Library 8
+Duchy 4
+Estate 8

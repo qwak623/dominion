@@ -1,0 +1,16 @@
+0
+10
+17
+8
+Silver 3
+Gardens 9
+Gold 6
+Gold 101
+Moat 5
+Estate 5
+Estate 3
+Woodcutter 5
+Duchy 7
+Workshop 9
+Woodcutter 12
+Copper 8

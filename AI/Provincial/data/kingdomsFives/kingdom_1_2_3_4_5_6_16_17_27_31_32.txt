@@ -1,0 +1,14 @@
+7
+14
+7
+6
+Gold 8
+Laboratory 7
+Thief 5
+Silver 11
+Duchy 4
+Woodcutter 4
+Silver 10
+Workshop 2
+Woodcutter 7
+Gold 100

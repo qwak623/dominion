@@ -1,0 +1,17 @@
+3
+11
+7
+4
+Province 1
+Province 4
+Province 8
+Gold 100
+Silver 12
+Copper 10
+Duchy 3
+Copper 4
+Laboratory 4
+Chancellor 2
+Village 11
+Feast 6
+Village 2

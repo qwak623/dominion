@@ -1,0 +1,19 @@
+5
+19
+7
+5
+Laboratory 10
+Province 8
+Bureaucrat 2
+Gold 102
+Silver 12
+Gold 13
+Silver 11
+Chapel 8
+Silver 9
+Estate 5
+Remodel 3
+Chapel 4
+Province 3
+Copper 3
+Bureaucrat 9

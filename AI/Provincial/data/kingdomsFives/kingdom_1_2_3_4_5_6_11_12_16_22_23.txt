@@ -1,0 +1,14 @@
+0
+16
+6
+4
+Province 7
+Gold 10
+Silver 12
+Feast 11
+Moat 6
+Moneylender 11
+CouncilRoom 9
+Gold 99
+Province 4
+Silver 10

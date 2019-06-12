@@ -1,0 +1,20 @@
+5
+5
+8
+7
+Silver 5
+Market 4
+Province 10
+Gardens 102
+Duchy 11
+Silver 13
+Province 9
+ThroneRoom 8
+Copper 4
+Estate 9
+Gold 11
+Estate 3
+Estate 6
+Copper 7
+ThroneRoom 6
+Gardens 8

@@ -1,0 +1,16 @@
+4
+14
+7
+6
+Library 2
+Gold 8
+Province 11
+Silver 10
+Moneylender 9
+Silver 101
+Province 5
+Cellar 10
+Militia 9
+Workshop 6
+Copper 9
+Silver 10

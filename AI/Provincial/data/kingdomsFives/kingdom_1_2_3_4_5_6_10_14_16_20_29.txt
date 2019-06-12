@@ -1,0 +1,18 @@
+3
+11
+19
+8
+Province 5
+Gardens 13
+Gold 103
+Province 10
+Silver 11
+Copper 4
+Estate 7
+Militia 4
+Village 9
+Gold 8
+Silver 12
+Chapel 4
+Estate 3
+Cellar 7

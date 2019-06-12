@@ -1,0 +1,16 @@
+6
+14
+6
+5
+Silver 1
+Province 7
+Gold 100
+Silver 12
+Gold 11
+Festival 9
+Gold 7
+ThroneRoom 4
+Chancellor 6
+Province 3
+Mine 12
+Duchy 6

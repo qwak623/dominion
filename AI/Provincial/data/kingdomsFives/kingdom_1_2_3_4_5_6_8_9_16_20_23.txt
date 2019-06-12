@@ -1,0 +1,19 @@
+5
+14
+6
+5
+Gold 9
+Chapel 1
+Silver 8
+Silver 4
+Copper 7
+Bureaucrat 7
+Silver 12
+Chapel 8
+Bureaucrat 8
+Gold 5
+Adventurer 8
+Militia 11
+Adventurer 9
+Moneylender 5
+Gold 100

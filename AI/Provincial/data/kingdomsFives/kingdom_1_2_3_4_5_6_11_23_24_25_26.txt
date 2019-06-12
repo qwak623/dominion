@@ -1,0 +1,18 @@
+2
+13
+7
+6
+Smithy 2
+Province 6
+Gold 102
+Silver 12
+Spy 5
+Spy 7
+Remodel 4
+Copper 5
+Copper 3
+Estate 6
+Estate 5
+Moneylender 11
+Silver 9
+CouncilRoom 3

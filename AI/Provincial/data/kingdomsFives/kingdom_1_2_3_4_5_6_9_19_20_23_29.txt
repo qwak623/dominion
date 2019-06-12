@@ -1,0 +1,13 @@
+2
+15
+8
+5
+Gold 8
+Bureaucrat 2
+Market 100
+Silver 10
+Village 4
+Copper 2
+Bureaucrat 13
+Militia 12
+Gold 13

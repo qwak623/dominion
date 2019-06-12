@@ -1,0 +1,13 @@
+7
+12
+7
+3
+Gold 5
+Province 9
+Silver 11
+Gold 101
+Silver 12
+Workshop 5
+Moat 16
+Moat 5
+Estate 5

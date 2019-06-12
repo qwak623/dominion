@@ -1,0 +1,15 @@
+2
+10
+8
+8
+Bureaucrat 5
+Estate 1
+Gardens 11
+Feast 1
+Duchy 11
+Silver 12
+Bureaucrat 6
+Moneylender 12
+Feast 5
+Gold 102
+Copper 9

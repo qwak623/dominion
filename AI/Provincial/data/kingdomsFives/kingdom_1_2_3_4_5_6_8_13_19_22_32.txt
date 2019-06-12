@@ -1,0 +1,17 @@
+2
+11
+5
+5
+Gold 103
+Adventurer 9
+Adventurer 12
+Gold 9
+Market 3
+Province 9
+Silver 2
+Silver 10
+Moat 2
+Estate 6
+Silver 11
+Gold 7
+Market 7

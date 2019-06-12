@@ -1,0 +1,16 @@
+7
+15
+8
+8
+Festival 3
+Silver 3
+Province 9
+Gardens 7
+Duchy 8
+Silver 14
+Workshop 13
+Duchy 5
+Copper 13
+Estate 9
+CouncilRoom 9
+Militia 5

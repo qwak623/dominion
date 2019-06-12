@@ -1,0 +1,15 @@
+6
+13
+7
+5
+Gold 106
+Silver 7
+Province 3
+Province 8
+CouncilRoom 5
+Silver 11
+Village 12
+Woodcutter 10
+Cellar 5
+Gold 9
+Copper 6

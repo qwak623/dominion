@@ -1,0 +1,16 @@
+7
+12
+7
+8
+Silver 12
+Gold 2
+Silver 9
+Estate 10
+Gold 99
+Copper 6
+Library 4
+Feast 4
+Duchy 11
+Duchy 7
+Workshop 4
+Smithy 10

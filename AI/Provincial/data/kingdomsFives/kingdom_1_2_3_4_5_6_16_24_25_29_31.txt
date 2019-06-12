@@ -1,0 +1,14 @@
+1
+11
+5
+4
+Smithy 2
+Province 13
+Gold 101
+Gold 6
+Silver 10
+Woodcutter 4
+Copper 8
+Smithy 9
+Silver 10
+Estate 12

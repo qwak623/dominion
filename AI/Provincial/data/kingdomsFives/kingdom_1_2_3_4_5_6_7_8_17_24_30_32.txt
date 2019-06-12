@@ -1,0 +1,15 @@
+4
+14
+8
+7
+Gold 12
+Witch 9
+Silver 9
+Workshop 11
+Adventurer 3
+Copper 7
+Gold 102
+Silver 11
+Gold 5
+Duchy 3
+Province 5

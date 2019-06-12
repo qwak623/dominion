@@ -1,0 +1,12 @@
+7
+17
+8
+7
+Gold 103
+Witch 10
+Silver 16
+Bureaucrat 11
+Witch 4
+Silver 11
+Remodel 7
+Province 13

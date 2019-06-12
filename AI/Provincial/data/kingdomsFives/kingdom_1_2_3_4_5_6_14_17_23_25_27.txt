@@ -1,0 +1,20 @@
+7
+12
+6
+5
+Gold 10
+Laboratory 9
+Silver 15
+Gold 10
+Laboratory 9
+Duchy 11
+Silver 3
+Thief 10
+Thief 9
+Gold 99
+Laboratory 5
+Province 4
+Laboratory 10
+Province 11
+Thief 3
+Gold 5

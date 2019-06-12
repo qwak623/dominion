@@ -1,0 +1,12 @@
+2
+9
+6
+5
+Province 5
+Gold 11
+Silver 10
+Silver 11
+Copper 3
+Estate 5
+Gold 100
+Chancellor 2

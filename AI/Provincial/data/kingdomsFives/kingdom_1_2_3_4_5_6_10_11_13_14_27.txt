@@ -1,0 +1,15 @@
+3
+14
+8
+8
+Gold 100
+Festival 2
+Gardens 12
+Duchy 5
+Silver 12
+CouncilRoom 3
+Province 6
+Gold 7
+Silver 10
+Copper 14
+Festival 7

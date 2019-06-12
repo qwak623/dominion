@@ -1,0 +1,15 @@
+3
+10
+14
+8
+Duchy 10
+Gold 5
+Witch 10
+Silver 9
+Laboratory 6
+Feast 13
+Laboratory 5
+Witch 7
+Gold 100
+Copper 2
+Workshop 12

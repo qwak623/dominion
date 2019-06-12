@@ -1,0 +1,19 @@
+7
+11
+8
+8
+Witch 9
+Province 5
+Duchy 6
+Silver 11
+Copper 7
+Estate 5
+Curse 11
+Laboratory 5
+ThroneRoom 4
+ThroneRoom 8
+Witch 5
+Market 6
+Curse 7
+Gold 102
+Gold 7

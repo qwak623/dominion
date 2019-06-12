@@ -1,0 +1,16 @@
+5
+15
+8
+8
+Gold 4
+Gold 100
+Witch 11
+Silver 10
+Copper 8
+Curse 1
+Gold 12
+Gold 5
+Estate 9
+Smithy 11
+Silver 12
+Workshop 4

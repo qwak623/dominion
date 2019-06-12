@@ -1,0 +1,14 @@
+2
+10
+7
+4
+CouncilRoom 1
+Province 2
+Province 5
+Gold 100
+Silver 4
+Province 13
+Silver 14
+Festival 5
+Duchy 11
+Silver 4

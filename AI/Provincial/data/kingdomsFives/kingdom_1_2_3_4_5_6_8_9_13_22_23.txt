@@ -1,0 +1,17 @@
+0
+11
+8
+4
+Gold 6
+Gold 2
+Bureaucrat 6
+Gold 100
+Silver 14
+Silver 3
+Moneylender 1
+Duchy 3
+Copper 5
+Estate 10
+Festival 8
+Duchy 4
+Silver 11

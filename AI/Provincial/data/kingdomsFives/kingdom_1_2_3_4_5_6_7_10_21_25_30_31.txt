@@ -1,0 +1,15 @@
+1
+15
+8
+8
+Gold 103
+Witch 2
+Silver 12
+Duchy 7
+Duchy 9
+Smithy 6
+Silver 9
+Province 11
+Gold 6
+Woodcutter 1
+Woodcutter 4

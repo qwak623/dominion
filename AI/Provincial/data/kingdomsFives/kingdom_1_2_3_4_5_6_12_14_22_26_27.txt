@@ -1,0 +1,16 @@
+7
+13
+13
+8
+Silver 4
+Gardens 11
+Province 12
+Estate 11
+Silver 12
+Gold 99
+Moat 5
+Spy 6
+Copper 13
+Feast 12
+Duchy 6
+Gold 3

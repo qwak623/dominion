@@ -1,0 +1,12 @@
+6
+17
+13
+6
+Bureaucrat 2
+Chapel 2
+Gold 103
+Silver 5
+Silver 13
+Province 8
+Adventurer 10
+Village 7

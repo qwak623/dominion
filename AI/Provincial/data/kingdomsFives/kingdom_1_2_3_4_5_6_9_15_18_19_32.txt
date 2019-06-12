@@ -1,0 +1,14 @@
+5
+13
+5
+5
+Gold 101
+Library 8
+Silver 11
+Duchy 12
+Province 3
+Chancellor 4
+Market 9
+Workshop 9
+Bureaucrat 6
+Gold 3

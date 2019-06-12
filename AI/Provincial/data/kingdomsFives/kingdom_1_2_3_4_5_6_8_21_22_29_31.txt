@@ -1,0 +1,19 @@
+0
+14
+5
+5
+Gold 6
+Province 8
+Gold 100
+Silver 3
+Silver 11
+Moat 2
+Copper 6
+Mine 5
+Estate 4
+Silver 10
+Woodcutter 8
+Mine 10
+Duchy 1
+Copper 4
+Estate 11

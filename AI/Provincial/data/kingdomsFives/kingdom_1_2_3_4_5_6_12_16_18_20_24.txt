@@ -1,0 +1,16 @@
+1
+14
+5
+5
+Gold 6
+Silver 11
+Silver 8
+Feast 5
+Remodel 9
+Chapel 4
+Gold 100
+Gold 10
+Feast 3
+Estate 12
+Copper 10
+Militia 9

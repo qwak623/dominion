@@ -1,0 +1,18 @@
+5
+12
+6
+4
+Gold 6
+Province 5
+Laboratory 7
+Militia 9
+Militia 8
+Duchy 12
+Gold 100
+Gold 6
+Silver 4
+Market 4
+Market 13
+Laboratory 2
+Silver 12
+Remodel 7

@@ -1,0 +1,16 @@
+4
+10
+8
+8
+Bureaucrat 5
+Duchy 11
+Province 8
+Gold 103
+Witch 9
+Gold 8
+Silver 6
+Silver 13
+ThroneRoom 6
+Province 8
+Duchy 9
+ThroneRoom 8

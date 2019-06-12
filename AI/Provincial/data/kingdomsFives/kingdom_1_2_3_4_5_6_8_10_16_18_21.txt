@@ -1,0 +1,15 @@
+5
+20
+6
+6
+Province 5
+Gold 100
+Library 5
+Adventurer 5
+Silver 9
+Cellar 6
+Mine 11
+Estate 11
+Estate 9
+Silver 13
+Estate 11

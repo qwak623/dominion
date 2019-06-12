@@ -1,0 +1,17 @@
+1
+12
+6
+6
+Gold 6
+Gold 102
+Silver 11
+Silver 3
+Adventurer 9
+Festival 6
+Village 12
+Adventurer 7
+Copper 6
+Duchy 2
+Festival 7
+Estate 5
+Market 11

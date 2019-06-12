@@ -1,0 +1,14 @@
+7
+10
+8
+8
+Gold 100
+Laboratory 5
+Bureaucrat 7
+Cellar 1
+CouncilRoom 10
+Gold 13
+Market 9
+Duchy 14
+Silver 4
+Silver 11

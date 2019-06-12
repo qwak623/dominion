@@ -1,0 +1,16 @@
+2
+13
+8
+8
+Gold 99
+Witch 4
+Silver 4
+Duchy 10
+Silver 13
+Market 6
+Market 10
+Library 8
+Gold 3
+Province 7
+Thief 7
+Woodcutter 5

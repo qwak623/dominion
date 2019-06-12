@@ -1,0 +1,15 @@
+3
+8
+7
+7
+Militia 2
+Province 9
+Gold 12
+Gold 105
+Witch 9
+Silver 11
+Moneylender 7
+Witch 8
+Copper 8
+Militia 6
+Curse 9

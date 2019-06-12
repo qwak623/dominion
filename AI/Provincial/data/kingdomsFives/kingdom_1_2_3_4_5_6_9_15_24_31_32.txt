@@ -1,0 +1,15 @@
+2
+15
+21
+8
+Gold 9
+Silver 13
+Chancellor 8
+Copper 9
+Province 3
+Chancellor 6
+Woodcutter 6
+Woodcutter 4
+Silver 10
+Bureaucrat 8
+Gold 12

@@ -1,0 +1,15 @@
+2
+14
+8
+8
+Gold 13
+Province 12
+Gold 101
+CouncilRoom 8
+Silver 10
+Woodcutter 8
+Gold 10
+Duchy 11
+Copper 8
+Copper 10
+Estate 10

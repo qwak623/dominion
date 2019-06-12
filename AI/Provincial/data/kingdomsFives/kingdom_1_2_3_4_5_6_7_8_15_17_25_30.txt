@@ -1,0 +1,18 @@
+0
+10
+8
+7
+Gold 100
+Gold 11
+Witch 11
+Province 8
+Laboratory 3
+Witch 7
+Gold 8
+Silver 9
+Copper 2
+Copper 11
+Chancellor 4
+Curse 11
+Silver 12
+Estate 13

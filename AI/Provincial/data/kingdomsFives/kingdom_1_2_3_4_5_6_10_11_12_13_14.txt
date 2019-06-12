@@ -1,0 +1,15 @@
+1
+12
+17
+7
+Duchy 5
+Feast 3
+Gardens 6
+Gold 102
+Duchy 3
+Silver 4
+Gold 10
+Copper 2
+Estate 8
+Festival 12
+Copper 8

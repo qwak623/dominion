@@ -1,0 +1,16 @@
+0
+14
+7
+6
+Gold 10
+Mine 8
+Silver 3
+Silver 11
+Copper 100
+Silver 13
+Duchy 6
+Chapel 9
+Estate 7
+Copper 7
+Silver 8
+Militia 6

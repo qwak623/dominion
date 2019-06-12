@@ -1,0 +1,15 @@
+6
+13
+7
+6
+Province 14
+Gold 13
+Witch 11
+Silver 15
+Duchy 7
+Feast 12
+Gold 101
+Chapel 4
+Copper 6
+Curse 8
+Province 6

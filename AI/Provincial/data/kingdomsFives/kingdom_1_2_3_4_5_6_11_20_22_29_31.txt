@@ -1,0 +1,16 @@
+0
+13
+13
+6
+Gold 6
+Gold 101
+CouncilRoom 10
+Duchy 10
+Silver 14
+Province 4
+Silver 10
+Woodcutter 6
+Gold 9
+Moat 1
+Militia 10
+Province 11

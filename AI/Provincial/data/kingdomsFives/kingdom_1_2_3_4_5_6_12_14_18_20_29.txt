@@ -1,0 +1,15 @@
+1
+12
+8
+7
+Gold 100
+Militia 4
+Gardens 8
+Duchy 12
+Silver 10
+Feast 7
+Silver 10
+Province 12
+Village 9
+Copper 6
+Estate 6

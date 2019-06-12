@@ -1,0 +1,15 @@
+6
+18
+7
+6
+Gold 6
+Witch 2
+Silver 10
+Duchy 4
+Mine 7
+Gardens 3
+Gold 100
+Province 6
+Workshop 9
+Silver 7
+Copper 1

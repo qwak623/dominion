@@ -1,0 +1,15 @@
+1
+18
+8
+8
+Gold 104
+Witch 13
+Gold 2
+Silver 12
+Copper 11
+Militia 12
+Curse 4
+Province 6
+Workshop 8
+Duchy 7
+Witch 15

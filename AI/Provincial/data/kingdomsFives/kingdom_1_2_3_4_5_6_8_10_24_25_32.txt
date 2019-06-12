@@ -1,0 +1,18 @@
+0
+15
+7
+4
+Gold 102
+Silver 9
+Province 11
+Gold 2
+Smithy 8
+Cellar 3
+Copper 10
+Estate 4
+Remodel 1
+Gold 11
+Workshop 4
+Workshop 3
+Adventurer 6
+Silver 10

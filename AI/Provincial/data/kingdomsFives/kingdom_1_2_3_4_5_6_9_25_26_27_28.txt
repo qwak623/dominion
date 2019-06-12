@@ -1,0 +1,15 @@
+0
+15
+7
+6
+Gold 102
+Gold 15
+Bureaucrat 3
+Smithy 1
+Silver 9
+ThroneRoom 7
+Spy 6
+ThroneRoom 4
+Province 8
+Silver 14
+Silver 1

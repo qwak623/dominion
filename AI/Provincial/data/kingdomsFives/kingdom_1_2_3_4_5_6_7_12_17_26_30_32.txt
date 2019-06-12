@@ -1,0 +1,16 @@
+1
+10
+7
+5
+Witch 10
+Province 5
+Silver 11
+Copper 2
+Silver 8
+Estate 2
+Feast 5
+Gold 102
+Laboratory 9
+Curse 6
+Duchy 11
+Estate 11

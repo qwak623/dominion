@@ -1,0 +1,17 @@
+0
+10
+7
+5
+Adventurer 1
+Province 5
+Gold 8
+Silver 11
+Gold 5
+Gold 101
+Silver 3
+Adventurer 10
+Duchy 11
+Silver 5
+Village 4
+Feast 7
+Spy 9

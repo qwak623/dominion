@@ -1,0 +1,18 @@
+0
+10
+8
+6
+Province 6
+Gold 8
+Bureaucrat 2
+Silver 11
+Militia 3
+Silver 7
+Copper 8
+Estate 9
+Copper 10
+Bureaucrat 4
+Gold 2
+Gold 102
+Estate 6
+Chancellor 9

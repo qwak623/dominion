@@ -1,0 +1,15 @@
+7
+12
+7
+5
+Province 13
+Gold 99
+Mine 4
+Gold 2
+Silver 11
+Silver 6
+Moneylender 10
+Library 10
+Duchy 4
+Moneylender 8
+Province 9

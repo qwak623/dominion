@@ -1,0 +1,16 @@
+3
+14
+6
+3
+Gold 4
+Province 9
+Silver 7
+Gardens 7
+Silver 11
+Moneylender 5
+Adventurer 3
+Gardens 11
+Gold 101
+Gold 3
+Moneylender 5
+Gardens 13

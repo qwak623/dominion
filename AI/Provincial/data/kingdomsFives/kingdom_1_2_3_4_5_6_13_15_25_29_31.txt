@@ -1,0 +1,15 @@
+5
+9
+6
+6
+Gold 14
+Smithy 2
+Silver 12
+Smithy 10
+Silver 8
+Gold 100
+Gold 5
+Smithy 9
+Village 12
+Smithy 2
+Duchy 6

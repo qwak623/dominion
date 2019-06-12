@@ -1,0 +1,19 @@
+6
+14
+7
+7
+Silver 13
+Province 7
+Duchy 8
+CouncilRoom 10
+Market 9
+Silver 3
+Copper 10
+Market 3
+Copper 10
+Workshop 6
+CouncilRoom 6
+Thief 7
+Silver 1
+Estate 11
+Workshop 10

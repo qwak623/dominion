@@ -1,0 +1,17 @@
+6
+15
+6
+6
+Gold 102
+CouncilRoom 10
+Silver 13
+Adventurer 6
+Copper 8
+Estate 6
+Gold 5
+Estate 12
+Thief 6
+Silver 8
+Feast 9
+Smithy 9
+Gold 6

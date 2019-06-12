@@ -1,0 +1,20 @@
+6
+8
+5
+5
+Province 5
+Gold 9
+Gold 7
+Copper 1
+Gold 99
+Library 12
+Library 3
+Silver 11
+Library 9
+Silver 4
+Feast 5
+Market 6
+Smithy 13
+Duchy 9
+Feast 4
+Adventurer 8

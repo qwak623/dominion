@@ -1,0 +1,17 @@
+4
+10
+7
+4
+Province 11
+Gold 6
+Silver 10
+Gardens 9
+CouncilRoom 8
+Laboratory 10
+Duchy 12
+Woodcutter 8
+Province 6
+Feast 5
+Gold 99
+Silver 14
+CouncilRoom 4

@@ -1,0 +1,15 @@
+4
+14
+8
+7
+Gold 101
+Witch 13
+Adventurer 3
+Witch 8
+Silver 9
+Silver 14
+Silver 5
+Workshop 3
+Duchy 6
+Militia 2
+Duchy 10

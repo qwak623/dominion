@@ -1,0 +1,16 @@
+1
+11
+6
+4
+Market 2
+Gold 3
+Silver 7
+Gardens 2
+Gardens 100
+Province 10
+Duchy 8
+Festival 5
+Province 1
+Silver 14
+Gold 5
+Province 5

@@ -1,0 +1,13 @@
+4
+12
+19
+8
+Gold 8
+Silver 7
+Smithy 4
+Silver 12
+Remodel 6
+Thief 7
+Duchy 9
+Gold 104
+Silver 4

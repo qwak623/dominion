@@ -1,0 +1,20 @@
+7
+15
+6
+3
+Library 2
+Gold 11
+Silver 9
+Library 3
+Silver 11
+Market 7
+Library 11
+Copper 8
+Market 1
+Feast 5
+Province 7
+Copper 5
+Duchy 12
+Gold 102
+Duchy 10
+Smithy 3

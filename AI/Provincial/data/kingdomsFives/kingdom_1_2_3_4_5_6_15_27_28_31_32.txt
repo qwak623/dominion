@@ -1,0 +1,13 @@
+1
+12
+6
+4
+Gold 104
+Province 11
+Gold 10
+Silver 8
+Silver 11
+Workshop 5
+Woodcutter 4
+Duchy 4
+Woodcutter 9

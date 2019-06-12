@@ -1,0 +1,12 @@
+7
+15
+7
+7
+Bureaucrat 2
+Gold 5
+Laboratory 10
+Silver 10
+Remodel 8
+Copper 11
+Estate 4
+Mine 10

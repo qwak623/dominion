@@ -1,0 +1,17 @@
+3
+17
+16
+8
+Province 4
+Silver 9
+Gardens 9
+Duchy 101
+Duchy 3
+Estate 7
+Province 12
+Village 12
+Chapel 2
+Duchy 11
+Gardens 3
+Moneylender 7
+Village 2

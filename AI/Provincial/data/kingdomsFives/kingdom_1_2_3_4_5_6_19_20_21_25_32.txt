@@ -1,0 +1,16 @@
+0
+10
+14
+6
+Workshop 3
+Duchy 7
+Gold 100
+Province 6
+Silver 9
+Market 2
+Militia 10
+Silver 10
+Silver 7
+Duchy 11
+Silver 14
+Mine 3

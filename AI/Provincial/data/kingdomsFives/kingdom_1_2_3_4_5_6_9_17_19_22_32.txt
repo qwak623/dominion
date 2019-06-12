@@ -1,0 +1,13 @@
+6
+10
+7
+6
+Province 5
+Estate 1
+Gold 7
+Gold 101
+Laboratory 7
+Bureaucrat 13
+Duchy 7
+Market 10
+Silver 15

@@ -1,0 +1,14 @@
+4
+14
+8
+7
+Gold 103
+Witch 9
+Province 7
+Silver 10
+Moat 4
+Chancellor 7
+Silver 3
+Duchy 9
+ThroneRoom 5
+Curse 2

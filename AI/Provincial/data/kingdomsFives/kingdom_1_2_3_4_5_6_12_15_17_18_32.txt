@@ -1,0 +1,15 @@
+0
+4
+8
+8
+Province 8
+Gold 100
+Library 8
+Silver 11
+Estate 7
+Library 13
+Duchy 3
+Gold 15
+Feast 3
+Laboratory 10
+Copper 9

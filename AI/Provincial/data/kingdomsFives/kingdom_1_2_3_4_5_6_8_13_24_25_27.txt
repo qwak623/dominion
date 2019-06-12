@@ -1,0 +1,16 @@
+3
+13
+6
+6
+Smithy 1
+Gold 6
+Silver 6
+Silver 10
+Copper 6
+Silver 13
+Copper 9
+Gold 101
+Estate 7
+Duchy 4
+Smithy 6
+Festival 7

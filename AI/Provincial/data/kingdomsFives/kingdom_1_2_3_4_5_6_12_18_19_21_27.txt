@@ -1,0 +1,14 @@
+7
+13
+6
+4
+Gold 6
+Province 8
+Library 9
+Mine 99
+Market 6
+Duchy 13
+Market 9
+Silver 13
+Feast 10
+Thief 5

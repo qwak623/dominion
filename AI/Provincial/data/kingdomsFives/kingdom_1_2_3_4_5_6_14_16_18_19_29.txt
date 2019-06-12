@@ -1,0 +1,15 @@
+5
+15
+5
+5
+Gold 10
+Gold 1
+Gold 7
+Market 11
+Silver 11
+Gold 100
+Chapel 6
+Copper 2
+Estate 7
+Village 4
+Gardens 7

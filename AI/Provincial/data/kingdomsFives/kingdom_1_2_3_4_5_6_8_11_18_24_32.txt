@@ -1,0 +1,15 @@
+1
+14
+6
+6
+Province 9
+Library 1
+Gold 7
+Silver 14
+Library 99
+Adventurer 9
+Duchy 10
+Library 5
+Province 4
+Workshop 8
+CouncilRoom 8

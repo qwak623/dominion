@@ -1,0 +1,16 @@
+5
+14
+7
+7
+Province 14
+Gold 101
+Silver 10
+Silver 11
+Gold 5
+Workshop 7
+Copper 3
+Estate 3
+Spy 10
+Gold 12
+Workshop 5
+Province 2

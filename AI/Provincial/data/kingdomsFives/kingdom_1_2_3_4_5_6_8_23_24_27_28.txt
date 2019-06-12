@@ -1,0 +1,15 @@
+0
+15
+8
+8
+Adventurer 2
+Province 1
+Adventurer 4
+Gold 101
+Province 10
+Silver 12
+ThroneRoom 11
+Gold 5
+Copper 6
+Moneylender 7
+Estate 10

@@ -1,0 +1,17 @@
+1
+15
+8
+8
+Gold 11
+Witch 2
+Province 4
+Silver 11
+Workshop 3
+Province 8
+CouncilRoom 4
+CouncilRoom 15
+Copper 9
+Remodel 1
+CouncilRoom 103
+Estate 2
+Estate 11

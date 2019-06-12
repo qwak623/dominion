@@ -1,0 +1,16 @@
+4
+10
+17
+5
+Province 7
+Gold 102
+Witch 3
+Silver 14
+Workshop 13
+Copper 5
+Gold 8
+Province 3
+Feast 5
+Curse 3
+Estate 8
+Silver 12

@@ -1,0 +1,15 @@
+2
+12
+7
+7
+Province 7
+Mine 3
+Silver 3
+Gold 101
+Silver 12
+Workshop 2
+Copper 10
+Duchy 7
+Chancellor 7
+Woodcutter 7
+Thief 8

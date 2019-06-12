@@ -1,0 +1,17 @@
+7
+9
+14
+8
+Duchy 6
+Province 4
+Woodcutter 3
+Gardens 7
+Silver 10
+Gardens 8
+Gold 100
+Silver 10
+Copper 6
+Copper 7
+Duchy 6
+Thief 4
+Gold 7

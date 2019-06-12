@@ -1,0 +1,16 @@
+6
+16
+7
+5
+Gold 12
+Thief 1
+Silver 8
+Gold 99
+Duchy 7
+Silver 15
+Copper 4
+Duchy 11
+Woodcutter 2
+Gold 8
+Woodcutter 6
+Estate 11

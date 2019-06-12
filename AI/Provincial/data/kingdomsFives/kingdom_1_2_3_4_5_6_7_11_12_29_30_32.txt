@@ -1,0 +1,15 @@
+3
+9
+8
+8
+Witch 5
+Province 13
+Gold 100
+Silver 10
+Silver 12
+Gold 5
+Feast 4
+CouncilRoom 10
+Village 4
+Workshop 4
+Province 6

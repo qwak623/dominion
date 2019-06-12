@@ -1,0 +1,19 @@
+0
+11
+17
+7
+Gold 10
+Silver 11
+Gold 5
+Moat 8
+Silver 12
+Estate 8
+Moat 3
+Moat 5
+Remodel 102
+Chapel 9
+Chapel 8
+Chapel 3
+ThroneRoom 5
+Duchy 7
+Province 6

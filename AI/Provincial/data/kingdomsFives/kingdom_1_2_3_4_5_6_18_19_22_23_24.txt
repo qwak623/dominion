@@ -1,0 +1,14 @@
+7
+13
+5
+5
+Province 12
+Gold 9
+Market 13
+Silver 11
+Moat 4
+Duchy 11
+Library 10
+Gold 100
+Remodel 9
+Estate 6

@@ -1,0 +1,16 @@
+6
+14
+14
+8
+Gardens 11
+Silver 6
+Copper 5
+Estate 7
+Market 10
+Duchy 12
+Province 8
+Laboratory 9
+Gardens 6
+Gold 103
+Thief 10
+Silver 17

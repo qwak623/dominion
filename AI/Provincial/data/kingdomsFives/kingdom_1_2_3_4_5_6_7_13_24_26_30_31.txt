@@ -1,0 +1,18 @@
+3
+15
+8
+8
+Witch 4
+Gold 9
+Silver 6
+Festival 7
+Silver 12
+Gold 102
+Duchy 4
+Woodcutter 8
+Spy 2
+Festival 9
+Festival 10
+Province 1
+Silver 7
+Remodel 3

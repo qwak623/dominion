@@ -1,0 +1,20 @@
+5
+18
+8
+6
+Province 11
+Gold 6
+Witch 9
+Province 12
+Silver 12
+Adventurer 11
+Moat 5
+Chancellor 6
+Gold 4
+Moat 7
+Silver 11
+Duchy 10
+Silver 6
+Gold 102
+Witch 5
+Adventurer 3

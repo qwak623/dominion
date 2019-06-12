@@ -1,0 +1,16 @@
+5
+16
+14
+7
+Gold 8
+Duchy 9
+Province 9
+Library 9
+Silver 13
+Chancellor 2
+Bureaucrat 8
+Gold 102
+Copper 9
+Chapel 3
+Remodel 4
+Silver 11

@@ -1,0 +1,19 @@
+2
+11
+14
+8
+Province 3
+Duchy 10
+Province 15
+Witch 9
+Gold 3
+Silver 10
+Library 7
+Market 4
+Copper 9
+Gold 102
+Curse 9
+Silver 11
+Province 1
+Workshop 9
+Library 12

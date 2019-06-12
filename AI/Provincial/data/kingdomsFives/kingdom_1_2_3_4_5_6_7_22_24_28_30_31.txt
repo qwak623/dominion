@@ -1,0 +1,15 @@
+5
+15
+8
+7
+Province 6
+Gold 5
+Witch 12
+Duchy 4
+Gold 101
+Moat 1
+Silver 17
+Province 5
+Woodcutter 12
+ThroneRoom 4
+Duchy 4

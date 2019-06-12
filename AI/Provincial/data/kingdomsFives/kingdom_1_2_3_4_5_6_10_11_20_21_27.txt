@@ -1,0 +1,14 @@
+3
+16
+8
+4
+Province 14
+Gold 5
+Gold 6
+Mine 6
+CouncilRoom 12
+Gold 100
+Silver 12
+Copper 3
+Thief 6
+Militia 14

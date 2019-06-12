@@ -1,0 +1,19 @@
+2
+9
+8
+8
+Gold 6
+Witch 11
+CouncilRoom 1
+Gold 1
+Silver 13
+Copper 7
+Gold 102
+Province 11
+Duchy 11
+Laboratory 9
+Province 4
+Remodel 2
+Workshop 6
+Estate 7
+Gold 9

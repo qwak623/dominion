@@ -1,0 +1,16 @@
+0
+5
+11
+8
+Witch 10
+Gold 101
+Silver 14
+Cellar 11
+Curse 6
+Village 5
+Remodel 6
+Gold 6
+Curse 7
+Curse 9
+Duchy 8
+Curse 4

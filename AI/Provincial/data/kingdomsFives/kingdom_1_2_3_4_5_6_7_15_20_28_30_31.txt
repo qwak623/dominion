@@ -1,0 +1,19 @@
+7
+16
+16
+8
+Gold 5
+Province 14
+Witch 5
+Witch 100
+Silver 11
+Chancellor 9
+Duchy 3
+Copper 9
+Curse 9
+Witch 6
+Duchy 3
+Militia 7
+Copper 9
+Duchy 7
+Chancellor 11

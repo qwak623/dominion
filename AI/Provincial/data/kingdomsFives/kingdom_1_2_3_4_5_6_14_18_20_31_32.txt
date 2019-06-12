@@ -1,0 +1,16 @@
+0
+12
+6
+3
+Province 6
+Gold 11
+Library 8
+Duchy 4
+Gold 9
+Silver 6
+Gardens 6
+Woodcutter 9
+Duchy 9
+Copper 9
+Militia 7
+Silver 13

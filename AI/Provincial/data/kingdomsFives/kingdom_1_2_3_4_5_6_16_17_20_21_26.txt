@@ -1,0 +1,15 @@
+7
+17
+7
+4
+Gold 101
+Laboratory 10
+Laboratory 6
+Province 7
+Militia 8
+Duchy 8
+Silver 5
+Duchy 11
+Spy 10
+Mine 10
+Mine 5

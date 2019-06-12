@@ -1,0 +1,18 @@
+5
+12
+7
+4
+Gold 11
+Gold 101
+Silver 12
+Woodcutter 11
+Village 3
+Village 4
+ThroneRoom 9
+Province 4
+Woodcutter 9
+Adventurer 6
+Gold 10
+ThroneRoom 5
+Gold 4
+Province 12

@@ -1,0 +1,18 @@
+7
+10
+15
+8
+Gardens 8
+Duchy 2
+Silver 3
+Gardens 10
+Copper 7
+Estate 9
+Silver 10
+Gold 99
+Duchy 5
+Silver 13
+Smithy 7
+Smithy 1
+Smithy 7
+Copper 9

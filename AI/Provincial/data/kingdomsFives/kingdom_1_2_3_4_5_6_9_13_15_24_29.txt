@@ -1,0 +1,16 @@
+4
+12
+14
+8
+Bureaucrat 6
+Province 10
+Gold 4
+Silver 11
+Copper 9
+Province 10
+Estate 9
+Festival 3
+Gold 104
+Remodel 7
+Bureaucrat 7
+Bureaucrat 9

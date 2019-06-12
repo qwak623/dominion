@@ -1,0 +1,14 @@
+2
+12
+7
+5
+Gold 100
+Smithy 2
+Gold 10
+Silver 13
+Gold 7
+Village 3
+Feast 8
+Silver 4
+Province 6
+Silver 9

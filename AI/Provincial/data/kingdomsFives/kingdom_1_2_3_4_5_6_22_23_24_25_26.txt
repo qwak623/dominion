@@ -1,0 +1,15 @@
+6
+8
+5
+4
+Province 11
+Gold 102
+Silver 6
+Spy 10
+Moat 5
+Copper 7
+Smithy 11
+Moneylender 6
+Province 7
+Duchy 5
+Remodel 11

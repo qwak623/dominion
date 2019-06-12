@@ -1,0 +1,17 @@
+2
+15
+6
+3
+Province 7
+Province 2
+Gold 101
+Gold 7
+Gold 9
+Silver 13
+Silver 14
+Moat 3
+Woodcutter 8
+Woodcutter 8
+Copper 11
+Gold 9
+Smithy 8

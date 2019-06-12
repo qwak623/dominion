@@ -1,0 +1,14 @@
+6
+9
+8
+8
+Province 4
+Gold 101
+Silver 12
+Festival 11
+Market 6
+Province 6
+Moat 7
+Market 16
+Duchy 10
+Remodel 5

@@ -1,0 +1,14 @@
+6
+11
+5
+5
+Gold 100
+Library 6
+Silver 14
+Laboratory 4
+Cellar 10
+Mine 10
+Silver 6
+Copper 12
+Silver 13
+Gold 6

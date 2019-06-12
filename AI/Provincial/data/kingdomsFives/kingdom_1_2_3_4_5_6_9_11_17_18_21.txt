@@ -1,0 +1,17 @@
+0
+9
+7
+6
+Gold 5
+Province 6
+Gold 99
+Mine 3
+Estate 1
+Laboratory 12
+Duchy 2
+CouncilRoom 8
+Silver 3
+Library 2
+Silver 10
+Duchy 10
+Gold 10

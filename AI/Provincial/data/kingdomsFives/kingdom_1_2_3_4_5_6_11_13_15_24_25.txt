@@ -1,0 +1,17 @@
+1
+15
+8
+7
+Gold 5
+CouncilRoom 2
+Province 12
+Silver 10
+Remodel 7
+Silver 14
+Gold 103
+Smithy 7
+Smithy 6
+Copper 5
+Gold 2
+Silver 5
+Festival 3

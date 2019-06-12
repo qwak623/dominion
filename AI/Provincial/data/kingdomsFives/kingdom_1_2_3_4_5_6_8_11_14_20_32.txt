@@ -1,0 +1,17 @@
+3
+13
+5
+7
+Militia 2
+Gardens 9
+Duchy 7
+Silver 11
+Copper 4
+Estate 6
+Adventurer 9
+Estate 7
+Workshop 6
+Workshop 7
+Copper 7
+Copper 2
+Estate 12

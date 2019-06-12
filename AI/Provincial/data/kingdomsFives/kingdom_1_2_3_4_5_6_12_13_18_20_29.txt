@@ -1,0 +1,13 @@
+7
+16
+8
+5
+Gold 10
+Library 4
+Silver 10
+Gold 100
+Festival 4
+Duchy 11
+Copper 4
+Village 6
+Silver 7

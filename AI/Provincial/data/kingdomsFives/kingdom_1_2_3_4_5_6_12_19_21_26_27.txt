@@ -1,0 +1,17 @@
+6
+8
+8
+6
+Province 7
+Mine 2
+Gold 100
+Duchy 10
+Silver 4
+Spy 9
+Silver 12
+Copper 1
+Copper 4
+Market 10
+Feast 4
+Estate 11
+Thief 6

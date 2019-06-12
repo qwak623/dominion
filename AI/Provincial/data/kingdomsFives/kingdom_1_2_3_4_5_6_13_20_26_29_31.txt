@@ -1,0 +1,17 @@
+7
+11
+8
+7
+Province 10
+Gold 103
+Festival 8
+Militia 8
+Festival 4
+Province 2
+Silver 11
+Woodcutter 2
+Silver 12
+Gold 6
+Militia 3
+Spy 13
+Duchy 9

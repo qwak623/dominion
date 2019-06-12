@@ -1,0 +1,14 @@
+7
+13
+8
+8
+Witch 10
+Silver 5
+Estate 9
+Gold 7
+Gold 99
+Silver 9
+Estate 2
+Silver 12
+Copper 9
+Cellar 6

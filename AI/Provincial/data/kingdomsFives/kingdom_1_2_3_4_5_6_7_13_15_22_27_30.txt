@@ -1,0 +1,15 @@
+2
+8
+8
+8
+Province 9
+Gold 2
+Witch 5
+Gold 11
+Witch 8
+Silver 4
+Silver 11
+Thief 6
+Festival 14
+Copper 4
+Chancellor 3

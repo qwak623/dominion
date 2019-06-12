@@ -1,0 +1,17 @@
+2
+15
+7
+4
+Gold 100
+Silver 5
+Silver 6
+Silver 12
+Chapel 11
+Woodcutter 8
+Estate 9
+Estate 9
+Spy 6
+Woodcutter 10
+Province 1
+Spy 12
+Copper 7

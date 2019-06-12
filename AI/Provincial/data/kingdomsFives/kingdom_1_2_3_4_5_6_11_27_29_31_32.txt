@@ -1,0 +1,17 @@
+4
+15
+8
+5
+Gold 7
+Silver 13
+Workshop 6
+Copper 3
+CouncilRoom 8
+Silver 9
+Gold 3
+Thief 5
+Gold 102
+Copper 6
+Duchy 10
+Copper 9
+Workshop 10

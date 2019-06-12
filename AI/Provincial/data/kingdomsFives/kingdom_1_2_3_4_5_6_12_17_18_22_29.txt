@@ -1,0 +1,13 @@
+1
+13
+7
+7
+Province 102
+Gold 9
+Library 15
+Gold 8
+Silver 8
+Laboratory 10
+Duchy 8
+Silver 11
+Village 5

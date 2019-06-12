@@ -1,0 +1,16 @@
+1
+15
+6
+5
+Gold 5
+Silver 7
+Silver 13
+Adventurer 5
+Moat 3
+Estate 8
+Moat 7
+Moat 5
+Mine 11
+Duchy 8
+Gold 101
+Copper 4

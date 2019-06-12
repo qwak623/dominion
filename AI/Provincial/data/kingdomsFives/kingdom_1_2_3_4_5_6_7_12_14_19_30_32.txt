@@ -1,0 +1,20 @@
+6
+19
+8
+8
+Province 7
+Gold 10
+Gold 99
+Gold 1
+Gold 10
+Witch 10
+Silver 13
+Copper 8
+Curse 4
+Feast 9
+Silver 5
+Feast 7
+Gardens 10
+Copper 8
+Province 11
+Estate 9

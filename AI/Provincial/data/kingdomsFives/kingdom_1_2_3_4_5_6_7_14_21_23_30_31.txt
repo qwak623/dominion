@@ -1,0 +1,17 @@
+4
+14
+8
+8
+Woodcutter 5
+Gardens 101
+Duchy 7
+Silver 11
+Gold 5
+Gold 5
+Copper 14
+Gardens 10
+Witch 3
+Estate 5
+Gardens 3
+Mine 10
+Moneylender 4

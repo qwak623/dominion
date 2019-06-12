@@ -1,0 +1,16 @@
+4
+8
+17
+8
+Duchy 6
+Province 8
+Silver 12
+Gold 102
+Province 9
+Bureaucrat 11
+Gold 6
+Silver 9
+Workshop 5
+Feast 7
+Chapel 11
+Silver 6

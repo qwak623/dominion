@@ -1,0 +1,16 @@
+2
+15
+6
+4
+Gold 7
+Gold 5
+Gold 12
+Laboratory 4
+Silver 4
+Laboratory 6
+Silver 5
+Workshop 3
+Silver 11
+Bureaucrat 10
+Gold 100
+Feast 10

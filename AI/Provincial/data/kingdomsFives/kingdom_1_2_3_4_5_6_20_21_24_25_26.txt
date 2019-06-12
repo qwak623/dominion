@@ -1,0 +1,15 @@
+5
+17
+8
+8
+Province 7
+Gold 100
+Gold 6
+Mine 3
+Spy 4
+Silver 7
+Province 2
+Smithy 10
+Remodel 8
+Spy 9
+Silver 14

@@ -11,6 +11,8 @@ namespace AI.Evolution
         internal MutationSelector MutationSelector = new MutationSelector();
         public Evaluator Evaluator;
         public string Folder;
+        public bool Skip;
+        public int ParallelDegreeExt = -1, ParallelDegreeInt = -1;
 
         public int MinGames = 50;
         public int MaxGames = 100;

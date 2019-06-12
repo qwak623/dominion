@@ -1,0 +1,14 @@
+3
+14
+8
+5
+Moat 2
+Province 11
+Gold 100
+Silver 11
+Estate 7
+Silver 10
+Estate 7
+CouncilRoom 6
+Province 11
+Moat 12

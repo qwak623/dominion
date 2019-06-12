@@ -1,0 +1,19 @@
+5
+9
+8
+6
+Mine 1
+Province 8
+Gold 5
+Laboratory 7
+Gold 100
+Silver 14
+Copper 2
+Silver 7
+Gold 2
+Laboratory 4
+Laboratory 5
+Moneylender 7
+Duchy 9
+Moneylender 4
+Chancellor 3

@@ -1,0 +1,19 @@
+2
+18
+6
+6
+Gold 101
+Gold 2
+Silver 10
+Gold 3
+Moat 9
+ThroneRoom 6
+Woodcutter 11
+Province 6
+Province 5
+Moat 7
+Moat 5
+Estate 7
+Silver 8
+Woodcutter 10
+Duchy 11

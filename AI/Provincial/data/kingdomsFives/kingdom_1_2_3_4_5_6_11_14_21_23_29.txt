@@ -1,0 +1,18 @@
+1
+12
+7
+7
+CouncilRoom 5
+Gardens 9
+Duchy 14
+Mine 7
+Silver 11
+Silver 7
+Copper 12
+Mine 6
+Province 9
+Estate 11
+Moneylender 13
+Copper 5
+Gold 101
+Silver 4

@@ -1,0 +1,16 @@
+1
+16
+7
+6
+Gold 9
+Laboratory 9
+Duchy 11
+Gold 102
+Militia 8
+Silver 8
+Moneylender 7
+Cellar 8
+Estate 8
+Laboratory 4
+Silver 11
+Copper 11

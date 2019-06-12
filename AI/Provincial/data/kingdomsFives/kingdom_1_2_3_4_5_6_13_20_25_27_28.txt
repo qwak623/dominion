@@ -1,0 +1,19 @@
+0
+11
+17
+8
+Militia 5
+Gold 101
+Festival 5
+Silver 10
+Silver 3
+ThroneRoom 4
+Thief 4
+Province 17
+Duchy 14
+Duchy 8
+Festival 3
+Copper 3
+Militia 6
+Smithy 4
+Gold 11

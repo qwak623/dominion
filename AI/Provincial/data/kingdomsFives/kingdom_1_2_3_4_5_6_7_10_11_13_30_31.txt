@@ -1,0 +1,16 @@
+6
+12
+10
+8
+Province 8
+Witch 102
+Silver 13
+Silver 6
+Festival 6
+Festival 10
+Cellar 12
+CouncilRoom 7
+Copper 12
+Estate 5
+Woodcutter 3
+Silver 5

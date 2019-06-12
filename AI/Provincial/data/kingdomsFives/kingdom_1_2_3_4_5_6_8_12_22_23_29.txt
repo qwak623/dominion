@@ -1,0 +1,16 @@
+6
+11
+6
+3
+Province 7
+Silver 13
+Gold 5
+Adventurer 10
+Silver 3
+Moat 6
+Silver 6
+Estate 5
+Feast 10
+Adventurer 8
+Moneylender 5
+Feast 100

@@ -1,0 +1,15 @@
+4
+17
+6
+3
+Gold 4
+Silver 10
+Gardens 6
+Duchy 7
+Gold 9
+Gold 102
+Silver 11
+Laboratory 11
+Militia 8
+Laboratory 3
+Silver 4

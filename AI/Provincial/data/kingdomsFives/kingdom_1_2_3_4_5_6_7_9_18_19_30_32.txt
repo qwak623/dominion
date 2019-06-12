@@ -1,0 +1,17 @@
+6
+10
+8
+8
+Province 8
+Gold 99
+Witch 3
+Province 7
+Silver 12
+Copper 8
+Curse 9
+Duchy 11
+Estate 2
+Library 10
+Estate 3
+Workshop 4
+Curse 6

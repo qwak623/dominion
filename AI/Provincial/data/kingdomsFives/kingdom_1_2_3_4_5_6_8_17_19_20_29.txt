@@ -1,0 +1,15 @@
+6
+8
+5
+4
+Laboratory 10
+Province 9
+Gold 103
+Militia 2
+Market 6
+Silver 12
+Gold 9
+Village 10
+Adventurer 3
+Duchy 7
+Market 10

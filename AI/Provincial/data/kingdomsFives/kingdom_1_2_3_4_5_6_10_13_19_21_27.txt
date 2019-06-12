@@ -1,0 +1,13 @@
+3
+7
+7
+7
+Gold 3
+Province 5
+Province 8
+Gold 101
+Market 6
+Silver 10
+Thief 11
+Duchy 2
+Festival 8

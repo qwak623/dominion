@@ -1,0 +1,14 @@
+4
+6
+7
+5
+Witch 2
+Duchy 6
+Silver 5
+Witch 14
+Province 102
+Laboratory 6
+Estate 10
+Copper 13
+Moat 9
+Curse 7

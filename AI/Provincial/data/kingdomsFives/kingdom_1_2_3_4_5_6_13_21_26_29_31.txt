@@ -1,0 +1,16 @@
+0
+17
+7
+5
+Gold 101
+Mine 9
+Silver 11
+Spy 11
+Copper 6
+Silver 4
+Province 15
+Gold 3
+Estate 4
+Village 8
+Festival 7
+Copper 6

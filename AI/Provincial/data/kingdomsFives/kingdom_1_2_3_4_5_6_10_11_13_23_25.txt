@@ -1,0 +1,15 @@
+4
+14
+6
+6
+Gold 102
+CouncilRoom 3
+Silver 9
+Province 5
+Copper 12
+Festival 9
+Duchy 1
+Silver 15
+Moneylender 12
+Gold 10
+Festival 4

@@ -1,0 +1,17 @@
+1
+11
+8
+7
+Mine 1
+Gold 8
+Silver 12
+Copper 6
+Silver 5
+Mine 6
+Duchy 8
+Market 4
+Duchy 7
+Estate 7
+Gardens 10
+Estate 12
+Estate 1

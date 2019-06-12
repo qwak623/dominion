@@ -1,0 +1,20 @@
+1
+13
+7
+7
+Gold 99
+Province 10
+Silver 11
+Silver 11
+Moat 11
+Estate 2
+Copper 1
+Silver 5
+Estate 6
+Gold 1
+Workshop 5
+Province 7
+Duchy 9
+Library 7
+Bureaucrat 9
+Silver 5

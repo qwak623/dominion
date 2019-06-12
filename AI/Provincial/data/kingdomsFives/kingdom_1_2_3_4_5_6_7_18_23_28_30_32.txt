@@ -1,0 +1,16 @@
+0
+13
+8
+8
+Gold 102
+Witch 3
+Province 4
+Duchy 14
+Witch 6
+Silver 11
+Moneylender 6
+Gold 11
+Estate 5
+ThroneRoom 2
+Workshop 10
+Duchy 7

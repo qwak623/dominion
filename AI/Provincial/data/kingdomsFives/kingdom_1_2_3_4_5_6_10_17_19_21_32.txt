@@ -1,0 +1,14 @@
+1
+8
+6
+6
+Province 7
+Gold 101
+Market 7
+Mine 10
+Silver 7
+Gold 9
+Cellar 11
+Gold 9
+Laboratory 7
+Silver 14

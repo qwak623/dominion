@@ -1,0 +1,18 @@
+0
+15
+8
+7
+Gold 102
+Thief 2
+Silver 7
+Gardens 5
+Silver 11
+Thief 7
+Feast 7
+Duchy 12
+Feast 11
+Province 6
+Copper 5
+Copper 7
+Gold 7
+Gardens 10

@@ -1,0 +1,14 @@
+4
+14
+5
+4
+Gold 13
+Silver 14
+Chapel 5
+Estate 7
+Chapel 8
+Feast 8
+Silver 5
+Duchy 10
+Mine 10
+Province 102

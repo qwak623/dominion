@@ -1,0 +1,15 @@
+7
+12
+14
+8
+Province 6
+Gold 99
+Militia 10
+Silver 12
+Silver 12
+Copper 5
+Province 5
+Silver 9
+Thief 10
+Remodel 6
+Militia 9

@@ -1,0 +1,14 @@
+3
+11
+8
+8
+Witch 9
+Duchy 12
+Silver 13
+Mine 4
+Chancellor 9
+Province 8
+Woodcutter 13
+Silver 7
+Library 99
+Gold 3

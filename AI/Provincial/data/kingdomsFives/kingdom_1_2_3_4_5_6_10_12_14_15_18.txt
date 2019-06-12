@@ -1,0 +1,13 @@
+1
+14
+11
+8
+Gold 100
+Gardens 9
+Library 11
+Gardens 8
+Silver 15
+Cellar 9
+Feast 8
+Estate 5
+Province 4

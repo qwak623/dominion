@@ -1,0 +1,16 @@
+2
+12
+11
+8
+Militia 5
+Silver 8
+Province 4
+Copper 3
+Estate 13
+Workshop 10
+Workshop 7
+Moat 4
+Laboratory 9
+Duchy 11
+Militia 11
+Silver 11

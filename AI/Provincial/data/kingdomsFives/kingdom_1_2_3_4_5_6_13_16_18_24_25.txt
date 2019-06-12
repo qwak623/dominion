@@ -1,0 +1,16 @@
+1
+10
+6
+4
+Province 10
+Gold 101
+Smithy 2
+Gold 10
+Festival 9
+Silver 15
+Copper 2
+Silver 3
+Remodel 3
+Duchy 12
+Festival 2
+Smithy 5

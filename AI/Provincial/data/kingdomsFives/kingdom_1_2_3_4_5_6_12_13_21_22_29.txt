@@ -1,0 +1,15 @@
+6
+16
+7
+7
+Gold 12
+Silver 14
+Moat 3
+Feast 6
+Gold 104
+Silver 8
+Province 13
+Village 8
+Mine 10
+Festival 6
+Festival 8

@@ -1,0 +1,20 @@
+6
+13
+7
+5
+Province 6
+Gold 3
+Province 8
+Silver 10
+Province 8
+Gardens 9
+Duchy 7
+Gold 99
+Gardens 2
+Chancellor 4
+Chancellor 4
+Gold 9
+Copper 9
+Chancellor 4
+Feast 6
+ThroneRoom 8

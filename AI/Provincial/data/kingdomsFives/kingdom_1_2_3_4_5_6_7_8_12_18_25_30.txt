@@ -1,0 +1,14 @@
+6
+19
+8
+8
+Witch 3
+Duchy 9
+Silver 10
+Gold 100
+Adventurer 3
+Estate 14
+Library 14
+Gold 9
+Silver 14
+Adventurer 8

@@ -1,0 +1,16 @@
+1
+11
+5
+5
+Gold 6
+Province 9
+CouncilRoom 4
+Market 6
+Duchy 5
+Silver 12
+Festival 4
+Silver 5
+CouncilRoom 2
+ThroneRoom 10
+Market 106
+Moneylender 11

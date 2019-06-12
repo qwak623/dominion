@@ -1,0 +1,17 @@
+6
+15
+8
+4
+Gold 11
+Thief 3
+Silver 12
+Silver 11
+Duchy 5
+Feast 8
+Duchy 10
+Copper 7
+Smithy 7
+Province 6
+Estate 10
+Gold 101
+Duchy 6

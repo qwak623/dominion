@@ -1,0 +1,16 @@
+4
+11
+13
+8
+Gardens 10
+Woodcutter 10
+Province 3
+Duchy 12
+Gold 104
+Library 1
+Copper 11
+Gold 4
+Estate 8
+Silver 12
+Silver 2
+Province 8

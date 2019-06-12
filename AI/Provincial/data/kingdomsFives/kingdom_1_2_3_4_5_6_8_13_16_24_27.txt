@@ -1,0 +1,13 @@
+1
+11
+6
+3
+Silver 2
+Province 11
+Gold 105
+Festival 3
+Adventurer 5
+Silver 13
+Gold 2
+Silver 10
+Adventurer 16

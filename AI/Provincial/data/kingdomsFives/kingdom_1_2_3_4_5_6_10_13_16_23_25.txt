@@ -1,0 +1,15 @@
+2
+14
+6
+5
+Gold 101
+Silver 6
+Province 13
+Chapel 1
+Gold 7
+Smithy 11
+Silver 12
+Copper 9
+Estate 9
+Moneylender 12
+Estate 16

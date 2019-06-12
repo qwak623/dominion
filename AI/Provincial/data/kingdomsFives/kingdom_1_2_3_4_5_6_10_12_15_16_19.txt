@@ -1,0 +1,16 @@
+2
+8
+6
+4
+Province 11
+Feast 2
+Gold 102
+Silver 10
+Chancellor 13
+Province 7
+Copper 7
+Silver 12
+Market 7
+Chancellor 9
+Cellar 4
+Estate 6

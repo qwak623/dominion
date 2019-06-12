@@ -1,0 +1,15 @@
+0
+14
+6
+5
+Gold 7
+Gold 107
+Adventurer 11
+Laboratory 6
+Province 7
+Festival 12
+Gold 3
+Silver 12
+Province 6
+Silver 11
+Feast 4

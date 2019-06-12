@@ -1,0 +1,16 @@
+1
+15
+5
+5
+Gold 101
+Silver 15
+Gold 7
+Remodel 2
+Chapel 13
+Silver 12
+Duchy 9
+Copper 16
+Province 1
+Remodel 11
+Province 7
+Laboratory 7

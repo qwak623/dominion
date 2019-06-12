@@ -1,0 +1,17 @@
+1
+5
+19
+8
+Province 11
+Witch 3
+Gold 99
+Witch 6
+Silver 11
+Copper 6
+Silver 5
+Duchy 10
+Workshop 11
+Estate 13
+Woodcutter 11
+Smithy 10
+Curse 4

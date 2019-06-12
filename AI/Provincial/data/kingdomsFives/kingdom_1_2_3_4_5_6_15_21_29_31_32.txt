@@ -1,0 +1,15 @@
+0
+11
+7
+6
+Gold 102
+Silver 10
+Duchy 6
+Woodcutter 8
+Mine 4
+Workshop 6
+Village 3
+Silver 10
+Workshop 4
+Chancellor 5
+Province 10

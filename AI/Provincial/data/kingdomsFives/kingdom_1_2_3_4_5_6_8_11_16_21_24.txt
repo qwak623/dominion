@@ -1,0 +1,16 @@
+4
+13
+7
+7
+Mine 3
+Silver 3
+Gold 10
+CouncilRoom 14
+Silver 8
+Silver 14
+CouncilRoom 102
+Province 4
+Remodel 1
+Copper 4
+Mine 6
+Copper 3

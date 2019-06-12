@@ -1,0 +1,15 @@
+7
+12
+5
+3
+Province 8
+Gold 8
+Library 9
+Market 3
+Silver 8
+Cellar 13
+Gold 101
+Silver 10
+Militia 5
+CouncilRoom 3
+Copper 7

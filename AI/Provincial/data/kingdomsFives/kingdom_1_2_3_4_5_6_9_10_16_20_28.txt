@@ -1,0 +1,16 @@
+1
+12
+14
+8
+Duchy 5
+Militia 6
+Province 3
+Gold 100
+Silver 3
+Estate 7
+ThroneRoom 3
+Bureaucrat 5
+ThroneRoom 3
+Silver 10
+Copper 7
+Chapel 4

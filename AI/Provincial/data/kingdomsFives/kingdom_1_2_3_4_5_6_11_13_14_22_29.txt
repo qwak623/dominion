@@ -1,0 +1,14 @@
+5
+9
+7
+4
+Moat 1
+Gold 8
+Silver 11
+Gardens 10
+Moat 5
+Festival 10
+Gold 104
+Festival 4
+Estate 6
+Village 11

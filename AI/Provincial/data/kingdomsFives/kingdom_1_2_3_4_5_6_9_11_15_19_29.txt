@@ -1,0 +1,15 @@
+1
+13
+7
+5
+Gold 10
+Bureaucrat 2
+CouncilRoom 2
+Gold 99
+Silver 12
+Village 4
+Copper 6
+Gold 6
+Province 3
+Market 8
+Estate 5

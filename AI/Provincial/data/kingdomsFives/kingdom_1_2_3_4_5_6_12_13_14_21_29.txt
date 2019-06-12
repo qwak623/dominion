@@ -1,0 +1,15 @@
+6
+18
+6
+6
+Mine 1
+Gold 4
+Province 4
+Province 14
+Gold 101
+Silver 11
+Duchy 7
+Gardens 9
+Feast 5
+Gardens 8
+Silver 2

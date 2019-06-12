@@ -1,0 +1,16 @@
+0
+10
+6
+6
+Province 4
+Province 8
+Gold 101
+Gold 5
+Silver 17
+Copper 6
+Province 9
+Woodcutter 2
+Thief 7
+Estate 8
+Estate 1
+Silver 13

@@ -1,0 +1,16 @@
+5
+20
+6
+4
+Gold 9
+Silver 11
+Silver 13
+Adventurer 8
+Chapel 1
+Woodcutter 4
+Gold 102
+Copper 5
+Workshop 5
+Duchy 3
+Province 14
+Cellar 2

@@ -1,0 +1,18 @@
+5
+9
+7
+7
+Spy 3
+Workshop 8
+Gardens 9
+Duchy 12
+Silver 11
+Gold 9
+Copper 12
+Workshop 9
+Province 10
+Moat 10
+Province 11
+Gold 100
+Duchy 9
+Silver 8

@@ -1,0 +1,18 @@
+4
+14
+6
+4
+Gold 5
+Library 6
+Silver 11
+Library 13
+Gold 101
+Province 9
+Feast 10
+Province 5
+Duchy 9
+Gold 5
+Remodel 4
+Feast 12
+CouncilRoom 5
+Remodel 10

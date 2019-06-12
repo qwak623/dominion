@@ -1,0 +1,19 @@
+6
+10
+17
+7
+Province 10
+Gold 15
+Library 10
+Gold 101
+Silver 11
+Copper 10
+Province 5
+Village 7
+Duchy 10
+Silver 13
+Moneylender 9
+Village 11
+Moneylender 10
+Silver 2
+Estate 11

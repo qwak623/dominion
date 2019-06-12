@@ -1,0 +1,19 @@
+4
+14
+15
+8
+Silver 5
+Gardens 6
+Province 4
+Estate 9
+Gardens 12
+Market 10
+Gold 100
+Chancellor 3
+Militia 7
+Market 5
+Gold 6
+Province 6
+Market 8
+Estate 6
+Silver 12

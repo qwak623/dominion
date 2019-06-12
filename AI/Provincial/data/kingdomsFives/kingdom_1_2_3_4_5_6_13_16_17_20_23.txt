@@ -1,0 +1,17 @@
+1
+13
+5
+5
+Gold 99
+Laboratory 1
+Militia 2
+Laboratory 5
+Gold 9
+Silver 9
+Silver 11
+Chapel 7
+Festival 1
+Gold 4
+Militia 10
+Copper 11
+Festival 8

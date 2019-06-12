@@ -1,0 +1,13 @@
+7
+10
+8
+8
+Witch 7
+Duchy 6
+Silver 11
+Woodcutter 7
+Silver 6
+Copper 7
+Mine 11
+Curse 10
+Gold 3

@@ -1,0 +1,14 @@
+3
+13
+6
+6
+Gold 106
+Copper 1
+CouncilRoom 8
+Silver 10
+Village 6
+Province 4
+CouncilRoom 12
+Adventurer 9
+Copper 9
+Estate 11

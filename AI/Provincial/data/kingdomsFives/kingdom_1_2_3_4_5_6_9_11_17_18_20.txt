@@ -1,0 +1,15 @@
+3
+12
+6
+5
+Province 14
+Gold 100
+CouncilRoom 5
+Library 3
+Silver 4
+Silver 12
+Bureaucrat 7
+Copper 8
+Militia 9
+CouncilRoom 13
+Laboratory 11

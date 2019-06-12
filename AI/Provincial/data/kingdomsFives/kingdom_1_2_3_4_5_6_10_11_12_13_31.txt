@@ -1,0 +1,16 @@
+3
+19
+8
+3
+CouncilRoom 1
+Gold 102
+Silver 11
+Woodcutter 3
+Silver 10
+Copper 8
+Province 8
+Festival 6
+Duchy 7
+Feast 7
+Woodcutter 5
+Estate 10

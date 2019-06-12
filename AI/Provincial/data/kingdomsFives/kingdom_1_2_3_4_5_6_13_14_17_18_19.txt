@@ -1,0 +1,15 @@
+4
+9
+7
+5
+Gold 5
+Province 11
+Library 4
+Silver 9
+Duchy 6
+Festival 4
+Laboratory 101
+Laboratory 6
+Copper 3
+Estate 4
+Market 10

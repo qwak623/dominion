@@ -1,0 +1,17 @@
+5
+11
+10
+8
+Duchy 7
+Gold 5
+Laboratory 4
+Militia 11
+Gold 99
+Province 9
+Gold 11
+Silver 13
+Copper 6
+Village 6
+ThroneRoom 5
+Woodcutter 6
+Silver 13

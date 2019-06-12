@@ -1,0 +1,16 @@
+4
+14
+7
+7
+Feast 2
+Province 13
+Smithy 2
+Gold 101
+Silver 7
+Silver 11
+Copper 7
+Estate 12
+Duchy 3
+Laboratory 8
+Festival 11
+Festival 5

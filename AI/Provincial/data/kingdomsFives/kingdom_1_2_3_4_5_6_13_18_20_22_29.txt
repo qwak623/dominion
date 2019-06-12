@@ -1,0 +1,14 @@
+5
+11
+17
+6
+Province 4
+Gold 99
+Library 2
+Silver 13
+Militia 10
+Moat 10
+Province 10
+Militia 7
+Duchy 2
+Copper 8

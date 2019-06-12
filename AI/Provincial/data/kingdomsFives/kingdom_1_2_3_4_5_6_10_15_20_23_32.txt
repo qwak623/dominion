@@ -1,0 +1,17 @@
+3
+17
+9
+8
+Gold 102
+Militia 9
+Province 13
+Silver 5
+Militia 4
+Silver 13
+Militia 9
+Workshop 13
+Estate 11
+Silver 5
+Estate 9
+Gold 5
+Chancellor 2

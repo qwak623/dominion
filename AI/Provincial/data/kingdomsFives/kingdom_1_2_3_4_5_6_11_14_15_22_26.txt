@@ -1,0 +1,15 @@
+1
+11
+7
+5
+Moat 2
+Gold 9
+Silver 11
+Gardens 1
+Gardens 6
+CouncilRoom 6
+Copper 10
+Estate 5
+Copper 13
+Chancellor 2
+Province 10

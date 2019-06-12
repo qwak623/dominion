@@ -1,0 +1,16 @@
+6
+17
+7
+5
+Gold 100
+Chapel 1
+Gold 7
+Mine 7
+Province 6
+Silver 13
+Province 3
+Province 7
+Silver 12
+Copper 12
+Estate 3
+ThroneRoom 11

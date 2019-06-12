@@ -1,0 +1,12 @@
+4
+16
+6
+5
+Province 8
+Gold 100
+Market 13
+Silver 12
+Duchy 7
+Gold 4
+Adventurer 5
+Copper 3

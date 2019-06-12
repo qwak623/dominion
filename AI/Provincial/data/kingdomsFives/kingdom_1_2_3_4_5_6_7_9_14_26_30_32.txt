@@ -1,0 +1,17 @@
+1
+13
+8
+8
+Bureaucrat 4
+Duchy 10
+Gardens 8
+Bureaucrat 8
+Gardens 12
+Workshop 8
+Gold 102
+Bureaucrat 4
+Gold 9
+Gardens 9
+Copper 10
+Silver 6
+Copper 11

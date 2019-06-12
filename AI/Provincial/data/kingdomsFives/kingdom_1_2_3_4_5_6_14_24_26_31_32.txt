@@ -1,0 +1,18 @@
+1
+12
+12
+8
+Gold 7
+Gardens 12
+Workshop 11
+Copper 1
+Estate 12
+Gold 102
+Gardens 9
+Gardens 6
+Silver 10
+Remodel 11
+Woodcutter 11
+Remodel 2
+Silver 12
+Copper 7

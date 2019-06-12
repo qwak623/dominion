@@ -1,0 +1,16 @@
+0
+22
+5
+5
+Silver 11
+Province 15
+Gardens 12
+Silver 8
+Gold 5
+Moat 10
+Gold 99
+Chapel 5
+Gardens 2
+Village 4
+Estate 4
+Gardens 3

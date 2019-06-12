@@ -1,0 +1,18 @@
+3
+16
+6
+6
+Gold 9
+Gold 103
+Silver 12
+Silver 4
+Adventurer 6
+Moat 4
+Copper 3
+Copper 7
+Adventurer 6
+Gold 3
+CouncilRoom 3
+Workshop 3
+Province 5
+Copper 6

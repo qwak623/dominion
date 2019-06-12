@@ -1,0 +1,15 @@
+4
+17
+8
+8
+Bureaucrat 4
+Silver 1
+Gardens 8
+Duchy 12
+Silver 12
+ThroneRoom 7
+Copper 3
+Estate 7
+Feast 5
+Cellar 5
+Gold 102

@@ -1,0 +1,18 @@
+0
+13
+8
+8
+Gold 101
+Bureaucrat 3
+Province 7
+Gardens 4
+Gardens 10
+Silver 5
+Silver 15
+Gardens 4
+Festival 3
+Village 4
+Gold 6
+Duchy 3
+Market 6
+Market 9

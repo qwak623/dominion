@@ -1,0 +1,19 @@
+6
+10
+15
+8
+Silver 11
+Militia 4
+Silver 11
+Duchy 9
+Militia 5
+Market 9
+Province 5
+Copper 9
+Estate 7
+Province 9
+Moneylender 6
+Duchy 100
+Duchy 9
+Feast 11
+Copper 5

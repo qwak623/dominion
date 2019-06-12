@@ -1,0 +1,18 @@
+4
+18
+6
+6
+Gold 7
+Silver 9
+Silver 14
+Province 6
+Chapel 5
+Silver 5
+Chapel 3
+Workshop 11
+Festival 7
+Mine 9
+Mine 101
+Duchy 4
+Chapel 6
+Silver 2

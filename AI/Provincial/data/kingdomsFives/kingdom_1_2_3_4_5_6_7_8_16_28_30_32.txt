@@ -1,0 +1,18 @@
+6
+10
+8
+8
+Province 3
+Witch 5
+Duchy 11
+Province 6
+Duchy 4
+Gold 100
+Gold 5
+Silver 4
+Silver 12
+Workshop 9
+Workshop 4
+Estate 12
+Adventurer 11
+ThroneRoom 10

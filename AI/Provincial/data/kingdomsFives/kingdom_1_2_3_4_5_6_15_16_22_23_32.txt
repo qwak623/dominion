@@ -1,0 +1,20 @@
+7
+7
+5
+5
+Province 7
+Gold 3
+Gold 99
+Silver 11
+Silver 8
+Moat 2
+Chancellor 4
+Chancellor 11
+Estate 1
+Moneylender 4
+Chapel 9
+Chancellor 2
+Province 4
+Moneylender 10
+Chancellor 6
+Province 7

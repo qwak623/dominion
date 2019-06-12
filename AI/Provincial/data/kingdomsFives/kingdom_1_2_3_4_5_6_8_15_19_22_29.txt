@@ -1,0 +1,15 @@
+3
+8
+7
+6
+Gold 3
+Province 13
+Gold 6
+Silver 14
+Silver 8
+Chancellor 101
+Market 14
+Village 8
+Gold 9
+Province 3
+Copper 7

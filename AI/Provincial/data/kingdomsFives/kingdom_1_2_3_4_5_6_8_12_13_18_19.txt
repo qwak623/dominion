@@ -1,0 +1,16 @@
+7
+13
+5
+5
+Gold 103
+Province 10
+Gold 10
+Library 3
+Adventurer 5
+Silver 11
+Province 4
+Festival 9
+Copper 11
+Silver 13
+Library 5
+Copper 2

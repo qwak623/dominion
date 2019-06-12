@@ -1,0 +1,17 @@
+0
+12
+6
+7
+Festival 4
+Festival 12
+Province 6
+Workshop 3
+Gold 3
+Gardens 13
+Duchy 4
+Gold 101
+Silver 13
+Copper 7
+Duchy 4
+Silver 9
+Silver 6

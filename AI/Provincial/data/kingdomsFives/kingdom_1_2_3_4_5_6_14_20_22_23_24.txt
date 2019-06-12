@@ -1,0 +1,14 @@
+1
+12
+8
+4
+Gold 101
+Province 10
+Gold 12
+Silver 5
+Gold 4
+Gardens 12
+Moat 4
+Remodel 5
+Moat 2
+Copper 6

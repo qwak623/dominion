@@ -1,0 +1,13 @@
+4
+14
+8
+8
+Gold 101
+Witch 5
+Silver 12
+CouncilRoom 9
+Woodcutter 5
+Cellar 14
+Cellar 13
+Province 4
+Mine 10

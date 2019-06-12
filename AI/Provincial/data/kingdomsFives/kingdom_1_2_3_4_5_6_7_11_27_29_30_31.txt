@@ -1,0 +1,13 @@
+1
+15
+8
+8
+Witch 9
+Duchy 10
+Silver 4
+Silver 5
+Silver 13
+Woodcutter 5
+Village 8
+Gold 3
+Thief 9

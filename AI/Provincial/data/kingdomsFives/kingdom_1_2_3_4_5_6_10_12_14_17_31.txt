@@ -1,0 +1,16 @@
+5
+17
+7
+6
+Gold 10
+Silver 11
+Province 4
+Province 102
+Gardens 8
+Silver 9
+Laboratory 11
+Province 7
+Woodcutter 6
+Cellar 7
+Copper 14
+Copper 5

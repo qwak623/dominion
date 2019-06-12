@@ -1,0 +1,15 @@
+6
+15
+8
+7
+Gold 7
+Province 11
+Silver 15
+Moat 99
+Duchy 9
+Estate 4
+Laboratory 6
+Province 3
+Estate 7
+Copper 7
+Silver 9

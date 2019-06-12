@@ -1,0 +1,16 @@
+5
+11
+8
+8
+Bureaucrat 5
+Gold 9
+Province 12
+Silver 12
+Province 5
+Bureaucrat 9
+Militia 7
+Province 9
+Moneylender 9
+Gold 99
+Silver 5
+Thief 8

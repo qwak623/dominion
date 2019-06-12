@@ -1,0 +1,16 @@
+4
+14
+15
+7
+Gold 9
+Silver 4
+Festival 4
+Silver 13
+Silver 101
+Bureaucrat 7
+Moat 6
+Gold 4
+Province 5
+Estate 11
+Feast 8
+Estate 10

@@ -1,0 +1,15 @@
+5
+16
+11
+8
+Gold 101
+Silver 5
+Militia 5
+Province 2
+Estate 7
+Adventurer 10
+Estate 5
+Duchy 10
+CouncilRoom 15
+Silver 10
+Province 10

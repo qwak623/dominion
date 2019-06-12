@@ -1,0 +1,16 @@
+0
+15
+13
+7
+Gold 100
+Province 2
+Witch 12
+Silver 14
+Witch 7
+CouncilRoom 12
+Militia 5
+Estate 7
+Province 8
+Silver 1
+ThroneRoom 7
+Adventurer 10

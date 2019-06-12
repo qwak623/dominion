@@ -1,0 +1,17 @@
+3
+10
+8
+6
+Bureaucrat 6
+Bureaucrat 6
+Bureaucrat 13
+Province 5
+Gardens 6
+Province 6
+Duchy 7
+CouncilRoom 2
+Silver 12
+Cellar 10
+Copper 12
+Gold 102
+Gold 3

@@ -1,0 +1,12 @@
+6
+11
+7
+6
+Gold 10
+Silver 11
+Moat 8
+Copper 13
+Province 3
+Duchy 11
+Estate 6
+Gold 104

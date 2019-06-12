@@ -1,0 +1,16 @@
+3
+11
+7
+6
+Witch 1
+Gold 9
+Gold 100
+Silver 6
+Laboratory 7
+Province 5
+Silver 4
+Gold 1
+Festival 9
+Duchy 5
+Silver 14
+Chancellor 4

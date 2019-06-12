@@ -1,0 +1,15 @@
+4
+13
+7
+7
+Gold 105
+Silver 13
+Duchy 6
+ThroneRoom 5
+Militia 10
+Militia 10
+Silver 10
+Moneylender 8
+CouncilRoom 12
+Gold 12
+Province 6

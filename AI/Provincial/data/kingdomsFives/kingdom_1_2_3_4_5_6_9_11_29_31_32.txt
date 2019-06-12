@@ -1,0 +1,13 @@
+7
+14
+20
+8
+Bureaucrat 2
+Gold 103
+Province 11
+CouncilRoom 4
+Silver 16
+Woodcutter 7
+Silver 8
+Silver 10
+Workshop 7

@@ -1,0 +1,13 @@
+0
+17
+7
+4
+Gold 102
+Library 2
+Silver 13
+ThroneRoom 10
+Remodel 5
+Mine 10
+Silver 12
+Gold 6
+Copper 3

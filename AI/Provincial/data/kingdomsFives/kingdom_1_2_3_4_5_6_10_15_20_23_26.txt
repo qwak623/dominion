@@ -1,0 +1,19 @@
+7
+12
+8
+8
+Province 12
+Gold 9
+Militia 5
+Gold 11
+Spy 4
+Silver 9
+Silver 3
+Copper 2
+Chancellor 2
+Estate 3
+Silver 10
+Gold 102
+Militia 9
+Chancellor 9
+Cellar 8

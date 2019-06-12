@@ -1,0 +1,16 @@
+6
+8
+8
+8
+Province 11
+Gold 100
+Bureaucrat 9
+CouncilRoom 2
+Silver 13
+CouncilRoom 12
+Workshop 15
+Duchy 6
+Duchy 11
+Copper 12
+Gold 4
+CouncilRoom 7

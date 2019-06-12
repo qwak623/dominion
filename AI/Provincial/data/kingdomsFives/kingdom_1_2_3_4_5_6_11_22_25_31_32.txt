@@ -1,0 +1,17 @@
+1
+15
+6
+6
+Province 2
+Gold 102
+Silver 12
+CouncilRoom 12
+Gold 10
+Smithy 2
+Duchy 7
+Moat 9
+Estate 8
+Silver 9
+Province 9
+Workshop 8
+Copper 6

@@ -1,0 +1,14 @@
+2
+13
+8
+8
+Province 9
+Gold 5
+Silver 10
+Chancellor 6
+Copper 10
+Laboratory 7
+Woodcutter 11
+ThroneRoom 13
+Estate 6
+Duchy 13

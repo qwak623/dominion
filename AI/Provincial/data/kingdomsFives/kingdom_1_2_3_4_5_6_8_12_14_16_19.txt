@@ -1,0 +1,14 @@
+5
+9
+6
+4
+Province 11
+Gold 10
+Market 11
+Province 2
+Silver 6
+Chapel 1
+Silver 12
+Market 1
+Adventurer 14
+Province 5

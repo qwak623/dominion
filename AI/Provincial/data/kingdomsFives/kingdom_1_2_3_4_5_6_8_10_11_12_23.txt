@@ -1,0 +1,14 @@
+7
+10
+6
+5
+CouncilRoom 1
+Province 6
+Gold 8
+Gold 101
+Silver 6
+Silver 14
+Province 11
+Feast 2
+Feast 14
+Cellar 4

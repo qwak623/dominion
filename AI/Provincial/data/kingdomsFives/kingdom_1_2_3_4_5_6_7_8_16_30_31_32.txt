@@ -1,0 +1,15 @@
+3
+9
+7
+7
+Province 12
+Gold 13
+Silver 13
+Gold 100
+Duchy 13
+Duchy 12
+Woodcutter 6
+Woodcutter 4
+Chapel 8
+Copper 11
+Adventurer 11

@@ -1,0 +1,17 @@
+0
+12
+8
+4
+Gold 102
+Gold 9
+Silver 11
+Silver 6
+Duchy 7
+Province 11
+Chapel 1
+Gold 2
+Woodcutter 8
+Copper 3
+Copper 11
+Estate 4
+Province 4

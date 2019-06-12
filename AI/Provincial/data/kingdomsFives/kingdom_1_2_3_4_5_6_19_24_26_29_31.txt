@@ -1,0 +1,14 @@
+3
+12
+7
+4
+Gold 101
+Silver 11
+Market 4
+Woodcutter 7
+Village 2
+Village 7
+Duchy 3
+Remodel 6
+Remodel 10
+Silver 13

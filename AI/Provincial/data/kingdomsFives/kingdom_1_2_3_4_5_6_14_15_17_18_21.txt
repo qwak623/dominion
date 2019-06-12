@@ -1,0 +1,16 @@
+6
+11
+15
+7
+Gardens 13
+Library 6
+Mine 9
+Laboratory 99
+Library 6
+Chancellor 11
+Duchy 11
+Gardens 9
+Copper 6
+Gardens 1
+Gold 9
+Estate 11

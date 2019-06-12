@@ -1,0 +1,12 @@
+2
+9
+6
+4
+Gold 101
+Gold 5
+Gold 6
+Silver 11
+Duchy 7
+Gardens 12
+Duchy 4
+Chancellor 11

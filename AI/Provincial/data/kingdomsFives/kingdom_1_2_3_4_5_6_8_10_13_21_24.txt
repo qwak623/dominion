@@ -1,0 +1,16 @@
+7
+16
+8
+7
+Gold 6
+Mine 2
+Cellar 1
+Silver 4
+Adventurer 9
+Adventurer 13
+Province 5
+Gold 100
+Silver 11
+Silver 7
+Copper 4
+Duchy 4

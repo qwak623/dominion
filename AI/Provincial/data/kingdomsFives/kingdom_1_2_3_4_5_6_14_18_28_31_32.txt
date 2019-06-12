@@ -1,0 +1,14 @@
+6
+10
+8
+8
+Workshop 4
+Duchy 12
+Gold 102
+Gardens 8
+Silver 9
+Copper 4
+Library 12
+Estate 7
+Copper 12
+Silver 11

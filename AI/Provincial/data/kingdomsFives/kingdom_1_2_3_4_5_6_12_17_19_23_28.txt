@@ -1,0 +1,14 @@
+0
+10
+8
+5
+Market 1
+Province 13
+Gold 8
+Gold 103
+Laboratory 10
+Silver 13
+Silver 9
+Duchy 10
+Duchy 12
+Feast 3

@@ -1,0 +1,18 @@
+3
+17
+8
+8
+Witch 9
+Duchy 9
+Silver 10
+Estate 5
+Smithy 3
+Silver 5
+Estate 9
+Woodcutter 9
+ThroneRoom 10
+Gold 101
+Woodcutter 7
+Gold 5
+Province 8
+Feast 2

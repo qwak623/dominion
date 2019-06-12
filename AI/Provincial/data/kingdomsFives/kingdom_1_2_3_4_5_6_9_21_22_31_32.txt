@@ -1,0 +1,16 @@
+4
+17
+7
+6
+Gold 4
+Gold 103
+Mine 2
+Silver 7
+Silver 15
+Workshop 2
+Woodcutter 11
+Mine 11
+Copper 8
+Duchy 11
+Bureaucrat 10
+Province 8

@@ -1,0 +1,16 @@
+1
+14
+8
+7
+Gold 101
+Silver 14
+Festival 2
+Moat 5
+Gold 8
+Estate 5
+Province 8
+Library 6
+Estate 10
+Silver 6
+Festival 6
+Silver 6

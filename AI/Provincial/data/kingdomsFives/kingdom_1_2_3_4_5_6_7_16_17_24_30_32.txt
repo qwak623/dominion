@@ -1,0 +1,15 @@
+6
+11
+20
+7
+Chapel 1
+Witch 15
+Province 4
+Silver 8
+Duchy 4
+Laboratory 5
+Province 8
+Silver 13
+Copper 6
+Estate 8
+Estate 11

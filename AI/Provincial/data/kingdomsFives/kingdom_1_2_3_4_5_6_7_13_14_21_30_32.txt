@@ -1,0 +1,17 @@
+4
+13
+7
+8
+Workshop 2
+Gold 8
+Gold 6
+Province 8
+Copper 1
+Gold 103
+Gardens 10
+Festival 9
+Estate 12
+Copper 11
+Estate 12
+Festival 8
+Workshop 11

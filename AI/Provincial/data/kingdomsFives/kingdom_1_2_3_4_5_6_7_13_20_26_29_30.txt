@@ -1,0 +1,11 @@
+0
+12
+8
+8
+Witch 12
+Duchy 10
+Gold 13
+Silver 10
+Militia 3
+Silver 11
+Village 5

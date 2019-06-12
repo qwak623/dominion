@@ -1,0 +1,16 @@
+3
+12
+16
+7
+Silver 5
+Gardens 15
+Gold 6
+Cellar 12
+Gold 102
+ThroneRoom 6
+Gold 5
+Cellar 4
+Silver 9
+Copper 2
+Province 11
+Cellar 4

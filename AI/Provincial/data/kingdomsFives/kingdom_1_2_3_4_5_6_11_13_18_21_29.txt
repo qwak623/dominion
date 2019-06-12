@@ -1,0 +1,18 @@
+3
+16
+17
+8
+Gold 6
+Silver 5
+CouncilRoom 5
+Festival 7
+Mine 7
+Mine 100
+Silver 8
+Duchy 11
+CouncilRoom 3
+Silver 11
+Mine 7
+Festival 8
+Library 5
+Copper 12

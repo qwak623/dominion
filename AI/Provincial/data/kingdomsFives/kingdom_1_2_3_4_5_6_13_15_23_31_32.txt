@@ -1,0 +1,14 @@
+4
+10
+7
+5
+Estate 1
+Province 9
+Gold 5
+Gold 101
+Festival 8
+Silver 13
+Silver 10
+Gold 3
+Moneylender 9
+Woodcutter 8

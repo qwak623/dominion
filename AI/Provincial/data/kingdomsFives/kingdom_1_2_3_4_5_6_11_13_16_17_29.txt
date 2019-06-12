@@ -1,0 +1,14 @@
+0
+9
+7
+5
+Province 6
+Province 8
+Gold 5
+CouncilRoom 7
+Silver 11
+Duchy 7
+Village 3
+Laboratory 11
+Copper 11
+CouncilRoom 13

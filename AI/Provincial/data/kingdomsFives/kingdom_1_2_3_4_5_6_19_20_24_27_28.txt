@@ -1,0 +1,15 @@
+1
+12
+8
+7
+Province 7
+Gold 8
+Militia 5
+Silver 13
+Market 5
+Market 6
+Duchy 6
+ThroneRoom 4
+Gold 105
+Thief 3
+Copper 12

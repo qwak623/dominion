@@ -1,0 +1,16 @@
+0
+13
+13
+7
+Gold 10
+Silver 13
+Gold 100
+Duchy 1
+Province 2
+Laboratory 9
+Copper 6
+Chancellor 7
+Duchy 9
+Duchy 13
+Estate 7
+Copper 6

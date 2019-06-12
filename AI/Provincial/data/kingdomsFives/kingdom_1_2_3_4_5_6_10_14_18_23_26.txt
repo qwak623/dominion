@@ -1,0 +1,15 @@
+0
+19
+6
+5
+Gold 8
+Library 3
+Province 101
+Silver 12
+Province 7
+Gardens 9
+Silver 13
+Cellar 4
+Gardens 5
+Cellar 4
+Estate 5

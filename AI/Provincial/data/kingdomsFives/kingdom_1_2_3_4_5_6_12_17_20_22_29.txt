@@ -1,0 +1,20 @@
+4
+12
+8
+7
+Gold 100
+Province 10
+Silver 9
+Gold 11
+Militia 7
+Silver 10
+Militia 9
+Village 5
+Gold 14
+Moat 7
+Feast 5
+Copper 11
+Duchy 8
+Feast 8
+Province 4
+Laboratory 7

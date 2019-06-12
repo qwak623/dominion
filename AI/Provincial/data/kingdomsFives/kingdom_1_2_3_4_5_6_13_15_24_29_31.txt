@@ -1,0 +1,19 @@
+6
+9
+7
+5
+Festival 1
+Province 9
+Gold 100
+Festival 5
+Festival 8
+Silver 9
+Remodel 7
+Silver 11
+Chancellor 8
+Village 11
+Woodcutter 2
+Gold 10
+Village 10
+Silver 6
+Duchy 5

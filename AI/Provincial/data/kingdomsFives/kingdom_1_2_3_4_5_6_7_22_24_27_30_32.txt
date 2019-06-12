@@ -1,0 +1,13 @@
+5
+9
+8
+8
+Province 5
+Witch 2
+Silver 15
+Province 14
+Thief 9
+Thief 4
+Duchy 11
+Moat 4
+Silver 12

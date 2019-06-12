@@ -1,0 +1,16 @@
+5
+11
+7
+5
+Gold 99
+Gold 3
+Province 5
+Silver 13
+Market 7
+Cellar 13
+Estate 5
+Feast 2
+Chancellor 1
+Copper 8
+Duchy 2
+Feast 2

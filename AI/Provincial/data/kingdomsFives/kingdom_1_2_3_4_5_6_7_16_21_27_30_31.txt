@@ -1,0 +1,16 @@
+0
+13
+8
+7
+Gold 104
+Witch 3
+Silver 11
+Gold 6
+Silver 4
+Province 13
+Woodcutter 9
+Silver 13
+Mine 3
+Copper 10
+Curse 9
+Estate 6

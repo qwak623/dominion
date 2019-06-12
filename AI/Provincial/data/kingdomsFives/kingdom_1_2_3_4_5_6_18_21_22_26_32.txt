@@ -1,0 +1,18 @@
+7
+18
+7
+7
+Gold 101
+Silver 11
+Duchy 8
+Province 4
+Silver 7
+Library 2
+Workshop 9
+Moat 4
+Estate 11
+Mine 8
+Gold 3
+Spy 3
+Copper 5
+Copper 2

@@ -1,0 +1,16 @@
+3
+10
+8
+8
+Witch 3
+Province 9
+Province 4
+Gold 104
+Silver 16
+Duchy 2
+Witch 10
+Woodcutter 8
+Duchy 6
+Copper 10
+Remodel 4
+Silver 11

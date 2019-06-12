@@ -1,0 +1,15 @@
+5
+14
+7
+5
+Province 5
+Gold 100
+Library 3
+Silver 12
+Province 3
+Library 11
+Workshop 13
+Copper 8
+Chancellor 11
+Estate 2
+Laboratory 4

@@ -1,0 +1,15 @@
+7
+18
+8
+7
+Gold 4
+Province 4
+Silver 5
+Gardens 7
+Silver 10
+Gold 99
+Festival 7
+Moat 7
+Silver 11
+Copper 11
+Moat 3

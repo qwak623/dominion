@@ -1,0 +1,16 @@
+0
+10
+7
+3
+Gold 10
+Gold 7
+Silver 10
+Remodel 3
+Province 4
+Province 14
+Province 9
+Workshop 9
+Gold 9
+Feast 7
+Workshop 10
+Gold 101

@@ -1,0 +1,16 @@
+0
+11
+5
+5
+Gold 102
+Province 9
+CouncilRoom 3
+Province 8
+Silver 7
+Duchy 5
+Militia 4
+Copper 7
+Gold 5
+Adventurer 10
+Village 10
+Silver 11

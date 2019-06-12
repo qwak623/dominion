@@ -1,0 +1,13 @@
+0
+19
+8
+8
+Witch 5
+Village 8
+Silver 11
+Chapel 2
+Gold 9
+Silver 8
+Province 4
+Gold 103
+CouncilRoom 4

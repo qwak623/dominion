@@ -1,0 +1,16 @@
+6
+11
+8
+5
+Gold 6
+CouncilRoom 9
+Gold 101
+Duchy 3
+Silver 13
+Silver 7
+Village 7
+Duchy 8
+Copper 4
+Thief 2
+Province 15
+Woodcutter 13

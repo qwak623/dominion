@@ -1,0 +1,16 @@
+7
+11
+8
+8
+Gold 8
+Bureaucrat 5
+Gold 100
+Festival 4
+Silver 12
+Silver 6
+Duchy 6
+Province 4
+Woodcutter 2
+Workshop 11
+Remodel 9
+Festival 6

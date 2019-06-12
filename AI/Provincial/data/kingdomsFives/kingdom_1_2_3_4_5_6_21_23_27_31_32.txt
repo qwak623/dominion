@@ -1,0 +1,16 @@
+0
+12
+7
+6
+Gold 6
+Mine 2
+Gold 100
+Silver 9
+Province 10
+Gold 7
+Woodcutter 2
+Workshop 5
+Province 10
+Silver 12
+Duchy 7
+Workshop 5

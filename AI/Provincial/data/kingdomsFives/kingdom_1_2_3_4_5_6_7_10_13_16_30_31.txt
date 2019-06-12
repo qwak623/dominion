@@ -1,0 +1,15 @@
+7
+9
+8
+8
+Province 14
+Gold 102
+Witch 9
+Silver 12
+Duchy 5
+Copper 5
+Festival 11
+Curse 6
+Woodcutter 4
+Silver 6
+Chapel 11

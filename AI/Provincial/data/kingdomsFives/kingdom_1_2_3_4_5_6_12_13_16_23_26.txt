@@ -1,0 +1,18 @@
+4
+18
+8
+5
+Gold 99
+Silver 11
+Spy 10
+Copper 14
+Estate 7
+Silver 5
+Feast 1
+Gold 9
+Moneylender 11
+Silver 7
+Gold 4
+Silver 7
+Feast 2
+Feast 6

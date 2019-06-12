@@ -1,0 +1,15 @@
+7
+20
+8
+8
+Gold 101
+Witch 8
+Province 6
+Duchy 10
+Silver 10
+Silver 7
+Woodcutter 4
+ThroneRoom 11
+Library 4
+Gold 2
+Copper 7

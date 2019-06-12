@@ -1,0 +1,14 @@
+0
+10
+5
+5
+Silver 3
+Province 9
+Gold 100
+Smithy 3
+Silver 12
+Copper 10
+Gardens 10
+Copper 8
+Copper 3
+Estate 9

@@ -1,0 +1,15 @@
+7
+14
+17
+5
+Gold 9
+Duchy 7
+Witch 6
+Silver 14
+Chancellor 10
+Moat 6
+Woodcutter 11
+Gold 103
+Witch 5
+Estate 4
+Woodcutter 1

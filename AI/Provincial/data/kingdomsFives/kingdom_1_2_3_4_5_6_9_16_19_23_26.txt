@@ -1,0 +1,21 @@
+3
+13
+8
+8
+Gold 11
+Silver 13
+Copper 4
+Gold 99
+Province 3
+Bureaucrat 8
+Chapel 12
+Chapel 8
+Duchy 8
+Estate 6
+Moneylender 5
+Duchy 9
+Moneylender 9
+Chapel 4
+Province 5
+Province 8
+Spy 13

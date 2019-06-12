@@ -1,0 +1,16 @@
+6
+10
+11
+8
+Province 7
+Workshop 3
+Gardens 7
+Duchy 15
+Silver 10
+Gardens 7
+Copper 8
+Estate 7
+Silver 11
+Militia 11
+Gold 100
+Chapel 7

@@ -1,0 +1,15 @@
+2
+16
+7
+4
+Province 6
+Gold 99
+Gold 5
+Bureaucrat 2
+Market 10
+Gold 4
+Silver 9
+Chancellor 10
+Workshop 9
+Silver 10
+Bureaucrat 2

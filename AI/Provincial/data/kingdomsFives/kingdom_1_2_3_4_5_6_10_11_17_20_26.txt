@@ -1,0 +1,15 @@
+6
+8
+8
+8
+Gold 4
+Province 9
+CouncilRoom 103
+Silver 15
+Gold 9
+Silver 13
+Spy 10
+Duchy 9
+Laboratory 8
+Silver 13
+Militia 12

@@ -1,0 +1,16 @@
+3
+14
+8
+8
+Gold 3
+Bureaucrat 5
+Province 6
+Duchy 4
+Gold 99
+Spy 7
+Silver 6
+Duchy 2
+Silver 12
+Remodel 3
+Silver 10
+Silver 8

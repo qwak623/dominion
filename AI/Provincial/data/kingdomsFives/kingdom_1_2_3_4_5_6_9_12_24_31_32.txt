@@ -1,0 +1,17 @@
+6
+13
+6
+4
+Province 11
+Gold 100
+Silver 12
+Gold 7
+Woodcutter 5
+Workshop 11
+Copper 10
+Province 7
+Silver 12
+Gold 6
+Remodel 5
+Duchy 8
+Feast 6

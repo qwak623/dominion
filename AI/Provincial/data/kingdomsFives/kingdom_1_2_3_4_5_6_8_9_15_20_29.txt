@@ -1,0 +1,15 @@
+1
+22
+8
+8
+Gold 10
+Province 5
+Militia 6
+Silver 10
+Copper 7
+Village 12
+Gold 102
+Adventurer 6
+Silver 8
+Duchy 6
+Estate 13

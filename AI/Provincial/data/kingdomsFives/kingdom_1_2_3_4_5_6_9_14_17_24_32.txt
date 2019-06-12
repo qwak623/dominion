@@ -1,0 +1,13 @@
+0
+20
+7
+7
+Gold 13
+Silver 8
+Gold 5
+Province 5
+Gardens 6
+Laboratory 14
+Workshop 11
+Gold 101
+Silver 15

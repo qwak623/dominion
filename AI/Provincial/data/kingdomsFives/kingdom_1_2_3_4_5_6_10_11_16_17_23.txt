@@ -1,0 +1,21 @@
+7
+12
+7
+6
+Gold 103
+Laboratory 5
+CouncilRoom 8
+Silver 11
+Silver 7
+Duchy 4
+Moneylender 7
+Duchy 6
+Cellar 6
+Estate 7
+Copper 4
+Duchy 10
+Silver 10
+Gold 3
+Copper 2
+Chapel 5
+Chapel 4

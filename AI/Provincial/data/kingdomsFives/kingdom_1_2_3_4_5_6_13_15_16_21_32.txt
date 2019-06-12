@@ -1,0 +1,16 @@
+0
+12
+5
+5
+Province 12
+Gold 11
+Gold 7
+Silver 12
+Gold 99
+Chapel 7
+Duchy 9
+Copper 4
+Chancellor 3
+Estate 7
+Silver 10
+Silver 6

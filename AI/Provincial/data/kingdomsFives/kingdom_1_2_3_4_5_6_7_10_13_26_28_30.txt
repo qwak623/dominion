@@ -1,0 +1,16 @@
+0
+9
+8
+8
+Gold 102
+Witch 5
+Duchy 9
+Silver 12
+Cellar 5
+Spy 7
+Estate 12
+Province 8
+Festival 3
+Copper 7
+Silver 9
+Gold 4

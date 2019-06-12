@@ -1,0 +1,17 @@
+4
+14
+8
+7
+Thief 5
+Gardens 10
+Duchy 12
+Library 5
+Spy 12
+Province 4
+ThroneRoom 4
+Library 9
+Silver 12
+Copper 8
+Province 4
+Gold 99
+Province 6

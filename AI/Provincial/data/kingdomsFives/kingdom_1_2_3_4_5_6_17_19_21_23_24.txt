@@ -1,0 +1,13 @@
+7
+16
+8
+8
+Gold 7
+Laboratory 8
+Silver 13
+Gold 9
+Market 6
+Duchy 11
+Laboratory 4
+Remodel 7
+Laboratory 3

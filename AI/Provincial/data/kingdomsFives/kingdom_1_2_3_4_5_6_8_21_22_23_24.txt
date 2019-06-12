@@ -1,0 +1,17 @@
+0
+15
+8
+6
+Gold 100
+Mine 3
+Silver 13
+Province 7
+Moat 11
+Estate 2
+Moneylender 9
+Province 9
+Silver 11
+Mine 12
+Duchy 10
+Mine 3
+Copper 8

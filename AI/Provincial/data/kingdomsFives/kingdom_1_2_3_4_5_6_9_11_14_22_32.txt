@@ -1,0 +1,16 @@
+7
+19
+7
+4
+Gold 8
+Silver 10
+Gold 100
+Gardens 12
+Bureaucrat 8
+Moat 13
+CouncilRoom 3
+Bureaucrat 10
+Gold 9
+Silver 12
+CouncilRoom 6
+Province 15

@@ -1,0 +1,19 @@
+5
+10
+7
+7
+Gold 10
+Gold 3
+Laboratory 6
+Silver 4
+Militia 4
+Province 3
+Silver 3
+Silver 13
+Silver 1
+Estate 14
+Gold 100
+Militia 1
+Duchy 10
+Duchy 7
+Woodcutter 8

@@ -1,0 +1,15 @@
+6
+15
+6
+4
+Gold 99
+Silver 10
+Smithy 9
+Remodel 4
+Province 7
+Duchy 8
+Copper 5
+Moneylender 11
+Silver 10
+Estate 4
+Silver 9

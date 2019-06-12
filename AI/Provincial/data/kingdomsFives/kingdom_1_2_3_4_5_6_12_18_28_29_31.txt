@@ -1,0 +1,12 @@
+4
+11
+15
+5
+Province 12
+Gold 13
+Province 16
+Library 6
+Silver 13
+ThroneRoom 4
+Feast 9
+Gold 99

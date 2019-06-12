@@ -1,0 +1,16 @@
+1
+13
+7
+6
+Gold 4
+Province 6
+Silver 6
+Gardens 9
+Adventurer 9
+Duchy 11
+Silver 12
+Gold 100
+Adventurer 11
+Thief 2
+Cellar 11
+Chancellor 8

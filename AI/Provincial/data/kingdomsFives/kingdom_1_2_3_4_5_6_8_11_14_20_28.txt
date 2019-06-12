@@ -1,0 +1,15 @@
+7
+8
+7
+4
+CouncilRoom 2
+Province 10
+Silver 5
+Gardens 9
+Gold 11
+Gold 99
+Militia 8
+Copper 5
+Estate 10
+Silver 13
+Adventurer 7

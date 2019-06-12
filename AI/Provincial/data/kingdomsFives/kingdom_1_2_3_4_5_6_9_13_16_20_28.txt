@@ -1,0 +1,14 @@
+4
+14
+8
+7
+Gold 7
+Militia 3
+Duchy 14
+Duchy 6
+Silver 11
+ThroneRoom 10
+ThroneRoom 6
+Bureaucrat 4
+Gold 100
+Silver 6

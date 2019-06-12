@@ -1,0 +1,15 @@
+7
+12
+6
+4
+Chapel 1
+Gold 101
+Silver 14
+Chancellor 4
+Duchy 6
+Province 9
+Silver 2
+Gold 8
+Village 1
+Feast 7
+Chancellor 7

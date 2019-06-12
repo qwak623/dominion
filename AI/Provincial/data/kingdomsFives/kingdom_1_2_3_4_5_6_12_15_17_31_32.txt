@@ -1,0 +1,18 @@
+5
+13
+6
+6
+Gold 101
+Province 13
+Laboratory 9
+Duchy 9
+Silver 10
+Chancellor 11
+Workshop 8
+Province 4
+Feast 9
+Province 4
+Silver 10
+Chancellor 3
+Woodcutter 6
+Chancellor 10

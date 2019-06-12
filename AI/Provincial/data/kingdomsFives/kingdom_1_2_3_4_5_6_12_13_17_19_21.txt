@@ -1,0 +1,17 @@
+4
+7
+7
+6
+Province 9
+Gold 101
+Mine 7
+Silver 3
+Laboratory 12
+Silver 15
+Silver 8
+Copper 7
+Copper 8
+Festival 12
+Feast 12
+Estate 10
+Market 12

@@ -1,0 +1,13 @@
+0
+22
+8
+8
+Province 12
+Gold 8
+Bureaucrat 10
+Duchy 12
+Duchy 7
+Silver 17
+Gold 104
+Library 10
+Feast 13

@@ -1,0 +1,14 @@
+4
+9
+5
+4
+Province 12
+Gold 100
+Silver 11
+Gold 10
+Silver 11
+CouncilRoom 5
+Gold 3
+Moat 6
+Village 7
+Laboratory 2

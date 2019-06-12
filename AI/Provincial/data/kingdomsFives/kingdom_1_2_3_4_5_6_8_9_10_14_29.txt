@@ -1,0 +1,15 @@
+5
+11
+8
+8
+Bureaucrat 4
+Gardens 13
+Duchy 5
+Adventurer 8
+Province 1
+Silver 11
+Silver 12
+Gold 100
+Copper 10
+Adventurer 6
+Cellar 12

@@ -1,0 +1,15 @@
+5
+3
+11
+8
+Silver 6
+Estate 8
+Witch 10
+Gold 10
+Silver 13
+Witch 7
+Gold 101
+Workshop 4
+Duchy 10
+Silver 9
+Estate 5

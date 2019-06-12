@@ -1,0 +1,16 @@
+2
+17
+6
+5
+Gold 102
+Silver 4
+Silver 11
+Silver 3
+Silver 6
+Moneylender 5
+Moneylender 3
+Copper 6
+Village 8
+Library 12
+Duchy 1
+Village 5

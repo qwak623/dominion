@@ -1,0 +1,12 @@
+2
+13
+6
+6
+Gold 8
+Silver 11
+Smithy 9
+Copper 11
+Market 6
+Province 3
+Festival 11
+Estate 6

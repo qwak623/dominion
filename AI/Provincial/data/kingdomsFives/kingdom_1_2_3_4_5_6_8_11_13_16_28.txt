@@ -1,0 +1,16 @@
+0
+8
+6
+4
+Gold 2
+Province 8
+Province 5
+Gold 100
+Silver 11
+Chapel 12
+CouncilRoom 6
+ThroneRoom 4
+Silver 6
+Copper 7
+Copper 8
+Festival 11

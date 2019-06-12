@@ -1,0 +1,16 @@
+6
+8
+5
+3
+CouncilRoom 2
+Province 13
+Gold 7
+Silver 12
+Gardens 9
+Chancellor 6
+Gardens 8
+Silver 8
+Copper 1
+Gold 7
+Gold 101
+Village 10

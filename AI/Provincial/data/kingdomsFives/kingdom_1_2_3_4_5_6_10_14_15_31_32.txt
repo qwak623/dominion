@@ -1,0 +1,19 @@
+1
+12
+8
+8
+Province 4
+Workshop 3
+Gardens 12
+Duchy 8
+Silver 6
+Province 4
+Gold 5
+Copper 4
+Woodcutter 7
+Gold 4
+Province 12
+Estate 6
+Gold 103
+Silver 11
+Duchy 2

@@ -1,0 +1,16 @@
+1
+17
+8
+8
+Gold 101
+Adventurer 7
+Silver 11
+Smithy 9
+Copper 7
+Smithy 4
+Silver 12
+Smithy 9
+Duchy 7
+Province 4
+Copper 9
+Estate 6

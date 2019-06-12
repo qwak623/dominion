@@ -1,0 +1,20 @@
+5
+4
+12
+8
+Province 12
+Silver 10
+Witch 11
+Estate 5
+Estate 10
+Estate 4
+Duchy 9
+Gold 1
+Silver 3
+Gold 101
+Village 6
+Gold 5
+Woodcutter 10
+Moneylender 2
+Copper 7
+Silver 12

@@ -1,0 +1,17 @@
+2
+17
+7
+7
+Gold 11
+Province 3
+Silver 6
+Gold 2
+Gold 103
+Gardens 8
+Silver 12
+Moneylender 7
+Village 1
+Cellar 7
+Duchy 8
+Moneylender 2
+Estate 7

@@ -1,0 +1,12 @@
+0
+15
+8
+7
+Gold 10
+Mine 2
+Gold 104
+Spy 13
+Silver 12
+Silver 9
+Festival 6
+Copper 8

@@ -1,0 +1,18 @@
+2
+5
+17
+4
+Gardens 13
+Silver 8
+Estate 11
+Village 13
+Duchy 5
+Village 6
+Gold 102
+Cellar 9
+Estate 7
+Cellar 6
+Copper 11
+Gold 13
+Adventurer 4
+Silver 12

@@ -1,0 +1,20 @@
+7
+13
+7
+7
+Gold 100
+Silver 4
+Smithy 10
+Gold 6
+Province 4
+Province 7
+Gold 7
+Silver 6
+Copper 7
+Thief 6
+Copper 4
+Estate 12
+Smithy 3
+CouncilRoom 2
+Duchy 13
+Silver 15

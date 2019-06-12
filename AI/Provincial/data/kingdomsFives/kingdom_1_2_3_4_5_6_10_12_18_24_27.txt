@@ -1,0 +1,17 @@
+4
+10
+7
+7
+Province 9
+Gold 11
+Silver 3
+Library 8
+Library 6
+Silver 10
+Province 6
+Gold 5
+Feast 2
+Duchy 6
+Province 6
+Gold 99
+Copper 2

@@ -1,0 +1,18 @@
+2
+10
+16
+8
+Duchy 10
+Gardens 9
+Silver 8
+Cellar 5
+Gold 101
+Gold 1
+Laboratory 9
+Estate 12
+Laboratory 8
+Copper 12
+Thief 9
+Smithy 11
+Duchy 10
+Cellar 9

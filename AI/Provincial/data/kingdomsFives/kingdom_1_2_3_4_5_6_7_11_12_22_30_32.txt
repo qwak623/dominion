@@ -1,0 +1,15 @@
+0
+5
+6
+8
+Province 4
+Gold 104
+Province 8
+Gold 12
+Witch 7
+Gold 2
+Silver 11
+Copper 7
+Curse 13
+Silver 11
+Workshop 10

@@ -1,0 +1,15 @@
+5
+11
+7
+5
+Province 7
+Gold 8
+Mine 6
+Silver 11
+ThroneRoom 9
+Silver 10
+Mine 8
+Spy 9
+Silver 13
+Mine 7
+Thief 10

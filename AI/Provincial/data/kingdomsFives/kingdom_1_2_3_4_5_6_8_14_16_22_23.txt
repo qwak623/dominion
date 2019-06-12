@@ -1,0 +1,17 @@
+7
+15
+6
+3
+Silver 3
+Gold 100
+Gold 7
+Gold 3
+Silver 9
+Silver 11
+Chapel 7
+Duchy 8
+Gold 9
+Gardens 4
+Duchy 4
+Adventurer 8
+Silver 8

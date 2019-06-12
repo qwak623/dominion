@@ -1,0 +1,13 @@
+0
+8
+6
+6
+Province 11
+Gold 100
+Silver 10
+Silver 11
+Remodel 4
+Chapel 6
+Estate 6
+Copper 12
+Market 10

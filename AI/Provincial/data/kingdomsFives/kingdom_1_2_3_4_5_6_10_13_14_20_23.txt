@@ -1,0 +1,16 @@
+2
+10
+8
+7
+Province 7
+Gold 5
+Festival 8
+Gardens 12
+Silver 16
+Copper 7
+Moneylender 5
+Gold 100
+Estate 5
+Silver 4
+Cellar 7
+Copper 9

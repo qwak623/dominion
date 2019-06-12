@@ -1,0 +1,14 @@
+1
+7
+6
+4
+Province 7
+Gold 100
+Gold 4
+Silver 12
+Village 6
+Militia 8
+Gold 14
+Province 7
+Village 6
+Spy 1

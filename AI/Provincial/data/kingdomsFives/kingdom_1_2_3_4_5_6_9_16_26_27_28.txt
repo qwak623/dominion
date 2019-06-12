@@ -1,0 +1,16 @@
+7
+16
+8
+7
+Gold 101
+Bureaucrat 8
+Duchy 7
+Silver 8
+Bureaucrat 8
+Copper 3
+Bureaucrat 9
+Copper 7
+Duchy 7
+Estate 11
+Silver 12
+Silver 5

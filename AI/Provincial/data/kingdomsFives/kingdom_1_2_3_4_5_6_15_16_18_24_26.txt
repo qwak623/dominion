@@ -1,0 +1,19 @@
+5
+15
+5
+5
+Gold 99
+Silver 11
+Gold 8
+Spy 7
+Province 5
+Remodel 11
+Duchy 9
+Spy 7
+Spy 5
+Chapel 2
+Silver 10
+Remodel 3
+Duchy 6
+Province 11
+Province 9

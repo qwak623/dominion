@@ -1,0 +1,16 @@
+0
+14
+6
+6
+Gold 11
+Province 99
+Silver 8
+Duchy 10
+Gold 2
+Province 10
+Chancellor 5
+Remodel 3
+Remodel 8
+Remodel 9
+Copper 13
+Mine 11

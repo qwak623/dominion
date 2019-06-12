@@ -1,0 +1,17 @@
+0
+7
+17
+8
+Gardens 11
+Mine 13
+Gold 100
+Copper 1
+Witch 2
+Workshop 9
+Gold 3
+Province 10
+Estate 8
+Woodcutter 6
+Silver 10
+Copper 5
+Copper 8

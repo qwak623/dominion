@@ -1,0 +1,15 @@
+3
+12
+6
+6
+Gold 6
+Province 7
+Silver 6
+Gold 101
+Silver 10
+Woodcutter 11
+Silver 8
+Chancellor 6
+Workshop 6
+Duchy 10
+Copper 9

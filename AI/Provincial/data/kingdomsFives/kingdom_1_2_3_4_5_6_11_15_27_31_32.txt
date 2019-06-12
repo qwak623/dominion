@@ -1,0 +1,11 @@
+3
+15
+17
+8
+Gold 103
+Duchy 8
+Thief 2
+CouncilRoom 2
+Silver 13
+Gold 15
+Thief 11

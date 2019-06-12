@@ -1,0 +1,15 @@
+0
+14
+8
+8
+Province 11
+Province 10
+Gold 104
+Witch 12
+Silver 15
+CouncilRoom 12
+Copper 11
+Copper 1
+Moneylender 5
+Province 7
+Festival 5

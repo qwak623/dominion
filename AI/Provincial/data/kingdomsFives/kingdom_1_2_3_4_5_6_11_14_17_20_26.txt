@@ -1,0 +1,15 @@
+3
+16
+7
+7
+Laboratory 10
+Gold 3
+Duchy 101
+Militia 9
+Silver 12
+Militia 9
+CouncilRoom 7
+Gardens 4
+CouncilRoom 3
+Duchy 5
+Province 7

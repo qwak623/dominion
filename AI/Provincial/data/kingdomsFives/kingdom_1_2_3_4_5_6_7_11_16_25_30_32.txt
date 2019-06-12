@@ -1,0 +1,14 @@
+4
+19
+8
+7
+Witch 4
+Gold 101
+Silver 13
+Chapel 8
+Smithy 7
+Estate 4
+Gold 10
+Province 7
+Duchy 9
+Smithy 5

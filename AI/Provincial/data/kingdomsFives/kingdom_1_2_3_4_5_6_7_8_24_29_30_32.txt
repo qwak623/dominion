@@ -1,0 +1,15 @@
+4
+18
+8
+8
+Witch 4
+Province 11
+Gold 99
+Silver 12
+Adventurer 4
+Copper 11
+Village 5
+Estate 2
+Silver 11
+Remodel 6
+Gold 6

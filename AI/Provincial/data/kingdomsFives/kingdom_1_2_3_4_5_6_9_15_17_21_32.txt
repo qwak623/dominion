@@ -1,0 +1,16 @@
+2
+15
+7
+6
+Bureaucrat 1
+Gold 8
+Laboratory 6
+Silver 11
+Province 9
+Chancellor 3
+Copper 7
+Estate 10
+Province 99
+Estate 5
+Copper 4
+Mine 9

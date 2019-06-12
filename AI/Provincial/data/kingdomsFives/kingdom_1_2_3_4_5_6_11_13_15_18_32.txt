@@ -1,0 +1,16 @@
+5
+14
+7
+7
+Province 10
+Gold 5
+Gold 104
+Festival 3
+CouncilRoom 9
+Silver 9
+Workshop 9
+CouncilRoom 4
+Chancellor 13
+Silver 11
+Chancellor 12
+Library 9

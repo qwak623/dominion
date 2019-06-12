@@ -1,0 +1,13 @@
+1
+11
+7
+7
+Province 8
+Gold 101
+Silver 12
+Adventurer 11
+Duchy 12
+Silver 15
+Copper 5
+Estate 6
+Chapel 9

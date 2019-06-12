@@ -1,0 +1,17 @@
+0
+10
+6
+6
+Province 7
+Gold 6
+Province 13
+Gold 101
+Silver 11
+Copper 10
+Moneylender 2
+Festival 10
+Smithy 7
+Workshop 6
+Moneylender 5
+Workshop 10
+Silver 9

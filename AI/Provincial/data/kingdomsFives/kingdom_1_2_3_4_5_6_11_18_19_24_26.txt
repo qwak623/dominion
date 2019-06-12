@@ -1,0 +1,15 @@
+6
+12
+7
+5
+Gold 5
+Library 9
+Province 5
+Silver 7
+Market 14
+Spy 5
+Silver 12
+Gold 100
+CouncilRoom 6
+Copper 9
+Estate 9

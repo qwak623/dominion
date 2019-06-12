@@ -1,0 +1,12 @@
+5
+14
+18
+8
+Province 11
+Gold 101
+Silver 6
+Silver 10
+Gold 4
+Silver 5
+Remodel 12
+Copper 6

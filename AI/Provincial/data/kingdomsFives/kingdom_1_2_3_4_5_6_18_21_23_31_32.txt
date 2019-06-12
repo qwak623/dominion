@@ -1,0 +1,16 @@
+7
+9
+5
+3
+Province 10
+Province 7
+Gold 101
+Library 4
+Silver 11
+Moneylender 8
+Woodcutter 10
+Mine 10
+Duchy 11
+Silver 6
+Silver 3
+Woodcutter 9

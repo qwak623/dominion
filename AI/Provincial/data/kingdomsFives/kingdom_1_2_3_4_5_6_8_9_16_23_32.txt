@@ -1,0 +1,16 @@
+4
+13
+7
+7
+Adventurer 1
+Gold 12
+Silver 10
+Silver 10
+Chapel 2
+Province 6
+Bureaucrat 6
+Workshop 3
+Moneylender 4
+Copper 8
+Gold 100
+Duchy 2

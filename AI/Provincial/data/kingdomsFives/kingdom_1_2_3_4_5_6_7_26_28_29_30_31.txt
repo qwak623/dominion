@@ -1,0 +1,14 @@
+0
+9
+8
+8
+Witch 9
+Duchy 7
+Gold 9
+Gold 104
+Silver 13
+Village 3
+Woodcutter 7
+Copper 12
+Spy 4
+ThroneRoom 2

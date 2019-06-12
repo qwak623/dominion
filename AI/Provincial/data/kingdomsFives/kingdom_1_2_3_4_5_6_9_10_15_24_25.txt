@@ -1,0 +1,18 @@
+2
+8
+7
+4
+Province 12
+Gold 7
+Silver 11
+Duchy 10
+Gold 100
+Province 8
+Duchy 12
+Smithy 2
+Gold 4
+Gold 9
+Remodel 10
+Bureaucrat 12
+Silver 10
+Duchy 6

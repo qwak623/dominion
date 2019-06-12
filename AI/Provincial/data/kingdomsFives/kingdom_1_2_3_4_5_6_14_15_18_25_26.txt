@@ -1,0 +1,15 @@
+1
+15
+6
+5
+Gold 100
+Silver 6
+Gardens 9
+Silver 11
+Spy 11
+Copper 11
+Smithy 7
+Silver 9
+Chancellor 8
+Province 11
+Estate 12

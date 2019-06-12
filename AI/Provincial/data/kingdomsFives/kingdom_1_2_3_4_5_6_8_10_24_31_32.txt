@@ -1,0 +1,17 @@
+1
+10
+7
+4
+Gold 7
+Province 8
+Silver 12
+Cellar 4
+Workshop 7
+Woodcutter 5
+Duchy 6
+Copper 5
+Silver 10
+Remodel 5
+Workshop 6
+Cellar 7
+Gold 101

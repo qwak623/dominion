@@ -1,0 +1,15 @@
+2
+15
+7
+6
+Gold 104
+Mine 5
+Duchy 12
+Silver 13
+Copper 4
+Spy 8
+Mine 6
+Province 13
+Estate 6
+Woodcutter 1
+Workshop 9

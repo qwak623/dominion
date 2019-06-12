@@ -1,0 +1,20 @@
+1
+16
+7
+7
+Mine 1
+Gold 10
+Province 3
+Silver 13
+Bureaucrat 2
+Bureaucrat 2
+Silver 6
+Silver 3
+Province 4
+Copper 8
+Workshop 2
+Duchy 1
+Mine 14
+Estate 4
+Gold 103
+Chapel 3

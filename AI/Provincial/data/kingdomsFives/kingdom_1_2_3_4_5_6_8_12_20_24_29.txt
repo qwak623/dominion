@@ -1,0 +1,14 @@
+4
+18
+6
+6
+Adventurer 1
+Province 5
+Gold 7
+Silver 12
+Militia 15
+Gold 102
+Village 7
+Feast 10
+Remodel 6
+Militia 11

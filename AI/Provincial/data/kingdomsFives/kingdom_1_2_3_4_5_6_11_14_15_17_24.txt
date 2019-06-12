@@ -1,0 +1,16 @@
+6
+6
+6
+3
+Province 7
+Gold 10
+Gold 100
+CouncilRoom 3
+CouncilRoom 6
+Silver 12
+Copper 2
+Laboratory 4
+Estate 6
+Gardens 6
+Estate 1
+Remodel 13

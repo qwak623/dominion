@@ -1,0 +1,16 @@
+6
+16
+20
+8
+Witch 7
+Silver 16
+Gold 99
+Province 12
+Workshop 7
+Feast 9
+Militia 5
+Feast 6
+Gold 8
+Copper 4
+Militia 9
+Estate 7

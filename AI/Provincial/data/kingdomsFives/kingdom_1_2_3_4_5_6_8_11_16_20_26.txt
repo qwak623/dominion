@@ -1,0 +1,15 @@
+2
+4
+8
+8
+Province 9
+Gold 5
+Militia 4
+Duchy 10
+Gold 100
+Silver 13
+Copper 1
+Spy 8
+CouncilRoom 10
+Silver 11
+Estate 11

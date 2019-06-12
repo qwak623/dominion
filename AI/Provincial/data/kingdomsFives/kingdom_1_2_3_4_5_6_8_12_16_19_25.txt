@@ -1,0 +1,14 @@
+4
+15
+6
+4
+Smithy 2
+Gold 102
+Gold 3
+Gold 7
+Silver 9
+Feast 7
+Adventurer 10
+Duchy 3
+Silver 12
+Market 12

@@ -1,0 +1,15 @@
+1
+16
+8
+8
+Gold 102
+Silver 10
+Spy 10
+Spy 12
+Feast 3
+Feast 9
+Gold 7
+Village 6
+Province 12
+ThroneRoom 10
+Gold 9

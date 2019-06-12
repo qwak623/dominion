@@ -1,0 +1,16 @@
+2
+14
+7
+3
+Gold 14
+Silver 5
+Smithy 5
+Silver 13
+Copper 4
+Estate 11
+Adventurer 5
+Duchy 2
+Adventurer 6
+Chancellor 15
+Gold 100
+Library 1

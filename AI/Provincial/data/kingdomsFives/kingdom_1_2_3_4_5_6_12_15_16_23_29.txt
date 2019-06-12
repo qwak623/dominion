@@ -1,0 +1,16 @@
+5
+15
+6
+5
+Gold 101
+Gold 8
+Silver 7
+Silver 13
+Feast 6
+Village 4
+Village 8
+Copper 5
+Province 7
+Village 3
+Duchy 8
+Estate 13

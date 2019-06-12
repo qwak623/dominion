@@ -1,0 +1,13 @@
+7
+13
+7
+5
+Gold 101
+Silver 4
+Market 6
+Silver 12
+Chancellor 8
+Duchy 6
+Copper 15
+Gold 3
+Estate 7

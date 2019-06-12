@@ -1,0 +1,14 @@
+7
+13
+6
+5
+Gold 12
+Gold 6
+Market 7
+Gold 7
+Silver 11
+Chancellor 102
+Gold 4
+Village 7
+Duchy 3
+Remodel 4

@@ -1,0 +1,14 @@
+5
+11
+6
+6
+Gold 102
+Silver 10
+Silver 12
+Moat 5
+Duchy 6
+Moneylender 11
+Moneylender 11
+Estate 6
+Gold 15
+Moneylender 7

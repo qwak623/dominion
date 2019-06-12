@@ -1,0 +1,14 @@
+4
+13
+14
+8
+Gold 102
+Province 10
+Duchy 11
+Militia 7
+Silver 17
+Moneylender 6
+Gold 3
+Adventurer 7
+Silver 3
+Workshop 4

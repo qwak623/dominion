@@ -1,0 +1,16 @@
+4
+15
+6
+5
+Gold 100
+Library 11
+Duchy 4
+Province 6
+Library 10
+Silver 12
+Province 5
+Remodel 3
+Remodel 2
+Cellar 8
+Gold 6
+Village 4

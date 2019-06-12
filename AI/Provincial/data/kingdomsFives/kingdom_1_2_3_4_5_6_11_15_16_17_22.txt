@@ -1,0 +1,16 @@
+4
+16
+5
+5
+Gold 101
+Gold 2
+Chapel 1
+Laboratory 7
+Silver 6
+Moat 4
+Silver 12
+Chapel 6
+CouncilRoom 6
+Province 5
+Estate 6
+Chancellor 8

@@ -1,0 +1,14 @@
+2
+18
+5
+3
+Gold 99
+Chapel 1
+Silver 13
+Feast 9
+Bureaucrat 5
+Silver 6
+Village 3
+Province 9
+CouncilRoom 4
+Gold 4

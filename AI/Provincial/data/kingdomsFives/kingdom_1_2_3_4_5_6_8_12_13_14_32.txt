@@ -1,0 +1,18 @@
+4
+7
+4
+8
+Workshop 3
+Province 11
+Gardens 8
+Duchy 11
+Feast 6
+Silver 16
+Estate 10
+Gold 102
+Adventurer 7
+Feast 5
+Copper 3
+Province 5
+Silver 11
+Gold 7

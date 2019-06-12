@@ -1,0 +1,16 @@
+5
+5
+10
+8
+Duchy 12
+Gardens 13
+Duchy 14
+Woodcutter 8
+Woodcutter 12
+Mine 103
+Duchy 4
+Copper 9
+Estate 7
+Silver 7
+Mine 10
+Workshop 9

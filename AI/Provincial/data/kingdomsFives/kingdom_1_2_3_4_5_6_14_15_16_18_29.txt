@@ -1,0 +1,16 @@
+1
+14
+5
+4
+Province 5
+Gold 101
+Silver 6
+Library 5
+Silver 10
+Chapel 2
+Copper 8
+Duchy 10
+Copper 4
+Gardens 7
+Gold 2
+Gold 7

@@ -1,0 +1,18 @@
+5
+6
+2
+8
+Bureaucrat 9
+Gardens 10
+Duchy 3
+Province 8
+Duchy 5
+Gold 99
+Silver 9
+Estate 7
+Estate 1
+Witch 12
+Cellar 7
+Copper 10
+ThroneRoom 8
+Silver 12

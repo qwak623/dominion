@@ -1,0 +1,17 @@
+5
+13
+7
+5
+Province 9
+Gold 9
+Library 2
+Bureaucrat 2
+Silver 8
+Copper 10
+Estate 2
+Feast 2
+Festival 5
+Silver 11
+Duchy 4
+Market 4
+Gold 99

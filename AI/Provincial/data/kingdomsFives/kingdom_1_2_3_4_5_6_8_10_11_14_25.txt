@@ -1,0 +1,12 @@
+1
+4
+7
+7
+Silver 8
+Province 9
+Gardens 7
+Gold 4
+Duchy 7
+Gold 99
+Smithy 8
+Silver 12

@@ -1,0 +1,17 @@
+6
+12
+8
+6
+Gold 100
+Silver 13
+Duchy 7
+Gold 8
+Moat 13
+Duchy 7
+Market 11
+Estate 13
+Moneylender 13
+Silver 9
+Province 8
+Bureaucrat 6
+Chapel 4

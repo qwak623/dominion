@@ -1,0 +1,16 @@
+2
+10
+8
+8
+Gold 11
+Province 4
+Witch 7
+Gold 11
+Silver 5
+Chapel 5
+Estate 9
+Province 11
+Remodel 103
+Duchy 13
+Curse 5
+Workshop 3

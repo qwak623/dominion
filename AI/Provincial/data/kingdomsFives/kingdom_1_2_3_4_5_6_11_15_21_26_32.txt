@@ -1,0 +1,16 @@
+1
+21
+7
+4
+Province 6
+Gold 9
+CouncilRoom 2
+Silver 11
+Mine 10
+Silver 9
+Duchy 7
+Spy 6
+Copper 6
+Workshop 9
+Province 7
+CouncilRoom 9

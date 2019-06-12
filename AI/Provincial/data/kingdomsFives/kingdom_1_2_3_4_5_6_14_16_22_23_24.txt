@@ -1,0 +1,19 @@
+6
+13
+12
+8
+Gardens 6
+Province 6
+Gold 99
+Silver 11
+Gardens 12
+Gold 8
+Moat 6
+Gardens 8
+Duchy 5
+Duchy 5
+Estate 12
+Gardens 3
+Copper 5
+Remodel 8
+Moneylender 8

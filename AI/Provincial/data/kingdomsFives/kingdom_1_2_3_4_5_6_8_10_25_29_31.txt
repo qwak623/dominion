@@ -1,0 +1,19 @@
+7
+16
+6
+5
+Gold 5
+Silver 12
+Cellar 9
+Smithy 7
+Cellar 1
+Woodcutter 5
+Woodcutter 11
+Province 10
+Silver 4
+Gold 99
+Village 6
+Smithy 10
+Province 11
+Estate 1
+Duchy 12

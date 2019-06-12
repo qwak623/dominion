@@ -1,0 +1,16 @@
+2
+11
+7
+5
+Gold 5
+Province 9
+Market 7
+Silver 15
+Gold 103
+Woodcutter 10
+Silver 10
+Woodcutter 7
+Silver 10
+Spy 8
+Silver 11
+Adventurer 9

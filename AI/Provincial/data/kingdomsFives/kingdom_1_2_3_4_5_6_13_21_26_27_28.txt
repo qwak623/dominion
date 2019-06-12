@@ -1,0 +1,16 @@
+4
+18
+8
+7
+Gold 14
+Mine 9
+Province 13
+Silver 13
+ThroneRoom 13
+Duchy 7
+Spy 14
+Thief 2
+Gold 99
+Province 3
+Festival 10
+Silver 6

@@ -1,0 +1,14 @@
+3
+10
+8
+8
+Province 6
+Bureaucrat 5
+Duchy 11
+Province 2
+Gold 7
+Duchy 10
+Duchy 101
+Adventurer 6
+Silver 12
+Bureaucrat 6

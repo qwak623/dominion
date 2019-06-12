@@ -1,0 +1,14 @@
+3
+11
+8
+7
+Gold 103
+Gold 6
+Province 12
+Mine 9
+Silver 13
+Cellar 10
+Copper 1
+Remodel 2
+Duchy 10
+Cellar 7

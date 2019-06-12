@@ -1,0 +1,18 @@
+4
+10
+8
+8
+Province 10
+Market 7
+Gardens 7
+Silver 5
+Copper 10
+Estate 10
+Library 6
+Smithy 5
+Duchy 5
+Smithy 5
+Laboratory 14
+Silver 11
+Library 7
+Silver 2

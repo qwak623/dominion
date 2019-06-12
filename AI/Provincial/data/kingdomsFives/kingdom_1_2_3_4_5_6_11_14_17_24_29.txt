@@ -1,0 +1,17 @@
+0
+14
+7
+5
+Gold 3
+Province 9
+CouncilRoom 5
+Gardens 13
+Silver 11
+Remodel 7
+Copper 10
+Village 9
+Remodel 3
+Gardens 3
+Silver 14
+Silver 2
+Gold 102

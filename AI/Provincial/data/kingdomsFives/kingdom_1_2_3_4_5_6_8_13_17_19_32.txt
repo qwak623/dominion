@@ -1,0 +1,18 @@
+0
+15
+7
+6
+Gold 11
+Gold 101
+Silver 12
+Copper 6
+Silver 7
+Adventurer 8
+Adventurer 8
+Silver 3
+Workshop 9
+Duchy 6
+Province 8
+Workshop 5
+Workshop 9
+Estate 3

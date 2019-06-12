@@ -1,0 +1,17 @@
+5
+8
+8
+6
+Gold 4
+Province 8
+CouncilRoom 8
+Silver 4
+Duchy 9
+Library 102
+Copper 5
+Library 9
+Copper 7
+Chancellor 7
+Province 9
+Silver 15
+Moat 12

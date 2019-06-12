@@ -1,0 +1,17 @@
+1
+8
+14
+8
+Bureaucrat 5
+Silver 5
+Duchy 10
+Estate 9
+Province 7
+Copper 11
+Bureaucrat 9
+Gold 101
+Workshop 10
+Duchy 6
+CouncilRoom 9
+Festival 4
+Militia 4

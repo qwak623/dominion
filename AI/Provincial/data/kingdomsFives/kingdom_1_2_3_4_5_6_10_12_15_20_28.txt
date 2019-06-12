@@ -1,0 +1,16 @@
+7
+13
+13
+8
+Militia 5
+Silver 9
+Cellar 1
+Estate 11
+Feast 11
+Duchy 10
+Chancellor 2
+Province 5
+Chancellor 2
+Cellar 4
+Silver 12
+Gold 101

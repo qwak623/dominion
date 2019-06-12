@@ -1,0 +1,15 @@
+2
+17
+8
+8
+Gold 13
+Witch 11
+Gold 7
+Gold 100
+Silver 11
+Remodel 5
+Festival 10
+Village 3
+Copper 3
+Duchy 8
+Estate 4

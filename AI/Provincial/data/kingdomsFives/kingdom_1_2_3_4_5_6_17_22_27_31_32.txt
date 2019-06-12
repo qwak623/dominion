@@ -1,0 +1,16 @@
+6
+13
+6
+5
+Gold 11
+Province 2
+Gold 106
+Silver 12
+Moat 10
+Workshop 2
+Duchy 2
+Laboratory 9
+Silver 6
+Duchy 3
+Estate 11
+Woodcutter 4

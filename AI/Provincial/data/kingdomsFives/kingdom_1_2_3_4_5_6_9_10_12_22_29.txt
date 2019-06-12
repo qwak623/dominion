@@ -1,0 +1,13 @@
+2
+12
+8
+6
+Province 10
+Gold 100
+Silver 12
+Moat 13
+Copper 7
+Bureaucrat 12
+Feast 12
+Village 11
+Cellar 12

@@ -1,0 +1,14 @@
+3
+18
+8
+4
+Gold 9
+Province 5
+Library 8
+Gold 101
+Silver 13
+Chancellor 3
+Gold 5
+Militia 7
+Adventurer 6
+Militia 9

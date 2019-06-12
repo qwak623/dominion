@@ -1,0 +1,14 @@
+6
+10
+8
+8
+Province 14
+Gold 5
+Market 10
+Gold 102
+Bureaucrat 10
+Thief 11
+Smithy 8
+Duchy 4
+Silver 14
+Duchy 9

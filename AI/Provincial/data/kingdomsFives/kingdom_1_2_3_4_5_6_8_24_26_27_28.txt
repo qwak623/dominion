@@ -1,0 +1,12 @@
+6
+11
+6
+4
+Province 13
+Gold 101
+Silver 12
+Spy 9
+Copper 3
+Thief 7
+Silver 11
+Remodel 10

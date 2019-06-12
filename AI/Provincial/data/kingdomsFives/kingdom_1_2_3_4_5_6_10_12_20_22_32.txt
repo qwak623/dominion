@@ -1,0 +1,14 @@
+2
+12
+14
+6
+Gold 103
+Gold 8
+Silver 15
+Militia 7
+Moat 12
+Silver 8
+Copper 9
+Militia 4
+Copper 1
+Estate 9

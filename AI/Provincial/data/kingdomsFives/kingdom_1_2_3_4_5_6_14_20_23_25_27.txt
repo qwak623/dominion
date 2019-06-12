@@ -1,0 +1,14 @@
+2
+21
+8
+8
+Gold 102
+Militia 3
+Province 10
+Gold 2
+Gardens 12
+Province 6
+Silver 10
+Copper 11
+Estate 1
+Silver 7

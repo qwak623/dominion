@@ -1,0 +1,19 @@
+6
+16
+6
+5
+Militia 1
+Silver 2
+Gold 100
+Moat 1
+Province 5
+Militia 3
+Silver 11
+Copper 9
+Moneylender 3
+Duchy 3
+Feast 12
+Village 12
+Moat 6
+Silver 1
+Estate 9

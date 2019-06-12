@@ -1,0 +1,15 @@
+6
+14
+13
+8
+Province 2
+Province 4
+Woodcutter 3
+Gardens 12
+Copper 10
+Estate 10
+Gold 6
+Thief 10
+Gold 2
+Silver 14
+Workshop 5

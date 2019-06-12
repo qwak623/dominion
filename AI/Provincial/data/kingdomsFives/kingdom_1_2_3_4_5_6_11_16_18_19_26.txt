@@ -1,0 +1,20 @@
+2
+11
+6
+5
+Library 1
+Gold 101
+Silver 11
+Duchy 11
+CouncilRoom 9
+Silver 6
+Chapel 5
+Chapel 9
+Market 8
+Duchy 12
+Province 14
+Market 3
+Spy 8
+Copper 3
+Duchy 2
+Library 8

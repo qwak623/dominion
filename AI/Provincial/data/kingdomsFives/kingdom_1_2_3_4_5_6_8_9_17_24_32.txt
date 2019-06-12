@@ -1,0 +1,15 @@
+4
+22
+5
+4
+Gold 102
+Laboratory 10
+Silver 11
+Workshop 1
+Copper 14
+Gold 3
+Adventurer 8
+Estate 4
+Silver 12
+Duchy 3
+Province 12

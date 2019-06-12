@@ -1,0 +1,16 @@
+5
+15
+8
+8
+Witch 9
+Gold 103
+Duchy 15
+Estate 8
+Gold 6
+Mine 7
+Silver 8
+Thief 3
+Workshop 10
+Gold 12
+Silver 10
+Copper 4

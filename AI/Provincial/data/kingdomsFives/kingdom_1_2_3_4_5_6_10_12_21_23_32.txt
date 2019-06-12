@@ -1,0 +1,17 @@
+4
+14
+17
+6
+Province 4
+Province 7
+Duchy 4
+Gold 8
+Silver 16
+Cellar 101
+Copper 10
+Estate 5
+Province 2
+Feast 3
+Province 3
+Workshop 11
+Cellar 5

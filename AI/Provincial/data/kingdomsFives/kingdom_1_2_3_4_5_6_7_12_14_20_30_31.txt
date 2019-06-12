@@ -1,0 +1,17 @@
+3
+15
+8
+8
+Witch 7
+Duchy 12
+Gardens 9
+Gold 102
+Silver 15
+Province 6
+Militia 3
+Feast 5
+Copper 12
+Woodcutter 6
+Militia 9
+Estate 13
+Curse 5

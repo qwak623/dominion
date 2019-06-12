@@ -1,0 +1,12 @@
+5
+10
+18
+6
+Laboratory 1
+Province 8
+Gold 102
+Adventurer 11
+Laboratory 13
+Militia 4
+Silver 10
+Silver 14

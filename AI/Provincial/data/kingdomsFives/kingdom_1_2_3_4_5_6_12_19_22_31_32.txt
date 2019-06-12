@@ -1,0 +1,14 @@
+7
+10
+7
+7
+Gold 6
+Province 10
+Silver 10
+Moat 1
+Market 4
+Gold 102
+Silver 12
+Market 7
+Gold 7
+Silver 8

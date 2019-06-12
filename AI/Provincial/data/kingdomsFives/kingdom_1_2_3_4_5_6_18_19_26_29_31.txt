@@ -1,0 +1,17 @@
+4
+12
+6
+5
+Province 6
+Province 8
+Gold 10
+Market 5
+Market 10
+Silver 7
+Woodcutter 10
+Village 10
+Market 8
+Silver 101
+Gold 7
+Spy 5
+Silver 7

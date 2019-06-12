@@ -1,0 +1,17 @@
+4
+11
+16
+5
+Gold 7
+Silver 6
+Smithy 4
+Province 2
+Silver 5
+Copper 8
+Feast 13
+CouncilRoom 11
+Gold 99
+Feast 5
+Silver 14
+Province 5
+Estate 7

@@ -1,0 +1,18 @@
+4
+6
+17
+8
+Province 4
+Woodcutter 6
+Silver 4
+Estate 8
+Duchy 5
+Province 6
+Gold 99
+Thief 2
+Estate 4
+Copper 7
+Estate 1
+Silver 3
+Silver 10
+Workshop 9

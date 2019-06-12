@@ -1,0 +1,15 @@
+6
+12
+8
+7
+Gold 5
+Gold 103
+Bureaucrat 4
+Silver 6
+Silver 12
+Province 14
+Copper 4
+Gold 12
+Chapel 9
+Moneylender 8
+Smithy 7

@@ -1,0 +1,18 @@
+1
+10
+10
+8
+Duchy 7
+Gardens 11
+Silver 9
+Cellar 4
+Library 8
+Estate 4
+Estate 8
+Copper 12
+Province 1
+Gardens 12
+Library 12
+Remodel 10
+Militia 11
+Gold 99

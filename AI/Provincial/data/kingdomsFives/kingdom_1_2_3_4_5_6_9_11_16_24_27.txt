@@ -1,0 +1,15 @@
+4
+14
+8
+6
+Gold 8
+Gold 101
+Bureaucrat 3
+Silver 10
+Province 8
+Copper 8
+Remodel 14
+Thief 8
+Remodel 7
+CouncilRoom 6
+Chapel 8

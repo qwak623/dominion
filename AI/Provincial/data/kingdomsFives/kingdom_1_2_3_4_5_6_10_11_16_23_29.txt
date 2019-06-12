@@ -1,0 +1,14 @@
+0
+11
+6
+5
+Province 10
+Gold 101
+Silver 11
+Chapel 1
+Duchy 9
+Estate 5
+CouncilRoom 13
+Moneylender 11
+Gold 10
+Chapel 6

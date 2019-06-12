@@ -1,0 +1,16 @@
+3
+15
+6
+5
+Gold 99
+Silver 4
+Smithy 6
+Silver 14
+Copper 7
+Remodel 7
+Cellar 5
+Duchy 6
+Cellar 11
+Estate 7
+Province 10
+Duchy 10

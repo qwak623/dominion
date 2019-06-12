@@ -1,0 +1,16 @@
+0
+10
+8
+8
+Province 9
+Gold 12
+Bureaucrat 6
+Duchy 14
+CouncilRoom 4
+Silver 11
+Copper 9
+Estate 10
+Chapel 7
+Gold 99
+Mine 5
+Bureaucrat 7

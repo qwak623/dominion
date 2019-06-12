@@ -1,0 +1,16 @@
+1
+20
+6
+4
+Gold 13
+Festival 4
+Festival 8
+Duchy 8
+Smithy 7
+Gold 102
+Bureaucrat 5
+Province 6
+Silver 12
+Copper 1
+Estate 4
+Bureaucrat 11

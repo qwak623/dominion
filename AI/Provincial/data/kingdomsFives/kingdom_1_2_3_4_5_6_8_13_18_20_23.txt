@@ -1,0 +1,17 @@
+7
+13
+6
+6
+Province 7
+Gold 9
+Festival 3
+Library 9
+Militia 10
+Gold 9
+Duchy 8
+Province 5
+Gold 8
+Silver 11
+Silver 7
+Duchy 102
+Silver 6

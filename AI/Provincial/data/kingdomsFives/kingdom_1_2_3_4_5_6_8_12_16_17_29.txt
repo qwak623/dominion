@@ -1,0 +1,15 @@
+4
+14
+5
+5
+Gold 101
+Adventurer 11
+Silver 12
+Adventurer 7
+Silver 4
+Village 14
+Chapel 11
+Duchy 9
+Gold 11
+Village 8
+Province 12

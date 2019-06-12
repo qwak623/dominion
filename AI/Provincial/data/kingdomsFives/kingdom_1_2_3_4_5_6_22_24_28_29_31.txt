@@ -1,0 +1,15 @@
+6
+11
+6
+6
+Gold 11
+Silver 11
+Gold 100
+Copper 7
+Village 12
+Gold 3
+Estate 7
+Village 5
+Woodcutter 5
+Silver 3
+Duchy 12

@@ -1,0 +1,16 @@
+1
+14
+8
+7
+Gold 13
+Province 11
+Laboratory 100
+Laboratory 13
+Province 9
+Duchy 5
+Silver 8
+Feast 8
+Moneylender 6
+Silver 13
+Market 7
+Workshop 4

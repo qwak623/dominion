@@ -1,0 +1,16 @@
+0
+14
+15
+8
+Province 7
+Copper 1
+Silver 4
+Duchy 7
+Gardens 10
+Woodcutter 4
+Gold 99
+Estate 13
+Silver 12
+Adventurer 6
+Estate 6
+Gold 12

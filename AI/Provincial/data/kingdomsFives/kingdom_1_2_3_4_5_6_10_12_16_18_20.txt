@@ -1,0 +1,16 @@
+7
+11
+20
+5
+Province 7
+Silver 1
+Duchy 6
+Duchy 7
+Gold 100
+Library 3
+Silver 12
+Library 2
+Feast 4
+Silver 9
+Cellar 2
+Library 11

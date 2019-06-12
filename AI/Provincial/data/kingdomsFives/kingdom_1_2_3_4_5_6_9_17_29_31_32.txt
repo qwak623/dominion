@@ -1,0 +1,15 @@
+5
+15
+8
+8
+Laboratory 12
+Duchy 9
+Bureaucrat 11
+Silver 9
+Gold 101
+Woodcutter 13
+Province 6
+Gold 11
+Workshop 5
+Village 11
+Silver 15

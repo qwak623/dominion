@@ -1,0 +1,18 @@
+3
+5
+3
+7
+Workshop 1
+Duchy 8
+Silver 11
+Estate 10
+Witch 4
+Gold 8
+Estate 9
+Market 4
+Duchy 5
+Smithy 11
+Copper 10
+Silver 3
+Market 9
+Curse 7

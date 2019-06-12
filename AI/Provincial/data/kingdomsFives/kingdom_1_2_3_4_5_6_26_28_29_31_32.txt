@@ -1,0 +1,16 @@
+4
+12
+8
+7
+Gold 3
+Province 5
+Gold 100
+Silver 7
+Silver 14
+Estate 1
+ThroneRoom 10
+Village 4
+Workshop 10
+Duchy 8
+Spy 10
+Duchy 7

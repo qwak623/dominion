@@ -1,0 +1,15 @@
+4
+12
+7
+7
+Witch 100
+Silver 6
+Smithy 12
+Silver 12
+Chancellor 4
+Duchy 11
+Province 9
+Adventurer 3
+Estate 10
+Library 8
+Adventurer 5

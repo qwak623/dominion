@@ -1,0 +1,18 @@
+6
+11
+6
+4
+Silver 2
+Moat 2
+Province 5
+Gold 100
+Silver 10
+Duchy 8
+Village 11
+Thief 9
+Festival 8
+Silver 7
+Chancellor 6
+CouncilRoom 8
+Bureaucrat 12
+Library 2

@@ -1,0 +1,16 @@
+4
+14
+7
+7
+Gold 102
+Silver 3
+Province 9
+Gold 2
+Laboratory 10
+Duchy 8
+Laboratory 8
+Silver 14
+Silver 10
+Festival 2
+Chapel 6
+Estate 3

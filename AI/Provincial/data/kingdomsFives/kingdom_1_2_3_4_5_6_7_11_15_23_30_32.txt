@@ -1,0 +1,16 @@
+0
+16
+8
+8
+Witch 6
+Duchy 9
+Duchy 12
+Silver 10
+Copper 3
+Province 13
+Moneylender 3
+Chancellor 2
+Gold 10
+Duchy 4
+Gold 100
+Estate 9

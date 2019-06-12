@@ -1,0 +1,15 @@
+7
+15
+7
+4
+Gold 103
+Silver 9
+Duchy 12
+Moat 4
+Silver 12
+Estate 11
+Copper 3
+Province 5
+ThroneRoom 8
+Chancellor 11
+Workshop 4

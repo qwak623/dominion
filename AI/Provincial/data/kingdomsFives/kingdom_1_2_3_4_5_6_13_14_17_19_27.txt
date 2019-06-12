@@ -1,0 +1,15 @@
+6
+13
+14
+5
+Silver 6
+Province 5
+Duchy 10
+Gardens 10
+Gold 100
+Estate 8
+Thief 3
+Laboratory 6
+Festival 2
+Silver 11
+Festival 5

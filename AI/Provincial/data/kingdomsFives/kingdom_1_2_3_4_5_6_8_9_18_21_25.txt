@@ -1,0 +1,15 @@
+7
+12
+5
+4
+Province 9
+Gold 3
+Gold 104
+Library 8
+Province 11
+Silver 9
+Copper 12
+Mine 7
+Copper 4
+Estate 3
+Smithy 3

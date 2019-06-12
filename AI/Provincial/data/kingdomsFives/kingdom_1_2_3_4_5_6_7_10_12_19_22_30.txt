@@ -1,0 +1,17 @@
+7
+16
+8
+8
+Gold 9
+Witch 2
+Silver 12
+Gold 100
+Gold 4
+Cellar 8
+Copper 4
+Feast 4
+Duchy 11
+Copper 5
+Silver 7
+Feast 6
+Province 4

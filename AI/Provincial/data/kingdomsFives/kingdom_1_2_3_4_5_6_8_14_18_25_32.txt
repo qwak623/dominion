@@ -1,0 +1,19 @@
+5
+5
+11
+8
+Workshop 2
+Province 4
+Gardens 6
+Library 9
+Gardens 6
+Silver 10
+Gold 10
+Gold 101
+Copper 2
+Adventurer 7
+Workshop 8
+Duchy 9
+Estate 3
+Gardens 12
+Estate 9

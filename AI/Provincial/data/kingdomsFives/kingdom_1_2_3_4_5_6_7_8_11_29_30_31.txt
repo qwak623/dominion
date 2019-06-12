@@ -1,0 +1,15 @@
+7
+12
+23
+8
+Province 9
+Witch 9
+Gold 101
+Adventurer 6
+CouncilRoom 14
+Silver 15
+Woodcutter 11
+Copper 10
+Adventurer 6
+Duchy 4
+Estate 11

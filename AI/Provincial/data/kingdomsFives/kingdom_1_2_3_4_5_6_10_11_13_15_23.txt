@@ -1,0 +1,17 @@
+7
+11
+6
+6
+Gold 10
+Festival 8
+Copper 1
+Silver 10
+Moneylender 2
+Chancellor 7
+Gold 101
+Duchy 14
+Cellar 6
+Province 8
+Chancellor 4
+Province 5
+Estate 4

@@ -1,0 +1,17 @@
+4
+11
+7
+6
+Militia 4
+Gold 100
+Duchy 10
+Province 9
+Silver 11
+Silver 5
+Duchy 6
+Silver 13
+Gold 12
+Copper 2
+Cellar 4
+CouncilRoom 7
+Adventurer 8

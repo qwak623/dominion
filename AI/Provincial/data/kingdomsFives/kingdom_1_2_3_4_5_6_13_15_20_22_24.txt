@@ -1,0 +1,13 @@
+5
+12
+8
+6
+Province 6
+Gold 107
+Silver 13
+Festival 5
+Duchy 3
+Moat 12
+Province 6
+Copper 7
+Silver 3

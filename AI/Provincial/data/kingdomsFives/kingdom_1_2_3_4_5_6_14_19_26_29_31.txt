@@ -1,0 +1,14 @@
+1
+15
+6
+3
+Silver 10
+Province 14
+Gardens 12
+Gold 102
+Woodcutter 6
+Copper 6
+Copper 4
+Market 13
+Silver 5
+Gold 5

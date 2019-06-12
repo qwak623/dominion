@@ -1,0 +1,15 @@
+5
+21
+5
+5
+Gold 5
+Province 10
+Gold 3
+Province 10
+Gold 102
+Silver 13
+Duchy 3
+Market 7
+Chapel 3
+Copper 9
+Market 4

@@ -1,0 +1,19 @@
+6
+20
+5
+5
+Silver 1
+Gold 99
+Smithy 3
+Silver 9
+Thief 3
+Silver 10
+Copper 4
+Bureaucrat 10
+Laboratory 3
+Silver 11
+Silver 8
+Copper 6
+Estate 1
+Estate 6
+Duchy 9

@@ -1,0 +1,14 @@
+6
+14
+7
+6
+Gold 105
+Province 2
+Library 2
+Silver 8
+Militia 11
+Duchy 3
+Copper 9
+Estate 7
+Remodel 5
+Feast 9

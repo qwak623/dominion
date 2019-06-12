@@ -1,0 +1,16 @@
+4
+12
+5
+5
+Gold 100
+Province 9
+Gold 5
+Library 13
+Silver 10
+Duchy 6
+Silver 13
+Adventurer 11
+Library 12
+Library 7
+Adventurer 5
+Workshop 6

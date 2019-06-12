@@ -1,0 +1,19 @@
+6
+12
+8
+7
+Province 5
+Gold 16
+Mine 2
+Gardens 9
+Silver 11
+Feast 10
+Silver 5
+Silver 4
+Village 5
+Silver 9
+Cellar 10
+Village 7
+Gold 99
+Estate 8
+Copper 2

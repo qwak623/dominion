@@ -1,0 +1,17 @@
+2
+14
+7
+5
+Gold 9
+Silver 12
+Gold 5
+Province 3
+Copper 5
+Militia 6
+Gold 103
+ThroneRoom 11
+Gold 6
+ThroneRoom 3
+Estate 11
+Province 10
+Province 13

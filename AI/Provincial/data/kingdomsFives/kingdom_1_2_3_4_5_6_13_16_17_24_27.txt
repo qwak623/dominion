@@ -1,0 +1,13 @@
+3
+10
+5
+5
+Gold 99
+Laboratory 11
+Silver 10
+Thief 12
+Festival 6
+Silver 9
+Chapel 8
+Province 6
+Copper 3

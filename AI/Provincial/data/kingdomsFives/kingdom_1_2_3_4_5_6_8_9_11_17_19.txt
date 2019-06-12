@@ -1,0 +1,14 @@
+1
+16
+5
+4
+Gold 101
+Laboratory 6
+CouncilRoom 6
+Silver 9
+CouncilRoom 7
+Bureaucrat 12
+Copper 8
+Silver 8
+Market 6
+Estate 4

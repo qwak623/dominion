@@ -1,0 +1,16 @@
+3
+16
+7
+7
+Gold 6
+Mine 10
+Gold 100
+Province 7
+Silver 6
+Province 4
+Silver 13
+CouncilRoom 8
+Copper 7
+Library 12
+CouncilRoom 10
+Chapel 3

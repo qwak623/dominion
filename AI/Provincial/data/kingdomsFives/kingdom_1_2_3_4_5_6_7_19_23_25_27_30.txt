@@ -1,0 +1,13 @@
+6
+18
+8
+8
+Gold 7
+Witch 6
+Duchy 99
+Silver 12
+Silver 8
+Silver 10
+Smithy 3
+Duchy 10
+Gold 7

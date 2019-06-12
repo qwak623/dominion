@@ -1,0 +1,19 @@
+0
+17
+8
+8
+Province 8
+Gold 100
+Bureaucrat 4
+Adventurer 8
+Silver 4
+Silver 7
+Duchy 1
+Moneylender 8
+Copper 9
+Workshop 3
+Silver 12
+Estate 2
+Gold 2
+Duchy 2
+Moneylender 3

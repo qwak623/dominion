@@ -1,0 +1,15 @@
+0
+12
+15
+8
+Silver 10
+Gold 5
+Militia 10
+Province 10
+Gold 102
+Silver 4
+Copper 2
+Estate 8
+Feast 4
+Militia 12
+Feast 11

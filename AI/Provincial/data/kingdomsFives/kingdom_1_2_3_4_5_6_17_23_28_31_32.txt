@@ -1,0 +1,18 @@
+2
+16
+8
+5
+Gold 10
+Silver 8
+Laboratory 3
+Laboratory 12
+Woodcutter 6
+ThroneRoom 5
+Province 7
+Moneylender 3
+Silver 10
+Moneylender 8
+Silver 9
+Gold 100
+Workshop 11
+Duchy 11

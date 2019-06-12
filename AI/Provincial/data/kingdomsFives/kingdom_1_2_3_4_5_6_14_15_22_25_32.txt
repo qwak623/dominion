@@ -1,0 +1,15 @@
+0
+17
+8
+4
+Copper 1
+Province 8
+Silver 11
+Province 101
+Duchy 5
+Gardens 3
+Gardens 7
+Smithy 5
+Chancellor 8
+Moat 4
+Smithy 8

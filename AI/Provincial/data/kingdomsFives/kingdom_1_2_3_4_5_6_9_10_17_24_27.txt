@@ -1,0 +1,15 @@
+6
+13
+5
+5
+Laboratory 4
+Gold 4
+Silver 11
+Cellar 4
+Province 7
+Duchy 8
+Gold 99
+Gold 8
+Copper 10
+Silver 8
+Laboratory 4

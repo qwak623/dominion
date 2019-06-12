@@ -1,0 +1,18 @@
+6
+13
+6
+5
+Gold 9
+Silver 13
+Silver 12
+Duchy 8
+Workshop 7
+Market 8
+CouncilRoom 7
+Market 5
+Cellar 7
+Copper 7
+Estate 8
+CouncilRoom 5
+Province 12
+Gold 100

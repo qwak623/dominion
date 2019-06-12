@@ -1,0 +1,15 @@
+2
+16
+7
+6
+Province 8
+Mine 1
+Gold 101
+Spy 8
+Silver 8
+Mine 3
+Duchy 5
+Duchy 4
+Silver 13
+Cellar 13
+Workshop 3

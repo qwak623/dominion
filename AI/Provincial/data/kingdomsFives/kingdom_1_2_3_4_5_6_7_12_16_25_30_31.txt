@@ -1,0 +1,18 @@
+1
+13
+8
+8
+Province 7
+Witch 9
+Duchy 10
+Silver 11
+Province 5
+Copper 7
+Silver 5
+Silver 10
+Estate 12
+Witch 10
+Smithy 4
+Curse 101
+Smithy 12
+Smithy 8

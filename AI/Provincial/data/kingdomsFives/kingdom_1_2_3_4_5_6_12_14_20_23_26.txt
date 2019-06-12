@@ -1,0 +1,19 @@
+4
+9
+7
+6
+Silver 5
+Province 4
+Gold 3
+Duchy 9
+Gardens 10
+Silver 10
+Copper 11
+Militia 7
+Militia 4
+Moneylender 3
+Silver 10
+Gardens 1
+Spy 10
+Silver 7
+Gold 102

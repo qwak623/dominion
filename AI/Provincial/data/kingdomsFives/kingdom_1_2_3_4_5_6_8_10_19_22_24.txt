@@ -1,0 +1,17 @@
+7
+11
+7
+6
+Gold 101
+Silver 8
+Silver 9
+Silver 12
+Moat 5
+Market 7
+Cellar 5
+Silver 12
+Duchy 10
+Estate 10
+Province 5
+Copper 2
+Adventurer 4

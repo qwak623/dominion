@@ -1,0 +1,17 @@
+5
+11
+7
+7
+Silver 7
+Gold 105
+Province 7
+Duchy 10
+Gardens 12
+Silver 6
+Copper 10
+Silver 9
+Cellar 11
+Duchy 4
+Province 7
+Silver 11
+Silver 11

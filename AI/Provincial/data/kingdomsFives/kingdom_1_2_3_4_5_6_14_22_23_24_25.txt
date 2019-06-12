@@ -1,0 +1,17 @@
+0
+6
+13
+8
+Gardens 9
+Smithy 3
+Province 5
+Gold 3
+Silver 11
+Copper 4
+Moneylender 7
+Remodel 5
+Gold 4
+Duchy 11
+Province 7
+Gold 100
+Estate 8

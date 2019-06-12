@@ -1,0 +1,14 @@
+0
+13
+6
+5
+Gold 101
+Silver 11
+Cellar 12
+Feast 13
+Silver 11
+Duchy 10
+Province 12
+Copper 7
+Thief 10
+Estate 11

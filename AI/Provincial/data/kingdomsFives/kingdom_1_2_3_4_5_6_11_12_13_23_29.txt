@@ -1,0 +1,15 @@
+7
+11
+6
+3
+Gold 9
+Gold 10
+Gold 100
+Province 6
+CouncilRoom 13
+Silver 11
+Village 3
+Copper 7
+Estate 7
+Feast 5
+Estate 6

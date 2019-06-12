@@ -1,0 +1,15 @@
+3
+15
+8
+7
+Province 8
+Province 8
+Province 9
+Gold 101
+Militia 14
+Duchy 10
+Silver 8
+Woodcutter 3
+Woodcutter 8
+Spy 8
+Gold 10

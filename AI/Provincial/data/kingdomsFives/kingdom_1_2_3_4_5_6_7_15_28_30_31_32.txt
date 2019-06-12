@@ -1,0 +1,12 @@
+4
+5
+13
+8
+Witch 7
+Silver 6
+Duchy 14
+Estate 12
+ThroneRoom 8
+Silver 11
+Woodcutter 4
+ThroneRoom 8

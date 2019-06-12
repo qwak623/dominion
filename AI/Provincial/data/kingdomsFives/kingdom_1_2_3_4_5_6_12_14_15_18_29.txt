@@ -1,0 +1,16 @@
+4
+10
+7
+2
+Province 6
+Gold 5
+Silver 7
+Gardens 6
+Library 13
+Silver 4
+Library 10
+Copper 2
+Estate 6
+Silver 8
+Feast 12
+Village 4

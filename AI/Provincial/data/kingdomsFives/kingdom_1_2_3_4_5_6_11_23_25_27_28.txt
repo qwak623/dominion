@@ -1,0 +1,18 @@
+0
+12
+7
+6
+Gold 101
+Province 16
+Province 10
+CouncilRoom 8
+Silver 11
+Copper 11
+Gold 5
+Thief 6
+ThroneRoom 9
+Duchy 7
+Province 6
+Estate 10
+Moneylender 13
+Thief 6

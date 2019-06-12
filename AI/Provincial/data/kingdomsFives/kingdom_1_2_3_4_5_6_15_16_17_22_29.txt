@@ -1,0 +1,16 @@
+5
+18
+5
+3
+Province 5
+Gold 99
+Laboratory 6
+Silver 12
+Village 11
+Province 9
+Village 16
+Moat 4
+Duchy 6
+Gold 8
+Estate 7
+Gold 6

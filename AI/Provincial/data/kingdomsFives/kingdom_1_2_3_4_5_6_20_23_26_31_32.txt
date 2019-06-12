@@ -1,0 +1,15 @@
+4
+12
+8
+7
+Militia 2
+Gold 102
+Province 3
+Silver 7
+Province 7
+Duchy 7
+Militia 7
+Duchy 10
+Province 4
+Woodcutter 5
+Silver 13

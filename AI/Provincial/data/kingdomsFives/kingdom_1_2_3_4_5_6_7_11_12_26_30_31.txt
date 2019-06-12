@@ -1,0 +1,16 @@
+6
+13
+5
+5
+Gold 9
+Province 9
+Copper 1
+Gold 100
+CouncilRoom 2
+Silver 3
+Spy 1
+Silver 12
+Duchy 5
+Feast 11
+Gold 11
+Woodcutter 10

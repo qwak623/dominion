@@ -1,0 +1,19 @@
+4
+14
+8
+7
+Gold 99
+Mine 7
+Adventurer 10
+Silver 10
+Silver 6
+Cellar 3
+Duchy 7
+Adventurer 5
+Workshop 13
+Gold 6
+Province 12
+Duchy 8
+Silver 10
+Estate 6
+Silver 8

@@ -1,0 +1,16 @@
+1
+12
+6
+6
+Gold 103
+Laboratory 8
+Silver 14
+Silver 8
+Gold 7
+Adventurer 3
+Province 9
+Adventurer 3
+Chapel 11
+Workshop 5
+Copper 5
+CouncilRoom 10

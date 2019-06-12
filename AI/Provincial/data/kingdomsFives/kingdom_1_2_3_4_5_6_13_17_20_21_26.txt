@@ -1,0 +1,16 @@
+0
+16
+8
+7
+Gold 100
+Festival 3
+Province 4
+Militia 7
+Laboratory 8
+Duchy 12
+Spy 13
+Festival 7
+Silver 13
+Silver 9
+Gold 6
+Mine 9

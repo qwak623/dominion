@@ -1,0 +1,16 @@
+2
+13
+7
+6
+CouncilRoom 1
+Province 5
+Silver 2
+Gold 99
+Bureaucrat 6
+Copper 1
+Thief 10
+Silver 11
+Duchy 6
+Workshop 9
+Woodcutter 4
+Copper 8

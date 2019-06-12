@@ -1,0 +1,19 @@
+6
+18
+8
+8
+Market 5
+Gardens 101
+Province 13
+Duchy 7
+Militia 10
+Province 9
+Silver 11
+Copper 9
+Spy 9
+Silver 11
+Estate 7
+Gold 4
+Duchy 9
+Copper 9
+Workshop 8

@@ -1,0 +1,16 @@
+5
+10
+8
+8
+Gold 5
+Adventurer 2
+Laboratory 4
+Gold 103
+Militia 10
+Duchy 3
+Laboratory 4
+CouncilRoom 4
+Adventurer 9
+Adventurer 12
+Silver 12
+Library 10

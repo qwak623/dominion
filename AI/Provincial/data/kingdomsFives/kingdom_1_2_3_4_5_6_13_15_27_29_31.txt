@@ -1,0 +1,17 @@
+1
+17
+6
+4
+Gold 100
+Silver 13
+Woodcutter 5
+Village 3
+Duchy 12
+Gold 5
+Gold 8
+Thief 2
+Village 2
+Province 4
+Thief 7
+Silver 12
+Chancellor 1

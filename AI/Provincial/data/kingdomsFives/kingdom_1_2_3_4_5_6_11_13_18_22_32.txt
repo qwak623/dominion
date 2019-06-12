@@ -1,0 +1,17 @@
+1
+13
+8
+6
+Gold 103
+Province 9
+Silver 5
+CouncilRoom 7
+Festival 7
+Silver 13
+Moat 9
+Copper 5
+Moat 4
+Estate 8
+Library 8
+Duchy 8
+CouncilRoom 9

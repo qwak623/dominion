@@ -1,0 +1,17 @@
+1
+15
+7
+5
+Militia 4
+Gold 8
+Silver 11
+Library 13
+Duchy 4
+Militia 9
+Market 2
+Chapel 2
+Gold 103
+Gold 3
+Duchy 12
+Gold 10
+Copper 6

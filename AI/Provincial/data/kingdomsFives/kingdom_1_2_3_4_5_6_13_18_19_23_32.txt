@@ -1,0 +1,16 @@
+4
+17
+8
+8
+Gold 101
+Province 7
+Silver 10
+Silver 11
+Gold 6
+Copper 8
+Estate 9
+Moneylender 6
+Library 3
+Workshop 12
+Market 9
+Duchy 3

@@ -1,0 +1,16 @@
+0
+20
+7
+7
+Silver 10
+Gardens 12
+Province 9
+Gold 100
+Remodel 2
+Feast 4
+Copper 10
+Gold 7
+Silver 3
+CouncilRoom 10
+CouncilRoom 5
+Feast 12

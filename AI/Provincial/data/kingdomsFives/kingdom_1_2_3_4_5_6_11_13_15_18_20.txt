@@ -1,0 +1,15 @@
+0
+16
+8
+7
+Gold 103
+Gold 2
+CouncilRoom 13
+Library 4
+Silver 14
+Province 12
+Silver 6
+Duchy 4
+Festival 4
+Gold 4
+Gold 13

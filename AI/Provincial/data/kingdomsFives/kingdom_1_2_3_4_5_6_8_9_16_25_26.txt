@@ -1,0 +1,17 @@
+4
+17
+6
+3
+Gold 6
+Silver 12
+Duchy 5
+Smithy 6
+Spy 10
+Province 11
+Silver 11
+Smithy 10
+Smithy 5
+Chapel 3
+Gold 102
+Duchy 6
+Estate 3

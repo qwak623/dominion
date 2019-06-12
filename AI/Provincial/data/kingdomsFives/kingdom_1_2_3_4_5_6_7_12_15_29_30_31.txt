@@ -1,0 +1,16 @@
+2
+11
+8
+6
+Gold 102
+Witch 10
+Duchy 6
+Duchy 5
+Silver 11
+Village 11
+Feast 10
+Copper 10
+Woodcutter 10
+Province 4
+Woodcutter 11
+Curse 11

@@ -1,0 +1,18 @@
+1
+9
+8
+8
+Witch 8
+Duchy 8
+Gold 4
+Adventurer 1
+Silver 9
+Estate 7
+Copper 9
+Gold 103
+Workshop 10
+Estate 11
+Curse 11
+Workshop 8
+Adventurer 5
+Gold 12

@@ -1,0 +1,16 @@
+6
+14
+6
+6
+Remodel 1
+Gold 100
+Silver 10
+Duchy 10
+Gold 8
+Province 7
+Gardens 7
+Copper 4
+Duchy 12
+Silver 6
+Market 9
+Copper 7

@@ -1,0 +1,14 @@
+5
+15
+8
+7
+Province 12
+Gold 11
+Bureaucrat 3
+Silver 12
+Festival 8
+Moat 5
+Copper 9
+Silver 1
+Gold 100
+Estate 4

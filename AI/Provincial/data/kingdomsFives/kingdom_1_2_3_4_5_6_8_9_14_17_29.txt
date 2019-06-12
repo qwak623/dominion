@@ -1,0 +1,16 @@
+4
+19
+7
+5
+Gold 12
+Bureaucrat 2
+Silver 13
+Gold 7
+Province 2
+Village 11
+Silver 4
+Adventurer 2
+Gold 4
+Gold 99
+Duchy 9
+Adventurer 5

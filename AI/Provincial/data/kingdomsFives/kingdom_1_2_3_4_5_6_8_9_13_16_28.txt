@@ -1,0 +1,15 @@
+4
+14
+8
+6
+Copper 1
+Province 7
+Gold 3
+Gold 101
+Adventurer 10
+Gold 12
+Silver 14
+Estate 10
+Copper 3
+Chapel 13
+Festival 13

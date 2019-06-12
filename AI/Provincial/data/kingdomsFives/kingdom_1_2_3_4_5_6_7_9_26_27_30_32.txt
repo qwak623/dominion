@@ -1,0 +1,15 @@
+1
+11
+8
+7
+Province 12
+Gold 12
+Witch 3
+Silver 7
+Gold 12
+Silver 11
+Bureaucrat 12
+Spy 9
+Spy 10
+Gold 103
+Spy 7

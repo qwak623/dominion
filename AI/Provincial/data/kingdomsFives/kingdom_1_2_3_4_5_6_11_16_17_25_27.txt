@@ -1,0 +1,20 @@
+5
+8
+5
+5
+Gold 2
+Province 8
+Gold 101
+Silver 11
+Thief 5
+Chapel 9
+Estate 5
+Province 5
+Laboratory 6
+Duchy 7
+Silver 4
+Thief 6
+CouncilRoom 4
+Thief 5
+Duchy 3
+Smithy 9

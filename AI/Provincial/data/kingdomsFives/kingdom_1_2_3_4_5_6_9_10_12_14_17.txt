@@ -1,0 +1,15 @@
+1
+10
+8
+8
+Province 2
+Bureaucrat 4
+Duchy 13
+Gardens 12
+Bureaucrat 4
+Cellar 3
+Bureaucrat 12
+Gold 3
+Silver 2
+Estate 12
+Gardens 6

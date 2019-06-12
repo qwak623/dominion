@@ -1,0 +1,16 @@
+3
+13
+6
+5
+Gold 101
+Gold 9
+Laboratory 4
+Silver 13
+Province 13
+Chapel 4
+Duchy 1
+Estate 4
+Estate 7
+Silver 16
+Duchy 6
+Copper 7

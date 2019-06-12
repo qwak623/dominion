@@ -1,0 +1,16 @@
+3
+14
+19
+7
+Gold 101
+Bureaucrat 3
+Province 4
+Adventurer 5
+Silver 12
+Adventurer 8
+Province 9
+Duchy 10
+Duchy 10
+Silver 15
+Mine 3
+Cellar 4

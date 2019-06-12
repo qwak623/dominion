@@ -1,0 +1,14 @@
+4
+7
+8
+7
+Witch 4
+Duchy 10
+Silver 9
+Province 7
+Province 10
+Cellar 1
+Estate 10
+Gold 100
+Woodcutter 2
+Militia 2

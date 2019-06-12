@@ -1,0 +1,15 @@
+7
+16
+7
+6
+Gold 101
+Mine 6
+Mine 11
+Laboratory 10
+Province 12
+Festival 7
+Silver 12
+Copper 3
+Estate 7
+Silver 12
+Library 6

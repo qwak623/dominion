@@ -1,0 +1,13 @@
+5
+13
+8
+8
+Gold 5
+Province 7
+Gold 100
+Witch 4
+Silver 13
+Copper 8
+Curse 9
+Village 9
+Festival 6

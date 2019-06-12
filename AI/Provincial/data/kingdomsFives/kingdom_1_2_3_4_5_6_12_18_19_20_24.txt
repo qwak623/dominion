@@ -1,0 +1,13 @@
+0
+8
+6
+4
+Province 13
+Gold 101
+Library 8
+Market 9
+Silver 11
+Militia 6
+Feast 6
+Silver 12
+Feast 3

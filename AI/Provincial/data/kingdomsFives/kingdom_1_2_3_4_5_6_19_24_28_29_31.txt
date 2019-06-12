@@ -1,0 +1,13 @@
+6
+14
+7
+6
+Gold 12
+Market 7
+Silver 12
+Gold 102
+Village 2
+Remodel 9
+ThroneRoom 5
+Village 10
+Silver 4

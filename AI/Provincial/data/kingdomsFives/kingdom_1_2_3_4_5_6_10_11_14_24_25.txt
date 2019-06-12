@@ -1,0 +1,17 @@
+7
+14
+8
+6
+CouncilRoom 4
+Gold 2
+Gardens 11
+Silver 10
+Copper 9
+Remodel 4
+Gold 99
+Estate 13
+Cellar 11
+Province 7
+Silver 10
+Estate 3
+Cellar 3

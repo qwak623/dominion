@@ -1,0 +1,14 @@
+5
+17
+6
+4
+Province 13
+Gold 102
+Adventurer 5
+Gold 6
+Silver 11
+Festival 6
+Gardens 11
+Silver 8
+Chapel 5
+Estate 6

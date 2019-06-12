@@ -1,0 +1,17 @@
+6
+11
+6
+6
+Silver 4
+Gold 10
+Province 8
+Gold 101
+Library 5
+Silver 8
+Smithy 12
+Copper 5
+Silver 15
+Moneylender 9
+Estate 10
+Duchy 9
+Gold 9

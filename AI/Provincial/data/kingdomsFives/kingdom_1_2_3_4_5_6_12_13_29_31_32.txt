@@ -1,0 +1,16 @@
+4
+9
+8
+5
+Province 4
+Silver 1
+Gold 2
+Gold 101
+Silver 13
+Copper 7
+Copper 2
+Estate 11
+Duchy 9
+Festival 4
+Estate 1
+Woodcutter 10

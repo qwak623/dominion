@@ -1,0 +1,17 @@
+0
+8
+7
+7
+CouncilRoom 3
+Silver 6
+Province 7
+Duchy 6
+Silver 12
+Province 4
+Copper 9
+Silver 99
+Adventurer 3
+Cellar 9
+Chapel 6
+Estate 6
+Cellar 7

@@ -1,0 +1,18 @@
+0
+6
+13
+8
+Duchy 7
+Province 9
+Adventurer 2
+CouncilRoom 10
+Gardens 11
+Workshop 12
+Gold 11
+Adventurer 3
+Estate 5
+Gold 101
+CouncilRoom 7
+Silver 13
+Estate 6
+Silver 10

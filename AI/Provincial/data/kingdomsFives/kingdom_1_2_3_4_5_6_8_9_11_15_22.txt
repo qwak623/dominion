@@ -1,0 +1,14 @@
+6
+8
+8
+7
+Gold 4
+Copper 1
+Province 11
+Gold 101
+Adventurer 8
+CouncilRoom 4
+Silver 5
+Adventurer 8
+CouncilRoom 12
+Silver 11

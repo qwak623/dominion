@@ -1,0 +1,15 @@
+1
+13
+8
+8
+Province 1
+Gold 11
+Library 12
+Silver 12
+Estate 10
+Duchy 12
+Library 4
+Market 10
+Remodel 6
+Village 11
+Gold 101

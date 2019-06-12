@@ -1,0 +1,14 @@
+7
+12
+8
+8
+Witch 2
+Festival 5
+Province 12
+Silver 11
+Duchy 103
+Silver 10
+Library 9
+Library 7
+Militia 6
+Militia 2

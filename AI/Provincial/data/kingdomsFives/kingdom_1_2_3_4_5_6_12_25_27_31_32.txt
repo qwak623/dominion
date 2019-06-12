@@ -1,0 +1,16 @@
+2
+13
+7
+4
+Silver 5
+Province 11
+Gold 99
+Smithy 7
+Duchy 8
+Silver 11
+Duchy 8
+Thief 13
+Thief 11
+Workshop 3
+Silver 8
+Workshop 12

@@ -1,0 +1,15 @@
+2
+10
+7
+5
+Gold 4
+Gold 4
+Festival 10
+Silver 13
+Woodcutter 9
+Festival 10
+Duchy 8
+Province 11
+Workshop 1
+Gold 100
+Chancellor 5

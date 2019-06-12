@@ -1,0 +1,14 @@
+6
+15
+7
+6
+Gold 1
+Province 12
+Gold 102
+Laboratory 10
+Market 12
+Bureaucrat 4
+Market 4
+Province 12
+Silver 14
+Copper 9

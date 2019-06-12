@@ -1,0 +1,17 @@
+1
+17
+7
+6
+Province 11
+Gold 103
+Market 3
+Silver 13
+Duchy 11
+Chancellor 5
+Gold 1
+Duchy 13
+Duchy 8
+Silver 7
+Gold 7
+Duchy 2
+Festival 9

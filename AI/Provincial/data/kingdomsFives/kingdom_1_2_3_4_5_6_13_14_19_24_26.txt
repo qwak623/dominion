@@ -1,0 +1,17 @@
+5
+12
+8
+8
+Silver 11
+Gardens 7
+Gold 99
+Festival 9
+Silver 12
+Remodel 12
+Market 11
+Copper 5
+Province 4
+Spy 11
+Estate 9
+Estate 6
+Duchy 5

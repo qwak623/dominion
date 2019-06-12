@@ -1,0 +1,14 @@
+1
+13
+8
+8
+Bureaucrat 3
+Gardens 10
+Duchy 9
+Silver 5
+Gold 7
+Silver 11
+Gold 101
+Library 5
+Gold 14
+Moat 5

@@ -1,0 +1,17 @@
+1
+17
+7
+7
+Province 4
+Gold 9
+Market 9
+Duchy 7
+Silver 11
+Market 4
+Cellar 3
+Silver 8
+Silver 7
+Silver 101
+Workshop 6
+Chancellor 5
+Estate 9

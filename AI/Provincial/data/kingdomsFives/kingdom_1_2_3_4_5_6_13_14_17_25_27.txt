@@ -1,0 +1,15 @@
+1
+20
+8
+4
+Gold 4
+Silver 6
+Province 9
+Gardens 7
+Gardens 5
+Smithy 10
+Copper 5
+Thief 15
+Festival 8
+Gardens 5
+Gold 101

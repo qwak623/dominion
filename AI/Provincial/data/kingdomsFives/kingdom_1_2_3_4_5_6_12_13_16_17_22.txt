@@ -1,0 +1,15 @@
+4
+13
+7
+5
+Gold 2
+Gold 101
+Festival 2
+Silver 14
+Moat 13
+Silver 6
+Laboratory 11
+Estate 8
+Duchy 6
+Duchy 5
+Chapel 9

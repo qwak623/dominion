@@ -1,0 +1,18 @@
+2
+19
+6
+6
+Gold 99
+Mine 2
+Laboratory 5
+Silver 8
+Gold 15
+Silver 11
+Gold 12
+Copper 6
+Library 1
+Silver 10
+Gold 3
+Thief 6
+Copper 10
+Province 8

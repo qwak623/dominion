@@ -1,0 +1,17 @@
+0
+14
+7
+7
+Gold 5
+Library 8
+Adventurer 6
+Library 9
+Silver 13
+Feast 3
+Adventurer 5
+Silver 11
+Copper 7
+Bureaucrat 10
+Silver 10
+Feast 9
+Estate 3

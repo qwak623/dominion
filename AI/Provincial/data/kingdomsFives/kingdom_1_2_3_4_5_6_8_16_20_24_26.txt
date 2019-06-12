@@ -1,0 +1,19 @@
+3
+13
+8
+8
+Gold 102
+Militia 6
+Silver 11
+Province 4
+Militia 2
+Spy 10
+Spy 7
+Gold 8
+Copper 10
+Chapel 4
+Gold 15
+Duchy 1
+Remodel 7
+Silver 11
+Estate 12

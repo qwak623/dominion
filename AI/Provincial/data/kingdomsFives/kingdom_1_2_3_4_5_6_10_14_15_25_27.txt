@@ -1,0 +1,18 @@
+0
+9
+10
+8
+Gardens 7
+Gold 10
+Duchy 9
+Gold 103
+Silver 5
+Province 10
+Smithy 7
+Silver 10
+Cellar 4
+Thief 8
+Silver 9
+Estate 7
+Cellar 12
+Cellar 3

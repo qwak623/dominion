@@ -1,0 +1,15 @@
+4
+14
+8
+7
+Adventurer 1
+Gold 12
+Province 7
+Silver 13
+Gold 99
+Province 8
+Adventurer 3
+Province 10
+Silver 11
+Cellar 4
+Silver 2

@@ -1,0 +1,16 @@
+1
+16
+6
+5
+Province 10
+Gold 10
+Library 10
+Festival 4
+Gold 3
+Festival 9
+Duchy 9
+Silver 13
+Militia 9
+Duchy 101
+Laboratory 12
+Province 5

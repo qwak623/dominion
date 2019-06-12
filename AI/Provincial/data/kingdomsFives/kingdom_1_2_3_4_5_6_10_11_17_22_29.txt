@@ -1,0 +1,14 @@
+4
+14
+6
+6
+Gold 7
+Province 13
+CouncilRoom 8
+Silver 13
+Gold 99
+Silver 11
+Copper 7
+Moat 5
+Laboratory 12
+Village 11

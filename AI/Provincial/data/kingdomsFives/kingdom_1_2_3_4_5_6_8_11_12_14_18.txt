@@ -1,0 +1,16 @@
+2
+10
+6
+2
+Gold 9
+CouncilRoom 3
+Gardens 7
+Silver 10
+Copper 7
+Estate 8
+Estate 101
+Library 9
+Library 6
+Copper 6
+Adventurer 2
+Silver 7

@@ -1,0 +1,15 @@
+6
+13
+8
+4
+Gold 103
+Silver 7
+Smithy 4
+Gold 5
+Silver 9
+Library 3
+Duchy 5
+Silver 5
+Province 5
+ThroneRoom 9
+Chapel 4

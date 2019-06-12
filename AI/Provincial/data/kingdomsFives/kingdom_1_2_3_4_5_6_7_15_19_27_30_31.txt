@@ -1,0 +1,17 @@
+4
+9
+7
+7
+Woodcutter 4
+Copper 3
+Province 11
+Gold 102
+Market 2
+Witch 10
+Duchy 5
+Silver 12
+Chancellor 8
+Thief 3
+Woodcutter 5
+Estate 10
+Estate 7

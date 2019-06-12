@@ -1,0 +1,15 @@
+7
+11
+7
+6
+Province 5
+Province 5
+Gold 101
+Mine 11
+Gold 6
+Province 11
+Silver 10
+Smithy 9
+Silver 11
+Mine 10
+Duchy 8

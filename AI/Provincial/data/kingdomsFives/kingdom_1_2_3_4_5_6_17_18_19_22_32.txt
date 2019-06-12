@@ -1,0 +1,17 @@
+7
+18
+8
+8
+Gold 5
+Silver 10
+Market 10
+Gold 101
+Library 5
+Moat 8
+Province 11
+Workshop 2
+Gold 2
+Duchy 10
+Library 6
+Silver 2
+Estate 2

@@ -1,0 +1,17 @@
+0
+14
+6
+5
+Gold 100
+Silver 7
+Silver 11
+Feast 3
+Cellar 5
+Cellar 2
+Silver 6
+Village 8
+Remodel 6
+Province 8
+Feast 11
+Feast 3
+Cellar 2

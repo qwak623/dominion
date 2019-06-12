@@ -1,0 +1,16 @@
+3
+7
+6
+5
+Province 13
+Province 11
+Gold 10
+Gold 100
+Silver 6
+Festival 6
+Silver 9
+Feast 4
+Moat 14
+Bureaucrat 7
+CouncilRoom 13
+CouncilRoom 5

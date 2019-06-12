@@ -1,0 +1,14 @@
+0
+8
+6
+5
+Festival 2
+Silver 1
+Province 9
+Gold 103
+Adventurer 5
+Market 7
+Silver 13
+Mine 5
+Workshop 6
+Duchy 9

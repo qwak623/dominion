@@ -1,0 +1,14 @@
+7
+17
+7
+7
+Feast 1
+Gold 101
+Province 6
+Library 7
+Silver 11
+Laboratory 8
+Duchy 9
+Silver 12
+Copper 6
+Estate 5

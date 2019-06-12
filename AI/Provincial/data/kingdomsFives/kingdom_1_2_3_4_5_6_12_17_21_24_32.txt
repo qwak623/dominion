@@ -1,0 +1,16 @@
+1
+18
+7
+6
+Gold 12
+Mine 7
+Laboratory 10
+Silver 11
+Silver 4
+Copper 10
+Mine 12
+Feast 5
+Province 5
+Gold 99
+Estate 6
+Province 12

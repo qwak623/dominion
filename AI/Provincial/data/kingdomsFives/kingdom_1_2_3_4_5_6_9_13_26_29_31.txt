@@ -1,0 +1,13 @@
+1
+16
+7
+6
+Province 13
+Gold 103
+Silver 9
+Silver 12
+Gold 9
+Copper 6
+Festival 7
+Spy 7
+Estate 8

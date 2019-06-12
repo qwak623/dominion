@@ -1,0 +1,17 @@
+7
+14
+16
+6
+Gold 100
+Gold 11
+Duchy 11
+CouncilRoom 12
+Silver 11
+Laboratory 8
+Duchy 10
+Cellar 4
+Remodel 6
+CouncilRoom 6
+Gold 10
+Chapel 6
+Estate 8

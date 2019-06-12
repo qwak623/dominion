@@ -1,0 +1,19 @@
+6
+15
+7
+7
+Cellar 1
+Gold 100
+Bureaucrat 4
+CouncilRoom 7
+Province 4
+Silver 11
+Silver 5
+Moneylender 6
+Festival 8
+Gold 4
+Moneylender 9
+Gold 3
+Duchy 2
+Festival 10
+Province 7

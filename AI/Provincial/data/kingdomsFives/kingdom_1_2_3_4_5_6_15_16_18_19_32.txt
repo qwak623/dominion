@@ -1,0 +1,15 @@
+4
+19
+7
+6
+Province 12
+Province 6
+Gold 13
+Silver 3
+Library 7
+Market 101
+Duchy 11
+Silver 11
+Copper 4
+Chapel 10
+Chancellor 10

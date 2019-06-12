@@ -1,0 +1,15 @@
+1
+14
+12
+8
+Gardens 9
+Workshop 5
+Silver 13
+Workshop 7
+Copper 2
+Gold 99
+Festival 9
+Estate 10
+Gardens 10
+Silver 4
+Gardens 8

@@ -1,0 +1,17 @@
+6
+13
+8
+8
+Gold 12
+Witch 2
+Silver 11
+Gold 102
+Gold 7
+Workshop 3
+Smithy 5
+Duchy 12
+Duchy 9
+Copper 9
+Duchy 5
+Copper 3
+Curse 12

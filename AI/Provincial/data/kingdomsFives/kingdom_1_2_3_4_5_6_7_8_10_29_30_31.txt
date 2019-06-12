@@ -1,0 +1,14 @@
+0
+10
+8
+8
+Province 5
+Witch 5
+Duchy 100
+Silver 11
+Duchy 8
+Cellar 8
+Witch 7
+Estate 6
+Silver 11
+Village 7

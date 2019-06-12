@@ -1,0 +1,16 @@
+7
+12
+6
+5
+Province 9
+Gold 100
+Festival 8
+Duchy 11
+Militia 3
+Militia 5
+Province 8
+Silver 10
+Adventurer 9
+ThroneRoom 10
+Feast 12
+Province 6

@@ -1,0 +1,15 @@
+2
+13
+13
+8
+Gardens 11
+Province 10
+Silver 8
+Copper 4
+Gold 9
+Estate 5
+CouncilRoom 6
+Silver 10
+Feast 3
+Village 10
+Gold 101

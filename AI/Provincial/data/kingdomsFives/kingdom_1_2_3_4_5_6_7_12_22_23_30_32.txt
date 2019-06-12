@@ -1,0 +1,18 @@
+1
+10
+3
+5
+Witch 5
+Duchy 7
+Silver 10
+Copper 1
+Estate 2
+Estate 5
+Feast 11
+Gold 9
+Gold 6
+Silver 14
+Moat 10
+Moneylender 11
+Moneylender 6
+Estate 101

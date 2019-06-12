@@ -1,0 +1,16 @@
+2
+12
+17
+8
+Adventurer 3
+Silver 3
+Gardens 6
+Silver 10
+Duchy 6
+Moat 13
+Adventurer 4
+Copper 2
+Gold 100
+Village 10
+Adventurer 7
+Moat 6

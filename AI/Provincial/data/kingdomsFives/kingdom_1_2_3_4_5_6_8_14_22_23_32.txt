@@ -1,0 +1,18 @@
+4
+13
+8
+6
+Gold 99
+Province 9
+Silver 8
+Moat 3
+Province 7
+Gardens 6
+Workshop 13
+Adventurer 6
+Silver 11
+Adventurer 11
+Workshop 12
+Moat 6
+Workshop 10
+Copper 7

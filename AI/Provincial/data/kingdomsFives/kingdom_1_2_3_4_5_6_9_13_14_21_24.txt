@@ -1,0 +1,16 @@
+1
+12
+7
+7
+Mine 1
+Province 5
+Gold 2
+Gold 100
+Silver 10
+Province 13
+Gardens 14
+Copper 11
+Estate 8
+Bureaucrat 12
+Silver 14
+Remodel 13

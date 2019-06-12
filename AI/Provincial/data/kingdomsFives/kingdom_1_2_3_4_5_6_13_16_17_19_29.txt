@@ -1,0 +1,17 @@
+1
+13
+6
+6
+Province 8
+Gold 10
+Laboratory 7
+Silver 3
+Market 12
+Gold 103
+Festival 14
+Silver 11
+Silver 14
+Chapel 6
+Market 3
+Chapel 3
+Village 7

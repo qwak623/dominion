@@ -1,0 +1,15 @@
+6
+12
+20
+8
+Gold 100
+Witch 9
+Silver 12
+Silver 5
+Copper 5
+Witch 10
+Province 9
+Village 8
+Duchy 5
+Chancellor 10
+Province 2

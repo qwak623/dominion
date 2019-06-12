@@ -1,0 +1,21 @@
+6
+17
+18
+7
+Duchy 6
+Silver 5
+Gardens 6
+Gold 101
+Smithy 2
+Festival 4
+Province 4
+Festival 14
+Festival 5
+Estate 8
+Province 6
+Estate 4
+Silver 5
+Gold 7
+Province 7
+Remodel 4
+Copper 11

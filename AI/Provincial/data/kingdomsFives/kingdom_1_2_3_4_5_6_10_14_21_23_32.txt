@@ -1,0 +1,19 @@
+6
+18
+6
+8
+Gardens 11
+Workshop 12
+Cellar 1
+Estate 104
+Duchy 9
+Estate 8
+Province 12
+Gardens 5
+Gardens 11
+Estate 12
+Copper 11
+Moneylender 12
+Gold 10
+Estate 11
+Mine 6

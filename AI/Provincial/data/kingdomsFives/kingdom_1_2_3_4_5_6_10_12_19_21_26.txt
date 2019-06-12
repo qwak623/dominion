@@ -1,0 +1,18 @@
+6
+13
+20
+5
+Province 6
+Gold 102
+Gold 9
+Gold 3
+Market 11
+Duchy 4
+Silver 11
+Province 8
+Copper 5
+Estate 8
+Feast 5
+Feast 7
+Silver 7
+Silver 3

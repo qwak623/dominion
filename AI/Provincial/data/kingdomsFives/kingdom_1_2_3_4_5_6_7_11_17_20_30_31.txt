@@ -1,0 +1,14 @@
+1
+16
+8
+8
+Province 5
+Witch 4
+Duchy 2
+Gold 101
+Silver 13
+Militia 6
+Laboratory 8
+Woodcutter 10
+Copper 5
+Curse 15

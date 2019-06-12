@@ -1,0 +1,17 @@
+0
+16
+8
+8
+Gold 100
+Library 9
+Gold 11
+Laboratory 4
+Silver 9
+Copper 8
+Laboratory 4
+Laboratory 1
+Estate 8
+Province 7
+Militia 3
+CouncilRoom 4
+Gold 7

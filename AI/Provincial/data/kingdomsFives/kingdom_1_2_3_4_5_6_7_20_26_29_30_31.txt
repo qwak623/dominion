@@ -1,0 +1,20 @@
+3
+21
+8
+8
+Gold 5
+Witch 5
+Gold 100
+Silver 16
+Copper 5
+Gold 7
+Province 6
+Woodcutter 13
+Village 7
+Militia 5
+Gold 4
+Estate 4
+Estate 2
+Gold 1
+Witch 11
+Curse 7

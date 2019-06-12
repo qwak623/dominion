@@ -1,0 +1,15 @@
+5
+14
+8
+8
+Witch 5
+Duchy 8
+Gold 4
+Gold 99
+Province 6
+Silver 12
+Silver 3
+Adventurer 2
+Copper 12
+Militia 6
+Curse 4

@@ -1,0 +1,15 @@
+4
+13
+8
+8
+Witch 4
+Silver 4
+Gold 103
+Gold 6
+Silver 11
+Woodcutter 10
+Library 2
+Militia 8
+Smithy 8
+Library 3
+Province 11

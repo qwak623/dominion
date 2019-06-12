@@ -1,0 +1,16 @@
+1
+9
+6
+5
+Gold 102
+Province 9
+Library 3
+Silver 10
+Silver 10
+Copper 10
+Estate 7
+Laboratory 8
+Laboratory 2
+Adventurer 5
+Duchy 2
+Moneylender 11

@@ -1,0 +1,14 @@
+5
+19
+8
+8
+Gold 3
+Gold 11
+Silver 11
+Militia 4
+Copper 13
+Silver 11
+Duchy 8
+Estate 1
+Gold 100
+Village 6

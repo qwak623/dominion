@@ -1,0 +1,14 @@
+0
+19
+7
+5
+Gold 100
+Mine 2
+Province 4
+Market 5
+Silver 13
+Gold 8
+CouncilRoom 7
+Chancellor 12
+Mine 7
+Silver 13

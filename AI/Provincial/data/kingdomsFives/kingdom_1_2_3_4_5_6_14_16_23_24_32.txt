@@ -1,0 +1,19 @@
+4
+7
+16
+3
+Gardens 9
+Gold 100
+Gold 3
+Workshop 13
+Copper 2
+Estate 10
+Gold 11
+Moneylender 3
+Duchy 4
+Province 8
+Gold 8
+Moneylender 2
+Copper 7
+Gold 2
+Silver 11

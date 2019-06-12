@@ -1,0 +1,17 @@
+7
+12
+7
+6
+Silver 11
+Gold 101
+Gold 8
+Copper 4
+Estate 7
+Feast 1
+Gold 9
+Duchy 9
+Silver 11
+Remodel 10
+Feast 7
+Feast 8
+Cellar 12

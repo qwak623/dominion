@@ -1,0 +1,18 @@
+4
+16
+8
+7
+Laboratory 10
+Gold 3
+Bureaucrat 3
+Silver 15
+Duchy 4
+Gold 9
+Province 2
+Bureaucrat 6
+Chapel 2
+Cellar 4
+Estate 11
+Cellar 5
+Gold 4
+Gold 101

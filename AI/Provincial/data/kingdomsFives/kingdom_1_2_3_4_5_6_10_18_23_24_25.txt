@@ -1,0 +1,15 @@
+5
+9
+6
+6
+Library 1
+Province 5
+Gold 9
+Silver 12
+Moneylender 6
+Copper 12
+Library 11
+Smithy 8
+Duchy 4
+Silver 5
+Smithy 9

@@ -1,0 +1,20 @@
+2
+20
+8
+7
+Witch 2
+Gold 11
+Silver 11
+Gold 102
+Woodcutter 9
+Silver 12
+Estate 4
+Duchy 6
+Witch 5
+Copper 7
+Curse 7
+Silver 5
+Gold 11
+Province 6
+Witch 7
+Chancellor 5

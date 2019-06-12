@@ -1,0 +1,14 @@
+6
+19
+8
+7
+Gold 6
+Witch 14
+Silver 10
+Silver 8
+Woodcutter 14
+Chancellor 101
+Province 5
+Province 6
+Chancellor 11
+Witch 12

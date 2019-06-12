@@ -1,0 +1,14 @@
+1
+18
+8
+8
+Witch 2
+Silver 15
+Duchy 9
+Library 8
+Bureaucrat 6
+Gold 103
+Thief 8
+Thief 3
+Province 4
+Province 2

@@ -1,0 +1,16 @@
+7
+12
+19
+8
+Gardens 8
+Chancellor 3
+Duchy 12
+Copper 10
+Estate 10
+Silver 11
+Silver 11
+Estate 7
+Library 2
+Gardens 5
+Gold 99
+CouncilRoom 7

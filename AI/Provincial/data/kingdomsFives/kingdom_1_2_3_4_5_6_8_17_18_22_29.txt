@@ -1,0 +1,15 @@
+7
+15
+8
+8
+Library 3
+Gold 99
+Library 1
+Copper 2
+Silver 13
+Adventurer 9
+Silver 12
+Village 6
+Estate 6
+Duchy 13
+Copper 12

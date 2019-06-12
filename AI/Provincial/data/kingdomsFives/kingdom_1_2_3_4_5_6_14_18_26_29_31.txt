@@ -1,0 +1,16 @@
+5
+19
+6
+2
+Silver 10
+Gardens 3
+Gardens 6
+Duchy 8
+Estate 12
+Province 7
+Library 5
+Woodcutter 6
+Spy 11
+Village 10
+Gold 99
+Copper 7

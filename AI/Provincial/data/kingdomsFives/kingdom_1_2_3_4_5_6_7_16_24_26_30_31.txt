@@ -1,0 +1,15 @@
+0
+13
+18
+8
+Witch 4
+Silver 5
+Province 10
+Gold 105
+Silver 14
+Copper 14
+Curse 7
+Silver 13
+Witch 11
+Spy 10
+Chapel 12

@@ -1,0 +1,14 @@
+1
+12
+8
+8
+Witch 8
+Duchy 11
+Silver 9
+Copper 2
+Witch 8
+Province 9
+Library 6
+Silver 11
+Estate 8
+Remodel 6

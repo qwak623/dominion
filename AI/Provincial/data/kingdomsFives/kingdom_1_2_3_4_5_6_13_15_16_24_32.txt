@@ -1,0 +1,15 @@
+5
+11
+6
+5
+Gold 100
+Silver 14
+Province 6
+Silver 6
+Workshop 6
+Chapel 1
+Workshop 4
+Gold 8
+Festival 8
+Copper 9
+Estate 5

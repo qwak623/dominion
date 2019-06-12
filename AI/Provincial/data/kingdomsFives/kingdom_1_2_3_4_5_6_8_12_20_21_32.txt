@@ -1,0 +1,17 @@
+7
+14
+8
+8
+Province 10
+Gold 8
+Mine 9
+Silver 13
+Workshop 1
+Militia 5
+Feast 4
+Silver 12
+Militia 5
+Workshop 2
+Estate 15
+Duchy 10
+Adventurer 6

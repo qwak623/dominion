@@ -1,0 +1,15 @@
+0
+19
+7
+6
+Province 6
+Gold 11
+Mine 1
+Silver 14
+Gold 100
+Copper 3
+Woodcutter 2
+Province 11
+Estate 11
+ThroneRoom 12
+Silver 7

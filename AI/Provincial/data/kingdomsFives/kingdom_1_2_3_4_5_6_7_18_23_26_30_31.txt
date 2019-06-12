@@ -1,0 +1,17 @@
+2
+16
+8
+8
+Gold 102
+Witch 2
+Silver 6
+Duchy 8
+Province 7
+Spy 2
+Library 6
+Copper 11
+Silver 12
+Curse 4
+Duchy 9
+Library 9
+Gold 2

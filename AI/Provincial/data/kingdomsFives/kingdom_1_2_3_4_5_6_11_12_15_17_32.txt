@@ -1,0 +1,14 @@
+5
+14
+7
+6
+Gold 100
+Laboratory 13
+Silver 3
+Duchy 7
+Silver 7
+Copper 11
+Estate 8
+Province 10
+Gold 5
+Workshop 2

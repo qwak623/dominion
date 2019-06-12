@@ -1,0 +1,19 @@
+7
+9
+6
+4
+Province 5
+Province 8
+Gold 101
+CouncilRoom 4
+Duchy 2
+Silver 5
+Thief 8
+Duchy 12
+Silver 13
+Copper 6
+Gold 11
+CouncilRoom 9
+Laboratory 6
+Gold 4
+Mine 4

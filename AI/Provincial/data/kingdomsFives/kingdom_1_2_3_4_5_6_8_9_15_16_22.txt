@@ -1,0 +1,15 @@
+7
+12
+6
+6
+Province 7
+Gold 4
+Adventurer 3
+Silver 12
+Chancellor 5
+Chapel 2
+Gold 100
+Gold 4
+Adventurer 5
+Moat 8
+Adventurer 3

@@ -1,0 +1,13 @@
+4
+15
+8
+8
+Gold 103
+Adventurer 11
+Bureaucrat 5
+Duchy 10
+Gold 5
+Bureaucrat 11
+Feast 6
+Province 6
+Village 12

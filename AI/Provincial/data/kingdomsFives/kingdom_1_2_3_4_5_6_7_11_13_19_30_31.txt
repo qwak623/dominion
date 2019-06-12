@@ -1,0 +1,14 @@
+6
+16
+8
+7
+Province 11
+Gold 105
+Witch 11
+Duchy 7
+Festival 10
+Duchy 6
+Duchy 13
+Market 10
+Silver 5
+Silver 11

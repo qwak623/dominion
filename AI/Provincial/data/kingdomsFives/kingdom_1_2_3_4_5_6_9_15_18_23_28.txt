@@ -1,0 +1,19 @@
+7
+14
+6
+4
+Gold 4
+Library 7
+Silver 5
+Library 9
+Silver 10
+Chancellor 11
+Copper 12
+Moneylender 9
+Bureaucrat 10
+Duchy 11
+Chancellor 2
+Library 4
+Province 3
+Silver 11
+Copper 1

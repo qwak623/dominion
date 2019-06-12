@@ -1,0 +1,15 @@
+6
+18
+15
+5
+Gold 7
+CouncilRoom 6
+Silver 13
+Cellar 8
+Cellar 3
+Festival 12
+Feast 9
+Province 4
+Festival 9
+Duchy 12
+Silver 100

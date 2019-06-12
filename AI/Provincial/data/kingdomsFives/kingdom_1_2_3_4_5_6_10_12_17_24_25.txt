@@ -1,0 +1,18 @@
+6
+12
+7
+5
+Gold 5
+Province 5
+Silver 1
+Silver 5
+Gold 100
+Smithy 5
+Province 6
+Silver 12
+Copper 7
+Silver 1
+Feast 8
+Remodel 6
+Silver 11
+Cellar 9

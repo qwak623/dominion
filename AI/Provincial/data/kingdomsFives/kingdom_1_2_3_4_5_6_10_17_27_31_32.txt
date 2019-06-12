@@ -1,0 +1,16 @@
+7
+20
+12
+8
+Duchy 12
+Thief 4
+Gold 5
+Laboratory 8
+Gold 100
+Silver 12
+Silver 6
+Copper 4
+Cellar 10
+Woodcutter 7
+Estate 3
+Thief 7

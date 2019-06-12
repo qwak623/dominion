@@ -1,0 +1,15 @@
+2
+13
+6
+6
+Copper 1
+Gold 99
+Province 4
+Silver 4
+CouncilRoom 10
+Silver 9
+Duchy 5
+Festival 2
+Adventurer 13
+Silver 7
+Silver 14

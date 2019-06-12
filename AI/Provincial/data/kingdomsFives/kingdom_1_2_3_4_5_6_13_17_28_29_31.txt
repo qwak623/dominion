@@ -1,0 +1,13 @@
+5
+12
+6
+6
+Province 13
+Gold 101
+Laboratory 11
+Silver 11
+Copper 14
+Laboratory 5
+Duchy 9
+Village 8
+Village 2

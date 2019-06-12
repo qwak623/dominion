@@ -1,0 +1,13 @@
+4
+16
+6
+6
+Gold 100
+Library 2
+Silver 13
+Smithy 12
+Copper 5
+Cellar 3
+Silver 10
+Remodel 8
+Province 11

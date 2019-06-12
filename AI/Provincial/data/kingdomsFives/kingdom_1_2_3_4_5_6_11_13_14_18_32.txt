@@ -1,0 +1,18 @@
+1
+12
+8
+7
+Province 8
+Silver 11
+Gardens 6
+Library 5
+CouncilRoom 5
+Gardens 2
+Copper 5
+CouncilRoom 5
+Estate 6
+Library 4
+CouncilRoom 8
+Silver 101
+Library 5
+Duchy 10

@@ -1,0 +1,20 @@
+2
+18
+18
+5
+Gold 101
+Smithy 3
+Silver 6
+Gold 8
+Festival 3
+Smithy 11
+Adventurer 10
+Festival 2
+Copper 4
+Estate 10
+Chapel 11
+Duchy 11
+Gold 9
+Remodel 4
+Remodel 10
+Remodel 12

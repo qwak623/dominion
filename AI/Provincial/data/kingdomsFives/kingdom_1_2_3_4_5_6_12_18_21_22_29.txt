@@ -1,0 +1,19 @@
+2
+12
+7
+7
+Province 12
+Mine 1
+Gold 99
+Gold 9
+Library 7
+Mine 12
+Province 7
+Duchy 13
+Silver 12
+Silver 12
+Village 4
+Feast 12
+Moat 3
+Library 9
+Silver 5

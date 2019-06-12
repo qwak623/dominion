@@ -1,0 +1,13 @@
+2
+16
+15
+6
+Gold 102
+Province 7
+Adventurer 3
+Library 7
+Duchy 10
+Silver 11
+Cellar 4
+Copper 11
+Bureaucrat 11

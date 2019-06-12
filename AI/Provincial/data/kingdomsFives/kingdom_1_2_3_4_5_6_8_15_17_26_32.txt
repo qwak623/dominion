@@ -1,0 +1,12 @@
+7
+14
+7
+6
+Gold 100
+Adventurer 8
+Silver 13
+Spy 6
+Gold 13
+Silver 13
+Workshop 13
+Province 8

@@ -1,0 +1,15 @@
+0
+12
+6
+6
+Gold 100
+Silver 12
+Province 9
+Silver 11
+Chancellor 6
+Market 4
+Festival 9
+Copper 6
+Duchy 7
+Estate 12
+Province 11

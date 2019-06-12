@@ -1,0 +1,18 @@
+1
+18
+7
+7
+Gold 10
+Silver 12
+Province 6
+Province 1
+Bureaucrat 2
+Militia 6
+Militia 9
+Bureaucrat 6
+Gold 101
+Province 2
+Duchy 10
+Duchy 7
+Remodel 8
+Province 6

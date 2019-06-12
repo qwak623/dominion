@@ -1,0 +1,18 @@
+3
+9
+14
+8
+Witch 9
+Witch 5
+Duchy 9
+Witch 4
+Silver 100
+Smithy 6
+Gold 4
+Cellar 11
+Laboratory 7
+Estate 2
+Copper 11
+Silver 12
+Witch 9
+Gold 13

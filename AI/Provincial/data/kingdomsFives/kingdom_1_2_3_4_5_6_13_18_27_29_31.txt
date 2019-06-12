@@ -1,0 +1,13 @@
+1
+16
+7
+7
+Province 11
+Gold 10
+Library 9
+Silver 14
+Village 7
+Festival 9
+Woodcutter 7
+Silver 4
+Woodcutter 9

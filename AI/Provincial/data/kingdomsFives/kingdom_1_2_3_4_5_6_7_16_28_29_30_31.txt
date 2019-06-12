@@ -1,0 +1,17 @@
+1
+14
+8
+7
+Province 6
+Copper 1
+Gold 103
+Gold 10
+Province 4
+Gold 2
+Witch 9
+Silver 6
+Silver 11
+Woodcutter 11
+ThroneRoom 9
+Chapel 3
+Estate 2

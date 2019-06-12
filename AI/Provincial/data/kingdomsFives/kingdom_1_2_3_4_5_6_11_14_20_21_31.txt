@@ -1,0 +1,16 @@
+1
+14
+11
+8
+Gold 103
+Militia 1
+Gardens 12
+Silver 11
+Militia 4
+Gardens 8
+Militia 9
+Woodcutter 7
+Copper 8
+Mine 3
+Mine 7
+Woodcutter 13

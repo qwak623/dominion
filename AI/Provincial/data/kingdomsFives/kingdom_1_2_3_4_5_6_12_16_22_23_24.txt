@@ -1,0 +1,18 @@
+1
+14
+5
+5
+Province 4
+Gold 8
+Silver 12
+Duchy 12
+Moneylender 3
+Gold 4
+Silver 101
+Feast 5
+Remodel 9
+Moat 7
+Silver 6
+Estate 7
+Gold 3
+Chapel 11

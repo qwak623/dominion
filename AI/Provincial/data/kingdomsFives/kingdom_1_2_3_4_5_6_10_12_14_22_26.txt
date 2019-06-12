@@ -1,0 +1,17 @@
+1
+13
+17
+6
+Gardens 12
+Duchy 10
+Silver 6
+Estate 99
+Feast 9
+Silver 11
+Feast 6
+Spy 8
+Feast 9
+Cellar 6
+Gold 3
+Copper 4
+Estate 4

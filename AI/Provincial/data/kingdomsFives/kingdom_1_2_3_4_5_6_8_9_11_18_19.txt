@@ -1,0 +1,15 @@
+4
+13
+7
+5
+Province 10
+Gold 9
+Adventurer 5
+Bureaucrat 2
+CouncilRoom 6
+Gold 103
+Silver 11
+Bureaucrat 13
+Silver 7
+Duchy 5
+Silver 2

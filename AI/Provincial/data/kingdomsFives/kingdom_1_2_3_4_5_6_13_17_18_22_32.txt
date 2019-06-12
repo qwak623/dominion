@@ -1,0 +1,14 @@
+5
+13
+5
+5
+Gold 7
+Silver 13
+Province 9
+Workshop 4
+Moat 5
+Duchy 9
+Festival 6
+Laboratory 2
+Workshop 100
+Copper 9

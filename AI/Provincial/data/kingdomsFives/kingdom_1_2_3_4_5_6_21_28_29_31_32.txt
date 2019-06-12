@@ -1,0 +1,18 @@
+2
+21
+8
+5
+Gold 99
+Gold 8
+Silver 14
+Woodcutter 8
+Province 11
+Estate 6
+Workshop 4
+Woodcutter 9
+Workshop 3
+Duchy 9
+ThroneRoom 4
+ThroneRoom 3
+Village 8
+Province 7

@@ -1,0 +1,15 @@
+4
+12
+7
+4
+Gold 100
+Silver 12
+Silver 8
+Duchy 4
+Duchy 13
+Chancellor 9
+Chapel 9
+Workshop 12
+Militia 5
+Estate 9
+Feast 11

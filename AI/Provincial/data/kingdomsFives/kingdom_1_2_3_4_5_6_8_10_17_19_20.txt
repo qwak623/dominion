@@ -1,0 +1,15 @@
+3
+14
+7
+5
+Gold 9
+Laboratory 9
+Gold 8
+Market 4
+Militia 7
+Silver 5
+Laboratory 10
+Duchy 13
+Duchy 10
+Adventurer 11
+Gold 103

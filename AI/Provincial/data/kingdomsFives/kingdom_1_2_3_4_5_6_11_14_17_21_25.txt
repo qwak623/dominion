@@ -1,0 +1,15 @@
+7
+21
+6
+4
+Gold 12
+Laboratory 12
+Silver 9
+Copper 2
+Laboratory 11
+Gardens 11
+Estate 8
+Province 102
+Gold 9
+Laboratory 4
+Province 7

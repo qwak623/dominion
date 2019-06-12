@@ -1,0 +1,14 @@
+4
+8
+8
+8
+Province 11
+Witch 7
+Duchy 12
+Woodcutter 2
+Province 4
+Gold 2
+Silver 11
+Woodcutter 4
+Woodcutter 12
+Silver 9

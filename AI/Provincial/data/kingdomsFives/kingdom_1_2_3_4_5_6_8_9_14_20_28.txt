@@ -1,0 +1,15 @@
+5
+18
+8
+7
+Gold 8
+Gold 101
+Bureaucrat 3
+Gardens 9
+Militia 9
+Silver 10
+Bureaucrat 10
+ThroneRoom 6
+Adventurer 12
+Silver 4
+ThroneRoom 13

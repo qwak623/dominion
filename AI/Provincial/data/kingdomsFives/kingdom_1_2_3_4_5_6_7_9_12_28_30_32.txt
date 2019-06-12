@@ -1,0 +1,16 @@
+6
+16
+8
+8
+Witch 5
+Duchy 7
+Silver 4
+Witch 101
+Silver 12
+Bureaucrat 11
+Silver 8
+Feast 11
+ThroneRoom 14
+Province 6
+ThroneRoom 7
+Workshop 4

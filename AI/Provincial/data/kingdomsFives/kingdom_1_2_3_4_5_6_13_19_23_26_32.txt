@@ -1,0 +1,18 @@
+1
+13
+8
+4
+Gold 101
+Silver 12
+Gold 11
+Duchy 7
+Province 11
+Spy 8
+Province 7
+Gold 6
+Festival 3
+Copper 2
+Estate 6
+Duchy 3
+Workshop 1
+Moneylender 3

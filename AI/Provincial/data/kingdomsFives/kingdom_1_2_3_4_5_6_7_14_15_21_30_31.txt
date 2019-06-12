@@ -1,0 +1,16 @@
+1
+8
+8
+8
+Province 3
+Witch 1
+Gardens 12
+Gold 101
+Copper 6
+Witch 6
+Gardens 2
+Estate 9
+Duchy 10
+Witch 6
+Silver 12
+Mine 10

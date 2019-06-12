@@ -1,0 +1,17 @@
+1
+14
+5
+4
+Gold 10
+Adventurer 7
+Laboratory 6
+Duchy 8
+Silver 3
+Silver 13
+Duchy 11
+Province 2
+Gold 99
+Adventurer 3
+Province 9
+Province 4
+Remodel 11

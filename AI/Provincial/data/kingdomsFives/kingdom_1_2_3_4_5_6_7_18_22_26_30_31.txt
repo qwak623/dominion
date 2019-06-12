@@ -1,0 +1,16 @@
+6
+15
+8
+7
+Gold 100
+Province 4
+Gold 7
+Witch 10
+Library 7
+Gold 11
+Silver 12
+Duchy 17
+Copper 7
+Woodcutter 4
+Woodcutter 12
+Spy 7

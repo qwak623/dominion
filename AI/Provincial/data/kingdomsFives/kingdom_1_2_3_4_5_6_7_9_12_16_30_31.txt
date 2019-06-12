@@ -1,0 +1,16 @@
+3
+17
+7
+6
+Witch 3
+Duchy 15
+Chapel 1
+Silver 7
+Estate 7
+Feast 8
+Estate 8
+Copper 12
+Bureaucrat 4
+Duchy 9
+Copper 100
+Woodcutter 13

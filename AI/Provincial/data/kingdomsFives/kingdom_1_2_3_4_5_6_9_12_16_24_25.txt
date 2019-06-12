@@ -1,0 +1,16 @@
+5
+16
+7
+3
+Gold 9
+Silver 14
+Silver 2
+Remodel 5
+Feast 11
+Feast 10
+Duchy 10
+Province 6
+Copper 11
+Silver 2
+Gold 101
+Estate 3

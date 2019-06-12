@@ -1,0 +1,18 @@
+1
+13
+8
+7
+Witch 9
+Silver 12
+Witch 7
+Duchy 11
+Militia 8
+Silver 11
+Gold 101
+Moneylender 13
+Workshop 8
+Moneylender 5
+Militia 1
+Militia 2
+Militia 8
+Province 2

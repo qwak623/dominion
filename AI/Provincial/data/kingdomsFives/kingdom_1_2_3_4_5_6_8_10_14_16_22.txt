@@ -1,0 +1,12 @@
+5
+11
+15
+7
+Gardens 13
+Silver 5
+Copper 3
+Estate 12
+Moat 11
+Cellar 8
+Adventurer 11
+Silver 12

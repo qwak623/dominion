@@ -1,0 +1,16 @@
+2
+11
+5
+5
+Province 10
+Gold 101
+Silver 11
+Gold 4
+Moat 8
+Copper 3
+Silver 10
+Province 9
+Woodcutter 5
+Silver 5
+Workshop 8
+Province 9

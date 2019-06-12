@@ -1,0 +1,15 @@
+6
+12
+7
+7
+Bureaucrat 2
+Gold 102
+Smithy 3
+Duchy 12
+Province 11
+Silver 12
+CouncilRoom 9
+Market 9
+Smithy 5
+Province 12
+Workshop 11

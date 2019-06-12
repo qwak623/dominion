@@ -1,0 +1,18 @@
+3
+10
+7
+5
+Silver 8
+Duchy 10
+Gardens 11
+Duchy 3
+Estate 9
+Thief 9
+Witch 12
+Thief 8
+Estate 14
+Militia 10
+Silver 100
+Gold 8
+Gold 5
+Militia 5

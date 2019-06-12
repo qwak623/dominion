@@ -1,0 +1,15 @@
+5
+14
+7
+7
+Gold 6
+Mine 100
+Gold 8
+Laboratory 10
+Province 5
+Province 7
+Mine 10
+Silver 12
+Remodel 11
+Duchy 10
+Silver 11

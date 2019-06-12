@@ -1,0 +1,15 @@
+1
+15
+7
+5
+Gold 103
+CouncilRoom 6
+Silver 11
+Feast 4
+Silver 10
+Copper 13
+CouncilRoom 10
+Cellar 7
+Duchy 11
+Library 5
+Estate 2

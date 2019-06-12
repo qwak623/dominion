@@ -1,0 +1,19 @@
+2
+20
+7
+6
+Gold 101
+Laboratory 6
+Laboratory 3
+Laboratory 13
+Province 4
+Militia 2
+Silver 10
+Province 2
+Spy 13
+Copper 9
+Feast 6
+Estate 9
+Silver 6
+Gold 5
+Duchy 9

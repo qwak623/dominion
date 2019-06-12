@@ -1,0 +1,15 @@
+6
+10
+8
+8
+Province 7
+Gold 100
+Militia 5
+Estate 1
+Gold 9
+Silver 13
+Militia 12
+Cellar 9
+Silver 11
+Cellar 8
+Estate 4

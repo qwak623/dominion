@@ -1,0 +1,15 @@
+2
+15
+5
+5
+Gold 8
+Silver 13
+Gold 103
+Silver 9
+Chapel 4
+Woodcutter 5
+Smithy 3
+Woodcutter 7
+Copper 4
+Silver 8
+Estate 7

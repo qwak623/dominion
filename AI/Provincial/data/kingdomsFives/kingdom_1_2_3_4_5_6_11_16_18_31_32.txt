@@ -1,0 +1,15 @@
+6
+19
+8
+5
+Province 5
+Gold 102
+Silver 10
+Library 10
+CouncilRoom 8
+Silver 6
+Duchy 7
+Workshop 3
+Chapel 2
+Estate 12
+Gold 12

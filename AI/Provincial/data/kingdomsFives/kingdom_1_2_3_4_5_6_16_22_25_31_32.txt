@@ -1,0 +1,14 @@
+5
+13
+6
+6
+Gold 8
+Silver 13
+Woodcutter 7
+Smithy 10
+Moat 7
+Estate 3
+Woodcutter 3
+Silver 11
+Gold 100
+Workshop 10

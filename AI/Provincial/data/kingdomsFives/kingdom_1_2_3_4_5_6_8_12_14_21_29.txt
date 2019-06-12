@@ -1,0 +1,16 @@
+0
+16
+12
+8
+Gardens 11
+Gold 3
+Adventurer 7
+Gold 100
+Province 3
+Feast 5
+Duchy 8
+Silver 5
+Estate 12
+Feast 10
+Copper 10
+Estate 13

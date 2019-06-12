@@ -1,0 +1,15 @@
+5
+15
+8
+8
+Gold 3
+Silver 10
+Gardens 11
+Silver 5
+Workshop 14
+Moat 3
+Estate 7
+CouncilRoom 7
+Silver 11
+Gold 101
+CouncilRoom 10

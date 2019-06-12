@@ -1,0 +1,15 @@
+6
+17
+8
+8
+Province 5
+Gold 1
+Copper 1
+Gold 102
+Witch 3
+Silver 10
+Estate 7
+Woodcutter 8
+Feast 9
+Silver 13
+Curse 9

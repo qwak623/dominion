@@ -1,0 +1,19 @@
+3
+15
+8
+6
+Province 9
+Gold 101
+Gold 4
+Mine 3
+Silver 11
+Silver 7
+Duchy 4
+Cellar 4
+Library 8
+Remodel 4
+Gold 2
+Gold 2
+Estate 4
+Cellar 8
+Moneylender 8

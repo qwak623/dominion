@@ -1,0 +1,16 @@
+5
+8
+6
+4
+Province 7
+Gold 11
+Remodel 1
+Gold 105
+Laboratory 8
+Laboratory 3
+Silver 13
+Bureaucrat 5
+Workshop 7
+Duchy 8
+Copper 7
+Estate 13

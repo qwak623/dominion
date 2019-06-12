@@ -1,0 +1,18 @@
+0
+11
+8
+6
+Province 10
+Gold 7
+Laboratory 4
+Laboratory 5
+Silver 10
+Festival 5
+Copper 5
+Gold 101
+Estate 7
+Festival 5
+Duchy 11
+Duchy 11
+Silver 11
+Gold 8

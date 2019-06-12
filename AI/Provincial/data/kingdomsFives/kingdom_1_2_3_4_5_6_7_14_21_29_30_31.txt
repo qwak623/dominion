@@ -1,0 +1,16 @@
+0
+21
+8
+8
+Silver 11
+Duchy 2
+Duchy 6
+Gardens 6
+Province 13
+Gold 8
+Copper 4
+Gold 12
+Copper 9
+Mine 4
+Gold 102
+Gardens 8

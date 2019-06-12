@@ -1,0 +1,20 @@
+3
+15
+7
+6
+Bureaucrat 2
+Silver 10
+Gold 102
+Woodcutter 8
+Bureaucrat 3
+Woodcutter 8
+Silver 3
+Copper 9
+Province 6
+Silver 7
+Province 1
+Workshop 4
+Mine 6
+Gold 2
+Duchy 8
+Festival 10

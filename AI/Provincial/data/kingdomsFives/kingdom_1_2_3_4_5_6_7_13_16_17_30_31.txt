@@ -1,0 +1,15 @@
+0
+14
+7
+7
+Province 5
+Gold 99
+Witch 7
+Silver 8
+Woodcutter 5
+Woodcutter 8
+Laboratory 8
+Chapel 9
+Silver 11
+Copper 4
+Estate 4

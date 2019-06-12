@@ -1,0 +1,17 @@
+1
+14
+5
+4
+Copper 1
+Province 11
+Gold 10
+Gold 99
+Laboratory 7
+Silver 12
+Remodel 5
+Moat 2
+Silver 5
+Laboratory 3
+Duchy 5
+Remodel 10
+Moat 8

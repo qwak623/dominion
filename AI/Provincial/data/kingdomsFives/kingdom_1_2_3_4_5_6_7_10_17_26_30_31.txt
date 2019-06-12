@@ -1,0 +1,16 @@
+0
+15
+9
+8
+Witch 9
+Duchy 102
+Gold 8
+Laboratory 2
+Silver 11
+Spy 6
+Duchy 7
+Gold 11
+Silver 10
+Province 5
+Cellar 10
+Estate 8

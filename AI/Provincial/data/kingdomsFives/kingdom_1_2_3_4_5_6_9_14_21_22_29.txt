@@ -1,0 +1,15 @@
+0
+16
+7
+7
+Gold 8
+Mine 7
+Gold 100
+Silver 5
+Duchy 7
+Silver 11
+Copper 8
+Bureaucrat 6
+Gardens 9
+Moat 5
+Estate 12

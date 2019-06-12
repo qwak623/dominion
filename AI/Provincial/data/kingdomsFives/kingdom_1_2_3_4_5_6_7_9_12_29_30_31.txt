@@ -1,0 +1,15 @@
+4
+18
+8
+8
+Witch 7
+Duchy 6
+Silver 7
+Gold 100
+Province 4
+Duchy 5
+Silver 5
+Bureaucrat 9
+Woodcutter 5
+Silver 6
+Bureaucrat 8

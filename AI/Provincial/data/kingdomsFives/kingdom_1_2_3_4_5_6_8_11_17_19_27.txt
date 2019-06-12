@@ -1,0 +1,14 @@
+1
+14
+6
+4
+Gold 102
+CouncilRoom 11
+Province 5
+Laboratory 11
+Market 9
+Silver 14
+Thief 8
+Gold 6
+Copper 6
+Silver 3

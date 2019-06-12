@@ -1,0 +1,16 @@
+0
+12
+13
+8
+Duchy 8
+Gardens 7
+Gold 100
+Silver 12
+Copper 5
+Estate 8
+Thief 4
+Militia 10
+ThroneRoom 8
+Thief 3
+Silver 13
+Copper 10

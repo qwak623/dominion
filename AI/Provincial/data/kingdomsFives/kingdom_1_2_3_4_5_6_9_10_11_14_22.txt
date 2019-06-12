@@ -1,0 +1,17 @@
+4
+12
+8
+8
+Bureaucrat 4
+Gardens 7
+Duchy 7
+Silver 6
+Copper 3
+Moat 2
+Estate 11
+Silver 14
+Gold 4
+Copper 6
+CouncilRoom 5
+CouncilRoom 11
+Gold 100

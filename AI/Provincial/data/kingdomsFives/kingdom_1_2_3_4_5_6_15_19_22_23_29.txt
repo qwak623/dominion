@@ -1,0 +1,17 @@
+4
+15
+6
+6
+Province 9
+Gold 100
+Gold 9
+Province 9
+Silver 12
+Gold 7
+Moat 16
+Estate 8
+Market 2
+Province 4
+Province 2
+Moneylender 4
+Province 10

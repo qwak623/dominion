@@ -1,0 +1,19 @@
+3
+13
+6
+5
+Laboratory 7
+Gold 10
+Militia 9
+Militia 6
+Gold 100
+Duchy 11
+Silver 14
+Workshop 3
+Woodcutter 2
+Province 5
+Province 7
+Smithy 7
+Militia 8
+Province 7
+Militia 8

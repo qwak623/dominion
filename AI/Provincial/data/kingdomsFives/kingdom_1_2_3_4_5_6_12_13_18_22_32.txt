@@ -1,0 +1,17 @@
+7
+15
+5
+5
+Gold 101
+Province 4
+Gold 9
+Silver 12
+Moat 2
+Workshop 3
+Moat 9
+Silver 3
+Feast 3
+Workshop 9
+Duchy 7
+Festival 7
+Feast 5

@@ -1,0 +1,13 @@
+6
+16
+7
+5
+Province 12
+Silver 10
+Gardens 11
+Gold 101
+Chancellor 2
+Library 10
+Copper 10
+Village 10
+Gold 13

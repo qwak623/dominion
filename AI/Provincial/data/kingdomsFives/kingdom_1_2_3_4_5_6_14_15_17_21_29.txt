@@ -1,0 +1,13 @@
+4
+16
+6
+6
+Gold 5
+Laboratory 3
+Province 5
+Gold 103
+Mine 8
+Silver 7
+Gardens 4
+Silver 12
+Copper 6

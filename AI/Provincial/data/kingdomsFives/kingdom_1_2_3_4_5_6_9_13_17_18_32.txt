@@ -1,0 +1,17 @@
+7
+10
+12
+5
+Province 4
+Duchy 11
+Gold 6
+Duchy 10
+Gold 99
+Library 12
+Festival 6
+Silver 10
+Copper 6
+Estate 7
+Workshop 7
+Silver 9
+Copper 5

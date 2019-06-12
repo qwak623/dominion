@@ -1,0 +1,16 @@
+5
+12
+6
+6
+Gold 10
+Province 4
+Silver 5
+Gold 103
+Smithy 3
+Silver 13
+Moat 2
+Silver 2
+Duchy 11
+Workshop 7
+Province 12
+Adventurer 12

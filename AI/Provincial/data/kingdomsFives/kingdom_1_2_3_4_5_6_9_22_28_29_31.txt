@@ -1,0 +1,15 @@
+1
+12
+8
+5
+Province 1
+Province 9
+Province 6
+Gold 10
+Bureaucrat 3
+Silver 7
+Moat 6
+Gold 103
+Silver 15
+Estate 14
+Woodcutter 5

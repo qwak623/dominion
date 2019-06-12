@@ -1,0 +1,16 @@
+7
+21
+6
+3
+Gold 100
+Silver 12
+Silver 11
+Laboratory 5
+Moat 5
+Laboratory 11
+Duchy 7
+Gold 9
+Duchy 10
+Village 7
+Woodcutter 4
+Moat 3

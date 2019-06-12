@@ -1,0 +1,17 @@
+7
+10
+5
+5
+Province 5
+Province 6
+Gold 103
+Laboratory 1
+Silver 10
+Gold 10
+Spy 3
+Duchy 8
+Spy 1
+Laboratory 12
+Chapel 1
+Gold 7
+Woodcutter 6

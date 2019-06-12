@@ -1,0 +1,17 @@
+4
+9
+5
+5
+Gold 101
+Gold 6
+Silver 13
+Village 12
+Duchy 4
+Chapel 1
+Village 2
+Festival 9
+Copper 7
+Duchy 12
+Festival 2
+Province 8
+Chapel 7

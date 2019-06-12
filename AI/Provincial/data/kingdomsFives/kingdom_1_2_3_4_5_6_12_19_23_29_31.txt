@@ -1,0 +1,16 @@
+7
+11
+6
+5
+Gold 12
+Province 4
+Market 12
+Duchy 10
+Gold 10
+Province 10
+Gold 101
+Silver 11
+Silver 3
+Province 2
+Village 9
+Village 4

@@ -1,0 +1,14 @@
+2
+9
+8
+5
+Silver 11
+Province 8
+Gardens 11
+Province 2
+Moat 5
+Estate 9
+Gold 3
+Silver 6
+Copper 3
+Copper 9

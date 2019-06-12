@@ -1,0 +1,15 @@
+1
+11
+8
+8
+Bureaucrat 8
+Gardens 8
+Province 9
+Gardens 9
+Duchy 5
+Duchy 6
+Market 8
+Province 4
+Gold 9
+Silver 11
+Mine 9

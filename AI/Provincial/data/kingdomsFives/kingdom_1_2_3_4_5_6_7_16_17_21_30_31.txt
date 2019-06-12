@@ -1,0 +1,18 @@
+2
+15
+8
+8
+Province 6
+Gold 100
+Witch 3
+Laboratory 1
+Silver 13
+Witch 13
+Silver 6
+Province 7
+Duchy 5
+Chapel 6
+Woodcutter 11
+Duchy 5
+Duchy 6
+Copper 8

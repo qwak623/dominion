@@ -1,0 +1,15 @@
+4
+12
+7
+5
+Gold 3
+Militia 3
+Gold 103
+Laboratory 5
+Silver 10
+Duchy 9
+Gardens 4
+Province 7
+Moneylender 4
+Feast 10
+Silver 12

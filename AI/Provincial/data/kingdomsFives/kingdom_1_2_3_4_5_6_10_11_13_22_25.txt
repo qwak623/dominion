@@ -1,0 +1,16 @@
+7
+11
+6
+6
+Moat 1
+Gold 102
+Silver 11
+Silver 9
+Smithy 9
+Smithy 11
+Copper 3
+Cellar 10
+CouncilRoom 3
+Copper 4
+Duchy 11
+Estate 2

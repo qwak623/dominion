@@ -1,0 +1,15 @@
+0
+13
+6
+5
+Province 12
+Cellar 1
+Chancellor 1
+Gold 104
+Silver 6
+Gold 5
+Gardens 5
+Estate 9
+Duchy 3
+Silver 12
+Estate 5

@@ -1,0 +1,16 @@
+4
+14
+6
+6
+Gold 9
+Silver 8
+Silver 3
+Market 12
+Chapel 2
+Adventurer 3
+Copper 10
+Gold 99
+Province 8
+Curse 10
+Curse 13
+Copper 8

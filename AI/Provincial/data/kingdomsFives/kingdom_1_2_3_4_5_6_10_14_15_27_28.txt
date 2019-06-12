@@ -1,0 +1,17 @@
+2
+11
+18
+8
+Province 2
+Gardens 10
+Silver 6
+Cellar 3
+Estate 8
+Gold 102
+Gardens 5
+Copper 6
+Silver 7
+Duchy 10
+Copper 12
+Copper 4
+Chancellor 4

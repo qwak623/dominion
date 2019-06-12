@@ -1,0 +1,17 @@
+4
+10
+6
+4
+Gold 12
+Adventurer 4
+Silver 12
+Silver 7
+Chapel 6
+Gold 100
+Moneylender 9
+Duchy 2
+Moneylender 9
+Feast 8
+Duchy 10
+Province 7
+CouncilRoom 12

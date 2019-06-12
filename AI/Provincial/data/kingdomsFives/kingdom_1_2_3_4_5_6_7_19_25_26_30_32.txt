@@ -1,0 +1,17 @@
+3
+16
+8
+8
+Gold 7
+Witch 2
+Spy 1
+Gold 101
+Market 7
+Province 15
+Silver 9
+Duchy 3
+Province 11
+Copper 10
+Smithy 6
+Witch 5
+Curse 3

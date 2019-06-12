@@ -1,0 +1,16 @@
+0
+18
+7
+6
+Gold 6
+Witch 1
+Witch 2
+Gold 7
+Gold 102
+Province 9
+Silver 15
+ThroneRoom 2
+Market 7
+Gold 6
+Silver 10
+Gold 12

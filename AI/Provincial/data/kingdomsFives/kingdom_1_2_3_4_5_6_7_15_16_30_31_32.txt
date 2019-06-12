@@ -1,0 +1,16 @@
+2
+10
+8
+8
+Witch 3
+Silver 10
+Duchy 7
+Estate 8
+Estate 4
+Chancellor 13
+Silver 4
+Gold 102
+Chancellor 6
+Province 9
+Witch 13
+Estate 3

@@ -1,0 +1,15 @@
+6
+17
+6
+5
+Gold 11
+Province 5
+Laboratory 12
+Bureaucrat 9
+Market 13
+Province 10
+Gold 101
+Gardens 9
+Silver 13
+Silver 9
+Gold 2

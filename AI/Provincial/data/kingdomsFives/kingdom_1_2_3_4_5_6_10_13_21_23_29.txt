@@ -1,0 +1,13 @@
+1
+11
+7
+6
+Gold 7
+Silver 11
+Gold 102
+Silver 7
+Moneylender 8
+Copper 10
+Province 5
+Mine 10
+Estate 13

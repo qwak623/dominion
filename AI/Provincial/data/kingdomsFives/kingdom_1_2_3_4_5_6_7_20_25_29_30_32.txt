@@ -1,0 +1,14 @@
+5
+13
+8
+8
+Province 14
+Gold 8
+Witch 6
+Gold 101
+Silver 9
+Village 5
+Estate 5
+Silver 11
+Copper 7
+Militia 12

@@ -1,0 +1,14 @@
+0
+16
+6
+5
+Gold 100
+CouncilRoom 9
+Province 11
+Gold 12
+Silver 10
+Adventurer 9
+CouncilRoom 7
+Copper 5
+Copper 13
+Estate 4

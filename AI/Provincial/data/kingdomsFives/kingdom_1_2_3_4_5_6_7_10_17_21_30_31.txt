@@ -1,0 +1,14 @@
+4
+15
+8
+8
+Gold 8
+Province 5
+Witch 2
+Gold 104
+Silver 12
+Cellar 4
+Laboratory 9
+Mine 7
+Cellar 1
+Silver 17

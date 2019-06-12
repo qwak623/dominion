@@ -1,0 +1,20 @@
+5
+20
+8
+8
+Gold 11
+Gold 106
+Silver 14
+Gardens 10
+Feast 6
+Cellar 10
+Feast 7
+Estate 5
+Silver 11
+Gardens 4
+Cellar 1
+Duchy 3
+ThroneRoom 7
+Estate 5
+Gold 5
+Gold 9

@@ -1,0 +1,15 @@
+0
+13
+7
+5
+Silver 11
+Province 10
+Gardens 6
+Gold 100
+Moat 6
+Cellar 7
+Woodcutter 10
+Estate 5
+Duchy 13
+Spy 7
+Silver 11

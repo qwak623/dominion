@@ -1,0 +1,17 @@
+5
+7
+16
+8
+Silver 5
+Province 6
+Gardens 12
+Thief 6
+Thief 7
+Copper 2
+Estate 8
+Gold 100
+Duchy 10
+Thief 12
+Gardens 4
+Spy 8
+Duchy 5

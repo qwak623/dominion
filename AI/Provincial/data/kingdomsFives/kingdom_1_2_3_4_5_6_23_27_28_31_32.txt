@@ -1,0 +1,16 @@
+1
+5
+8
+8
+Province 3
+Silver 8
+Province 6
+Duchy 7
+Silver 11
+Woodcutter 13
+Thief 12
+Duchy 3
+Thief 4
+Copper 4
+Workshop 5
+Gold 101

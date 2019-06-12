@@ -1,0 +1,16 @@
+1
+12
+6
+4
+Gold 4
+Silver 5
+Province 5
+Gold 3
+Silver 13
+Duchy 8
+Copper 7
+Workshop 4
+Gold 102
+Duchy 6
+Curse 14
+Thief 11

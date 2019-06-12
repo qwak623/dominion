@@ -1,0 +1,22 @@
+7
+13
+7
+4
+Gold 4
+Gold 8
+Silver 13
+Silver 10
+Province 7
+Silver 5
+Silver 9
+Province 2
+Copper 9
+Village 3
+Copper 12
+Bureaucrat 8
+Moneylender 8
+Silver 10
+Copper 4
+Gold 103
+Village 6
+Moneylender 9

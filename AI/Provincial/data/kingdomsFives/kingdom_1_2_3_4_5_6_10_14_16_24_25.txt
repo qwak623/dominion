@@ -1,0 +1,16 @@
+3
+14
+8
+7
+Province 7
+Province 11
+Gold 4
+Silver 8
+Gardens 10
+Silver 2
+Silver 1
+Copper 4
+Silver 4
+Smithy 2
+Silver 11
+Gold 101

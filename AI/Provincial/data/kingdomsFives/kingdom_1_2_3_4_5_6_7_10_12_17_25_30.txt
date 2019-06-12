@@ -1,0 +1,16 @@
+6
+15
+16
+7
+Gold 101
+Witch 5
+Duchy 5
+Silver 10
+Smithy 7
+Silver 11
+Province 9
+Silver 6
+Gold 7
+Cellar 4
+Feast 4
+Estate 3

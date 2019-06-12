@@ -1,0 +1,17 @@
+0
+18
+8
+8
+Gold 7
+Gold 101
+Silver 6
+Smithy 7
+Silver 10
+Chapel 3
+Estate 8
+Silver 13
+Province 5
+Duchy 9
+Workshop 10
+Copper 9
+Copper 11

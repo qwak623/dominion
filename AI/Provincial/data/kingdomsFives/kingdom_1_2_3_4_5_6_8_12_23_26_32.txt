@@ -1,0 +1,15 @@
+6
+11
+7
+4
+Province 6
+Gold 100
+Silver 9
+Duchy 8
+Adventurer 13
+Spy 3
+Feast 12
+Silver 9
+Workshop 2
+Moneylender 7
+Copper 6

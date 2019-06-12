@@ -1,0 +1,19 @@
+2
+16
+12
+8
+Duchy 6
+Gold 99
+Festival 11
+Militia 7
+Witch 10
+Province 8
+Silver 11
+Militia 8
+Province 11
+Workshop 10
+Militia 5
+Province 12
+Province 5
+Workshop 11
+Silver 7

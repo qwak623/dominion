@@ -1,0 +1,17 @@
+3
+13
+7
+7
+Laboratory 6
+Laboratory 9
+Bureaucrat 3
+Silver 13
+Bureaucrat 8
+Duchy 3
+Copper 5
+Remodel 6
+Silver 10
+Silver 4
+Duchy 11
+Estate 9
+Workshop 2

@@ -1,0 +1,15 @@
+0
+9
+7
+7
+Mine 1
+Gold 101
+Silver 10
+Chapel 2
+Duchy 13
+Adventurer 6
+Province 9
+Copper 13
+Gardens 8
+Gold 5
+Mine 7

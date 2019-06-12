@@ -1,0 +1,21 @@
+6
+19
+6
+5
+Gold 5
+Province 4
+Province 9
+Library 2
+Gold 4
+Festival 9
+Silver 10
+Gold 99
+Duchy 7
+Duchy 9
+Festival 3
+Smithy 11
+Cellar 5
+Silver 10
+Festival 10
+Copper 11
+Estate 6

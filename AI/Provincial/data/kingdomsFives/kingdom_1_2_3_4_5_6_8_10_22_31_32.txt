@@ -1,0 +1,16 @@
+2
+6
+5
+4
+Province 10
+Gold 99
+Silver 9
+Gold 6
+Duchy 9
+Moat 4
+Adventurer 12
+Workshop 7
+Moat 6
+Cellar 6
+Estate 11
+Province 11

@@ -1,0 +1,18 @@
+4
+11
+8
+5
+Province 8
+Gold 5
+Library 100
+Duchy 9
+Silver 8
+Province 11
+Library 8
+Copper 4
+Estate 6
+Village 5
+Adventurer 4
+Remodel 1
+Silver 14
+Woodcutter 6

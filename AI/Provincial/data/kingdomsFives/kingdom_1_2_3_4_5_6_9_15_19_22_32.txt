@@ -1,0 +1,15 @@
+5
+18
+5
+5
+Gold 103
+Silver 13
+Moat 4
+Market 9
+Workshop 9
+Gold 3
+Estate 10
+Copper 8
+Estate 4
+Province 8
+Duchy 9

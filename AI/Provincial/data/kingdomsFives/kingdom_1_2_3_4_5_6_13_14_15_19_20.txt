@@ -1,0 +1,16 @@
+6
+19
+12
+8
+Gardens 6
+Market 7
+Gardens 7
+Province 5
+Militia 8
+Silver 12
+Copper 6
+Militia 4
+Gardens 5
+Gardens 4
+Copper 7
+Silver 12

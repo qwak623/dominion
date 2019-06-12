@@ -1,0 +1,17 @@
+3
+16
+8
+7
+Gold 102
+Province 5
+Province 5
+Province 11
+Witch 12
+Duchy 11
+Silver 13
+Militia 4
+Remodel 5
+Duchy 2
+Market 12
+Witch 10
+Witch 1

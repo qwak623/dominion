@@ -1,0 +1,14 @@
+5
+15
+7
+5
+Gold 8
+Silver 13
+Silver 7
+Province 9
+Moat 11
+Copper 12
+Curse 10
+Silver 3
+Workshop 3
+CouncilRoom 7

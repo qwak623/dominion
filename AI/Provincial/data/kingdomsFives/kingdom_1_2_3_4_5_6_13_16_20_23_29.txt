@@ -1,0 +1,17 @@
+3
+21
+7
+7
+Gold 11
+Gold 7
+Festival 10
+Militia 12
+Silver 10
+Chapel 10
+Village 8
+Province 10
+Gold 99
+Militia 9
+Moneylender 4
+Duchy 3
+Duchy 6

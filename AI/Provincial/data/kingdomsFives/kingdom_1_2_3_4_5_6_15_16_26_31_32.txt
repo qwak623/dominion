@@ -1,0 +1,15 @@
+5
+9
+17
+8
+Duchy 7
+Province 6
+Gold 99
+Silver 12
+Silver 3
+Woodcutter 11
+Duchy 7
+Chancellor 5
+Woodcutter 9
+Gold 8
+Workshop 8

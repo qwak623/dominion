@@ -1,0 +1,14 @@
+4
+15
+13
+8
+Militia 5
+Province 6
+Gold 99
+Laboratory 4
+Silver 14
+Workshop 7
+Silver 5
+Estate 8
+Estate 4
+Cellar 4

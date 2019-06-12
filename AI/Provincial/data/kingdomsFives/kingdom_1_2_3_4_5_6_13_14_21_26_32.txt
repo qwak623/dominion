@@ -1,0 +1,15 @@
+0
+17
+18
+8
+Province 11
+Workshop 4
+Gold 100
+Gardens 10
+Copper 4
+Silver 10
+Estate 6
+Spy 6
+Mine 10
+Spy 11
+Spy 12

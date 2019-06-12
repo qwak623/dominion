@@ -1,0 +1,13 @@
+3
+12
+14
+7
+Gold 11
+Silver 3
+Province 8
+Library 8
+Province 9
+Library 8
+Silver 11
+Province 11
+Duchy 11

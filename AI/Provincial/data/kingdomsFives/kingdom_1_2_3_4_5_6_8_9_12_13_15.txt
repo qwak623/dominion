@@ -1,0 +1,13 @@
+2
+15
+16
+8
+Province 7
+Gold 4
+Festival 8
+Bureaucrat 5
+Silver 9
+Chancellor 12
+Gold 103
+Feast 3
+Duchy 9

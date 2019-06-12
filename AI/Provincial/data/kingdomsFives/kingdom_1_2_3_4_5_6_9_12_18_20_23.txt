@@ -1,0 +1,14 @@
+2
+10
+8
+8
+Gold 8
+Library 4
+Province 10
+Gold 100
+Silver 4
+Silver 19
+Feast 4
+Feast 10
+Library 4
+Silver 10

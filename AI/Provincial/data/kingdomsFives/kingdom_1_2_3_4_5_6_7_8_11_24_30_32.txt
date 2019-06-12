@@ -1,0 +1,15 @@
+3
+14
+8
+8
+Province 6
+Gold 102
+Witch 4
+Silver 5
+Duchy 6
+Silver 12
+Adventurer 7
+Gold 6
+CouncilRoom 15
+Witch 9
+Adventurer 8

@@ -1,0 +1,17 @@
+5
+10
+7
+7
+Province 9
+Province 9
+Province 6
+Bureaucrat 1
+Gold 102
+Silver 14
+Workshop 6
+Silver 8
+Mine 10
+Mine 5
+Silver 13
+Adventurer 9
+Copper 7

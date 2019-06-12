@@ -1,0 +1,16 @@
+2
+14
+8
+8
+Gold 101
+Province 8
+Militia 6
+Festival 14
+Gold 13
+Silver 12
+Copper 9
+Estate 3
+Copper 3
+Silver 4
+Gold 5
+Moneylender 14

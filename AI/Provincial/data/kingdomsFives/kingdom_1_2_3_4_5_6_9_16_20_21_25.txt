@@ -1,0 +1,16 @@
+0
+16
+7
+7
+Gold 100
+Gold 6
+Silver 10
+Province 8
+Smithy 8
+Militia 11
+Mine 4
+Bureaucrat 4
+Chapel 2
+Silver 12
+Copper 5
+Duchy 8

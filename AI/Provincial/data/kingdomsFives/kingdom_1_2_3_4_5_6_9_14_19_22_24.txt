@@ -1,0 +1,17 @@
+5
+10
+8
+8
+Market 6
+Gardens 8
+Duchy 6
+Duchy 6
+Province 6
+Province 2
+Silver 11
+Moat 9
+Silver 12
+Province 8
+Copper 15
+Gold 4
+Gold 101

@@ -1,0 +1,14 @@
+2
+15
+8
+6
+Thief 4
+Gold 101
+Library 13
+Province 14
+Silver 13
+Silver 9
+Silver 5
+Silver 3
+Copper 6
+Silver 7

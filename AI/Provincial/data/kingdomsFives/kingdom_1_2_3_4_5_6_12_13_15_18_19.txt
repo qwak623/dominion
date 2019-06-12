@@ -1,0 +1,18 @@
+1
+11
+6
+5
+Gold 7
+Library 10
+Gold 100
+Province 11
+Duchy 11
+Province 8
+Silver 6
+Market 8
+Festival 5
+Chancellor 8
+Feast 4
+Market 12
+Silver 7
+Silver 11

@@ -1,0 +1,17 @@
+1
+16
+8
+7
+Estate 1
+Province 10
+Gold 7
+Witch 12
+Gold 100
+Silver 6
+Silver 3
+Woodcutter 6
+Witch 8
+Thief 9
+Gardens 10
+Feast 14
+Silver 12

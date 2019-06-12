@@ -1,0 +1,13 @@
+2
+17
+16
+6
+Gold 10
+Witch 9
+Witch 12
+Gold 103
+Silver 11
+Silver 10
+Remodel 7
+Workshop 7
+Feast 6

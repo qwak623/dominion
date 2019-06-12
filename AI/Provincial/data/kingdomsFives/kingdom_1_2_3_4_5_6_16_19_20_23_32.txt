@@ -1,0 +1,17 @@
+7
+15
+8
+8
+Market 8
+Militia 6
+Duchy 13
+Province 7
+Chapel 1
+Silver 12
+Province 5
+Gold 11
+Gold 100
+Workshop 9
+Militia 3
+Province 1
+Duchy 5

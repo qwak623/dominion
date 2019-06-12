@@ -1,0 +1,17 @@
+5
+8
+5
+5
+Province 6
+Silver 12
+Adventurer 3
+Duchy 10
+Silver 11
+Chapel 12
+Gold 8
+Library 7
+Duchy 7
+Workshop 11
+Library 9
+Estate 10
+Remodel 13

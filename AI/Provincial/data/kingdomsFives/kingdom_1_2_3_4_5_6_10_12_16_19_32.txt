@@ -1,0 +1,15 @@
+6
+11
+6
+5
+Gold 5
+Market 5
+Feast 1
+Silver 10
+Gold 104
+Cellar 8
+Estate 8
+Province 8
+Chapel 13
+Silver 11
+Workshop 5

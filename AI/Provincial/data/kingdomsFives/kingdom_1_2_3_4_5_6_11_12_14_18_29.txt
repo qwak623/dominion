@@ -1,0 +1,15 @@
+3
+12
+7
+6
+Gold 3
+Silver 9
+Duchy 8
+Gardens 6
+Copper 10
+Estate 5
+Estate 4
+Duchy 13
+CouncilRoom 3
+Feast 9
+Village 5

@@ -1,0 +1,20 @@
+5
+13
+6
+5
+Gold 8
+Silver 7
+Silver 9
+Moat 10
+Province 11
+Gold 101
+Duchy 3
+ThroneRoom 5
+Silver 12
+Mine 8
+Province 5
+Moat 7
+Gold 4
+Mine 7
+ThroneRoom 11
+Thief 10

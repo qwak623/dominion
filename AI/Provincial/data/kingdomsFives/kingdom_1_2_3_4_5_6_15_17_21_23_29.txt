@@ -1,0 +1,20 @@
+2
+12
+8
+5
+Gold 102
+Mine 3
+Province 6
+Laboratory 12
+Silver 9
+Silver 6
+Copper 3
+Estate 9
+Silver 10
+Province 5
+Chancellor 6
+Silver 10
+Gold 7
+Village 11
+Province 11
+Province 4

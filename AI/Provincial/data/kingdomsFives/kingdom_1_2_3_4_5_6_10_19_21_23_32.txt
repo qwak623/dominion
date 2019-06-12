@@ -1,0 +1,17 @@
+2
+9
+8
+7
+Mine 5
+Province 10
+Gold 2
+Silver 6
+Gold 99
+Silver 13
+Market 6
+Cellar 9
+Copper 5
+Moneylender 4
+Estate 3
+Duchy 7
+Workshop 6

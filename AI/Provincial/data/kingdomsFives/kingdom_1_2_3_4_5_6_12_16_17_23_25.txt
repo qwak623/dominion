@@ -1,0 +1,15 @@
+3
+12
+5
+4
+Gold 101
+Silver 8
+Gold 13
+Province 5
+Smithy 5
+Silver 10
+Chapel 4
+Laboratory 7
+Moneylender 5
+Copper 10
+Feast 8

@@ -1,0 +1,16 @@
+6
+13
+7
+7
+Silver 10
+Gardens 7
+Silver 13
+Moat 13
+Duchy 4
+Village 10
+Copper 6
+Library 7
+Woodcutter 12
+Gardens 4
+Estate 9
+Woodcutter 102

@@ -1,0 +1,15 @@
+5
+12
+7
+7
+Province 6
+Gold 7
+Province 12
+Mine 10
+Gold 99
+Silver 13
+Duchy 7
+Cellar 4
+CouncilRoom 11
+Copper 10
+Village 9

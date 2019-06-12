@@ -1,0 +1,16 @@
+7
+12
+12
+8
+Gardens 10
+Workshop 6
+Silver 11
+Adventurer 5
+Duchy 9
+Province 8
+Gold 100
+Copper 11
+Estate 6
+Moneylender 6
+Adventurer 9
+Chancellor 4

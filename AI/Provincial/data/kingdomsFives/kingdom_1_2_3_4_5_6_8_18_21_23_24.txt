@@ -1,0 +1,17 @@
+2
+15
+7
+7
+Gold 102
+Library 7
+Province 6
+Library 8
+Province 12
+Adventurer 4
+Silver 11
+Adventurer 4
+Silver 2
+Province 2
+Gold 7
+Moneylender 2
+Remodel 5

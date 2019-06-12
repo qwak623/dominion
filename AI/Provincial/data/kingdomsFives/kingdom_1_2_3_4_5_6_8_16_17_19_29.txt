@@ -1,0 +1,14 @@
+6
+14
+7
+5
+Laboratory 2
+Silver 10
+Province 6
+Adventurer 9
+Silver 12
+Village 4
+Duchy 12
+Chapel 8
+Copper 5
+Estate 7

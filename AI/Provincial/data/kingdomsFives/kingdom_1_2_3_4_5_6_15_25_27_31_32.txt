@@ -1,0 +1,16 @@
+4
+17
+6
+6
+Gold 3
+Silver 5
+Smithy 6
+Smithy 3
+Chancellor 1
+Silver 6
+Smithy 7
+Gold 101
+Smithy 6
+Duchy 10
+Workshop 3
+Province 8

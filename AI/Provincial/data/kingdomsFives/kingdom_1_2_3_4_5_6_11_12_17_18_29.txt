@@ -1,0 +1,17 @@
+1
+10
+7
+5
+Province 11
+Gold 5
+CouncilRoom 5
+Gold 3
+Library 7
+Laboratory 12
+Gold 105
+Silver 7
+Gold 10
+Copper 6
+Silver 11
+Village 4
+Copper 3

@@ -1,0 +1,14 @@
+2
+9
+6
+6
+Gold 2
+Chancellor 1
+Province 13
+Gold 101
+Silver 13
+Duchy 6
+Chancellor 5
+Thief 3
+Silver 10
+Duchy 9

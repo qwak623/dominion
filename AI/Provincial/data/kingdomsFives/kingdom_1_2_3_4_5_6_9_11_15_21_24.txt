@@ -1,0 +1,14 @@
+6
+7
+6
+6
+Province 9
+Mine 1
+Gold 8
+Silver 12
+Chancellor 14
+CouncilRoom 3
+Bureaucrat 6
+Remodel 11
+Silver 4
+Gold 100

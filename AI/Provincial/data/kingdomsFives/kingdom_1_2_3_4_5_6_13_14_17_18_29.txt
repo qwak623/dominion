@@ -1,0 +1,16 @@
+4
+15
+10
+8
+Gold 8
+Festival 11
+Gardens 1
+Gardens 11
+Silver 11
+Laboratory 13
+Festival 6
+Silver 11
+Laboratory 102
+Laboratory 4
+Copper 13
+Laboratory 11

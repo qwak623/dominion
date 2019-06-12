@@ -1,0 +1,15 @@
+5
+15
+8
+7
+Province 7
+Gold 6
+Silver 11
+Gold 103
+Duchy 6
+Gardens 10
+Woodcutter 8
+Village 8
+Moat 13
+Copper 10
+Estate 9

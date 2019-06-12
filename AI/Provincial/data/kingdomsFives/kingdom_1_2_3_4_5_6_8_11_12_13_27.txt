@@ -1,0 +1,15 @@
+0
+12
+6
+5
+Province 5
+Province 6
+Gold 100
+Silver 12
+Festival 3
+Feast 2
+Duchy 8
+Gold 6
+Copper 9
+Silver 9
+Estate 9

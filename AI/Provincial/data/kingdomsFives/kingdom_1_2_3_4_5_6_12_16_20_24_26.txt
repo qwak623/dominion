@@ -1,0 +1,17 @@
+2
+15
+5
+5
+Province 12
+Gold 101
+Province 4
+Silver 2
+Militia 12
+Silver 10
+Feast 7
+Chapel 6
+Duchy 9
+Copper 7
+Gold 11
+Spy 3
+Remodel 4

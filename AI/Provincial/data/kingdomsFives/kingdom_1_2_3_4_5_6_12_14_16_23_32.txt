@@ -1,0 +1,17 @@
+7
+9
+7
+6
+Gold 5
+Silver 11
+Gardens 9
+Duchy 7
+Gardens 5
+Silver 101
+Feast 12
+Moneylender 5
+Feast 7
+Gold 3
+Duchy 8
+Workshop 10
+Silver 8

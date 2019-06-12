@@ -1,0 +1,18 @@
+2
+12
+7
+6
+Gold 9
+Laboratory 7
+Silver 13
+Silver 10
+Market 3
+Duchy 6
+Cellar 8
+Adventurer 100
+Workshop 8
+Market 9
+Copper 8
+Market 9
+Laboratory 3
+Adventurer 3

@@ -1,0 +1,14 @@
+5
+15
+8
+7
+Gold 5
+Witch 4
+Province 7
+Gold 101
+Silver 13
+Moneylender 6
+Silver 13
+Workshop 10
+Bureaucrat 12
+Chancellor 4

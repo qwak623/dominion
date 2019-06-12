@@ -1,0 +1,17 @@
+4
+12
+13
+8
+Gardens 11
+Silver 4
+Gold 102
+Silver 10
+Chancellor 7
+Silver 11
+Adventurer 9
+Copper 9
+Adventurer 9
+Duchy 5
+Estate 5
+Duchy 7
+Estate 7

@@ -1,0 +1,14 @@
+3
+11
+7
+4
+Gold 6
+Library 7
+Silver 13
+Gold 101
+Cellar 9
+Duchy 8
+Province 13
+Silver 2
+Province 11
+Woodcutter 4

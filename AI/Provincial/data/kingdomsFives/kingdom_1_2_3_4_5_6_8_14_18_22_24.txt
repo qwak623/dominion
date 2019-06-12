@@ -1,0 +1,18 @@
+4
+12
+6
+6
+Province 9
+Silver 10
+Gardens 11
+Duchy 6
+Moat 8
+Province 10
+Duchy 1
+Adventurer 10
+Gold 7
+Duchy 11
+Silver 5
+Gold 101
+Gardens 2
+Copper 5

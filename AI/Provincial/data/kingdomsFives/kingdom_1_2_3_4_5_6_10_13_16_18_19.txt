@@ -1,0 +1,15 @@
+0
+13
+5
+5
+Gold 99
+Gold 7
+Library 3
+Province 8
+Silver 12
+Copper 10
+Festival 9
+Silver 4
+Market 9
+Market 4
+Estate 10

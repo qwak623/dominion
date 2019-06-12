@@ -1,0 +1,17 @@
+0
+13
+5
+5
+Gold 100
+Gold 7
+Silver 13
+Chapel 7
+Province 1
+Chapel 7
+Estate 4
+Festival 9
+Chapel 6
+Province 13
+Cellar 2
+Estate 9
+Gold 8

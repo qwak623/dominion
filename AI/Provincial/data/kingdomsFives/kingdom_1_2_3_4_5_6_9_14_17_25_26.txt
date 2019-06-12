@@ -1,0 +1,15 @@
+6
+9
+6
+8
+Duchy 12
+Gardens 13
+Bureaucrat 10
+Laboratory 9
+Silver 9
+Silver 6
+Silver 10
+Smithy 3
+Spy 13
+Bureaucrat 6
+Copper 13

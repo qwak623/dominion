@@ -1,0 +1,15 @@
+0
+13
+8
+7
+Gold 12
+Witch 3
+Silver 13
+Gold 2
+Chapel 10
+Estate 2
+Province 13
+Gold 102
+Estate 3
+Province 11
+Copper 13

@@ -1,0 +1,12 @@
+6
+15
+17
+5
+Gold 104
+Silver 13
+Silver 9
+Moneylender 6
+Cellar 11
+Cellar 8
+Cellar 6
+Mine 5

@@ -1,0 +1,22 @@
+7
+12
+7
+7
+Moat 1
+Gold 7
+Laboratory 2
+Province 5
+Adventurer 1
+Laboratory 5
+Mine 6
+Mine 5
+Gold 1
+Gold 100
+Mine 2
+Duchy 10
+Silver 9
+Moat 10
+Adventurer 4
+Copper 5
+Copper 7
+Moat 3

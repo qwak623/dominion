@@ -1,0 +1,17 @@
+0
+8
+8
+8
+Province 9
+Gold 8
+Witch 6
+Silver 12
+Copper 10
+Workshop 7
+Curse 3
+Curse 6
+Workshop 10
+Silver 1
+Moat 12
+Village 9
+Gold 102

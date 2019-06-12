@@ -1,0 +1,13 @@
+4
+9
+7
+8
+Witch 2
+Duchy 9
+Silver 5
+Gold 103
+Estate 10
+Copper 5
+Spy 6
+Silver 12
+Silver 12

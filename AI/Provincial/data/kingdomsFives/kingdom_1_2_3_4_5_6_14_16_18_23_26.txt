@@ -1,0 +1,16 @@
+2
+13
+5
+5
+Gold 6
+Silver 10
+Province 9
+Gardens 7
+Duchy 10
+Moneylender 11
+Library 12
+Silver 14
+Library 6
+Moneylender 8
+Chapel 7
+Gold 101

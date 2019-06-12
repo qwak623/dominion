@@ -1,0 +1,16 @@
+6
+12
+7
+5
+Gold 8
+Gold 102
+Mine 12
+Duchy 6
+Silver 11
+Silver 11
+Remodel 4
+Province 3
+Workshop 2
+Copper 8
+Remodel 8
+Estate 6

@@ -1,0 +1,14 @@
+4
+14
+7
+7
+Silver 5
+Province 4
+Gold 102
+Militia 16
+Chapel 8
+Militia 8
+Estate 13
+Duchy 8
+Silver 14
+Market 8

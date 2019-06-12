@@ -1,0 +1,18 @@
+1
+16
+8
+4
+Gold 103
+Silver 12
+CouncilRoom 2
+Copper 9
+Estate 10
+Chancellor 9
+CouncilRoom 8
+Silver 6
+Adventurer 5
+Adventurer 13
+Copper 9
+Copper 5
+Copper 7
+Gold 3

@@ -1,0 +1,17 @@
+4
+12
+8
+5
+Gold 101
+Library 4
+Silver 10
+Adventurer 7
+Silver 9
+CouncilRoom 3
+Adventurer 9
+CouncilRoom 13
+Cellar 5
+Adventurer 5
+Chancellor 6
+Copper 6
+Silver 8

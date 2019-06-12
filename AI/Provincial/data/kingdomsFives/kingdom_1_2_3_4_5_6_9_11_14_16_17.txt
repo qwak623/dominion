@@ -1,0 +1,16 @@
+2
+13
+14
+8
+Province 6
+Bureaucrat 6
+Gardens 5
+CouncilRoom 4
+Laboratory 8
+Silver 12
+Copper 6
+CouncilRoom 6
+Chapel 13
+Silver 7
+Silver 6
+Duchy 5

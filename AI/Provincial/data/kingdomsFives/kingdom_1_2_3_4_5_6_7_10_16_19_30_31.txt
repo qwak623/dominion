@@ -1,0 +1,15 @@
+4
+15
+8
+8
+Witch 2
+Gold 102
+Market 4
+Province 9
+Duchy 12
+Silver 12
+Gold 12
+Market 5
+Cellar 4
+Cellar 3
+Duchy 6

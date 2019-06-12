@@ -1,0 +1,19 @@
+2
+8
+8
+8
+Province 9
+Gold 7
+Witch 10
+Province 9
+Silver 7
+Estate 10
+Village 1
+Gold 100
+Estate 8
+Cellar 7
+Duchy 8
+Laboratory 8
+Silver 13
+Duchy 8
+Copper 8

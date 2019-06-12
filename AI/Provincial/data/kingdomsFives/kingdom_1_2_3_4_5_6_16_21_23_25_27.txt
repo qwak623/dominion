@@ -1,0 +1,12 @@
+0
+14
+8
+8
+Mine 1
+Gold 101
+Duchy 10
+Duchy 16
+Gold 12
+Silver 13
+Thief 7
+Moneylender 7

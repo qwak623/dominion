@@ -1,0 +1,16 @@
+6
+14
+5
+5
+Province 3
+Gold 101
+Library 4
+Gold 6
+Silver 10
+Market 8
+Silver 12
+Copper 9
+Market 9
+Duchy 3
+Spy 5
+Estate 9

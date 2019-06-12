@@ -1,0 +1,14 @@
+3
+13
+8
+6
+Gold 3
+Province 7
+Silver 4
+Gold 100
+Silver 16
+Woodcutter 3
+Moneylender 3
+Workshop 8
+Silver 4
+Copper 2

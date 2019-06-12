@@ -1,0 +1,14 @@
+6
+13
+7
+6
+Province 7
+Gold 101
+Laboratory 5
+Bureaucrat 11
+Laboratory 2
+Duchy 6
+Mine 15
+Gold 9
+Province 11
+Silver 11

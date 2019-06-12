@@ -1,0 +1,14 @@
+4
+11
+8
+6
+Province 8
+Gold 104
+Bureaucrat 2
+Laboratory 5
+Silver 13
+Workshop 11
+Duchy 5
+Spy 8
+Silver 13
+Gold 6

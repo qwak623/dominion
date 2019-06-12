@@ -1,0 +1,17 @@
+1
+14
+8
+5
+Gold 99
+Laboratory 11
+Market 4
+Militia 5
+Silver 8
+Cellar 11
+Market 13
+Silver 11
+Province 10
+Copper 4
+Province 2
+Copper 8
+Estate 3

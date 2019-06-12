@@ -1,0 +1,15 @@
+1
+12
+8
+7
+Workshop 3
+Gardens 12
+Duchy 6
+Silver 7
+Gold 100
+Copper 7
+Market 9
+Festival 5
+Estate 13
+Silver 11
+Mine 10

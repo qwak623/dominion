@@ -1,0 +1,14 @@
+7
+17
+7
+6
+Gold 9
+Province 11
+Festival 3
+Militia 11
+Silver 11
+Gold 102
+Chancellor 12
+Silver 4
+Duchy 4
+Silver 9

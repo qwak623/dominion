@@ -1,0 +1,15 @@
+5
+15
+6
+4
+Province 5
+Gold 101
+Silver 11
+Cellar 10
+Copper 6
+Gold 14
+Province 12
+Moneylender 5
+Gold 5
+Moneylender 1
+Copper 10

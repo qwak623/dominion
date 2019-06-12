@@ -1,0 +1,16 @@
+5
+14
+8
+7
+Gold 101
+Province 13
+Militia 3
+Adventurer 7
+Gardens 9
+Gold 7
+Silver 13
+Copper 2
+Market 10
+Silver 9
+Estate 6
+Gardens 10

@@ -1,0 +1,18 @@
+0
+13
+8
+8
+Witch 2
+Silver 10
+Duchy 5
+Market 1
+Market 7
+Laboratory 12
+Bureaucrat 4
+Workshop 6
+Workshop 5
+Copper 6
+Gold 101
+Copper 7
+Estate 8
+Gold 4

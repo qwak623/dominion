@@ -1,0 +1,19 @@
+5
+14
+8
+8
+Gold 6
+Bureaucrat 3
+Silver 9
+Duchy 4
+Copper 2
+Gold 102
+Duchy 9
+Silver 4
+Province 13
+Copper 10
+Copper 9
+Feast 2
+Duchy 12
+Feast 6
+Duchy 6

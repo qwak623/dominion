@@ -1,0 +1,17 @@
+2
+14
+15
+8
+Province 3
+Militia 4
+Gardens 7
+Gold 104
+Gold 5
+Silver 15
+CouncilRoom 10
+CouncilRoom 14
+Cellar 5
+Estate 12
+Silver 10
+Militia 4
+Feast 11

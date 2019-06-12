@@ -1,0 +1,14 @@
+7
+14
+6
+6
+Province 8
+Gold 100
+Silver 11
+Remodel 9
+Workshop 11
+Copper 3
+Estate 12
+Silver 10
+Workshop 2
+Laboratory 4

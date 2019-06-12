@@ -1,0 +1,15 @@
+2
+12
+8
+8
+Silver 8
+Gold 99
+Silver 15
+Province 5
+Spy 5
+Library 4
+Duchy 3
+Chapel 2
+Spy 4
+Copper 11
+Duchy 3

@@ -1,0 +1,17 @@
+7
+14
+8
+7
+Witch 2
+Silver 5
+Gold 1
+Province 4
+Gardens 11
+Duchy 8
+Gold 100
+Smithy 8
+Silver 13
+Estate 6
+Curse 11
+Estate 9
+Province 7

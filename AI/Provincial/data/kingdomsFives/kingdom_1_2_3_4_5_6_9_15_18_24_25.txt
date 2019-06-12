@@ -1,0 +1,15 @@
+7
+15
+8
+8
+Bureaucrat 4
+Duchy 100
+Silver 6
+Copper 2
+Estate 7
+Library 9
+Duchy 9
+Chancellor 5
+Silver 12
+Smithy 3
+Duchy 4

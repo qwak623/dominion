@@ -1,0 +1,16 @@
+6
+12
+8
+8
+Silver 1
+Gold 103
+Market 1
+Province 9
+Silver 8
+Moat 12
+Market 5
+Copper 17
+Copper 3
+Duchy 11
+Militia 8
+Estate 3

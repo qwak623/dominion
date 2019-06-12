@@ -1,0 +1,16 @@
+2
+10
+8
+7
+Bureaucrat 4
+Silver 3
+Province 5
+Gold 100
+Silver 10
+Copper 5
+Workshop 12
+Gold 13
+Silver 11
+Chapel 9
+Adventurer 3
+Estate 10

@@ -1,0 +1,15 @@
+3
+17
+6
+5
+Gold 99
+Adventurer 1
+Province 6
+Smithy 2
+Gold 6
+Silver 8
+Duchy 7
+Silver 11
+Village 4
+Woodcutter 8
+Village 3

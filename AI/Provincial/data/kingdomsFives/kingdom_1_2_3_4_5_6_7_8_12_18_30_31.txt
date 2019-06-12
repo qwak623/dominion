@@ -1,0 +1,15 @@
+5
+17
+8
+7
+Gold 101
+Witch 12
+Duchy 12
+Province 3
+Silver 12
+Duchy 11
+Woodcutter 3
+Woodcutter 3
+Adventurer 5
+Woodcutter 5
+Library 12

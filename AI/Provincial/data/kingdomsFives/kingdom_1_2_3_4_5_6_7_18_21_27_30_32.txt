@@ -1,0 +1,17 @@
+7
+12
+8
+8
+Gold 1
+Gold 99
+Witch 3
+Silver 16
+Silver 11
+Mine 5
+Library 6
+Silver 7
+Copper 7
+Estate 8
+Curse 2
+Workshop 11
+Curse 9

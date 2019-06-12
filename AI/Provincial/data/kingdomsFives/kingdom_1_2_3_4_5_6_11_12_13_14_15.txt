@@ -1,0 +1,18 @@
+5
+8
+8
+8
+Province 4
+Festival 4
+Gold 11
+Gold 101
+Silver 3
+Duchy 4
+Copper 2
+Gardens 12
+Chancellor 7
+Festival 7
+Feast 1
+Silver 10
+Estate 4
+CouncilRoom 10

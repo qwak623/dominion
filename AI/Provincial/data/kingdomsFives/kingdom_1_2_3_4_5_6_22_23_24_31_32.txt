@@ -1,0 +1,14 @@
+6
+10
+6
+5
+Gold 6
+Silver 12
+Province 11
+Moat 101
+Moneylender 13
+Copper 10
+Workshop 11
+Silver 4
+Duchy 11
+Province 7

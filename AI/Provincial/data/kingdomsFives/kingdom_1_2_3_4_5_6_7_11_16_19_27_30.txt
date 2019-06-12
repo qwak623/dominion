@@ -1,0 +1,17 @@
+5
+13
+8
+8
+Witch 6
+Gold 10
+Silver 17
+Province 11
+Copper 5
+CouncilRoom 9
+Gold 101
+CouncilRoom 7
+Copper 3
+Thief 8
+Estate 8
+Silver 7
+Copper 13

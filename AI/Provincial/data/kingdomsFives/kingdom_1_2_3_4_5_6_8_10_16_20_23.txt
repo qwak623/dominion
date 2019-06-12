@@ -1,0 +1,18 @@
+3
+13
+18
+7
+Adventurer 6
+Silver 14
+Silver 3
+Adventurer 11
+Province 10
+Chapel 5
+Gold 5
+Cellar 2
+Moneylender 11
+Militia 13
+Estate 11
+Gold 10
+Moneylender 6
+Chapel 5

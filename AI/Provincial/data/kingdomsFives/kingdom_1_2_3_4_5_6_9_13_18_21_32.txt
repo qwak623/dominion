@@ -1,0 +1,15 @@
+0
+10
+7
+3
+Gold 103
+Library 4
+Silver 8
+Silver 12
+Festival 6
+Copper 9
+Festival 2
+Estate 4
+Library 7
+Workshop 9
+Workshop 5

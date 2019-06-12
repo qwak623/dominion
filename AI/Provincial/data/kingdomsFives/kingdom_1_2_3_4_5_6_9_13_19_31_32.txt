@@ -1,0 +1,15 @@
+3
+13
+6
+6
+Gold 101
+Silver 12
+Province 10
+Silver 8
+Workshop 7
+Bureaucrat 9
+Woodcutter 14
+Market 9
+Copper 11
+Duchy 10
+Market 5

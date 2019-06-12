@@ -1,0 +1,16 @@
+2
+8
+8
+8
+Workshop 5
+Gardens 8
+CouncilRoom 10
+Gold 100
+Estate 12
+Gold 11
+Duchy 5
+Gardens 6
+Province 6
+Silver 13
+Chancellor 10
+Estate 11

@@ -1,0 +1,16 @@
+4
+14
+6
+6
+Gold 9
+Silver 6
+Province 10
+Gold 100
+Library 12
+Silver 11
+Duchy 10
+Cellar 9
+Estate 9
+Workshop 9
+Copper 6
+Estate 4

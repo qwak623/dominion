@@ -1,0 +1,17 @@
+7
+15
+8
+7
+Gold 104
+CouncilRoom 3
+Copper 1
+Market 8
+CouncilRoom 2
+Province 4
+Silver 11
+Copper 6
+Festival 7
+Estate 11
+Workshop 4
+Chapel 6
+Chapel 10

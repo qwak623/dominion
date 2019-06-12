@@ -1,0 +1,16 @@
+0
+11
+12
+8
+Copper 1
+Gold 100
+Province 6
+Militia 6
+Gardens 5
+Moneylender 8
+Silver 12
+Gardens 11
+Province 2
+Estate 9
+Adventurer 1
+Duchy 5

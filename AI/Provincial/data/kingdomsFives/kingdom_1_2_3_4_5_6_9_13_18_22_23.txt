@@ -1,0 +1,15 @@
+7
+12
+6
+6
+Province 6
+Gold 10
+Silver 10
+Gold 99
+Gold 14
+Silver 2
+Moat 5
+Moneylender 7
+Estate 6
+Moneylender 9
+Library 8

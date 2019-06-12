@@ -1,0 +1,17 @@
+6
+12
+6
+6
+Thief 3
+Gold 3
+Gold 7
+Silver 13
+Moneylender 8
+Copper 7
+Province 10
+Estate 6
+Remodel 5
+Moneylender 8
+Gold 100
+Province 10
+Woodcutter 11

@@ -1,0 +1,17 @@
+7
+13
+8
+6
+Gold 7
+Laboratory 2
+Adventurer 7
+Laboratory 11
+Gold 102
+Silver 9
+Duchy 10
+Market 8
+Silver 13
+Laboratory 2
+Province 7
+Copper 8
+Feast 8

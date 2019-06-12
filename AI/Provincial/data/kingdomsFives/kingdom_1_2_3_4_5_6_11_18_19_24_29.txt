@@ -1,0 +1,19 @@
+6
+11
+7
+6
+Gold 6
+Gold 8
+CouncilRoom 7
+Silver 5
+Province 3
+CouncilRoom 103
+Silver 11
+CouncilRoom 8
+Gold 10
+Market 11
+Remodel 9
+Copper 8
+Village 4
+Remodel 8
+CouncilRoom 6

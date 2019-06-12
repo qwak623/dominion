@@ -1,0 +1,16 @@
+0
+11
+7
+6
+Mine 3
+Market 10
+Duchy 6
+Duchy 9
+Duchy 100
+Silver 11
+Silver 12
+Copper 11
+Estate 5
+Cellar 13
+Province 6
+Village 9

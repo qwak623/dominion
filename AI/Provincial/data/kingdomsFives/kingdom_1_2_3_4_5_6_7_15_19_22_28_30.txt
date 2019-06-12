@@ -1,0 +1,15 @@
+5
+10
+7
+7
+Witch 2
+Province 12
+Gold 100
+Silver 11
+Gold 7
+Duchy 7
+Moat 13
+Witch 3
+Estate 10
+Silver 6
+Market 10

@@ -1,0 +1,15 @@
+3
+11
+8
+8
+Witch 5
+Silver 4
+Duchy 11
+Silver 13
+Spy 6
+Woodcutter 15
+Spy 5
+Thief 6
+Thief 11
+Gold 101
+Copper 12

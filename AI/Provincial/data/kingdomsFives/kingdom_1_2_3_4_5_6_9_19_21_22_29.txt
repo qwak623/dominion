@@ -1,0 +1,17 @@
+4
+9
+8
+7
+Province 8
+Gold 101
+Bureaucrat 4
+Silver 10
+Silver 11
+Silver 2
+Market 3
+Gold 9
+Market 9
+Moat 10
+Market 7
+Duchy 7
+Duchy 11

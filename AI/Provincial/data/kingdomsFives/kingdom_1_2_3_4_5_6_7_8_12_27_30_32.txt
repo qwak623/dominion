@@ -1,0 +1,17 @@
+2
+9
+8
+6
+Province 8
+Witch 10
+Duchy 5
+Silver 9
+Duchy 8
+Estate 4
+Duchy 6
+Adventurer 7
+Estate 5
+Adventurer 6
+Silver 12
+Copper 5
+Workshop 5

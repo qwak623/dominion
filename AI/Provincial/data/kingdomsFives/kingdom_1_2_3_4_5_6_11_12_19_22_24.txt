@@ -1,0 +1,14 @@
+3
+15
+6
+3
+Gold 101
+Silver 16
+Remodel 8
+Remodel 7
+Silver 4
+Moat 2
+CouncilRoom 4
+Gold 6
+CouncilRoom 12
+Remodel 14

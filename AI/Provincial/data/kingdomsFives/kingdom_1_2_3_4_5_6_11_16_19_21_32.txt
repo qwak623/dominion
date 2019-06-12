@@ -1,0 +1,16 @@
+1
+16
+7
+6
+Gold 99
+Market 11
+Duchy 4
+Duchy 4
+Mine 6
+Silver 13
+CouncilRoom 6
+Mine 1
+Chapel 2
+Market 10
+Province 8
+Estate 6

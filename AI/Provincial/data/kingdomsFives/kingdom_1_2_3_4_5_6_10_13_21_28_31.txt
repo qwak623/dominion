@@ -1,0 +1,15 @@
+3
+15
+6
+4
+Gold 100
+Silver 6
+Festival 13
+Silver 15
+Cellar 8
+ThroneRoom 5
+Estate 12
+Cellar 6
+Woodcutter 10
+Gold 4
+Duchy 6

@@ -1,0 +1,15 @@
+6
+12
+8
+8
+Gold 102
+Province 5
+Estate 1
+Witch 9
+Silver 11
+Silver 13
+Moat 6
+Moat 3
+Witch 1
+Copper 4
+Moat 10

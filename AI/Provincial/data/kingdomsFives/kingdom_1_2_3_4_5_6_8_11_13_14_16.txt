@@ -1,0 +1,18 @@
+4
+8
+6
+6
+Festival 3
+Province 8
+Silver 3
+Gardens 10
+Festival 2
+Copper 6
+Province 1
+Province 2
+Estate 10
+Silver 11
+Adventurer 10
+CouncilRoom 7
+Gardens 99
+Chapel 4

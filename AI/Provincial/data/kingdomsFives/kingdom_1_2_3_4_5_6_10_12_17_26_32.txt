@@ -1,0 +1,16 @@
+5
+10
+6
+4
+Gold 101
+Gold 10
+Laboratory 6
+Province 7
+Silver 5
+Spy 7
+Silver 9
+Silver 12
+Duchy 8
+Silver 3
+Cellar 8
+Estate 4

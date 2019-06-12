@@ -1,0 +1,19 @@
+0
+18
+17
+8
+Gold 2
+Militia 4
+Gold 99
+Duchy 9
+Silver 11
+Adventurer 6
+Militia 10
+Copper 6
+Gold 7
+CouncilRoom 6
+Gold 12
+Militia 7
+Estate 11
+Province 4
+Duchy 8

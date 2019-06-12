@@ -1,0 +1,15 @@
+3
+17
+6
+5
+Gold 10
+Adventurer 9
+Silver 10
+Duchy 10
+Silver 10
+Thief 6
+Thief 6
+Silver 100
+Chapel 10
+Province 11
+Chapel 7

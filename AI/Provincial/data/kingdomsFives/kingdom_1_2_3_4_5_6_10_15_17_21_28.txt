@@ -1,0 +1,14 @@
+3
+12
+6
+6
+Gold 8
+Laboratory 13
+Laboratory 7
+Gold 103
+Mine 9
+Silver 10
+Laboratory 8
+Cellar 11
+Copper 7
+Silver 12

@@ -1,0 +1,18 @@
+7
+7
+8
+8
+Silver 5
+Province 2
+Province 101
+Witch 11
+Duchy 11
+Silver 11
+Bureaucrat 6
+Workshop 6
+Market 1
+ThroneRoom 2
+Copper 9
+Copper 12
+Market 8
+Estate 5

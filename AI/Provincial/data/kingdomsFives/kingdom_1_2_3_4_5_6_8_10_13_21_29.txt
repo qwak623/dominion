@@ -1,0 +1,17 @@
+4
+14
+6
+5
+Gold 101
+Gold 6
+Silver 8
+Silver 10
+Duchy 8
+Copper 9
+Cellar 6
+Estate 6
+Festival 10
+Estate 5
+Copper 12
+Gold 11
+Adventurer 7

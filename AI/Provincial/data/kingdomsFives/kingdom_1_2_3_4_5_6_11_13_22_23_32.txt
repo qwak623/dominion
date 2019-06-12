@@ -1,0 +1,17 @@
+6
+12
+15
+6
+Gold 101
+Workshop 1
+Duchy 6
+Duchy 6
+Gold 5
+Festival 13
+Silver 14
+Silver 2
+Silver 10
+Moat 10
+Moneylender 1
+Workshop 9
+CouncilRoom 2

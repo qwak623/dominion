@@ -1,0 +1,13 @@
+2
+8
+17
+8
+Duchy 5
+Province 3
+Gardens 7
+Gold 99
+Workshop 10
+Estate 8
+Remodel 9
+Gardens 13
+Copper 8

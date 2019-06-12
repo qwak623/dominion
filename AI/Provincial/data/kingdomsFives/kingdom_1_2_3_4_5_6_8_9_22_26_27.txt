@@ -1,0 +1,15 @@
+6
+12
+7
+7
+Gold 101
+Silver 13
+Adventurer 2
+Moat 9
+Gold 11
+Silver 5
+Bureaucrat 6
+Thief 8
+Estate 7
+Province 14
+Copper 10

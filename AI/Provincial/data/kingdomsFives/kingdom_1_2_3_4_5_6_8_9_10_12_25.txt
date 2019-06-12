@@ -1,0 +1,13 @@
+6
+16
+8
+5
+Gold 99
+Province 13
+Bureaucrat 4
+Silver 4
+Smithy 4
+Smithy 7
+Silver 11
+Cellar 4
+Estate 9

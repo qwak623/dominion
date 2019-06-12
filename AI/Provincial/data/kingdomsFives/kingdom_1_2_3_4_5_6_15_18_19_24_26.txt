@@ -1,0 +1,16 @@
+2
+16
+7
+4
+Gold 9
+Market 6
+Silver 10
+Remodel 8
+Market 7
+Gold 101
+Gold 9
+Province 4
+Duchy 6
+Spy 6
+Silver 10
+Chancellor 4

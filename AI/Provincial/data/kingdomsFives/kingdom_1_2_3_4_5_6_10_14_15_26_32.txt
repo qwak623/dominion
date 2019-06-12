@@ -1,0 +1,14 @@
+1
+12
+8
+8
+Gardens 10
+Duchy 7
+Silver 15
+Chancellor 11
+Cellar 2
+Estate 1
+Gold 100
+Copper 8
+Gold 6
+Workshop 2

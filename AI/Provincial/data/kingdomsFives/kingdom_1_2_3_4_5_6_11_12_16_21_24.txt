@@ -1,0 +1,17 @@
+1
+12
+6
+6
+Gold 6
+Mine 3
+CouncilRoom 11
+Silver 3
+Silver 12
+Copper 7
+Feast 9
+Mine 7
+Chapel 4
+Feast 9
+Gold 99
+Gold 3
+Mine 2

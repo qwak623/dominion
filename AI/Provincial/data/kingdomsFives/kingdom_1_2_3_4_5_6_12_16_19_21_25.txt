@@ -1,0 +1,14 @@
+1
+13
+6
+6
+Gold 102
+Silver 11
+Gold 8
+Smithy 4
+Silver 12
+Mine 6
+Chapel 3
+Copper 6
+Smithy 4
+Estate 10

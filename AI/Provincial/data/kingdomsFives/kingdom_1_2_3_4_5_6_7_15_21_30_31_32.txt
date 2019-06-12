@@ -1,0 +1,16 @@
+1
+14
+6
+5
+Gold 100
+Province 9
+Gold 9
+Silver 7
+Gold 8
+Province 4
+Chancellor 6
+Copper 9
+Silver 4
+Curse 8
+Duchy 7
+Estate 8

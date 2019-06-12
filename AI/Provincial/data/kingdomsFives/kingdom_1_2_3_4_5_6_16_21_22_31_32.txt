@@ -1,0 +1,17 @@
+4
+15
+8
+4
+Gold 10
+Mine 1
+Silver 8
+Gold 100
+Silver 16
+Moat 7
+Silver 3
+Chapel 9
+Workshop 1
+Copper 4
+Estate 10
+Mine 6
+Moat 4

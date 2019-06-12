@@ -1,0 +1,13 @@
+4
+8
+7
+5
+Gold 3
+Province 11
+Laboratory 10
+Silver 9
+Silver 11
+Laboratory 4
+Bureaucrat 12
+Mine 2
+Moat 8

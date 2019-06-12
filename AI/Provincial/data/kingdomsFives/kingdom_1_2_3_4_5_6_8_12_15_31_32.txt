@@ -1,0 +1,14 @@
+2
+6
+8
+6
+Adventurer 2
+Province 10
+Gold 105
+Silver 10
+Estate 11
+Woodcutter 10
+Workshop 7
+Duchy 11
+Silver 13
+Duchy 11

@@ -1,0 +1,16 @@
+0
+17
+8
+8
+Witch 10
+Duchy 13
+Witch 13
+Silver 12
+Copper 9
+Province 5
+Duchy 9
+Estate 8
+Laboratory 11
+Copper 4
+Cellar 3
+Curse 10

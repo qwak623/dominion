@@ -1,0 +1,15 @@
+4
+13
+6
+5
+Bureaucrat 1
+Gold 102
+Chapel 2
+Province 7
+Silver 12
+Silver 10
+Bureaucrat 4
+Copper 13
+Estate 3
+Duchy 3
+Bureaucrat 9

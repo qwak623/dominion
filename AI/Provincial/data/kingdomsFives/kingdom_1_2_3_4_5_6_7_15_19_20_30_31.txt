@@ -1,0 +1,14 @@
+4
+10
+7
+7
+Gold 12
+Witch 7
+Market 7
+Militia 6
+Gold 103
+Silver 8
+Silver 11
+Copper 2
+Province 10
+Woodcutter 5

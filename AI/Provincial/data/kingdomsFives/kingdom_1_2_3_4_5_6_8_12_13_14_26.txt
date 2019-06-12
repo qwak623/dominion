@@ -1,0 +1,16 @@
+4
+18
+8
+8
+Festival 4
+Gardens 8
+Gardens 6
+Province 9
+Duchy 101
+Duchy 12
+Feast 10
+Silver 14
+Copper 12
+Estate 7
+Festival 8
+Spy 3

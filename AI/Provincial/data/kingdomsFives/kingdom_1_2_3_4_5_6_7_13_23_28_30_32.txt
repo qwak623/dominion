@@ -1,0 +1,15 @@
+2
+15
+12
+5
+Gold 100
+Province 2
+Witch 3
+Silver 10
+Silver 7
+Copper 14
+Festival 11
+Province 5
+Estate 9
+Copper 14
+Curse 7

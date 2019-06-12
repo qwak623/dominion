@@ -1,0 +1,12 @@
+3
+15
+15
+8
+Duchy 10
+Gold 102
+Library 12
+Silver 15
+Adventurer 9
+Silver 10
+Feast 2
+Workshop 12

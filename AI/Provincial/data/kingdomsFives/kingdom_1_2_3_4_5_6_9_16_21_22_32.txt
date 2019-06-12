@@ -1,0 +1,17 @@
+6
+13
+7
+4
+Gold 101
+Silver 6
+Province 5
+Silver 13
+Gold 12
+Workshop 9
+Mine 5
+Moat 11
+Copper 8
+Bureaucrat 10
+Estate 3
+Silver 3
+Bureaucrat 3

@@ -1,0 +1,17 @@
+5
+11
+8
+6
+Silver 12
+Duchy 6
+Gardens 8
+Bureaucrat 7
+Copper 7
+Cellar 6
+Estate 9
+Cellar 11
+Cellar 101
+Gardens 8
+Silver 3
+Festival 11
+Gold 9

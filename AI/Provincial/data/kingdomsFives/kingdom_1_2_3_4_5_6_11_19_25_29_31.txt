@@ -1,0 +1,16 @@
+0
+7
+5
+4
+CouncilRoom 2
+Province 10
+Gold 104
+Gold 4
+Silver 11
+Silver 11
+Market 6
+Duchy 11
+Copper 8
+Estate 5
+Estate 5
+CouncilRoom 8

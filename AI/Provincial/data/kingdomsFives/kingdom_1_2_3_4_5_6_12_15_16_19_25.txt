@@ -1,0 +1,15 @@
+6
+18
+5
+5
+Gold 100
+Silver 5
+Smithy 13
+Smithy 9
+Duchy 6
+Silver 12
+Chancellor 10
+Chapel 4
+Chancellor 11
+Feast 5
+Copper 11

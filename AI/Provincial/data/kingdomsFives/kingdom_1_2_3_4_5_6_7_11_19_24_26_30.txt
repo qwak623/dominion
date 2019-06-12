@@ -1,0 +1,15 @@
+6
+9
+8
+8
+Witch 5
+Silver 12
+Silver 7
+Copper 5
+Province 11
+Duchy 101
+CouncilRoom 9
+Estate 8
+Market 5
+Remodel 7
+Witch 8

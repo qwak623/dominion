@@ -1,0 +1,13 @@
+6
+14
+7
+5
+Gold 100
+CouncilRoom 12
+Silver 15
+Laboratory 3
+Copper 5
+Workshop 5
+Duchy 8
+Gold 5
+Gold 11

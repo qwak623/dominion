@@ -1,0 +1,15 @@
+5
+14
+7
+5
+Gold 7
+Mine 11
+Gold 1
+Silver 13
+Chancellor 9
+Woodcutter 5
+Workshop 7
+Gold 101
+Gold 6
+Festival 4
+Province 7

@@ -1,0 +1,16 @@
+4
+14
+8
+7
+Gold 9
+Gold 101
+Silver 7
+Smithy 7
+Silver 13
+Militia 11
+Workshop 2
+Woodcutter 2
+Province 11
+Duchy 4
+Smithy 11
+Gold 4

@@ -1,0 +1,14 @@
+7
+13
+7
+7
+Gold 8
+Silver 11
+Silver 10
+CouncilRoom 7
+Moat 10
+Cellar 11
+Silver 104
+CouncilRoom 4
+Estate 5
+Feast 9

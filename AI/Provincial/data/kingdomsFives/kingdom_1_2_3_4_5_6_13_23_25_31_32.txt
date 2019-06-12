@@ -1,0 +1,17 @@
+7
+7
+5
+5
+Province 6
+Smithy 1
+Gold 101
+Gold 8
+Silver 4
+Silver 11
+Workshop 11
+Woodcutter 7
+Duchy 9
+Copper 4
+Estate 3
+Moneylender 5
+Woodcutter 13

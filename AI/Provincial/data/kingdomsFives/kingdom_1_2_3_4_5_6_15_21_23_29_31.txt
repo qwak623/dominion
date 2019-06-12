@@ -1,0 +1,15 @@
+0
+15
+6
+6
+Gold 7
+Gold 100
+Silver 13
+Woodcutter 9
+Province 7
+Duchy 11
+Moneylender 4
+Chancellor 5
+Moneylender 8
+Copper 3
+Estate 9

@@ -1,0 +1,15 @@
+0
+11
+6
+6
+Gold 13
+Silver 11
+Gold 10
+Silver 9
+Copper 8
+Woodcutter 12
+Duchy 12
+ThroneRoom 10
+Estate 12
+Village 5
+Gold 102

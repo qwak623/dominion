@@ -1,0 +1,18 @@
+3
+14
+7
+7
+Gold 1
+Gold 100
+Library 7
+Duchy 3
+Silver 11
+Province 7
+Silver 11
+Copper 3
+Festival 7
+Copper 8
+Militia 7
+Estate 6
+Duchy 3
+Festival 7

@@ -1,0 +1,15 @@
+1
+14
+6
+6
+Province 7
+Gold 102
+Gold 11
+Market 13
+Bureaucrat 11
+Silver 4
+Village 7
+Duchy 11
+Silver 11
+Silver 13
+Mine 5

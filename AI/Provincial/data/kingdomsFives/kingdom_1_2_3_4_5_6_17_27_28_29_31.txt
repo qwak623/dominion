@@ -1,0 +1,12 @@
+3
+11
+6
+5
+Gold 102
+Gold 7
+Silver 14
+Copper 4
+Silver 7
+Estate 5
+Estate 4
+Woodcutter 13

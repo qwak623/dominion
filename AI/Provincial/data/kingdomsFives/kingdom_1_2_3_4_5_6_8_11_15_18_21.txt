@@ -1,0 +1,16 @@
+4
+11
+7
+5
+Province 8
+Gold 12
+Adventurer 6
+Mine 6
+Adventurer 8
+Silver 12
+Gold 7
+CouncilRoom 9
+Library 9
+Silver 103
+Chancellor 6
+Duchy 10

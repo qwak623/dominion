@@ -1,0 +1,16 @@
+2
+11
+8
+5
+Silver 8
+Gardens 9
+Estate 10
+Duchy 7
+Festival 8
+Feast 2
+Cellar 4
+Village 5
+Gold 100
+Cellar 13
+Copper 7
+Gold 4

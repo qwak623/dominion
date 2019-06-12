@@ -1,0 +1,11 @@
+4
+11
+12
+8
+Gold 12
+Militia 9
+Militia 6
+Silver 13
+Remodel 2
+Village 6
+Silver 3

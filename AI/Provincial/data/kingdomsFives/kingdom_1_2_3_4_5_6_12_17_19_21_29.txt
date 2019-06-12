@@ -1,0 +1,15 @@
+4
+14
+7
+6
+Gold 103
+Mine 7
+Silver 10
+Laboratory 12
+Silver 6
+Province 6
+Copper 7
+Market 8
+Estate 11
+Gold 10
+Duchy 8

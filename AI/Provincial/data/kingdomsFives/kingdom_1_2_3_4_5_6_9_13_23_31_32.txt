@@ -1,0 +1,16 @@
+6
+12
+8
+7
+Province 5
+Gold 11
+Bureaucrat 2
+Silver 12
+Silver 10
+Copper 4
+Workshop 9
+Estate 1
+Workshop 2
+Festival 3
+Woodcutter 8
+Duchy 3

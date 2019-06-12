@@ -1,0 +1,17 @@
+3
+16
+8
+8
+Witch 3
+Duchy 6
+Gold 10
+Market 10
+Gold 100
+Silver 13
+Silver 9
+Copper 4
+Moat 12
+Province 7
+Moat 4
+Workshop 5
+Estate 7

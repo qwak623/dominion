@@ -1,0 +1,15 @@
+5
+18
+8
+6
+Gold 9
+Witch 11
+Silver 6
+Province 3
+Gardens 11
+Gold 99
+Market 2
+Gardens 12
+Woodcutter 12
+Silver 10
+Copper 8

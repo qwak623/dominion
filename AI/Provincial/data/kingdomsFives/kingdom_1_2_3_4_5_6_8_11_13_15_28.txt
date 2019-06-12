@@ -1,0 +1,12 @@
+4
+6
+6
+5
+Chancellor 1
+Gold 2
+Province 8
+Gold 9
+Festival 10
+Silver 12
+CouncilRoom 5
+Silver 11

@@ -1,0 +1,20 @@
+5
+13
+7
+7
+Gold 7
+Silver 7
+Copper 4
+Gardens 12
+Festival 3
+Gold 7
+Gold 101
+Adventurer 6
+Copper 8
+Duchy 2
+Laboratory 9
+Gardens 2
+Estate 3
+Gardens 3
+Province 2
+Laboratory 5

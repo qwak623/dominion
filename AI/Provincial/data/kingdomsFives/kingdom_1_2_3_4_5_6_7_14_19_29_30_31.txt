@@ -1,0 +1,15 @@
+3
+14
+8
+7
+Gold 8
+Witch 15
+Gold 100
+Gardens 10
+Duchy 4
+Silver 12
+Copper 7
+Woodcutter 7
+Witch 11
+Copper 10
+Curse 10

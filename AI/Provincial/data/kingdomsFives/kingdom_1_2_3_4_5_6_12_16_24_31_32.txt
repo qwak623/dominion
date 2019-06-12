@@ -1,0 +1,15 @@
+2
+12
+8
+6
+Gold 7
+Silver 4
+Silver 13
+Province 101
+Feast 8
+Duchy 5
+Woodcutter 2
+Province 4
+Workshop 7
+Duchy 10
+Province 2

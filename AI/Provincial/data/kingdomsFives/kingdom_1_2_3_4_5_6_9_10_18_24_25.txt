@@ -1,0 +1,14 @@
+2
+15
+7
+6
+Bureaucrat 2
+Province 5
+Gold 100
+Library 4
+Library 5
+Silver 9
+Silver 5
+Copper 8
+Cellar 15
+Silver 10

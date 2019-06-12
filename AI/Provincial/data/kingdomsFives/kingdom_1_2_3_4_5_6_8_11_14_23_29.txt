@@ -1,0 +1,14 @@
+0
+8
+7
+5
+Gold 103
+Adventurer 9
+CouncilRoom 3
+Gardens 12
+Silver 14
+Copper 11
+Estate 4
+Duchy 8
+Province 14
+Moneylender 6

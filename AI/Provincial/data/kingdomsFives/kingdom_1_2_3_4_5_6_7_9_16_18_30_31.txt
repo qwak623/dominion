@@ -1,0 +1,18 @@
+7
+12
+18
+8
+Gold 4
+Silver 6
+Copper 1
+Witch 7
+Woodcutter 7
+Duchy 11
+Gold 101
+Copper 9
+Library 3
+Copper 6
+Chapel 5
+Silver 11
+Curse 5
+Witch 10

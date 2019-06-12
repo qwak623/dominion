@@ -1,0 +1,14 @@
+4
+10
+8
+5
+Gold 102
+Mine 3
+Adventurer 8
+Duchy 6
+Province 5
+Silver 16
+Cellar 3
+Workshop 13
+Silver 12
+Bureaucrat 9

@@ -1,0 +1,17 @@
+4
+11
+6
+4
+Silver 5
+Cellar 1
+Province 6
+Gold 101
+Gold 12
+CouncilRoom 8
+Gardens 8
+Silver 6
+Copper 4
+Copper 3
+Estate 9
+Silver 11
+Laboratory 5

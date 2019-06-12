@@ -1,0 +1,13 @@
+0
+15
+6
+5
+Gold 11
+Silver 8
+Silver 16
+Province 4
+Duchy 7
+Duchy 10
+Village 8
+Moneylender 6
+Village 10

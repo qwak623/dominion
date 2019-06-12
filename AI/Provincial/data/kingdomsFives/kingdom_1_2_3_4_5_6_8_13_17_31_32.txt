@@ -1,0 +1,13 @@
+6
+10
+5
+5
+Gold 5
+Gold 12
+Adventurer 11
+Laboratory 9
+Duchy 15
+Adventurer 9
+Silver 13
+Silver 4
+Workshop 4

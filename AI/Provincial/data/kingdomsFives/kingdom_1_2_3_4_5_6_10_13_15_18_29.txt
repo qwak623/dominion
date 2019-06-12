@@ -1,0 +1,18 @@
+1
+10
+6
+6
+Province 7
+Gold 9
+Gold 4
+Gold 103
+Festival 10
+Festival 9
+Duchy 7
+Silver 7
+Silver 14
+Chancellor 5
+Cellar 5
+Village 5
+Chancellor 12
+Estate 6

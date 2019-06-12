@@ -1,0 +1,16 @@
+6
+2
+6
+6
+Province 9
+Gold 9
+Silver 10
+Gold 102
+Estate 13
+Province 7
+Gardens 7
+Laboratory 7
+Silver 10
+Copper 6
+Remodel 4
+Remodel 10

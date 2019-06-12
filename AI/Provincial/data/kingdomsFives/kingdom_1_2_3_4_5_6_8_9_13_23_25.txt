@@ -1,0 +1,19 @@
+5
+13
+8
+8
+Gold 102
+Gold 12
+Silver 3
+Smithy 7
+Copper 8
+Duchy 5
+Festival 11
+Moneylender 10
+Silver 11
+Estate 8
+Adventurer 4
+Duchy 10
+Smithy 3
+Estate 5
+Bureaucrat 6

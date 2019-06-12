@@ -1,0 +1,16 @@
+3
+10
+16
+8
+Gardens 8
+Silver 7
+Province 2
+Copper 5
+Estate 12
+Gold 9
+Thief 8
+Gardens 4
+Smithy 9
+Silver 10
+Smithy 7
+Duchy 3

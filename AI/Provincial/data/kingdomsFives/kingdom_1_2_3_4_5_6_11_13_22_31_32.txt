@@ -1,0 +1,15 @@
+2
+10
+5
+5
+Province 14
+Gold 11
+CouncilRoom 1
+Silver 12
+Copper 14
+Gold 102
+Estate 4
+Silver 4
+Estate 6
+Copper 6
+Festival 10

@@ -1,0 +1,14 @@
+1
+11
+6
+6
+Gold 11
+Province 9
+Silver 9
+Woodcutter 11
+Duchy 11
+Workshop 6
+Gold 102
+Workshop 3
+ThroneRoom 9
+CouncilRoom 6

@@ -1,0 +1,17 @@
+0
+16
+5
+4
+Gold 12
+Laboratory 7
+Laboratory 11
+Silver 11
+Silver 4
+Copper 9
+Duchy 101
+Gold 13
+Duchy 12
+Copper 6
+Estate 9
+Silver 5
+Moneylender 2

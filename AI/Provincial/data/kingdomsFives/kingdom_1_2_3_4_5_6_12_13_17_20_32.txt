@@ -1,0 +1,17 @@
+5
+15
+5
+5
+Gold 100
+Laboratory 5
+Silver 13
+Province 6
+Militia 4
+Copper 8
+Duchy 8
+Estate 9
+Copper 5
+Feast 7
+Gold 5
+Silver 12
+Estate 9

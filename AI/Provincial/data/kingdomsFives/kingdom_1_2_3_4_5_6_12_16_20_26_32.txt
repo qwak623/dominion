@@ -1,0 +1,17 @@
+7
+9
+8
+8
+Copper 1
+Gold 9
+Militia 6
+Silver 8
+Silver 11
+Gold 100
+Estate 8
+Feast 15
+Gold 12
+Silver 12
+Chapel 4
+Workshop 7
+Duchy 7

@@ -1,0 +1,14 @@
+5
+12
+6
+5
+Province 12
+Gold 6
+Market 11
+Silver 13
+Festival 12
+Duchy 5
+Village 12
+Bureaucrat 14
+Silver 13
+Duchy 9

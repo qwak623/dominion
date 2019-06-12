@@ -1,0 +1,15 @@
+5
+10
+13
+7
+Silver 7
+Silver 7
+Estate 10
+Adventurer 8
+Silver 10
+Copper 13
+Gold 101
+CouncilRoom 5
+Cellar 10
+Gold 9
+Chapel 4

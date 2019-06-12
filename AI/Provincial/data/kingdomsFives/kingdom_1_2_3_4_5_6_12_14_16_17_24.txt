@@ -1,0 +1,17 @@
+3
+15
+7
+6
+Gold 99
+Silver 9
+Province 10
+Duchy 12
+Gardens 11
+Laboratory 4
+Feast 10
+Chapel 2
+Remodel 4
+Copper 11
+Laboratory 11
+Estate 9
+Silver 15

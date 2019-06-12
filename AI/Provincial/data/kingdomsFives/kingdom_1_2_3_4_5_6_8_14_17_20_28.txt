@@ -1,0 +1,15 @@
+2
+12
+6
+5
+Gold 100
+Laboratory 6
+Adventurer 2
+Province 9
+Laboratory 9
+Silver 11
+ThroneRoom 13
+Adventurer 12
+Silver 5
+Copper 8
+Estate 10

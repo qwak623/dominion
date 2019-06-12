@@ -1,0 +1,19 @@
+7
+18
+8
+6
+Gold 2
+Bureaucrat 3
+Province 7
+Gardens 4
+Gardens 9
+CouncilRoom 6
+Gold 100
+Province 5
+Gold 7
+Silver 2
+Province 9
+Silver 11
+Copper 13
+Silver 9
+Mine 5

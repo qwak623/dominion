@@ -1,0 +1,17 @@
+2
+19
+6
+4
+Silver 10
+Gardens 8
+Militia 7
+Gold 101
+Gold 9
+Moat 7
+Duchy 7
+Duchy 12
+Remodel 6
+Festival 1
+Province 5
+Festival 12
+Moat 7

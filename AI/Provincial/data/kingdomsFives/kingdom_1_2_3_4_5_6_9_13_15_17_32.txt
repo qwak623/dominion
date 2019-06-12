@@ -1,0 +1,20 @@
+7
+17
+7
+6
+Bureaucrat 1
+Gold 100
+Province 7
+Laboratory 2
+Province 5
+Silver 13
+Festival 9
+Workshop 8
+Silver 10
+Bureaucrat 5
+Copper 1
+Copper 1
+Gold 2
+Silver 9
+Copper 8
+Estate 9

@@ -1,0 +1,15 @@
+0
+12
+6
+5
+Gold 12
+Province 5
+Laboratory 6
+Gold 100
+Festival 4
+Festival 11
+Silver 10
+Duchy 10
+Spy 10
+Silver 11
+Chancellor 8

@@ -1,0 +1,13 @@
+2
+13
+7
+7
+Province 7
+Gold 9
+Market 5
+Adventurer 13
+CouncilRoom 5
+Silver 13
+Chancellor 9
+Adventurer 2
+Feast 2

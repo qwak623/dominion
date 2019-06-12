@@ -1,0 +1,15 @@
+1
+14
+8
+8
+Silver 13
+Gold 100
+Silver 3
+Feast 4
+Feast 8
+Duchy 13
+Province 6
+Chancellor 5
+Village 10
+Copper 9
+Estate 10

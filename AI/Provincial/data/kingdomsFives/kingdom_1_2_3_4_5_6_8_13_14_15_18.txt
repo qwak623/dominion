@@ -1,0 +1,18 @@
+1
+9
+5
+5
+Province 14
+Festival 5
+Silver 11
+Gardens 13
+Gold 100
+Adventurer 10
+Duchy 4
+Gold 9
+Chancellor 4
+Silver 8
+Library 8
+Copper 3
+Festival 8
+Chancellor 8

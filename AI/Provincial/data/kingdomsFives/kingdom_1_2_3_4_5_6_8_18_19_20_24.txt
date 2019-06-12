@@ -1,0 +1,15 @@
+0
+16
+8
+7
+Gold 100
+Library 9
+Adventurer 4
+Province 9
+Adventurer 2
+Silver 5
+Silver 13
+Silver 9
+Remodel 3
+Duchy 13
+Market 4

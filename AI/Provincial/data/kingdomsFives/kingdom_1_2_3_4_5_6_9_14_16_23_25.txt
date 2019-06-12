@@ -1,0 +1,16 @@
+3
+11
+8
+5
+Province 10
+Bureaucrat 8
+Gardens 10
+Duchy 9
+Smithy 6
+Silver 10
+Gold 101
+Moneylender 10
+Duchy 12
+Copper 6
+Smithy 14
+Chapel 7

@@ -1,0 +1,17 @@
+2
+12
+8
+8
+Silver 10
+Witch 12
+Duchy 9
+Province 5
+Silver 13
+Woodcutter 10
+Smithy 3
+Smithy 11
+Feast 1
+Woodcutter 8
+Feast 6
+CouncilRoom 5
+Duchy 8

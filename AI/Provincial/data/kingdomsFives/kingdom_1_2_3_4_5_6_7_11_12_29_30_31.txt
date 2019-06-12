@@ -1,0 +1,12 @@
+5
+17
+8
+8
+Gold 10
+Witch 2
+Silver 11
+Duchy 8
+Gold 103
+Feast 11
+Village 8
+Silver 10

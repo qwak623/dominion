@@ -1,0 +1,15 @@
+1
+17
+6
+6
+Province 4
+Gold 101
+Silver 11
+Feast 5
+Duchy 14
+Chapel 11
+Estate 14
+Silver 6
+Smithy 10
+Copper 9
+Estate 10

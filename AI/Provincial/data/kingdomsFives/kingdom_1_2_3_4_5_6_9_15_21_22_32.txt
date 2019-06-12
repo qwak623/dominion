@@ -1,0 +1,11 @@
+1
+12
+8
+7
+Province 4
+Gold 99
+Silver 15
+Moat 13
+Chancellor 3
+Province 2
+Workshop 10

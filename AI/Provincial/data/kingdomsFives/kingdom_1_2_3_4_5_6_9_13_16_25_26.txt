@@ -1,0 +1,20 @@
+5
+15
+8
+8
+Festival 5
+Duchy 6
+Festival 3
+Duchy 4
+Smithy 10
+Silver 10
+Province 8
+Copper 101
+Gold 6
+Copper 4
+Duchy 6
+Estate 4
+Chapel 8
+Copper 6
+Bureaucrat 7
+Estate 7

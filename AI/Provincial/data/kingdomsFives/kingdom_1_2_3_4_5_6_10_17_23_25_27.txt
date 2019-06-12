@@ -1,0 +1,17 @@
+4
+13
+6
+6
+Smithy 1
+Gold 9
+Laboratory 8
+Duchy 10
+Silver 11
+Province 9
+Cellar 4
+Estate 4
+Gold 99
+Gold 5
+Province 8
+Copper 5
+Thief 3

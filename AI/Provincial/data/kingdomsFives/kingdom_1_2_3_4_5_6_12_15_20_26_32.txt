@@ -1,0 +1,16 @@
+0
+15
+8
+8
+Gold 100
+Silver 7
+Militia 10
+Gold 6
+Gold 7
+Silver 10
+Feast 8
+Spy 5
+Chancellor 7
+Duchy 10
+Workshop 4
+Estate 17

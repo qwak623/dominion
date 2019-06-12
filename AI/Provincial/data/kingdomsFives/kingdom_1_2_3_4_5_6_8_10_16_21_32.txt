@@ -1,0 +1,18 @@
+3
+17
+8
+4
+Gold 101
+Province 18
+Silver 14
+Adventurer 3
+Silver 6
+Chapel 7
+Cellar 8
+Workshop 5
+Gold 2
+Copper 5
+Cellar 8
+Chapel 10
+Duchy 6
+Adventurer 9

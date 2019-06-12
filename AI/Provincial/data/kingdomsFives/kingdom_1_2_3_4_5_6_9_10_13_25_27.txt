@@ -1,0 +1,18 @@
+6
+15
+8
+7
+Gold 4
+Bureaucrat 4
+Gold 4
+Silver 5
+Smithy 13
+Smithy 5
+Province 11
+Silver 13
+Gold 103
+Thief 6
+Thief 9
+Cellar 4
+Duchy 6
+Festival 4

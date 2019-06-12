@@ -1,0 +1,16 @@
+0
+11
+8
+8
+Curse 1
+Gold 101
+Witch 5
+Laboratory 10
+Province 14
+Gold 7
+Silver 8
+Woodcutter 10
+Copper 4
+Remodel 4
+Province 11
+Remodel 8

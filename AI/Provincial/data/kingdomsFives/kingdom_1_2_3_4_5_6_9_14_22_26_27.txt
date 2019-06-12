@@ -1,0 +1,17 @@
+4
+16
+9
+8
+Gardens 13
+Gold 6
+Duchy 7
+Silver 9
+Silver 7
+Moat 9
+Copper 9
+Bureaucrat 11
+Thief 10
+Duchy 5
+Gold 99
+Silver 12
+Thief 3

@@ -1,0 +1,18 @@
+0
+11
+7
+6
+Gold 7
+Adventurer 8
+Province 9
+Bureaucrat 1
+Adventurer 9
+Silver 10
+Cellar 10
+Province 7
+Gold 5
+Bureaucrat 8
+Gold 100
+Duchy 10
+Province 5
+Chancellor 5

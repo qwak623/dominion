@@ -1,0 +1,14 @@
+3
+11
+8
+7
+Gold 10
+Gold 100
+Province 5
+Laboratory 3
+Bureaucrat 11
+Silver 11
+Province 4
+Workshop 3
+Chapel 10
+Copper 2

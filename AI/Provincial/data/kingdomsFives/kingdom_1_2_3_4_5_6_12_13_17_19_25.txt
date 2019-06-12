@@ -1,0 +1,16 @@
+3
+16
+6
+4
+Gold 100
+Gold 11
+Silver 13
+Province 4
+Copper 7
+Festival 6
+Estate 10
+Market 6
+Festival 2
+Laboratory 6
+Province 8
+Duchy 11

@@ -1,0 +1,15 @@
+3
+15
+7
+5
+Laboratory 11
+Gold 103
+Province 11
+Bureaucrat 3
+Silver 14
+Silver 11
+Chapel 2
+Festival 6
+Duchy 8
+Bureaucrat 4
+Festival 4

@@ -1,0 +1,17 @@
+7
+13
+16
+8
+Duchy 11
+Witch 13
+Province 5
+Gold 99
+Silver 11
+ThroneRoom 5
+Province 11
+Gold 9
+Silver 7
+Festival 12
+Silver 5
+Woodcutter 9
+Festival 10

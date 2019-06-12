@@ -1,0 +1,16 @@
+3
+15
+6
+6
+Gold 2
+Gold 104
+Silver 11
+Library 9
+Laboratory 11
+Feast 8
+Moat 10
+Library 8
+Moat 6
+Gold 17
+Moneylender 8
+Copper 7

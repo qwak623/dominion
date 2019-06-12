@@ -1,0 +1,15 @@
+3
+9
+8
+8
+Province 5
+Witch 11
+Duchy 5
+Gold 100
+Library 7
+Silver 10
+Library 10
+Workshop 4
+Witch 7
+Silver 14
+Woodcutter 8

@@ -1,0 +1,19 @@
+3
+15
+6
+5
+Gold 101
+Province 13
+Silver 9
+Silver 10
+Province 8
+Moat 9
+Chapel 10
+Copper 2
+Spy 6
+Chancellor 10
+Chapel 8
+Province 12
+Chancellor 7
+Spy 8
+Duchy 7

@@ -1,0 +1,15 @@
+5
+16
+7
+4
+Province 6
+Gold 14
+Silver 12
+Mine 2
+Mine 11
+Moat 9
+Feast 3
+Province 102
+Moat 9
+Estate 11
+Silver 3

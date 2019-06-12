@@ -1,0 +1,19 @@
+7
+7
+7
+5
+Smithy 2
+Province 6
+Province 12
+Gold 101
+Silver 13
+Duchy 3
+Duchy 7
+Smithy 12
+Smithy 10
+Copper 3
+Cellar 8
+Cellar 9
+Silver 8
+Adventurer 8
+Spy 14

@@ -1,0 +1,16 @@
+2
+9
+6
+5
+Province 10
+Gold 101
+Silver 13
+Moneylender 7
+Moat 4
+CouncilRoom 8
+Remodel 4
+Gold 10
+Province 8
+Estate 4
+CouncilRoom 3
+Copper 3

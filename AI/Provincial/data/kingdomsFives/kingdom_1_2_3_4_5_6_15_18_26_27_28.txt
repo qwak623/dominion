@@ -1,0 +1,15 @@
+0
+15
+6
+5
+Gold 8
+Silver 11
+Silver 10
+Copper 10
+Library 10
+ThroneRoom 3
+Spy 10
+Estate 5
+Province 14
+Thief 2
+Silver 8

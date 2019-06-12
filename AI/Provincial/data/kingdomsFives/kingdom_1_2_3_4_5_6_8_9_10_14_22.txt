@@ -1,0 +1,14 @@
+0
+7
+20
+7
+Bureaucrat 4
+Province 7
+Gardens 12
+Gold 13
+Copper 8
+Gold 103
+Estate 10
+Copper 4
+Silver 15
+Adventurer 8

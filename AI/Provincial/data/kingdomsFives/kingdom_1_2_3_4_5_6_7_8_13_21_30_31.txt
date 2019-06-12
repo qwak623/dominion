@@ -1,0 +1,17 @@
+4
+18
+8
+8
+Witch 5
+Gold 102
+Silver 11
+Festival 13
+Mine 12
+Witch 5
+Witch 6
+Adventurer 9
+Province 5
+Adventurer 12
+Festival 9
+Gold 4
+Woodcutter 6

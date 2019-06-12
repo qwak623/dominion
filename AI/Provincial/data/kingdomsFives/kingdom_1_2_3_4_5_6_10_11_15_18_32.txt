@@ -1,0 +1,16 @@
+5
+13
+6
+3
+Province 13
+Gold 3
+Province 6
+Gold 8
+CouncilRoom 4
+Silver 14
+Library 4
+Province 8
+Workshop 1
+Silver 10
+Chancellor 4
+Gold 102

@@ -1,0 +1,13 @@
+5
+22
+8
+8
+Gold 100
+Province 10
+Gold 9
+Smithy 3
+Silver 14
+Copper 7
+Province 8
+Estate 11
+Workshop 5

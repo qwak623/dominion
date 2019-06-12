@@ -1,0 +1,14 @@
+4
+17
+8
+8
+Gold 11
+Witch 3
+Gold 103
+Silver 7
+Silver 13
+Mine 9
+Woodcutter 9
+Witch 7
+Duchy 10
+Woodcutter 8

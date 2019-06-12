@@ -1,0 +1,14 @@
+4
+13
+10
+8
+Militia 5
+Copper 1
+Gold 99
+Silver 13
+Village 7
+Bureaucrat 2
+Village 5
+Duchy 7
+Bureaucrat 15
+Province 11

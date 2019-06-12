@@ -1,0 +1,18 @@
+4
+12
+6
+6
+Silver 10
+Gardens 9
+Province 4
+CouncilRoom 5
+Moat 8
+Moat 3
+Library 6
+Library 11
+Remodel 5
+Duchy 8
+Copper 10
+Province 102
+CouncilRoom 4
+Duchy 6

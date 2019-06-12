@@ -1,0 +1,17 @@
+5
+12
+8
+8
+Market 9
+Market 2
+Silver 12
+Copper 8
+ThroneRoom 1
+Silver 9
+Woodcutter 4
+Village 8
+Province 8
+Estate 11
+ThroneRoom 7
+Estate 101
+Duchy 10

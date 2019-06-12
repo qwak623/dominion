@@ -1,0 +1,15 @@
+1
+15
+6
+5
+Province 9
+Gold 101
+Silver 6
+Chapel 1
+Silver 5
+Chancellor 5
+Festival 11
+Duchy 9
+Estate 7
+Duchy 8
+Silver 12

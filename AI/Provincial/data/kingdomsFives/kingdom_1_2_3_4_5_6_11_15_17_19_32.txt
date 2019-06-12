@@ -1,0 +1,15 @@
+4
+13
+6
+6
+Market 1
+Gold 103
+Province 8
+Gold 4
+Laboratory 7
+CouncilRoom 9
+Duchy 10
+Silver 13
+CouncilRoom 12
+Gold 11
+CouncilRoom 4

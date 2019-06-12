@@ -1,0 +1,16 @@
+4
+16
+6
+5
+Bureaucrat 1
+Gold 6
+Festival 7
+Province 12
+Silver 13
+Village 15
+Moneylender 5
+Moneylender 2
+Woodcutter 4
+Gold 11
+Village 6
+Silver 11

@@ -1,0 +1,16 @@
+7
+11
+8
+8
+Gold 100
+Witch 5
+Silver 12
+Silver 8
+Adventurer 4
+Moneylender 6
+Copper 4
+Estate 1
+Gold 7
+Estate 3
+Curse 2
+Province 8

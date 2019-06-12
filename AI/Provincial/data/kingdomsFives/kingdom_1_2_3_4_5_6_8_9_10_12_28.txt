@@ -1,0 +1,15 @@
+6
+12
+8
+7
+Bureaucrat 5
+Province 5
+Duchy 11
+Province 8
+Copper 6
+Estate 3
+Estate 9
+Silver 17
+Duchy 103
+Cellar 2
+Adventurer 6

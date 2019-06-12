@@ -1,0 +1,14 @@
+4
+15
+6
+4
+Gold 8
+Laboratory 9
+Silver 10
+Duchy 10
+Silver 2
+Laboratory 104
+ThroneRoom 6
+Woodcutter 6
+Silver 8
+ThroneRoom 6

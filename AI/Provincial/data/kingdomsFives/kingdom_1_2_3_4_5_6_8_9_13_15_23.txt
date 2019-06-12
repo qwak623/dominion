@@ -1,0 +1,18 @@
+6
+16
+8
+8
+Gold 6
+Festival 6
+Adventurer 7
+Duchy 8
+Silver 11
+Silver 4
+Festival 8
+Silver 13
+Gold 8
+Festival 11
+Province 100
+Bureaucrat 3
+Chancellor 3
+Moneylender 13

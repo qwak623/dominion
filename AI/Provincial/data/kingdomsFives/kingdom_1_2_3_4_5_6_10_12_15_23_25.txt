@@ -1,0 +1,15 @@
+5
+11
+7
+4
+Gold 100
+Gold 10
+Province 6
+Silver 6
+Smithy 11
+Cellar 12
+Silver 13
+Estate 10
+Feast 2
+Moneylender 8
+Copper 7

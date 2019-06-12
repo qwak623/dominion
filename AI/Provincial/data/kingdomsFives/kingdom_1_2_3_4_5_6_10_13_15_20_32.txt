@@ -1,0 +1,14 @@
+1
+12
+15
+7
+Gold 10
+Province 9
+Silver 11
+Militia 4
+Cellar 9
+Silver 5
+Estate 9
+Cellar 7
+Festival 5
+Chancellor 6

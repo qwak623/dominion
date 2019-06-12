@@ -1,0 +1,16 @@
+2
+8
+7
+5
+Silver 1
+Province 11
+Gold 100
+Gold 5
+Silver 12
+Moat 3
+Chancellor 10
+Copper 7
+Copper 3
+Laboratory 11
+Estate 7
+Gardens 2

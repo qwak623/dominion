@@ -1,0 +1,13 @@
+6
+11
+7
+7
+Province 13
+Gold 100
+Market 9
+Silver 1
+Gold 11
+Militia 7
+Adventurer 7
+Silver 11
+Village 6

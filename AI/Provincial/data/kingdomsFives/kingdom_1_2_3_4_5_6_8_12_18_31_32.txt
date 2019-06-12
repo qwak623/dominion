@@ -1,0 +1,16 @@
+4
+11
+6
+5
+Gold 99
+Library 8
+Silver 8
+Library 8
+Workshop 2
+Silver 3
+Workshop 5
+Silver 13
+Duchy 6
+Woodcutter 5
+Copper 8
+Estate 11

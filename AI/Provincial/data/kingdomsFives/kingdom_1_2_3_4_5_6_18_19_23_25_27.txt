@@ -1,0 +1,21 @@
+3
+9
+6
+6
+Province 7
+Province 8
+Gold 102
+Library 4
+Silver 11
+Library 7
+Smithy 4
+Library 15
+Copper 6
+Market 7
+Thief 3
+Copper 5
+Copper 8
+Silver 6
+Moneylender 6
+Silver 1
+Estate 8

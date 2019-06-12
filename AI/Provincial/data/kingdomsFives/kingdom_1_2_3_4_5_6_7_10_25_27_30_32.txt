@@ -1,0 +1,17 @@
+5
+15
+2
+8
+Witch 4
+Duchy 12
+Silver 4
+Witch 10
+Silver 10
+Province 11
+Copper 6
+Estate 10
+Thief 11
+Smithy 9
+Workshop 3
+Silver 100
+Cellar 9

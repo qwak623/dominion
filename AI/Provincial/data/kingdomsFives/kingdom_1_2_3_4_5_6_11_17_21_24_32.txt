@@ -1,0 +1,16 @@
+3
+14
+6
+4
+Province 8
+Gold 100
+CouncilRoom 12
+Mine 7
+Mine 6
+Laboratory 7
+Silver 9
+Silver 5
+Silver 11
+CouncilRoom 6
+Copper 10
+Workshop 2

@@ -1,0 +1,18 @@
+5
+11
+6
+6
+Gold 9
+Silver 13
+Cellar 100
+Adventurer 7
+Feast 10
+Adventurer 8
+Cellar 6
+Province 7
+Estate 6
+Chancellor 4
+Copper 6
+Copper 7
+Silver 8
+Feast 2

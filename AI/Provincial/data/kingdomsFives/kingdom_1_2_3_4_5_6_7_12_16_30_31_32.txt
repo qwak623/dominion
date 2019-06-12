@@ -1,0 +1,18 @@
+1
+10
+8
+8
+Witch 5
+Silver 7
+Witch 8
+Province 9
+Duchy 8
+Gold 10
+Witch 1
+Province 3
+Feast 5
+Gold 101
+Silver 13
+Workshop 7
+Silver 2
+Woodcutter 10

@@ -1,0 +1,13 @@
+4
+8
+6
+6
+Copper 1
+Province 7
+Gold 8
+Silver 13
+Duchy 12
+Festival 4
+Workshop 4
+Woodcutter 10
+Silver 10

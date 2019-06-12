@@ -1,0 +1,16 @@
+2
+19
+6
+6
+Gold 13
+Smithy 2
+Silver 10
+Copper 4
+Gold 100
+Silver 6
+Witch 1
+Province 5
+Woodcutter 9
+Duchy 9
+Laboratory 8
+Estate 4

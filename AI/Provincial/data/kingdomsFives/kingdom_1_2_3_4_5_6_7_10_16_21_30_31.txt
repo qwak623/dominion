@@ -1,0 +1,13 @@
+6
+15
+7
+7
+Gold 9
+Province 6
+Witch 8
+Silver 17
+Chapel 5
+Copper 5
+Gold 105
+Cellar 5
+Silver 11

@@ -1,0 +1,15 @@
+2
+10
+12
+8
+Witch 7
+Bureaucrat 11
+Silver 5
+Witch 8
+Silver 10
+Cellar 2
+Estate 11
+Copper 12
+Gold 102
+Smithy 10
+Province 10

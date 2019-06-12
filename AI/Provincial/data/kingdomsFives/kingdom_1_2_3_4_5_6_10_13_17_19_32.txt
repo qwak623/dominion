@@ -1,0 +1,19 @@
+1
+12
+6
+3
+Gold 12
+Laboratory 11
+Market 7
+Festival 7
+Market 9
+Gold 101
+Laboratory 6
+Province 7
+Silver 9
+Laboratory 8
+Market 5
+Copper 10
+Festival 10
+Workshop 11
+Workshop 3

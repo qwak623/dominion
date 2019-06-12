@@ -1,0 +1,15 @@
+2
+12
+8
+6
+Province 6
+Gold 102
+Silver 14
+Silver 12
+Moat 3
+Festival 2
+Cellar 3
+Copper 5
+Workshop 9
+Curse 4
+Festival 4

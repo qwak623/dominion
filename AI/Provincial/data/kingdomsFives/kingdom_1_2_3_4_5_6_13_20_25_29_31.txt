@@ -1,0 +1,13 @@
+3
+12
+6
+6
+Gold 7
+Festival 3
+Province 12
+Smithy 6
+Silver 6
+Woodcutter 6
+Duchy 7
+Gold 99
+Province 3

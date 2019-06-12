@@ -1,0 +1,15 @@
+0
+17
+7
+7
+Gold 102
+Province 12
+CouncilRoom 2
+Silver 12
+Silver 1
+Adventurer 10
+Gold 3
+Silver 4
+Copper 8
+Festival 10
+Duchy 13

@@ -1,0 +1,17 @@
+2
+9
+7
+7
+Province 12
+Gold 100
+Silver 13
+Silver 10
+Silver 8
+Laboratory 5
+Bureaucrat 6
+Copper 4
+Duchy 6
+Estate 4
+Festival 10
+Festival 8
+Remodel 10

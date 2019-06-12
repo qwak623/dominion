@@ -1,0 +1,16 @@
+0
+14
+7
+4
+Gold 102
+Silver 6
+Library 8
+Province 5
+Silver 11
+Chapel 7
+Gold 13
+Copper 6
+Village 12
+Feast 8
+Duchy 7
+Estate 8

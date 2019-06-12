@@ -1,0 +1,17 @@
+5
+17
+7
+6
+Gold 99
+Library 2
+Silver 14
+Gold 3
+Spy 6
+Copper 3
+Smithy 4
+Duchy 11
+Feast 4
+Province 10
+Copper 10
+Remodel 3
+Spy 3

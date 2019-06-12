@@ -1,0 +1,14 @@
+7
+10
+5
+4
+Province 5
+Gold 5
+Silver 6
+Duchy 8
+Province 104
+Gardens 14
+Silver 11
+Village 11
+Woodcutter 4
+Mine 9

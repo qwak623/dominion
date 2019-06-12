@@ -1,0 +1,16 @@
+7
+18
+8
+7
+Laboratory 11
+Silver 14
+Thief 8
+Laboratory 4
+Cellar 5
+Thief 5
+Gold 99
+Province 9
+Market 10
+Estate 13
+Feast 6
+Province 3

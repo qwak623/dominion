@@ -1,0 +1,17 @@
+7
+12
+8
+8
+Witch 8
+Duchy 10
+Laboratory 11
+Gold 6
+Province 8
+Duchy 6
+Gold 102
+Laboratory 10
+Silver 11
+Copper 12
+Estate 1
+Cellar 7
+Remodel 4

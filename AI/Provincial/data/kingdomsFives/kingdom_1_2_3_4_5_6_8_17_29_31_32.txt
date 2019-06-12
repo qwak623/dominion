@@ -1,0 +1,16 @@
+1
+11
+6
+6
+Province 3
+Laboratory 1
+Province 12
+Gold 14
+Silver 13
+Village 7
+Adventurer 8
+Workshop 8
+Duchy 8
+Woodcutter 9
+Adventurer 9
+Woodcutter 2

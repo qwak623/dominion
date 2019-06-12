@@ -1,0 +1,16 @@
+4
+16
+8
+8
+Gold 99
+Province 10
+Witch 7
+Duchy 4
+Gold 7
+CouncilRoom 7
+Gold 11
+Silver 8
+Copper 6
+Estate 8
+Silver 14
+CouncilRoom 8

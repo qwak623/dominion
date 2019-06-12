@@ -1,0 +1,15 @@
+1
+8
+8
+8
+Witch 5
+Duchy 10
+Silver 11
+Gold 99
+Silver 8
+Gold 5
+Thief 9
+Copper 8
+Estate 10
+Estate 9
+Estate 11

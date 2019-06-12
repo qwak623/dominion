@@ -1,0 +1,17 @@
+6
+10
+7
+5
+Province 3
+Gold 11
+Province 4
+Gold 13
+Mine 9
+Silver 10
+Festival 15
+CouncilRoom 9
+Gold 100
+Library 9
+Mine 3
+Province 11
+Copper 13

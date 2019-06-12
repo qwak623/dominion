@@ -1,0 +1,16 @@
+3
+11
+7
+7
+Province 7
+Gold 6
+Silver 4
+Silver 10
+Duchy 7
+Laboratory 6
+Moneylender 4
+Woodcutter 6
+Cellar 7
+Copper 4
+Gold 100
+Estate 9

@@ -1,0 +1,14 @@
+1
+10
+8
+8
+Province 6
+Gold 100
+Witch 6
+Duchy 5
+Witch 6
+Silver 11
+Bureaucrat 5
+Bureaucrat 9
+Festival 6
+CouncilRoom 10

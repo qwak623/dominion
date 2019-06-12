@@ -1,0 +1,13 @@
+5
+12
+7
+8
+Witch 3
+Province 12
+Gardens 7
+Duchy 4
+Woodcutter 4
+Village 4
+Copper 10
+Village 9
+Gold 101

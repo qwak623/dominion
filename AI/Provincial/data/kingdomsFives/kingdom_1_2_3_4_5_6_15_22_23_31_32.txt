@@ -1,0 +1,15 @@
+6
+6
+6
+4
+Province 11
+Gold 11
+Moat 1
+Silver 11
+Moat 7
+Moat 12
+Estate 3
+Chancellor 6
+Woodcutter 13
+Silver 9
+Workshop 5

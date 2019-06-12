@@ -1,0 +1,15 @@
+7
+14
+6
+1
+Silver 9
+Province 7
+Gardens 11
+Province 10
+Duchy 10
+Moat 2
+Estate 10
+Duchy 10
+Silver 11
+Adventurer 10
+Workshop 8

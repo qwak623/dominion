@@ -1,0 +1,18 @@
+1
+9
+8
+7
+Province 7
+Province 10
+Witch 6
+Duchy 8
+Library 2
+Silver 10
+Library 9
+Copper 7
+CouncilRoom 6
+Woodcutter 9
+Estate 3
+Silver 11
+CouncilRoom 12
+Gold 100

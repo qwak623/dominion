@@ -1,0 +1,17 @@
+4
+14
+8
+8
+Gold 9
+Witch 7
+Witch 3
+Duchy 11
+Silver 8
+Province 11
+Bureaucrat 1
+Silver 9
+Festival 8
+Chancellor 6
+Estate 9
+Chancellor 99
+Silver 12

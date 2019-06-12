@@ -1,0 +1,17 @@
+0
+15
+6
+4
+Adventurer 1
+Province 11
+Gold 102
+Silver 12
+Remodel 5
+Gold 2
+Remodel 4
+Copper 2
+Silver 6
+Duchy 9
+CouncilRoom 7
+Duchy 7
+Estate 8

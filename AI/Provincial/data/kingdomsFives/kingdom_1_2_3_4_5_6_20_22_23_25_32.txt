@@ -1,0 +1,16 @@
+6
+15
+5
+3
+Gold 7
+Silver 15
+Moat 4
+Silver 2
+Workshop 1
+Gold 9
+Duchy 12
+Militia 10
+Province 10
+Workshop 4
+Estate 4
+Copper 9

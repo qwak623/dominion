@@ -1,0 +1,14 @@
+2
+12
+7
+6
+Gold 100
+Silver 8
+Province 5
+Militia 12
+Festival 3
+Silver 13
+Chapel 5
+Estate 13
+Copper 7
+Mine 6

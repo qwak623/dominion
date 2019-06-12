@@ -1,0 +1,21 @@
+5
+17
+8
+8
+Gold 10
+Witch 6
+Gold 101
+Gold 1
+Duchy 8
+Silver 10
+Library 4
+Copper 7
+Copper 1
+Festival 4
+Copper 6
+Curse 3
+Estate 2
+Duchy 4
+CouncilRoom 6
+Library 9
+Province 2

@@ -1,0 +1,16 @@
+0
+14
+6
+6
+Gold 10
+Province 14
+Silver 9
+Silver 7
+Silver 3
+Copper 5
+Village 8
+Estate 101
+Remodel 6
+Woodcutter 11
+Gold 10
+Gold 4

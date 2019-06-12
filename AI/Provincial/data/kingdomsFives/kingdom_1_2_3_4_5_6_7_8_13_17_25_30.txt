@@ -1,0 +1,15 @@
+7
+13
+8
+8
+Gold 104
+Estate 1
+Province 9
+Adventurer 6
+Witch 3
+Silver 12
+Duchy 7
+Silver 4
+Smithy 6
+Laboratory 8
+Copper 9

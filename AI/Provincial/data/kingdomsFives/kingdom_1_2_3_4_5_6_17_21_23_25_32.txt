@@ -1,0 +1,16 @@
+5
+10
+5
+5
+Province 5
+Gold 100
+Laboratory 14
+Laboratory 11
+Silver 4
+Mine 6
+Mine 9
+Silver 14
+Smithy 5
+Silver 11
+Workshop 11
+Duchy 9

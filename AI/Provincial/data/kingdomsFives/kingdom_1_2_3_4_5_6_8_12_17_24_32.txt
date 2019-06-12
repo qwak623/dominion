@@ -1,0 +1,17 @@
+4
+10
+13
+8
+Remodel 2
+Duchy 5
+Duchy 6
+Province 8
+Silver 5
+Province 4
+Gold 101
+Laboratory 8
+Laboratory 4
+Adventurer 4
+Silver 11
+Remodel 8
+Feast 8

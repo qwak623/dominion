@@ -1,0 +1,15 @@
+1
+14
+7
+4
+Gold 7
+Mine 4
+Silver 11
+Copper 5
+Duchy 9
+Estate 14
+Province 12
+Gold 103
+Village 3
+Bureaucrat 9
+Mine 8

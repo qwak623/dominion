@@ -1,0 +1,16 @@
+1
+15
+8
+8
+Gold 100
+Bureaucrat 8
+Silver 12
+Silver 2
+Market 14
+Duchy 5
+Duchy 4
+Workshop 2
+Copper 9
+Moneylender 8
+Moneylender 7
+Cellar 1

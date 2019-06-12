@@ -1,0 +1,17 @@
+5
+14
+6
+5
+Province 4
+Gold 10
+CouncilRoom 6
+Province 6
+Silver 12
+Gold 103
+Thief 9
+Smithy 8
+Copper 9
+Duchy 10
+Duchy 10
+Province 7
+Silver 2

@@ -1,0 +1,15 @@
+3
+14
+8
+5
+Gold 100
+Gold 10
+Silver 11
+Silver 6
+Province 9
+Adventurer 6
+Silver 11
+Spy 3
+Moat 11
+Cellar 6
+Bureaucrat 9

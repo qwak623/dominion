@@ -1,0 +1,17 @@
+4
+17
+8
+8
+Gold 7
+Witch 9
+Province 9
+Silver 13
+Copper 7
+Woodcutter 8
+Moat 5
+Festival 7
+Duchy 6
+Estate 5
+Gold 102
+Mine 3
+Mine 12

@@ -1,0 +1,17 @@
+5
+11
+5
+5
+Gold 102
+Witch 5
+Duchy 7
+Silver 4
+Silver 12
+Copper 10
+Village 1
+Gold 6
+Silver 7
+Curse 7
+Estate 6
+Village 13
+Province 5

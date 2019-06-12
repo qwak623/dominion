@@ -1,0 +1,16 @@
+2
+15
+6
+4
+Gold 103
+Gold 3
+Province 12
+Silver 11
+Gardens 12
+Copper 13
+Silver 8
+Gold 11
+Province 4
+Estate 10
+Remodel 1
+Silver 12

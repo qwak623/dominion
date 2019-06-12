@@ -1,0 +1,17 @@
+7
+13
+6
+4
+Province 11
+Gold 9
+Silver 6
+Library 10
+Gardens 7
+Gold 102
+Spy 3
+Moat 10
+Duchy 8
+Thief 5
+Silver 10
+Silver 11
+Estate 5

@@ -1,0 +1,12 @@
+1
+13
+7
+6
+Gold 10
+Mine 13
+Silver 18
+Duchy 15
+Gold 106
+Silver 11
+Chancellor 6
+Chancellor 7

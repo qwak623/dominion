@@ -1,0 +1,14 @@
+5
+13
+8
+8
+Province 11
+Witch 7
+Festival 7
+Gold 102
+Silver 15
+Workshop 11
+Workshop 9
+Copper 6
+Estate 10
+Village 10

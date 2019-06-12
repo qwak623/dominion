@@ -1,0 +1,13 @@
+0
+4
+10
+8
+Province 5
+Feast 4
+Militia 8
+Duchy 13
+Silver 10
+Estate 9
+Village 11
+Mine 9
+Gold 9

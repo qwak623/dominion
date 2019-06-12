@@ -1,0 +1,19 @@
+1
+17
+16
+8
+Witch 6
+Silver 12
+Duchy 6
+Province 8
+Copper 14
+Witch 7
+Gold 101
+Duchy 3
+Estate 9
+Province 7
+Remodel 4
+Copper 8
+Gold 9
+Workshop 9
+Militia 10

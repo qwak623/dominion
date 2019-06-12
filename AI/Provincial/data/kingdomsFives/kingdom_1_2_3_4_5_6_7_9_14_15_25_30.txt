@@ -1,0 +1,17 @@
+3
+13
+8
+8
+Bureaucrat 3
+Gardens 8
+Silver 11
+Gold 5
+Chancellor 4
+Copper 10
+Estate 5
+Gold 100
+Witch 8
+Province 9
+Smithy 7
+Bureaucrat 3
+Copper 6

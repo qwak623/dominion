@@ -1,0 +1,14 @@
+0
+14
+6
+6
+Gold 5
+CouncilRoom 7
+Silver 11
+Adventurer 12
+Market 12
+Gold 102
+Adventurer 8
+Duchy 10
+Copper 8
+Duchy 9

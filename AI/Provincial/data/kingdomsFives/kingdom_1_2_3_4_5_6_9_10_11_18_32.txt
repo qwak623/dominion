@@ -1,0 +1,14 @@
+7
+16
+8
+7
+Gold 102
+Gold 11
+Bureaucrat 2
+Silver 8
+Silver 14
+Duchy 10
+CouncilRoom 7
+Copper 7
+Workshop 4
+Cellar 7

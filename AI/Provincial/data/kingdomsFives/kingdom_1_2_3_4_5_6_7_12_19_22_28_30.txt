@@ -1,0 +1,13 @@
+0
+5
+8
+8
+Witch 5
+Duchy 6
+Gold 101
+Market 4
+Silver 15
+Feast 8
+Copper 8
+Silver 7
+Copper 11

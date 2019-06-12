@@ -1,0 +1,16 @@
+2
+10
+5
+5
+Gold 5
+Province 9
+Laboratory 11
+Silver 11
+Province 1
+Smithy 2
+Silver 11
+Chapel 11
+Estate 10
+Gold 100
+Silver 4
+Festival 1

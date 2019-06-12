@@ -1,0 +1,20 @@
+4
+14
+8
+8
+Bureaucrat 3
+Gardens 9
+Gardens 6
+Silver 5
+Province 9
+Duchy 13
+Silver 10
+Copper 3
+Silver 12
+Mine 2
+Estate 6
+Gold 102
+Gardens 4
+Bureaucrat 5
+Gold 10
+Library 6

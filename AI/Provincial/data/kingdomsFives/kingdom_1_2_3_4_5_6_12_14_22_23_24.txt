@@ -1,0 +1,19 @@
+6
+13
+8
+6
+Silver 10
+Province 9
+Duchy 7
+Gardens 8
+Province 5
+Province 11
+Gold 102
+Remodel 9
+Remodel 7
+Moat 8
+Feast 7
+Feast 7
+Duchy 3
+Copper 8
+Estate 6

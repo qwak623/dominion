@@ -1,0 +1,17 @@
+6
+12
+8
+6
+Silver 6
+Gardens 9
+Gardens 7
+Gardens 9
+CouncilRoom 10
+Silver 11
+Copper 10
+Silver 4
+Gold 102
+Cellar 6
+Copper 2
+Feast 5
+Duchy 4

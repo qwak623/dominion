@@ -1,0 +1,12 @@
+5
+13
+8
+8
+Witch 9
+Duchy 8
+Gold 11
+Gardens 8
+Mine 12
+Silver 4
+Estate 10
+Moneylender 11

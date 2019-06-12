@@ -1,0 +1,17 @@
+6
+17
+7
+7
+Silver 8
+Gold 99
+Gardens 14
+Copper 4
+Woodcutter 6
+Gold 12
+Bureaucrat 12
+Spy 8
+Village 5
+Silver 14
+Village 12
+Gardens 6
+Silver 8

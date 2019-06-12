@@ -1,0 +1,15 @@
+2
+5
+8
+8
+Province 7
+Province 9
+Witch 7
+Gold 100
+Adventurer 10
+Adventurer 11
+Adventurer 8
+Silver 12
+Duchy 7
+Remodel 9
+Moneylender 11

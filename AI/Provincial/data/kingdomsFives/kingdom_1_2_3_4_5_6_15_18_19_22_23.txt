@@ -1,0 +1,19 @@
+3
+22
+7
+4
+Gold 5
+Market 5
+Silver 8
+Gold 101
+Moat 12
+Estate 6
+Chancellor 3
+Moneylender 2
+Province 9
+Estate 3
+Silver 17
+Silver 2
+Estate 3
+Library 7
+Duchy 5

@@ -1,0 +1,14 @@
+4
+16
+8
+8
+Gold 102
+Mine 7
+Silver 14
+Laboratory 12
+Province 5
+Mine 7
+Library 14
+Silver 3
+Province 8
+Silver 4

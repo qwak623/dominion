@@ -1,0 +1,14 @@
+2
+12
+5
+5
+Gold 103
+Province 6
+Silver 14
+Workshop 2
+Chapel 8
+Duchy 13
+Moneylender 13
+Remodel 10
+Silver 8
+Moneylender 5

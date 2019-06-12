@@ -1,0 +1,17 @@
+5
+14
+8
+4
+Gold 11
+Silver 8
+Silver 16
+Province 12
+Gold 101
+Silver 6
+Gold 7
+Workshop 8
+Copper 10
+Thief 2
+Thief 7
+Province 7
+Estate 9

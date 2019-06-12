@@ -1,0 +1,22 @@
+7
+17
+6
+6
+Gold 101
+Gold 8
+Province 6
+Province 1
+Silver 10
+Silver 10
+Remodel 5
+Feast 4
+Chapel 7
+Estate 11
+Province 14
+Chapel 7
+Chapel 6
+Village 5
+Feast 3
+Copper 5
+Gold 3
+Copper 7

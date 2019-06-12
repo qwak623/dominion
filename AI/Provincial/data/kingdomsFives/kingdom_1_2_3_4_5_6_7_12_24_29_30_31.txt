@@ -1,0 +1,15 @@
+2
+13
+8
+7
+Witch 4
+Province 4
+Province 5
+Gold 100
+Silver 13
+Silver 9
+Duchy 7
+Duchy 3
+Remodel 7
+Feast 8
+Remodel 6

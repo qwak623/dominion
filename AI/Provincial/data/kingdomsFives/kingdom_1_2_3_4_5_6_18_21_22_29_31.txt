@@ -1,0 +1,16 @@
+4
+14
+7
+5
+Gold 8
+Silver 3
+Gold 3
+Silver 7
+Silver 7
+Moat 7
+Moat 6
+Copper 9
+Village 2
+Silver 11
+Mine 4
+Woodcutter 7

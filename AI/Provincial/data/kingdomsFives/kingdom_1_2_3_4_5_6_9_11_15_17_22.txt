@@ -1,0 +1,17 @@
+7
+7
+7
+6
+Bureaucrat 3
+Province 4
+Gold 9
+Laboratory 11
+Silver 10
+CouncilRoom 2
+Laboratory 6
+Moat 5
+Gold 3
+CouncilRoom 2
+Estate 10
+Bureaucrat 8
+Silver 12

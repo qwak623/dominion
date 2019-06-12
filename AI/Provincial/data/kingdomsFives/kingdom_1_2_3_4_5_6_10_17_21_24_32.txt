@@ -1,0 +1,16 @@
+5
+15
+5
+3
+Laboratory 5
+Gold 100
+Silver 9
+Silver 11
+Remodel 6
+Mine 10
+Cellar 8
+Duchy 2
+Laboratory 10
+Province 12
+Workshop 10
+Cellar 8

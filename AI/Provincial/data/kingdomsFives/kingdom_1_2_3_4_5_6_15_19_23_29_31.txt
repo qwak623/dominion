@@ -1,0 +1,16 @@
+2
+11
+6
+6
+Province 6
+Gold 101
+Silver 15
+Duchy 7
+Silver 6
+Copper 5
+Chancellor 9
+Gold 11
+Estate 12
+Chancellor 7
+Woodcutter 10
+Village 7

@@ -1,0 +1,17 @@
+2
+17
+5
+4
+Province 1
+Gold 9
+Market 6
+Market 13
+Silver 13
+Gold 103
+Chancellor 4
+Thief 10
+Duchy 9
+Silver 12
+Festival 2
+Gold 9
+Copper 1

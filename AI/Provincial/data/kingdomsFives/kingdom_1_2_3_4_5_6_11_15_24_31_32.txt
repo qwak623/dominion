@@ -1,0 +1,15 @@
+0
+13
+6
+5
+Province 12
+Gold 7
+CouncilRoom 5
+Silver 6
+CouncilRoom 100
+Remodel 7
+Chancellor 4
+Workshop 8
+Silver 12
+Remodel 4
+Duchy 1

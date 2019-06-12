@@ -1,0 +1,17 @@
+5
+12
+17
+8
+Silver 4
+Gardens 8
+Silver 13
+Moneylender 4
+Moat 5
+Estate 6
+Duchy 12
+Gold 9
+Workshop 11
+Gold 101
+Moat 1
+Moneylender 5
+Duchy 9

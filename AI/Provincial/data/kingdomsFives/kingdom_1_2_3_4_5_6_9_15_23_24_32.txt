@@ -1,0 +1,16 @@
+1
+14
+8
+7
+Copper 1
+Gold 101
+Bureaucrat 4
+Silver 4
+Silver 11
+Duchy 10
+Bureaucrat 11
+Moneylender 4
+Province 8
+Chancellor 6
+Workshop 3
+Remodel 11

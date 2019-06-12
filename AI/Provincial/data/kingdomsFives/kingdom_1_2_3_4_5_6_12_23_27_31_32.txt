@@ -1,0 +1,19 @@
+3
+10
+8
+6
+Gold 103
+Thief 5
+Province 11
+Silver 10
+Silver 6
+Copper 3
+Duchy 10
+Silver 13
+Thief 7
+Moneylender 7
+Duchy 15
+Feast 8
+Estate 1
+Feast 12
+Moneylender 4

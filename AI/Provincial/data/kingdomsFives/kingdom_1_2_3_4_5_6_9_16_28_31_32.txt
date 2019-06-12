@@ -1,0 +1,15 @@
+2
+9
+7
+6
+Province 7
+Gold 102
+Bureaucrat 2
+Silver 10
+Woodcutter 5
+Duchy 7
+Bureaucrat 11
+ThroneRoom 7
+Workshop 7
+Province 7
+Copper 4

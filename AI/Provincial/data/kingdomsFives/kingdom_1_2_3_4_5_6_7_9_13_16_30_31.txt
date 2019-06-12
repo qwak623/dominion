@@ -1,0 +1,14 @@
+4
+15
+8
+7
+Gold 5
+Gold 8
+Witch 7
+Silver 13
+Festival 8
+Copper 16
+Estate 2
+Bureaucrat 1
+Duchy 11
+Duchy 8

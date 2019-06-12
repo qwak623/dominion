@@ -1,0 +1,16 @@
+7
+13
+15
+8
+Duchy 9
+Gardens 9
+CouncilRoom 6
+Gold 102
+Silver 11
+Workshop 12
+Copper 8
+Workshop 1
+Estate 3
+Mine 4
+Mine 4
+Silver 15

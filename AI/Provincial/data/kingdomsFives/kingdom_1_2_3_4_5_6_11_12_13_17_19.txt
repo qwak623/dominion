@@ -1,0 +1,19 @@
+1
+13
+6
+5
+Gold 7
+CouncilRoom 4
+Silver 13
+CouncilRoom 6
+Feast 4
+Laboratory 8
+Copper 2
+Province 1
+Duchy 10
+Silver 10
+Silver 8
+Festival 9
+Copper 9
+Gold 101
+Estate 6

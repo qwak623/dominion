@@ -1,0 +1,16 @@
+0
+14
+3
+8
+Witch 7
+Duchy 8
+Silver 4
+Feast 2
+Estate 100
+Province 12
+Silver 3
+Feast 2
+Market 10
+Silver 14
+Market 3
+Copper 2

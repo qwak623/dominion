@@ -1,0 +1,18 @@
+2
+10
+8
+6
+Gardens 9
+Duchy 3
+Silver 12
+Gold 101
+Feast 10
+Copper 12
+Province 11
+Silver 5
+Copper 7
+Duchy 9
+Copper 8
+ThroneRoom 10
+Workshop 7
+Curse 5

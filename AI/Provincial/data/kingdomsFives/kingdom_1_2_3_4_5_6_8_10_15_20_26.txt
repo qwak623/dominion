@@ -1,0 +1,17 @@
+7
+13
+14
+8
+Duchy 12
+Province 5
+Silver 6
+Gold 2
+Militia 10
+Spy 8
+Copper 3
+Estate 4
+Copper 8
+Duchy 4
+Silver 12
+Adventurer 1
+Cellar 14

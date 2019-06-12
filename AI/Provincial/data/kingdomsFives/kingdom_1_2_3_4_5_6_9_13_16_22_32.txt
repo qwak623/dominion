@@ -1,0 +1,16 @@
+5
+12
+6
+6
+Gold 101
+Gold 5
+Silver 5
+Province 14
+Silver 13
+Silver 11
+Workshop 8
+Duchy 2
+Moat 5
+Bureaucrat 9
+Gold 4
+Chapel 10

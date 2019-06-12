@@ -1,0 +1,19 @@
+0
+11
+8
+8
+Gold 102
+Witch 3
+Province 4
+Province 2
+Duchy 7
+Province 4
+Gold 6
+Silver 9
+Silver 12
+Cellar 9
+Silver 4
+Duchy 7
+Curse 5
+Estate 2
+Silver 2

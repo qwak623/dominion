@@ -1,0 +1,17 @@
+2
+12
+11
+8
+Gold 9
+Duchy 10
+Gardens 11
+Woodcutter 8
+Duchy 11
+Gold 102
+Silver 3
+Province 5
+Copper 9
+Estate 10
+Silver 13
+Spy 7
+ThroneRoom 3

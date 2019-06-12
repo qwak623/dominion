@@ -1,0 +1,14 @@
+7
+11
+4
+3
+Province 9
+Gold 7
+CouncilRoom 8
+Province 8
+Festival 5
+Library 8
+Gold 101
+Duchy 7
+Silver 10
+Workshop 5

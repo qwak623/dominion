@@ -1,0 +1,14 @@
+5
+12
+7
+5
+Gold 9
+Mine 9
+Gold 100
+Market 13
+Duchy 5
+Silver 13
+Copper 8
+Silver 11
+Chancellor 9
+Estate 2

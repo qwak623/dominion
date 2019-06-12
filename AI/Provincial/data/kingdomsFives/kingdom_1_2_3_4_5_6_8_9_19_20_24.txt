@@ -1,0 +1,14 @@
+1
+8
+6
+4
+Province 9
+Gold 100
+Militia 4
+Market 12
+Silver 10
+Adventurer 3
+Duchy 9
+Silver 14
+Estate 6
+Militia 10

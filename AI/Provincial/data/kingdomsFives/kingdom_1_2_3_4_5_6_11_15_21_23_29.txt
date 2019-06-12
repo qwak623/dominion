@@ -1,0 +1,18 @@
+2
+7
+7
+5
+Gold 3
+Province 8
+Gold 102
+Gold 3
+CouncilRoom 14
+Silver 12
+Mine 4
+Gold 8
+Duchy 6
+Village 10
+Chancellor 7
+Silver 4
+Mine 2
+Moneylender 3

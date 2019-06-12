@@ -1,0 +1,15 @@
+6
+20
+5
+5
+Province 8
+Gold 4
+Adventurer 8
+Silver 12
+Library 6
+Duchy 9
+Silver 11
+Chapel 7
+Province 6
+Gold 100
+Silver 13

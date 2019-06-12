@@ -1,0 +1,16 @@
+3
+13
+8
+8
+Witch 6
+Province 11
+Duchy 10
+Silver 13
+Smithy 10
+Bureaucrat 5
+Bureaucrat 1
+Gold 4
+Province 8
+Gold 100
+Silver 13
+Bureaucrat 3

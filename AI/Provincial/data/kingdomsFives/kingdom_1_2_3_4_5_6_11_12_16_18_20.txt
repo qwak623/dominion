@@ -1,0 +1,17 @@
+1
+13
+6
+6
+Province 2
+Gold 99
+Silver 7
+Library 9
+Silver 8
+CouncilRoom 2
+Chapel 7
+Estate 6
+Gold 8
+Feast 7
+Silver 13
+Copper 9
+Silver 3

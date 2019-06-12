@@ -1,0 +1,13 @@
+4
+10
+8
+5
+Gold 5
+Library 2
+Festival 5
+Library 7
+Province 7
+Gold 100
+Silver 17
+Laboratory 9
+Duchy 10

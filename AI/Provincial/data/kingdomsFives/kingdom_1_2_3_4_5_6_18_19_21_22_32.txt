@@ -1,0 +1,17 @@
+5
+14
+8
+3
+Library 2
+Province 6
+Copper 2
+Gold 101
+Silver 11
+Estate 13
+Copper 2
+Mine 3
+Workshop 15
+Workshop 6
+Province 8
+Copper 7
+Duchy 4

@@ -1,0 +1,16 @@
+1
+13
+8
+7
+Gold 100
+Gold 7
+Laboratory 7
+Bureaucrat 7
+Silver 11
+Copper 1
+Duchy 12
+Copper 7
+Duchy 4
+Silver 12
+Province 10
+Estate 15

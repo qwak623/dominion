@@ -1,0 +1,14 @@
+1
+9
+8
+8
+Bureaucrat 2
+Duchy 10
+Gardens 8
+Gold 12
+Feast 11
+Workshop 8
+Copper 3
+Silver 10
+Chancellor 11
+Estate 10

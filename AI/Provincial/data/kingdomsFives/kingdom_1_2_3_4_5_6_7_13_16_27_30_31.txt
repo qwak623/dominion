@@ -1,0 +1,12 @@
+4
+12
+8
+7
+Witch 2
+Chapel 1
+Province 6
+Gold 8
+Silver 11
+Duchy 7
+Gold 100
+Silver 10

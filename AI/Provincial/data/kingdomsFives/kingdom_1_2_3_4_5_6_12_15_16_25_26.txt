@@ -1,0 +1,15 @@
+7
+10
+6
+6
+Gold 6
+Province 9
+Silver 12
+Silver 7
+Silver 9
+Spy 6
+Chapel 6
+Feast 7
+Gold 102
+Feast 15
+Smithy 11

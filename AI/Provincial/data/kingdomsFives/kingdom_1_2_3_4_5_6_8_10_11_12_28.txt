@@ -1,0 +1,16 @@
+6
+11
+6
+6
+Province 11
+Silver 1
+Gold 100
+CouncilRoom 9
+Copper 1
+Silver 11
+Adventurer 11
+Feast 16
+Duchy 11
+Duchy 8
+Copper 8
+Copper 2

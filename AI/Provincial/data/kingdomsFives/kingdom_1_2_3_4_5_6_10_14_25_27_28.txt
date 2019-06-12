@@ -1,0 +1,15 @@
+0
+13
+7
+5
+Gold 5
+Province 12
+Silver 5
+Gold 99
+Smithy 12
+Thief 4
+Copper 4
+Estate 6
+Silver 12
+Cellar 3
+Copper 4

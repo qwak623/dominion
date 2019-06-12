@@ -1,0 +1,15 @@
+4
+11
+6
+6
+Gold 6
+Silver 11
+Adventurer 1
+Adventurer 5
+Spy 1
+Workshop 6
+Woodcutter 11
+Gold 104
+Workshop 12
+Silver 13
+Gold 9

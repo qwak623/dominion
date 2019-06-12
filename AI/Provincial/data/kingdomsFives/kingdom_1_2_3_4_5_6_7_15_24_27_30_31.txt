@@ -1,0 +1,15 @@
+4
+14
+8
+8
+Witch 7
+Silver 3
+Duchy 12
+Gold 100
+Estate 14
+Silver 13
+Chancellor 3
+Remodel 6
+Gold 2
+Curse 9
+Thief 8

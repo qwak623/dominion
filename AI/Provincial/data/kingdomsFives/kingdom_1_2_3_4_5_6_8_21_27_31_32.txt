@@ -1,0 +1,12 @@
+3
+14
+8
+4
+Province 13
+Gold 102
+Mine 14
+Adventurer 13
+Silver 14
+Woodcutter 11
+Workshop 9
+Thief 4

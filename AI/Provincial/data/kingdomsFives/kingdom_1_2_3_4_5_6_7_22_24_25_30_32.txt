@@ -1,0 +1,18 @@
+0
+14
+8
+8
+Gold 102
+Witch 6
+Silver 10
+Remodel 7
+Gold 6
+Copper 5
+Estate 9
+Province 7
+Gold 10
+Moat 13
+Province 5
+Smithy 12
+Workshop 10
+Curse 3

@@ -1,0 +1,21 @@
+2
+7
+6
+5
+Copper 1
+Gold 1
+Province 9
+Bureaucrat 4
+Province 8
+Gardens 8
+Duchy 9
+Gold 99
+Gold 5
+Gardens 6
+Province 3
+Silver 11
+Silver 12
+Estate 2
+Estate 4
+Bureaucrat 2
+CouncilRoom 1

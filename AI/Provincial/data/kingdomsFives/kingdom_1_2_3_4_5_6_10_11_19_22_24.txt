@@ -1,0 +1,15 @@
+2
+16
+7
+4
+Gold 99
+Province 5
+Silver 13
+Moat 8
+Duchy 4
+Copper 4
+Cellar 3
+Remodel 4
+Market 9
+Silver 5
+Province 5

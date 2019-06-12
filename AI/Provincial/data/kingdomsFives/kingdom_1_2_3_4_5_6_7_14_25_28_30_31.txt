@@ -1,0 +1,18 @@
+6
+11
+8
+7
+Gold 102
+Province 7
+Witch 7
+Gold 9
+Witch 3
+Silver 13
+ThroneRoom 6
+Copper 13
+Estate 9
+ThroneRoom 3
+Silver 12
+Gardens 9
+ThroneRoom 7
+Curse 11

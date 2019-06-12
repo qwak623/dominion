@@ -1,0 +1,15 @@
+3
+16
+8
+5
+Province 8
+Gold 103
+Silver 4
+Silver 2
+Gold 8
+Gardens 8
+Feast 13
+Woodcutter 8
+Silver 11
+Gold 12
+Silver 13

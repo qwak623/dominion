@@ -1,0 +1,16 @@
+3
+12
+7
+4
+Gold 101
+Laboratory 8
+Silver 11
+Market 1
+Gold 5
+Adventurer 5
+Chancellor 10
+Silver 2
+Adventurer 13
+Province 3
+Duchy 5
+Chancellor 5

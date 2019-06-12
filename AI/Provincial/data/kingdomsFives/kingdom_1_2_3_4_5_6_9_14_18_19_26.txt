@@ -1,0 +1,12 @@
+6
+11
+17
+8
+Gardens 8
+Province 101
+Silver 10
+Copper 7
+Estate 7
+Spy 9
+Market 13
+Library 9

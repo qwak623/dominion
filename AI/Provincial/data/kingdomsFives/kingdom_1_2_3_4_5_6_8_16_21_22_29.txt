@@ -1,0 +1,21 @@
+2
+18
+6
+6
+Gold 7
+Silver 11
+Moat 6
+Moat 8
+Mine 6
+Duchy 9
+Duchy 11
+Moat 6
+Village 8
+Village 10
+Village 2
+Village 12
+Adventurer 10
+Silver 7
+Gold 103
+Chapel 1
+Copper 5

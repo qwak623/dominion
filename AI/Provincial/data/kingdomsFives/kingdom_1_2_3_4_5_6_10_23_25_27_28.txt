@@ -1,0 +1,15 @@
+4
+17
+13
+6
+Gold 8
+Province 3
+Silver 14
+ThroneRoom 8
+Gold 99
+Cellar 8
+Moneylender 5
+Cellar 7
+Thief 9
+Estate 6
+Silver 9

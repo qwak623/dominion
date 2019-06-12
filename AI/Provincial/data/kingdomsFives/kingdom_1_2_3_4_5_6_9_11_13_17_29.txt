@@ -1,0 +1,17 @@
+2
+13
+6
+6
+Gold 100
+Silver 15
+Bureaucrat 7
+Festival 5
+Copper 5
+Province 5
+Estate 5
+Festival 9
+Silver 12
+Bureaucrat 6
+Province 2
+CouncilRoom 10
+Gold 6

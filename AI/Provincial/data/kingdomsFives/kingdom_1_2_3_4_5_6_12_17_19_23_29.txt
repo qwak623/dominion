@@ -1,0 +1,16 @@
+6
+21
+5
+5
+Gold 100
+Laboratory 9
+Duchy 5
+Silver 11
+Moneylender 3
+Province 7
+Market 11
+Feast 9
+Copper 10
+Silver 11
+Estate 4
+Gold 7

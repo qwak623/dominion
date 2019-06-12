@@ -1,0 +1,15 @@
+6
+14
+10
+8
+Gold 8
+Silver 5
+Gold 101
+Militia 5
+Militia 7
+Duchy 3
+Militia 6
+Gold 8
+Silver 12
+Province 11
+Province 12

@@ -1,0 +1,16 @@
+2
+16
+12
+5
+Province 4
+Gold 14
+Silver 5
+Library 12
+Silver 13
+Remodel 10
+Copper 3
+Copper 5
+Estate 8
+Woodcutter 11
+Silver 5
+Woodcutter 101

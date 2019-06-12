@@ -1,0 +1,15 @@
+3
+15
+6
+4
+Province 11
+Gold 8
+Silver 12
+Copper 8
+Moneylender 2
+Estate 11
+Moat 5
+Gold 101
+CouncilRoom 5
+Copper 1
+Market 7

@@ -1,0 +1,16 @@
+0
+11
+6
+6
+Province 7
+Gold 101
+Smithy 2
+Silver 10
+Silver 11
+Laboratory 6
+Smithy 12
+Smithy 3
+Laboratory 11
+Copper 8
+Spy 11
+Silver 4

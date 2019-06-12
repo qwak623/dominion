@@ -1,0 +1,18 @@
+5
+14
+8
+8
+Witch 4
+Silver 10
+Silver 6
+Woodcutter 5
+Laboratory 2
+ThroneRoom 4
+Gold 101
+Province 10
+Copper 3
+Estate 7
+Duchy 7
+Witch 7
+Woodcutter 1
+Estate 8

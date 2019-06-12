@@ -1,0 +1,17 @@
+3
+14
+12
+8
+Gold 11
+Gold 11
+Thief 6
+Silver 14
+Province 10
+ThroneRoom 4
+Province 8
+Feast 13
+Remodel 6
+Moneylender 15
+Gold 100
+Duchy 9
+Feast 9

@@ -1,0 +1,14 @@
+6
+18
+5
+6
+Province 10
+Gold 104
+Silver 9
+Smithy 7
+Remodel 6
+Chapel 2
+Smithy 8
+Copper 15
+Duchy 10
+Copper 3

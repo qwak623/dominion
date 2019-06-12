@@ -1,0 +1,12 @@
+7
+16
+6
+6
+Gold 101
+Province 9
+Library 10
+Silver 12
+Workshop 11
+Workshop 12
+Workshop 9
+Militia 9

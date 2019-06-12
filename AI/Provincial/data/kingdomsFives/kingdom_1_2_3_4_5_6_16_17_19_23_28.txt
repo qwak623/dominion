@@ -1,0 +1,14 @@
+1
+12
+6
+6
+Gold 99
+Silver 11
+Duchy 10
+Duchy 8
+Market 6
+Silver 15
+Moneylender 10
+Chapel 5
+Laboratory 8
+Copper 3

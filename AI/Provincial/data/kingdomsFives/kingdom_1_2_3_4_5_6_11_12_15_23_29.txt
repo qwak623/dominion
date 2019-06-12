@@ -1,0 +1,20 @@
+1
+14
+7
+5
+Gold 101
+Province 4
+CouncilRoom 13
+Gold 4
+Silver 10
+Duchy 7
+Duchy 9
+Duchy 6
+Moneylender 4
+Copper 4
+Gold 4
+Province 9
+Feast 5
+Feast 7
+Province 9
+Chancellor 3

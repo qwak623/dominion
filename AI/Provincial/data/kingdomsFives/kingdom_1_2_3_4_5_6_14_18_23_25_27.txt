@@ -1,0 +1,15 @@
+7
+12
+8
+4
+Gold 12
+Silver 4
+Province 8
+Smithy 4
+Gardens 10
+Thief 10
+Silver 13
+Gardens 101
+Duchy 9
+Library 5
+Duchy 8

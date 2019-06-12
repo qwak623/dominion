@@ -1,0 +1,15 @@
+3
+15
+8
+8
+Province 9
+Gold 9
+Silver 14
+Chancellor 2
+CouncilRoom 11
+Moat 8
+CouncilRoom 11
+Gold 100
+Duchy 9
+Estate 6
+Copper 10

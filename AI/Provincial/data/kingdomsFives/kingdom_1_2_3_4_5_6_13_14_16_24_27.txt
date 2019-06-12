@@ -1,0 +1,16 @@
+2
+16
+8
+8
+Duchy 4
+Silver 11
+Gold 101
+Silver 6
+Gardens 9
+Chapel 3
+Festival 6
+Festival 12
+Gold 4
+Copper 6
+Estate 3
+Thief 2

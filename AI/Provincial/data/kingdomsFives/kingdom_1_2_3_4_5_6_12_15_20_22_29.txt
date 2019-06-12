@@ -1,0 +1,15 @@
+1
+14
+14
+8
+Gold 101
+Silver 6
+Militia 10
+Gold 10
+Estate 9
+Silver 11
+Chancellor 8
+Silver 7
+Duchy 15
+Feast 8
+Village 11

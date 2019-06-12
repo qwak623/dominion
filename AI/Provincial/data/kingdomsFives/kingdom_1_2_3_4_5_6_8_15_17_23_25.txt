@@ -1,0 +1,14 @@
+0
+16
+6
+6
+Gold 100
+Silver 5
+Gold 3
+Province 9
+Smithy 10
+Moneylender 7
+Laboratory 9
+Duchy 7
+Silver 17
+Chancellor 12

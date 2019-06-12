@@ -1,0 +1,17 @@
+7
+17
+8
+7
+Gold 103
+Witch 8
+Mine 1
+Adventurer 6
+Silver 8
+Duchy 2
+Province 2
+Gold 10
+Silver 13
+Adventurer 7
+Militia 7
+Duchy 8
+Adventurer 10

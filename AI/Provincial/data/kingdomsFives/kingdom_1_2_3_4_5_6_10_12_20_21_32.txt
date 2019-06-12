@@ -1,0 +1,16 @@
+2
+7
+17
+8
+Militia 7
+Province 9
+Gold 101
+Silver 14
+Cellar 2
+Estate 13
+Silver 13
+Gold 8
+Feast 4
+Mine 7
+Mine 7
+Workshop 5

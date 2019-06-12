@@ -1,0 +1,15 @@
+1
+13
+7
+7
+Province 11
+Gold 100
+Mine 8
+Silver 11
+Gold 7
+Silver 11
+Silver 3
+Copper 7
+Silver 9
+Remodel 4
+Thief 7

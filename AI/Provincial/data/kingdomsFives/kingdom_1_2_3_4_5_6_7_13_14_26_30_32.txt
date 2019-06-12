@@ -1,0 +1,16 @@
+6
+15
+8
+8
+Silver 8
+Gardens 9
+Spy 1
+Duchy 11
+Gardens 8
+Festival 7
+Gold 11
+Workshop 12
+Gold 100
+Festival 4
+Silver 11
+Province 11

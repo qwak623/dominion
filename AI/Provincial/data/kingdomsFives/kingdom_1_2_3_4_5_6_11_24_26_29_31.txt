@@ -1,0 +1,15 @@
+0
+10
+6
+6
+Gold 8
+Province 9
+Silver 13
+Silver 7
+Remodel 6
+Duchy 9
+Village 6
+Copper 12
+Duchy 12
+Copper 8
+Woodcutter 6

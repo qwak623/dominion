@@ -1,0 +1,18 @@
+0
+10
+7
+8
+Duchy 9
+Gold 7
+Feast 10
+Workshop 3
+Copper 1
+Feast 11
+Estate 8
+Copper 3
+Silver 11
+Province 5
+CouncilRoom 2
+Woodcutter 6
+CouncilRoom 7
+Library 11

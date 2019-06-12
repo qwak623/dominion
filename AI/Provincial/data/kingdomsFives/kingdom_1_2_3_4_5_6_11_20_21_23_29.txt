@@ -1,0 +1,15 @@
+7
+12
+7
+4
+Mine 1
+Province 5
+Gold 12
+Militia 3
+Gold 101
+Silver 15
+Estate 5
+Duchy 5
+Moneylender 10
+Moneylender 3
+Silver 4

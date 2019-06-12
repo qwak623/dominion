@@ -1,0 +1,18 @@
+7
+16
+8
+8
+Gold 7
+Silver 13
+Silver 9
+Duchy 1
+Woodcutter 2
+Moneylender 4
+Workshop 8
+Gold 104
+Copper 4
+Duchy 12
+Woodcutter 12
+Province 3
+Province 3
+Moneylender 7

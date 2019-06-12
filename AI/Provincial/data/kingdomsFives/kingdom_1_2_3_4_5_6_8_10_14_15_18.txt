@@ -1,0 +1,14 @@
+3
+11
+19
+8
+Gold 100
+Gardens 13
+Silver 10
+Province 11
+Gold 4
+Adventurer 8
+Chancellor 10
+Duchy 8
+Cellar 10
+Copper 4

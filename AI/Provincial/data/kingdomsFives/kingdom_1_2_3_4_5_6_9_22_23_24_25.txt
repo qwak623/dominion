@@ -1,0 +1,16 @@
+7
+12
+8
+8
+Gold 11
+Silver 100
+Duchy 3
+Province 11
+Duchy 4
+Copper 7
+Province 6
+Bureaucrat 6
+Copper 7
+Smithy 13
+Silver 13
+Silver 14

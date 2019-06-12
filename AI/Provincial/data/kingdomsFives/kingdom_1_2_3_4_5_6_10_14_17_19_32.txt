@@ -1,0 +1,15 @@
+3
+12
+11
+8
+Gardens 7
+Silver 10
+Cellar 3
+Duchy 10
+Estate 7
+Estate 11
+Silver 12
+Copper 11
+Market 7
+Laboratory 9
+Laboratory 100

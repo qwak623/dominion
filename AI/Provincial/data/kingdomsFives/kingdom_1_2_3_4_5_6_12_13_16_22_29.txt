@@ -1,0 +1,16 @@
+5
+15
+6
+3
+Province 6
+Gold 99
+Silver 10
+Duchy 7
+Gold 11
+Feast 8
+Silver 5
+Moat 9
+Copper 10
+Village 2
+Festival 4
+Chapel 6

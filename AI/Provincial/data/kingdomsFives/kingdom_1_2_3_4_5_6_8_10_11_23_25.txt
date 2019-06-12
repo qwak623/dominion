@@ -1,0 +1,16 @@
+2
+15
+7
+6
+Province 10
+Gold 101
+CouncilRoom 2
+Silver 11
+Moneylender 9
+Duchy 10
+CouncilRoom 2
+Silver 3
+Copper 5
+Estate 14
+Silver 5
+Adventurer 9

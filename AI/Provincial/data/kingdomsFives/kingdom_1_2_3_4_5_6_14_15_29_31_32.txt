@@ -1,0 +1,13 @@
+7
+12
+8
+8
+Woodcutter 2
+Silver 10
+Gardens 7
+Duchy 1
+Province 13
+Silver 17
+Silver 12
+Gardens 7
+Gold 99

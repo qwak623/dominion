@@ -1,0 +1,14 @@
+4
+20
+8
+7
+Gold 100
+Laboratory 8
+Gold 7
+Province 4
+Silver 10
+Cellar 3
+Workshop 7
+Copper 8
+Market 6
+Library 11

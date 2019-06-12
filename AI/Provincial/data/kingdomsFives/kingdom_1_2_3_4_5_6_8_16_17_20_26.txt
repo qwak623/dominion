@@ -1,0 +1,16 @@
+2
+13
+6
+4
+Laboratory 1
+Gold 102
+Silver 12
+Silver 12
+Spy 5
+Chapel 6
+Copper 7
+Estate 12
+Adventurer 8
+Duchy 9
+Spy 8
+Silver 10

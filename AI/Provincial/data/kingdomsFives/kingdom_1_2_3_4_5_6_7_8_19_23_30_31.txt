@@ -1,0 +1,16 @@
+1
+13
+8
+8
+Witch 3
+Gold 99
+Gold 5
+Silver 13
+Woodcutter 13
+Duchy 7
+Copper 3
+Estate 5
+Adventurer 9
+Witch 9
+Estate 7
+Market 7

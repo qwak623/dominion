@@ -1,0 +1,13 @@
+7
+17
+7
+5
+Gold 103
+Province 2
+Library 14
+Festival 11
+Gold 5
+Silver 12
+Bureaucrat 11
+Remodel 6
+Silver 8

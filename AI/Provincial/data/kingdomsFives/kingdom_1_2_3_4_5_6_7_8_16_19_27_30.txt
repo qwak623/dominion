@@ -1,0 +1,15 @@
+5
+7
+6
+6
+Witch 2
+Province 9
+Gold 101
+Market 6
+Silver 13
+Adventurer 13
+Silver 12
+Chapel 7
+Gold 7
+Estate 7
+Thief 3

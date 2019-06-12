@@ -1,0 +1,18 @@
+4
+2
+8
+8
+Province 4
+Witch 8
+Duchy 9
+Province 5
+Gold 6
+Gold 101
+Silver 11
+Silver 4
+Silver 12
+Laboratory 10
+Gold 9
+Province 7
+Laboratory 10
+Province 8

@@ -1,0 +1,18 @@
+3
+16
+8
+8
+Province 9
+Gold 100
+Library 9
+Province 7
+Province 4
+Silver 11
+Chancellor 8
+Workshop 9
+Duchy 6
+Library 3
+Market 7
+Cellar 9
+Library 1
+Silver 12

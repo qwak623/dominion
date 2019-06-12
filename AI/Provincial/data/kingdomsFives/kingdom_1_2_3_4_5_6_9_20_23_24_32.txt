@@ -1,0 +1,13 @@
+3
+15
+9
+8
+Gold 11
+Province 4
+Militia 7
+Silver 12
+Silver 12
+Copper 4
+Estate 9
+Bureaucrat 10
+Moneylender 5

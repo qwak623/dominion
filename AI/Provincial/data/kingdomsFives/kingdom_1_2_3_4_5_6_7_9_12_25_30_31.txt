@@ -1,0 +1,16 @@
+5
+17
+8
+8
+Province 8
+Estate 1
+Gold 9
+Witch 4
+Silver 14
+Smithy 1
+Province 11
+Copper 4
+Silver 7
+Bureaucrat 10
+Curse 1
+Bureaucrat 6

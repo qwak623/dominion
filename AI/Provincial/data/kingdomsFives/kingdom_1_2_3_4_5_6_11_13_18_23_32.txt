@@ -1,0 +1,18 @@
+4
+18
+8
+5
+Gold 102
+Silver 4
+Silver 14
+Province 6
+Silver 9
+Library 3
+Moneylender 8
+Festival 9
+Gold 11
+Silver 7
+Moneylender 3
+Copper 7
+Duchy 7
+Estate 10

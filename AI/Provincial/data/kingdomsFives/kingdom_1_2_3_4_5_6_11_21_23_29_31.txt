@@ -1,0 +1,16 @@
+5
+14
+8
+6
+Gold 102
+Mine 2
+Silver 11
+Province 4
+CouncilRoom 14
+Province 11
+Village 10
+Moneylender 6
+Gold 10
+Woodcutter 4
+Silver 3
+CouncilRoom 10

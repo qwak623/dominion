@@ -1,0 +1,14 @@
+3
+12
+8
+8
+Gold 6
+Silver 12
+Province 5
+Laboratory 2
+Spy 2
+Silver 9
+Moneylender 4
+Copper 10
+Duchy 9
+Spy 8

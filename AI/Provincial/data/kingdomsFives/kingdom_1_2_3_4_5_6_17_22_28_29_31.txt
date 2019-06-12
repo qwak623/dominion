@@ -1,0 +1,18 @@
+1
+15
+8
+5
+Gold 9
+Silver 13
+Silver 10
+Moat 4
+Woodcutter 11
+Silver 4
+Province 5
+Woodcutter 9
+Province 6
+Gold 101
+ThroneRoom 10
+Duchy 9
+Laboratory 5
+Estate 9

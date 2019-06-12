@@ -1,0 +1,15 @@
+5
+14
+7
+7
+Province 9
+Gold 100
+Province 14
+Silver 10
+Gold 8
+Duchy 12
+Silver 5
+Gold 13
+Chancellor 7
+Workshop 8
+Gold 7

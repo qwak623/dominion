@@ -1,0 +1,17 @@
+2
+14
+8
+6
+Gold 8
+Province 5
+Library 2
+Silver 13
+Moneylender 8
+Moneylender 2
+Market 10
+Gold 100
+Copper 3
+Duchy 7
+Bureaucrat 5
+Gold 5
+Copper 10

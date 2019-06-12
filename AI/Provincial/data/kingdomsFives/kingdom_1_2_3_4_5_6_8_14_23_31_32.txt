@@ -1,0 +1,15 @@
+4
+18
+6
+5
+Province 9
+Gold 11
+Silver 7
+Gardens 5
+Adventurer 9
+Workshop 11
+Gold 99
+Moneylender 8
+Silver 12
+Woodcutter 5
+Duchy 14

@@ -1,0 +1,17 @@
+2
+12
+6
+4
+Gold 101
+Silver 7
+Witch 5
+Silver 12
+Copper 9
+Silver 14
+Spy 7
+Province 4
+Remodel 9
+Gold 11
+Woodcutter 9
+Curse 3
+Estate 7

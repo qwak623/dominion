@@ -1,0 +1,16 @@
+2
+8
+12
+8
+Gardens 10
+Laboratory 10
+Gold 10
+Gold 102
+Workshop 9
+Gardens 11
+Estate 10
+Gardens 3
+Silver 11
+Copper 7
+Gardens 8
+Chapel 10

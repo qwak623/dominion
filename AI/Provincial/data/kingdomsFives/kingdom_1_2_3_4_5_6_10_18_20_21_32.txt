@@ -1,0 +1,16 @@
+2
+12
+7
+6
+Gold 9
+Mine 9
+Silver 10
+Copper 7
+Estate 5
+Duchy 9
+Militia 7
+Estate 3
+Library 11
+Silver 8
+Library 7
+Gold 101

@@ -1,0 +1,14 @@
+2
+18
+7
+7
+Gold 101
+Province 8
+Spy 2
+Silver 12
+Moat 7
+Chancellor 8
+Festival 8
+Duchy 9
+Festival 2
+Estate 3

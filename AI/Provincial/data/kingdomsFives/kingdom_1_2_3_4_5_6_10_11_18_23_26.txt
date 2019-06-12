@@ -1,0 +1,18 @@
+5
+14
+8
+8
+Gold 99
+Silver 8
+Duchy 11
+Duchy 10
+Library 3
+Spy 6
+CouncilRoom 4
+Cellar 4
+Province 8
+Estate 11
+Copper 10
+Moneylender 8
+Silver 11
+Gold 6

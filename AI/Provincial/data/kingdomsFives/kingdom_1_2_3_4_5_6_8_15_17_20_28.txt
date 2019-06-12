@@ -1,0 +1,13 @@
+2
+18
+8
+7
+Gold 100
+Laboratory 6
+Militia 6
+Silver 11
+Province 10
+ThroneRoom 11
+Chancellor 6
+Chancellor 11
+Copper 6

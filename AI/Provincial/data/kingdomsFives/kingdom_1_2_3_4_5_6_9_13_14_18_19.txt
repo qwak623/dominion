@@ -1,0 +1,18 @@
+2
+15
+8
+8
+Bureaucrat 3
+Gardens 11
+Gold 10
+Market 12
+Gold 103
+Silver 11
+Copper 1
+Library 7
+Province 12
+Province 6
+Silver 2
+Market 12
+Festival 10
+Copper 5

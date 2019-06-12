@@ -1,0 +1,16 @@
+6
+14
+13
+8
+Copper 1
+CouncilRoom 7
+Province 5
+Workshop 5
+Gardens 11
+Estate 8
+Gardens 102
+Silver 12
+Copper 5
+Cellar 7
+Estate 10
+Duchy 2

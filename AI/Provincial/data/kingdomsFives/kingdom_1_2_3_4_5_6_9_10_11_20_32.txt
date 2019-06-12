@@ -1,0 +1,14 @@
+2
+16
+8
+8
+Gold 102
+Militia 1
+Silver 3
+Silver 14
+Bureaucrat 9
+Workshop 6
+Militia 11
+Gold 17
+CouncilRoom 9
+Province 10

@@ -1,0 +1,17 @@
+5
+10
+12
+8
+Province 9
+Gold 101
+Duchy 13
+Gold 8
+Province 6
+Duchy 1
+Militia 7
+Spy 6
+Militia 6
+Remodel 2
+CouncilRoom 3
+Silver 12
+Silver 9

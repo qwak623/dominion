@@ -1,0 +1,19 @@
+6
+17
+8
+8
+Gold 7
+Witch 3
+Silver 13
+Silver 5
+Copper 3
+Witch 10
+Witch 6
+Duchy 9
+Laboratory 9
+Moat 10
+Gold 100
+Duchy 4
+Gold 3
+Adventurer 7
+Workshop 9

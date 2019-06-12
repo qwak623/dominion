@@ -1,0 +1,19 @@
+6
+14
+11
+7
+Gold 102
+Silver 6
+Market 12
+Silver 10
+Gold 11
+Market 10
+Province 2
+Chapel 6
+Estate 8
+Estate 13
+Market 5
+Market 11
+Festival 10
+Copper 3
+Festival 6

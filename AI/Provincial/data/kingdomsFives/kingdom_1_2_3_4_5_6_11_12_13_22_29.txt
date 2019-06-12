@@ -1,0 +1,14 @@
+7
+13
+6
+4
+Moat 2
+Province 10
+Gold 103
+Province 7
+Silver 7
+Duchy 13
+Silver 10
+Province 11
+CouncilRoom 5
+Gold 4

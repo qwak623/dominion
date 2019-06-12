@@ -1,0 +1,15 @@
+0
+15
+6
+6
+Gold 11
+Province 12
+Silver 5
+Laboratory 8
+Silver 11
+Gold 4
+Feast 4
+Duchy 11
+Chapel 8
+Gold 11
+Gold 105

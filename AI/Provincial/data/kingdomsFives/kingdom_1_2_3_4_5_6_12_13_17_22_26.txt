@@ -1,0 +1,16 @@
+4
+7
+6
+5
+Province 9
+Gold 9
+Silver 11
+Spy 8
+Moat 3
+Estate 9
+Laboratory 11
+Spy 3
+Feast 7
+Silver 9
+Copper 11
+Gold 100

@@ -1,0 +1,20 @@
+3
+8
+9
+8
+Woodcutter 6
+Copper 8
+Province 5
+Gardens 9
+Woodcutter 14
+Estate 8
+Gardens 2
+Workshop 1
+Gold 99
+Gold 10
+Silver 3
+Silver 7
+Adventurer 11
+Copper 8
+Copper 2
+CouncilRoom 4

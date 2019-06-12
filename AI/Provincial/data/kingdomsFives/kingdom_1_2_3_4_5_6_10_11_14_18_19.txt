@@ -1,0 +1,14 @@
+1
+15
+6
+5
+Gold 100
+Gold 12
+CouncilRoom 8
+Market 8
+Silver 6
+Library 5
+Gardens 4
+Silver 15
+Duchy 9
+Province 12

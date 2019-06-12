@@ -1,0 +1,15 @@
+2
+15
+13
+8
+Duchy 9
+Gold 8
+Witch 11
+Silver 13
+Silver 102
+Duchy 10
+Silver 14
+Duchy 8
+Silver 7
+Moneylender 4
+Feast 8

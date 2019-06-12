@@ -1,0 +1,16 @@
+2
+11
+7
+6
+Province 6
+Gold 100
+Silver 13
+Feast 1
+Cellar 1
+Silver 11
+Chancellor 4
+Feast 12
+Duchy 11
+Province 12
+Feast 8
+Copper 7

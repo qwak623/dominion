@@ -1,0 +1,16 @@
+1
+15
+8
+8
+Gold 12
+Silver 9
+Market 9
+Market 7
+Chancellor 10
+Silver 12
+Workshop 6
+Duchy 9
+Adventurer 10
+Workshop 5
+Gold 104
+Chancellor 8

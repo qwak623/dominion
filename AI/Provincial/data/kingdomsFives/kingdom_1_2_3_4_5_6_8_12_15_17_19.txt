@@ -1,0 +1,15 @@
+6
+9
+6
+6
+Province 4
+Adventurer 2
+Gold 101
+Silver 12
+Feast 6
+Copper 7
+Market 11
+Laboratory 12
+Duchy 6
+Estate 4
+Silver 6

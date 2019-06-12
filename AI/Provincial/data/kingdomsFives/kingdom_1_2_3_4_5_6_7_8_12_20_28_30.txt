@@ -1,0 +1,17 @@
+6
+10
+8
+8
+Witch 3
+Province 6
+Gold 100
+Silver 2
+Gold 1
+Silver 3
+Silver 4
+Duchy 11
+Militia 10
+Province 9
+ThroneRoom 7
+Silver 13
+Feast 11

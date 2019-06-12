@@ -1,0 +1,12 @@
+2
+10
+7
+5
+Province 11
+Gold 103
+Silver 14
+Duchy 8
+Copper 5
+Village 10
+Festival 6
+Estate 9

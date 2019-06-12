@@ -1,0 +1,18 @@
+4
+8
+5
+4
+Silver 3
+Province 7
+Gold 101
+Laboratory 2
+Laboratory 12
+Adventurer 6
+Silver 11
+Moat 2
+Copper 11
+Gold 9
+Moat 7
+Laboratory 3
+Adventurer 1
+Remodel 4

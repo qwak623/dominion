@@ -1,0 +1,16 @@
+6
+13
+8
+8
+Witch 10
+Gold 103
+Duchy 5
+Silver 10
+Militia 6
+Witch 6
+Province 8
+Woodcutter 7
+Silver 7
+Moneylender 13
+Copper 5
+Laboratory 10

@@ -1,0 +1,17 @@
+0
+12
+8
+7
+Bureaucrat 5
+Duchy 8
+Gold 101
+Gardens 10
+Province 4
+Province 4
+Silver 8
+Gold 11
+Copper 9
+Province 8
+Festival 5
+Cellar 6
+Silver 12

@@ -1,0 +1,17 @@
+2
+18
+10
+8
+Gold 4
+Estate 1
+Militia 8
+Silver 10
+Estate 7
+Duchy 8
+Silver 13
+Province 6
+Feast 11
+Duchy 8
+Gold 103
+Province 6
+Cellar 8

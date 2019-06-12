@@ -1,0 +1,19 @@
+1
+15
+8
+6
+Gold 9
+Silver 4
+Gold 9
+Gold 8
+Bureaucrat 6
+Market 7
+Gold 99
+Market 6
+Province 8
+Market 1
+Silver 13
+Copper 14
+Curse 5
+Woodcutter 4
+Gold 10

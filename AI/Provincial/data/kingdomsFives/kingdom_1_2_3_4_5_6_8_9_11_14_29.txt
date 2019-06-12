@@ -1,0 +1,15 @@
+4
+9
+7
+5
+Gold 103
+Province 6
+Adventurer 3
+CouncilRoom 7
+Silver 12
+Copper 8
+Silver 10
+Village 4
+Gardens 3
+Silver 11
+CouncilRoom 8

@@ -1,0 +1,14 @@
+1
+13
+7
+7
+Province 5
+Gold 100
+Silver 8
+Silver 12
+Gold 7
+Feast 2
+Silver 6
+Moneylender 14
+Copper 7
+Estate 14

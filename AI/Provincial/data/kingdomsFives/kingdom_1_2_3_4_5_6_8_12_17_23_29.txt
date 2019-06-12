@@ -1,0 +1,16 @@
+3
+6
+5
+4
+Province 12
+Gold 103
+Laboratory 7
+Silver 11
+Estate 2
+Laboratory 12
+Silver 11
+Adventurer 9
+Feast 7
+Moneylender 5
+Silver 7
+Estate 4

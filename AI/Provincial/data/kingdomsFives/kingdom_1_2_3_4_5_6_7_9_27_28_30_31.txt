@@ -1,0 +1,17 @@
+4
+14
+7
+5
+Gold 9
+Bureaucrat 2
+Gold 100
+Silver 14
+Bureaucrat 3
+Woodcutter 6
+Copper 11
+ThroneRoom 8
+Copper 10
+Province 9
+Copper 10
+Duchy 10
+Copper 11

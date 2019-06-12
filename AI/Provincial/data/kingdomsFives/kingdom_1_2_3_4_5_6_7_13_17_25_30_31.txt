@@ -1,0 +1,17 @@
+3
+14
+8
+8
+Province 13
+Gold 8
+Witch 3
+Silver 3
+Festival 7
+Laboratory 9
+Silver 2
+Laboratory 11
+Silver 11
+Witch 9
+Gold 102
+Gold 3
+Copper 2

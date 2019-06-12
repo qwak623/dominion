@@ -1,0 +1,16 @@
+6
+7
+8
+8
+Witch 3
+Duchy 8
+Silver 1
+Feast 6
+Gold 100
+Silver 11
+Estate 10
+Copper 8
+Curse 7
+Laboratory 8
+Mine 12
+Workshop 12

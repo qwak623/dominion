@@ -1,0 +1,17 @@
+1
+16
+12
+8
+Province 8
+Gold 9
+Silver 6
+Silver 5
+Gold 104
+Silver 14
+Chancellor 6
+Remodel 4
+Feast 7
+Thief 6
+Silver 6
+Thief 5
+Duchy 12

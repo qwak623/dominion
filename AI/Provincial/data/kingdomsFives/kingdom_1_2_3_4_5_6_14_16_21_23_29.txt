@@ -1,0 +1,17 @@
+3
+14
+12
+4
+Gardens 10
+Silver 4
+Mine 4
+Copper 4
+Mine 9
+Mine 10
+Gold 100
+Gold 10
+Estate 7
+Copper 9
+Silver 11
+Village 9
+Village 13

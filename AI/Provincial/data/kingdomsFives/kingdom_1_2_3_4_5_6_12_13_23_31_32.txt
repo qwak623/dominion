@@ -1,0 +1,16 @@
+5
+16
+6
+5
+Gold 10
+Silver 10
+Gold 102
+Festival 4
+Woodcutter 11
+Duchy 7
+Copper 10
+Feast 6
+Festival 5
+Moneylender 8
+Estate 10
+Estate 11

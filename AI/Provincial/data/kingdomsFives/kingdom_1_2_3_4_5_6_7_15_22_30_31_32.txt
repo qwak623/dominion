@@ -1,0 +1,19 @@
+3
+10
+8
+8
+Gold 4
+Witch 3
+Silver 11
+Copper 2
+Province 8
+Gold 101
+Silver 6
+Chancellor 9
+Moat 3
+Moat 11
+Duchy 11
+Silver 6
+Witch 5
+Gold 9
+Workshop 5

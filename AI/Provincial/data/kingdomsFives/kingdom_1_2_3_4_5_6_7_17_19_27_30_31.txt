@@ -1,0 +1,16 @@
+2
+16
+8
+7
+Province 8
+Gold 8
+Witch 3
+Silver 10
+Gold 12
+Duchy 4
+Thief 10
+Witch 102
+Copper 3
+Woodcutter 16
+Duchy 10
+Laboratory 10

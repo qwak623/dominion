@@ -1,0 +1,17 @@
+4
+8
+8
+8
+Festival 4
+Duchy 1
+Smithy 3
+Province 8
+Province 8
+Gardens 100
+Gold 9
+Gold 15
+Silver 11
+Gardens 2
+Copper 10
+Gardens 11
+Moneylender 3

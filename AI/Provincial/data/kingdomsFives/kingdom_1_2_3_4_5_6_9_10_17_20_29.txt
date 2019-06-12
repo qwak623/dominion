@@ -1,0 +1,15 @@
+0
+10
+8
+8
+Province 6
+Gold 101
+Laboratory 9
+Militia 12
+Silver 12
+Cellar 8
+Bureaucrat 9
+Gold 2
+Copper 7
+Estate 7
+Silver 3

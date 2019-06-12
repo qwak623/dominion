@@ -1,0 +1,19 @@
+6
+16
+5
+5
+Gold 7
+Library 8
+Gold 99
+Gold 6
+Province 14
+Province 9
+Silver 6
+Militia 8
+Library 3
+Workshop 9
+Workshop 3
+Militia 12
+Province 2
+Duchy 1
+Bureaucrat 11

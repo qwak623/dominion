@@ -1,0 +1,12 @@
+2
+11
+10
+6
+Gardens 7
+Province 11
+Witch 12
+Silver 13
+Gold 101
+Gold 6
+Silver 5
+Copper 10

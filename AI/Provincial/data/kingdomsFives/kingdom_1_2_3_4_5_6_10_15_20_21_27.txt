@@ -1,0 +1,10 @@
+5
+12
+8
+8
+Militia 6
+Duchy 7
+Duchy 10
+Silver 11
+Province 13
+Thief 5

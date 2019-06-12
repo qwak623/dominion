@@ -1,0 +1,16 @@
+1
+12
+17
+8
+Duchy 11
+Silver 3
+Duchy 11
+Gold 100
+Silver 10
+Duchy 12
+Moat 7
+Province 12
+Silver 3
+Woodcutter 9
+Cellar 7
+Workshop 6

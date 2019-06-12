@@ -1,0 +1,16 @@
+6
+14
+8
+8
+Province 11
+Witch 5
+Silver 5
+Duchy 12
+Silver 11
+Woodcutter 4
+Spy 5
+Gold 2
+Village 8
+Copper 13
+Moneylender 10
+Estate 101

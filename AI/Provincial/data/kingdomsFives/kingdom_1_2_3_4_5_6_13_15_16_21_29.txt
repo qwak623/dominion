@@ -1,0 +1,17 @@
+6
+16
+6
+6
+Gold 11
+Silver 10
+Festival 10
+Silver 7
+Festival 12
+Chapel 2
+Gold 101
+Chancellor 7
+Copper 5
+Province 4
+Estate 3
+Mine 7
+Duchy 2

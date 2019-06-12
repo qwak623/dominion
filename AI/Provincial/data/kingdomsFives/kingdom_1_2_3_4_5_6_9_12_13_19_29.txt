@@ -1,0 +1,15 @@
+3
+14
+8
+8
+Gold 9
+Bureaucrat 5
+Silver 6
+Silver 14
+Festival 9
+Silver 8
+Feast 3
+Province 5
+Gold 101
+Market 8
+Feast 12

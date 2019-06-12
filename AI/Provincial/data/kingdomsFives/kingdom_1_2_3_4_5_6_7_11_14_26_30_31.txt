@@ -1,0 +1,18 @@
+0
+13
+8
+8
+Gold 7
+Witch 2
+Gardens 10
+Gold 11
+Silver 12
+Province 4
+Silver 8
+Gold 100
+Copper 6
+Gold 12
+Duchy 6
+CouncilRoom 11
+CouncilRoom 5
+Copper 7

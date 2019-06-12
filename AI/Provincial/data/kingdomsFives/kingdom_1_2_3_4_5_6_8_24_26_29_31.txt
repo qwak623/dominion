@@ -1,0 +1,13 @@
+4
+9
+6
+4
+Province 13
+Gold 7
+Silver 15
+Remodel 7
+Copper 9
+Adventurer 14
+Silver 12
+Estate 10
+Estate 11

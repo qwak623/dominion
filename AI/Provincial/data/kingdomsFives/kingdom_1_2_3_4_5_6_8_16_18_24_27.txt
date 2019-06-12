@@ -1,0 +1,14 @@
+7
+21
+5
+5
+Chapel 1
+Gold 100
+Silver 13
+Gold 11
+Library 7
+Province 8
+Gold 10
+Province 9
+Remodel 10
+Silver 5

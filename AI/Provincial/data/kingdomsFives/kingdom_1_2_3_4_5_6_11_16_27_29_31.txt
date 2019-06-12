@@ -1,0 +1,14 @@
+1
+14
+6
+5
+Province 9
+Gold 105
+Silver 11
+CouncilRoom 6
+Thief 4
+Copper 8
+Village 9
+Woodcutter 8
+Silver 12
+Duchy 6

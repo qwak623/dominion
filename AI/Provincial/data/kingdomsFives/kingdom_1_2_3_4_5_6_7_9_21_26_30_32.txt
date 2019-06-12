@@ -1,0 +1,14 @@
+1
+12
+7
+7
+Witch 2
+Gold 8
+Silver 4
+Silver 7
+Silver 12
+Mine 10
+Mine 5
+Gold 101
+Spy 1
+Province 9

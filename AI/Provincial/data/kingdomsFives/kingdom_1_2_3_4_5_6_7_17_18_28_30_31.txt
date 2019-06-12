@@ -1,0 +1,16 @@
+6
+12
+8
+8
+Gold 100
+Province 8
+Witch 3
+Silver 11
+Estate 4
+ThroneRoom 4
+ThroneRoom 3
+Silver 9
+Laboratory 6
+Curse 7
+Library 10
+Laboratory 11

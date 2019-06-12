@@ -1,0 +1,17 @@
+2
+15
+7
+5
+Gold 5
+Gold 101
+Province 7
+Silver 5
+Silver 13
+Province 7
+Moat 3
+Duchy 9
+Adventurer 7
+Festival 7
+Copper 2
+Province 2
+Festival 3

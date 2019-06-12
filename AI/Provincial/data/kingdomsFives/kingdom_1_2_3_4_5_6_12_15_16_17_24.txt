@@ -1,0 +1,14 @@
+0
+8
+7
+7
+Gold 4
+Province 8
+Laboratory 9
+Silver 12
+Chancellor 12
+Gold 100
+Chapel 3
+Feast 11
+Silver 4
+Province 10

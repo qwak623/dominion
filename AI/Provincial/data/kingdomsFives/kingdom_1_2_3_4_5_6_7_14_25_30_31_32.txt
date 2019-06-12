@@ -1,0 +1,16 @@
+7
+9
+13
+8
+Gardens 13
+Gold 5
+Workshop 12
+Province 11
+Estate 10
+Duchy 99
+Gardens 12
+Witch 13
+Copper 9
+Silver 8
+Curse 2
+Silver 13

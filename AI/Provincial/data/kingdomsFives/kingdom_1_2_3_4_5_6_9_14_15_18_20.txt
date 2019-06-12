@@ -1,0 +1,14 @@
+7
+14
+6
+4
+Province 4
+Gold 101
+Province 2
+Library 9
+Gold 7
+Silver 5
+Gardens 11
+Bureaucrat 12
+Militia 11
+Gardens 11

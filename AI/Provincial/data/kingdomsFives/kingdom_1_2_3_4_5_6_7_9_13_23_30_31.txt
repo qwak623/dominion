@@ -1,0 +1,17 @@
+2
+12
+8
+8
+Witch 7
+Gold 102
+Province 9
+Silver 6
+Silver 11
+Copper 10
+Moneylender 7
+Copper 7
+Festival 10
+Copper 9
+Woodcutter 10
+Woodcutter 2
+Moneylender 11

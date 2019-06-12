@@ -1,0 +1,16 @@
+3
+9
+6
+8
+Province 8
+Silver 9
+Duchy 9
+Gardens 9
+Copper 12
+Silver 11
+Duchy 2
+Estate 7
+Gold 3
+Duchy 1
+Estate 6
+Curse 12

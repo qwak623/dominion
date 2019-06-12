@@ -1,0 +1,15 @@
+7
+12
+8
+7
+Gold 103
+Witch 5
+Festival 3
+Silver 10
+Witch 4
+Estate 13
+Woodcutter 8
+Province 7
+Laboratory 7
+Duchy 6
+Gold 13

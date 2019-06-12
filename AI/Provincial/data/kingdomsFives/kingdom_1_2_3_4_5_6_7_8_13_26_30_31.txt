@@ -1,0 +1,14 @@
+3
+12
+7
+6
+Gold 8
+Silver 101
+Silver 10
+Duchy 14
+Copper 4
+Festival 9
+Copper 4
+Province 8
+Spy 5
+Curse 2

@@ -1,0 +1,12 @@
+7
+14
+7
+7
+Festival 1
+Gold 99
+Library 4
+Silver 11
+Library 10
+Silver 9
+Duchy 8
+Gold 12

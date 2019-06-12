@@ -1,0 +1,16 @@
+2
+16
+8
+4
+Silver 10
+Gardens 11
+Province 8
+Gold 11
+Woodcutter 9
+Duchy 4
+Copper 6
+Gold 99
+Chancellor 9
+Duchy 10
+Chancellor 7
+Smithy 13

@@ -1,0 +1,15 @@
+5
+17
+8
+8
+Gold 100
+Bureaucrat 4
+Silver 8
+Copper 11
+Silver 3
+Silver 6
+Village 5
+Silver 5
+Silver 14
+Estate 7
+Gold 3

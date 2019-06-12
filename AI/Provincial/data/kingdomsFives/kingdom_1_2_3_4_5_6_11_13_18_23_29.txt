@@ -1,0 +1,19 @@
+4
+16
+6
+6
+Gold 5
+Province 6
+Gold 2
+CouncilRoom 5
+Duchy 6
+Silver 5
+Copper 4
+Silver 12
+Copper 11
+Gold 99
+CouncilRoom 9
+Festival 4
+Estate 6
+Silver 11
+Village 11

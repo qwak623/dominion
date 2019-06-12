@@ -1,0 +1,14 @@
+0
+15
+7
+5
+Gold 101
+Province 11
+CouncilRoom 4
+Silver 12
+Copper 11
+Gold 11
+Bureaucrat 11
+Copper 7
+Silver 7
+Estate 5

@@ -1,0 +1,16 @@
+2
+16
+6
+6
+Library 2
+Gold 102
+Silver 4
+Festival 12
+Silver 11
+Cellar 11
+Copper 2
+Remodel 12
+Chancellor 4
+Festival 5
+Gold 4
+Province 11

@@ -1,0 +1,16 @@
+4
+13
+13
+8
+Province 3
+Bureaucrat 5
+Duchy 100
+Silver 6
+Copper 2
+Estate 9
+Bureaucrat 5
+Duchy 13
+Feast 11
+Silver 10
+Chancellor 10
+Moat 5

@@ -1,0 +1,20 @@
+7
+15
+13
+8
+Silver 1
+Witch 9
+Workshop 1
+Silver 11
+CouncilRoom 5
+Silver 6
+Province 5
+Gold 101
+Gold 9
+Copper 4
+Duchy 5
+Witch 2
+Mine 14
+Mine 10
+Duchy 12
+CouncilRoom 10

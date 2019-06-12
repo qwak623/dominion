@@ -1,0 +1,16 @@
+1
+16
+7
+7
+Gold 8
+Silver 10
+Gold 101
+Province 3
+Village 2
+Moat 1
+Copper 2
+Province 12
+Militia 6
+Woodcutter 3
+Estate 3
+Province 10

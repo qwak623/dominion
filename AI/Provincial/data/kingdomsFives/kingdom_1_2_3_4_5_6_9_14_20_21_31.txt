@@ -1,0 +1,14 @@
+6
+13
+8
+7
+Province 10
+Gold 102
+Bureaucrat 5
+Duchy 7
+Gold 4
+Gold 3
+Gardens 5
+Copper 5
+Mine 3
+Estate 9

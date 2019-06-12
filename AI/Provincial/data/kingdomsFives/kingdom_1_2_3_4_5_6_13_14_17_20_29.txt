@@ -1,0 +1,16 @@
+1
+14
+6
+4
+Gold 3
+Laboratory 7
+Province 8
+Militia 4
+Gardens 8
+Province 3
+Silver 11
+Copper 9
+Laboratory 6
+Estate 11
+Festival 8
+Gold 103

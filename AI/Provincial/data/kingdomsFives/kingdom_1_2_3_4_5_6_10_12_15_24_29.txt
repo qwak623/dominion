@@ -1,0 +1,14 @@
+5
+11
+7
+6
+Gold 102
+Copper 1
+Province 8
+Silver 10
+Chancellor 2
+Copper 4
+Feast 2
+Estate 9
+Remodel 11
+Cellar 4

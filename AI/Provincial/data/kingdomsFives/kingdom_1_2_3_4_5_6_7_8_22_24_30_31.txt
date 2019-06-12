@@ -1,0 +1,16 @@
+1
+14
+8
+8
+Gold 103
+Witch 10
+Silver 10
+Moat 8
+Woodcutter 8
+Woodcutter 10
+Silver 10
+Duchy 5
+Remodel 4
+Province 7
+Moat 9
+Estate 6

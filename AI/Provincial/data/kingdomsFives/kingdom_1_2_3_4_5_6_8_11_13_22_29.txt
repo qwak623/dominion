@@ -1,0 +1,14 @@
+5
+11
+6
+6
+Gold 103
+Estate 1
+Province 2
+Province 4
+Silver 4
+CouncilRoom 10
+Silver 14
+Festival 7
+Duchy 7
+Gold 8

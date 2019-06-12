@@ -1,0 +1,14 @@
+5
+18
+8
+7
+Gold 100
+Mine 5
+Province 8
+Silver 11
+Gold 8
+Library 5
+Duchy 10
+Militia 13
+Mine 3
+Bureaucrat 9

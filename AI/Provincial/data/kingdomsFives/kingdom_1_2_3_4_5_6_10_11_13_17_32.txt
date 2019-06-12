@@ -1,0 +1,17 @@
+6
+16
+8
+8
+Gold 9
+Laboratory 6
+Gold 103
+Laboratory 4
+Silver 10
+Cellar 7
+Silver 6
+Province 5
+Cellar 8
+Festival 6
+Silver 6
+Festival 7
+Estate 6

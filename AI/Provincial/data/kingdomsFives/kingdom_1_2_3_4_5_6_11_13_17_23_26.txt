@@ -1,0 +1,17 @@
+6
+8
+6
+4
+Province 7
+Gold 5
+Gold 100
+Laboratory 8
+Silver 14
+Duchy 7
+Moneylender 5
+Festival 6
+Gold 7
+Copper 4
+Spy 8
+Estate 11
+Moneylender 7

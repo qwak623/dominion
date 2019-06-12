@@ -1,0 +1,14 @@
+3
+10
+8
+7
+Workshop 2
+Province 13
+Gold 100
+Gold 9
+Silver 5
+Duchy 10
+Gardens 10
+Laboratory 13
+Silver 11
+Copper 14

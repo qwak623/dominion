@@ -1,0 +1,14 @@
+4
+10
+8
+6
+Gold 100
+Mine 3
+Silver 10
+Gardens 13
+Mine 12
+Copper 6
+Silver 7
+Province 6
+Silver 5
+Workshop 11

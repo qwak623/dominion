@@ -1,0 +1,20 @@
+2
+18
+8
+8
+Gold 100
+Bureaucrat 8
+Silver 3
+Duchy 8
+Silver 15
+Province 8
+Province 6
+Woodcutter 9
+Copper 5
+Duchy 5
+Thief 4
+Bureaucrat 5
+Bureaucrat 5
+Gold 7
+Thief 1
+Estate 8

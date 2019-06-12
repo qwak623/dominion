@@ -1,0 +1,14 @@
+1
+14
+5
+5
+Chapel 1
+Gold 100
+Province 3
+Silver 14
+Moat 5
+Moat 11
+Village 3
+Duchy 2
+Market 5
+Silver 11

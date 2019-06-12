@@ -1,0 +1,17 @@
+3
+8
+7
+6
+Province 10
+Silver 11
+Duchy 7
+Laboratory 99
+Smithy 3
+Adventurer 10
+Silver 5
+Copper 1
+Estate 10
+Festival 10
+Laboratory 6
+Estate 8
+Smithy 9

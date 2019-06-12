@@ -1,0 +1,15 @@
+1
+13
+8
+5
+Gold 100
+Province 8
+Bureaucrat 2
+Gold 11
+Silver 12
+Copper 5
+Mine 7
+Estate 6
+Thief 2
+Silver 12
+Duchy 8

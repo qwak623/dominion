@@ -1,0 +1,14 @@
+1
+17
+5
+5
+Gold 10
+Province 9
+Gold 100
+Library 9
+Silver 5
+Duchy 12
+Moneylender 5
+Library 2
+Chancellor 8
+Adventurer 10

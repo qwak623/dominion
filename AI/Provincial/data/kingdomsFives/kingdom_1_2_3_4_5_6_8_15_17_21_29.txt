@@ -1,0 +1,15 @@
+3
+6
+6
+8
+Duchy 10
+Silver 10
+Estate 12
+Mine 5
+Gold 100
+Copper 6
+Adventurer 9
+Adventurer 4
+Silver 2
+Village 9
+Chancellor 4

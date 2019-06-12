@@ -1,0 +1,15 @@
+0
+14
+7
+6
+Gold 9
+Laboratory 5
+Gold 100
+Silver 11
+Workshop 3
+Duchy 8
+Cellar 9
+Adventurer 9
+Copper 11
+Spy 12
+Province 6

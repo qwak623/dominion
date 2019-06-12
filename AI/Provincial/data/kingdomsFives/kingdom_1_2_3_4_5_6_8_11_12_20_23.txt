@@ -1,0 +1,16 @@
+1
+12
+6
+6
+Province 6
+Gold 12
+Gold 6
+Silver 12
+Feast 4
+Duchy 8
+Silver 5
+Duchy 6
+Gold 100
+Moneylender 2
+Duchy 5
+Province 3

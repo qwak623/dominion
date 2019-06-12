@@ -1,0 +1,16 @@
+3
+16
+6
+5
+Gold 7
+Province 7
+Silver 14
+Moat 8
+Moat 9
+Laboratory 7
+Cellar 8
+Gold 9
+Copper 12
+Gold 101
+Silver 7
+Chapel 8

@@ -1,0 +1,17 @@
+5
+14
+5
+5
+Province 7
+Gold 10
+CouncilRoom 101
+Silver 10
+Duchy 3
+CouncilRoom 7
+Duchy 6
+Silver 8
+Market 5
+Moneylender 8
+Silver 12
+Copper 6
+Chapel 7

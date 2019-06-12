@@ -1,0 +1,13 @@
+4
+10
+8
+7
+Province 9
+Bureaucrat 4
+Duchy 8
+Silver 5
+Estate 103
+Bureaucrat 13
+Festival 8
+Silver 13
+Chancellor 10

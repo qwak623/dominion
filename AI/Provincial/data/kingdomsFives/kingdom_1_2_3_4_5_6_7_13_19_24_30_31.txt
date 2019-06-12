@@ -1,0 +1,13 @@
+2
+15
+7
+5
+Gold 105
+Market 9
+Duchy 9
+Silver 11
+Festival 12
+Remodel 12
+Silver 4
+Duchy 10
+Gold 8

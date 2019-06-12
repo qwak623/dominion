@@ -1,0 +1,13 @@
+4
+12
+7
+7
+Province 10
+Gold 8
+Gold 100
+Library 9
+Duchy 13
+Silver 7
+Workshop 14
+Spy 8
+Village 6

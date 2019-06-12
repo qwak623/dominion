@@ -1,0 +1,19 @@
+2
+9
+8
+8
+Province 7
+Gold 5
+Province 2
+Militia 5
+Duchy 5
+Spy 2
+Copper 1
+Silver 11
+Adventurer 5
+Estate 5
+Gold 103
+Gold 10
+Province 9
+Festival 7
+Festival 9

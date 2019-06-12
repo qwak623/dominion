@@ -1,0 +1,15 @@
+7
+18
+8
+5
+Copper 1
+Gold 103
+Mine 9
+Gold 5
+Duchy 11
+Silver 12
+Smithy 2
+Province 6
+Chancellor 5
+Silver 11
+Adventurer 9

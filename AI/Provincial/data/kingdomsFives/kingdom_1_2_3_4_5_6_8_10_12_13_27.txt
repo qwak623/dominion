@@ -1,0 +1,15 @@
+2
+10
+11
+8
+Province 8
+Gold 100
+Thief 5
+Silver 13
+Province 8
+Copper 8
+Festival 14
+Estate 10
+Gold 15
+Adventurer 4
+Feast 3

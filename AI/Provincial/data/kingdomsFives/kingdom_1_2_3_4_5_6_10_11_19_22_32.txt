@@ -1,0 +1,13 @@
+7
+12
+6
+6
+Province 14
+Gold 105
+Market 5
+CouncilRoom 2
+Silver 12
+Cellar 9
+Estate 10
+Silver 5
+Workshop 3

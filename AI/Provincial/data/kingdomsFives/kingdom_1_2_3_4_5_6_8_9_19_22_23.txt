@@ -1,0 +1,17 @@
+1
+16
+6
+6
+Gold 99
+Province 4
+Silver 11
+Duchy 3
+Market 8
+Moat 7
+Estate 11
+Copper 10
+Market 3
+Copper 9
+Moat 9
+Gold 2
+Adventurer 3

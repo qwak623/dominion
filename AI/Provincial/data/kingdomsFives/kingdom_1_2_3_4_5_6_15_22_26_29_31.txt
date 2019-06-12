@@ -1,0 +1,14 @@
+3
+11
+7
+7
+Gold 102
+Silver 3
+Silver 10
+Copper 4
+Gold 4
+Estate 2
+Village 9
+Copper 2
+Woodcutter 5
+Silver 8

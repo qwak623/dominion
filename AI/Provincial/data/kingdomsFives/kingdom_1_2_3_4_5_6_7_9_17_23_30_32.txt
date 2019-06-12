@@ -1,0 +1,15 @@
+5
+14
+8
+8
+Gold 99
+Witch 9
+Silver 15
+Duchy 9
+Silver 5
+Moneylender 11
+Copper 7
+Province 12
+Gold 4
+Curse 3
+Bureaucrat 5

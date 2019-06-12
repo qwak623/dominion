@@ -18,14 +18,18 @@ namespace TestApp
             foreach (var item in new Subsets(numbers, 2))
                 WriteLine(item.Aggregate("", (e, f) => e + " " + f.ToString()));
 
-            //List<Card> cards = PresetGames.Get(Games.SizeDistortion).AddRequiredCards();
+            List<Card> cards = PresetGames.Get(Games.BigMoney).AddRequiredCards();
 
-            //User getFirst() => new ProvincialAI(BuyAgenda.Load(cards, "kaca"), "Kaca");
-            //User getSecond() => new ProvincialAI(BuyAgenda.Load(cards, "honza"), "Honza");
+            string first = "Tens";
+            var firstAgenda = BuyAgenda.Load(cards, "kingdomsTens");
+            User getFirst() => new ProvincialAI(firstAgenda, first);
+            string second = "Fives";
+            var secondAgenda = AI.BestFive.BuyAgendaExtensions.LoadBestFives(cards, "kingdomsFives");
+            User getSecond() => new ProvincialAI(secondAgenda, second);
 
-            //Game game = new Game(new User[] { getFirst(), getSecond() }, cards.GetKingdom(2), new MyLogger());
-            //var task = game.Play();
-            //var results = task.Result;
+            Game game = new Game(new User[] { getFirst(), getSecond() }, cards.GetKingdom(2), new MyLogger());
+            var task = game.Play();
+            var results = task.Result;
 
             ReadLine();
         }

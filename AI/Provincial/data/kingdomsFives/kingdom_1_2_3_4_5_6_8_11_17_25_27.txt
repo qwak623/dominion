@@ -1,0 +1,16 @@
+3
+15
+8
+5
+Copper 1
+Province 12
+Gold 102
+CouncilRoom 4
+Laboratory 8
+Gold 11
+Adventurer 9
+Gold 6
+Duchy 8
+Silver 10
+Smithy 7
+Smithy 8

@@ -1,0 +1,15 @@
+1
+14
+8
+8
+Gold 99
+Bureaucrat 5
+Silver 13
+Duchy 11
+Copper 12
+Estate 9
+Province 11
+Smithy 4
+Cellar 4
+Gold 6
+Festival 6

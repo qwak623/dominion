@@ -1,0 +1,19 @@
+6
+10
+8
+6
+Province 5
+Gold 6
+Bureaucrat 4
+Gold 6
+Gold 10
+Militia 5
+Silver 7
+Duchy 6
+Duchy 99
+Village 4
+Duchy 7
+Province 4
+Silver 10
+Militia 5
+Village 10

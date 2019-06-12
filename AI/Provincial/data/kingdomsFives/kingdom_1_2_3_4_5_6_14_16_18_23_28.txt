@@ -1,0 +1,16 @@
+5
+11
+6
+3
+Province 6
+Chapel 1
+Province 2
+Gold 100
+Silver 11
+Silver 4
+Gardens 10
+Gold 2
+ThroneRoom 8
+Moneylender 8
+Library 8
+Estate 8

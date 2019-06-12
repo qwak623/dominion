@@ -1,0 +1,15 @@
+0
+11
+7
+5
+Gold 102
+Laboratory 6
+Province 9
+Silver 13
+Moneylender 8
+Silver 15
+Copper 2
+Moneylender 6
+Village 7
+Gold 8
+Gardens 5

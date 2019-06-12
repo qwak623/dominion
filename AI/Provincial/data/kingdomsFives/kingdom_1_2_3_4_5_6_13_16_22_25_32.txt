@@ -1,0 +1,16 @@
+5
+11
+6
+5
+Gold 6
+Gold 105
+Province 4
+Silver 3
+Silver 14
+Workshop 11
+Gold 9
+Moat 7
+Smithy 7
+Copper 2
+Workshop 6
+Festival 5

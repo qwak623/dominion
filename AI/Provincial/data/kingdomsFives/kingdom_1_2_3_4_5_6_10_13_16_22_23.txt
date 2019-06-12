@@ -1,0 +1,14 @@
+6
+11
+6
+6
+Province 8
+Gold 6
+Province 3
+Silver 12
+Gold 99
+Moneylender 9
+Moat 8
+Gold 5
+Duchy 6
+Duchy 2

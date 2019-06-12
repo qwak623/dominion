@@ -1,0 +1,15 @@
+7
+2
+13
+8
+Gold 101
+Duchy 6
+Silver 4
+Estate 9
+Militia 10
+Copper 5
+Market 7
+Workshop 3
+Gold 10
+Silver 11
+Smithy 4

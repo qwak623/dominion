@@ -1,0 +1,16 @@
+4
+16
+8
+8
+Gold 5
+Witch 5
+Gold 10
+Gold 3
+Silver 10
+Gold 99
+Copper 6
+Province 9
+Chancellor 13
+Duchy 4
+Chancellor 8
+CouncilRoom 6

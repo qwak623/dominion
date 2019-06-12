@@ -1,0 +1,17 @@
+5
+13
+6
+6
+Gold 100
+Library 8
+Silver 10
+Province 7
+Province 8
+Silver 11
+Festival 4
+Copper 6
+Thief 4
+Duchy 3
+Festival 1
+Duchy 3
+Militia 5

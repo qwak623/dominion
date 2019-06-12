@@ -1,0 +1,18 @@
+5
+13
+8
+8
+Bureaucrat 5
+Province 8
+Duchy 7
+Silver 3
+Province 7
+Gold 3
+Market 12
+Copper 3
+Mine 9
+Estate 7
+Gold 100
+Adventurer 10
+Silver 13
+Smithy 15

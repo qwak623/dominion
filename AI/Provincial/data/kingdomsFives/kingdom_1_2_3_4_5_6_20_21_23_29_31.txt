@@ -1,0 +1,15 @@
+0
+11
+17
+8
+Province 9
+Gold 100
+Militia 8
+Silver 12
+Moneylender 11
+Gold 8
+Village 9
+Province 11
+Gold 8
+Woodcutter 14
+Silver 13

@@ -1,0 +1,14 @@
+2
+12
+5
+4
+Province 9
+Gold 99
+Silver 9
+Moat 7
+CouncilRoom 5
+Duchy 14
+Chapel 1
+Copper 12
+Estate 9
+Laboratory 14

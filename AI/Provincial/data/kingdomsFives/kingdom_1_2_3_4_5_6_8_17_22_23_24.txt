@@ -1,0 +1,16 @@
+4
+14
+6
+6
+Gold 6
+Silver 11
+Moneylender 3
+Moat 5
+Duchy 12
+Moat 2
+Remodel 3
+Laboratory 8
+Gold 101
+Province 9
+Silver 4
+Moat 4

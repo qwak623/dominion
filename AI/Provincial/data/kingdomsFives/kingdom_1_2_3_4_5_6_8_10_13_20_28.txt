@@ -1,0 +1,17 @@
+6
+11
+17
+8
+Gold 100
+Militia 6
+Festival 10
+Duchy 3
+Silver 6
+Silver 15
+Copper 12
+Province 5
+Gold 4
+Militia 9
+Estate 2
+ThroneRoom 3
+Cellar 10

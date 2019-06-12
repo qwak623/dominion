@@ -1,0 +1,12 @@
+1
+18
+6
+6
+Gold 11
+Laboratory 9
+Duchy 9
+Bureaucrat 6
+Silver 12
+CouncilRoom 6
+Silver 13
+Gold 99

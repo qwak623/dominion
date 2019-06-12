@@ -1,0 +1,14 @@
+4
+11
+8
+8
+Gold 9
+Province 13
+Witch 4
+Silver 13
+Moneylender 6
+Gold 101
+Province 13
+Silver 10
+Moneylender 6
+Gold 12

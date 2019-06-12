@@ -1,0 +1,18 @@
+7
+16
+6
+4
+Gold 10
+Silver 10
+Gardens 6
+Silver 7
+Duchy 3
+Silver 11
+Gold 3
+Moneylender 7
+Gold 100
+Silver 2
+Moneylender 11
+Feast 6
+Province 11
+Gold 14

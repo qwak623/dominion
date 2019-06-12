@@ -1,0 +1,14 @@
+4
+22
+8
+7
+Gold 8
+Silver 15
+Gold 12
+Festival 10
+Gold 100
+Gold 3
+Chancellor 6
+Chapel 3
+Cellar 7
+Estate 11

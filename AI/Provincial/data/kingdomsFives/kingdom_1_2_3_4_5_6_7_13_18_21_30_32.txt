@@ -1,0 +1,14 @@
+2
+15
+18
+8
+Gold 5
+Witch 16
+Duchy 4
+Silver 13
+Silver 11
+Festival 8
+Copper 6
+Silver 11
+Curse 6
+Gold 100

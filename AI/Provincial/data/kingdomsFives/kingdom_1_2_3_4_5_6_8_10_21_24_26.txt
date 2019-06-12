@@ -1,0 +1,18 @@
+3
+8
+7
+6
+Province 5
+Gold 2
+Mine 1
+Adventurer 10
+Silver 10
+Silver 11
+Duchy 6
+Remodel 9
+Adventurer 102
+Cellar 3
+Spy 7
+Cellar 11
+Province 9
+Remodel 6

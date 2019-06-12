@@ -1,0 +1,16 @@
+3
+23
+13
+8
+Militia 5
+Gold 11
+Gold 103
+Festival 4
+Silver 10
+CouncilRoom 7
+Copper 9
+Bureaucrat 7
+Duchy 9
+Copper 8
+Bureaucrat 7
+Festival 11

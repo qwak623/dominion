@@ -1,0 +1,16 @@
+4
+7
+16
+7
+Province 11
+Gold 9
+Festival 12
+Bureaucrat 2
+Smithy 2
+Silver 6
+Gold 101
+Gold 6
+Silver 11
+Festival 6
+Silver 12
+Copper 4

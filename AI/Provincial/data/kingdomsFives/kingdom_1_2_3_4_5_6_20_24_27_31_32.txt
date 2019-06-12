@@ -1,0 +1,16 @@
+7
+14
+8
+7
+Estate 1
+Gold 101
+Silver 12
+Thief 6
+Workshop 4
+Copper 6
+Gold 8
+Province 9
+Gold 6
+Duchy 4
+Duchy 10
+Silver 11

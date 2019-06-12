@@ -1,0 +1,17 @@
+3
+16
+5
+5
+Province 7
+Gold 6
+Smithy 1
+Gold 2
+Silver 11
+Gold 100
+Copper 6
+Duchy 7
+Silver 2
+Copper 3
+Remodel 8
+Province 9
+Silver 4

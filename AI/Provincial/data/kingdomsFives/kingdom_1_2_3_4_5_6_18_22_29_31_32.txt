@@ -1,0 +1,17 @@
+5
+15
+7
+7
+Gold 2
+Gold 7
+Gold 100
+Silver 11
+Moat 9
+Woodcutter 12
+Workshop 4
+Duchy 9
+Library 2
+Village 10
+Estate 12
+Library 9
+Workshop 2

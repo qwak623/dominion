@@ -1,0 +1,14 @@
+6
+17
+8
+7
+Bureaucrat 4
+Gardens 6
+Silver 10
+Gardens 16
+Duchy 10
+Copper 6
+Estate 12
+Province 9
+Estate 9
+Gold 13

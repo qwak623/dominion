@@ -1,0 +1,16 @@
+5
+13
+8
+8
+Gold 5
+Witch 3
+Silver 11
+Workshop 2
+Chancellor 3
+Witch 100
+Province 7
+Laboratory 10
+Copper 11
+Workshop 4
+Chancellor 3
+Duchy 8

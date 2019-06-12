@@ -1,0 +1,16 @@
+4
+10
+8
+7
+Province 5
+Gold 7
+Province 11
+Militia 4
+Province 10
+Silver 10
+Duchy 9
+Militia 9
+Gold 103
+Duchy 2
+ThroneRoom 7
+Thief 12

@@ -1,0 +1,16 @@
+4
+12
+8
+7
+Gold 11
+Gold 100
+Province 11
+Witch 4
+Silver 9
+Copper 9
+Copper 3
+Chancellor 8
+Estate 3
+Silver 6
+Silver 12
+Moneylender 14

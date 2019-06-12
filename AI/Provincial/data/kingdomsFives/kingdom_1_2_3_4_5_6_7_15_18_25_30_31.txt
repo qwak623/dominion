@@ -1,0 +1,13 @@
+2
+13
+6
+6
+Gold 5
+Library 3
+Silver 10
+Province 8
+Silver 11
+Smithy 9
+Copper 2
+Estate 2
+Duchy 11

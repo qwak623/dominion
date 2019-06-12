@@ -1,0 +1,15 @@
+2
+14
+8
+8
+Gold 6
+Province 16
+Witch 13
+Silver 12
+Province 13
+Militia 8
+Silver 9
+Militia 6
+Gold 100
+Laboratory 6
+Copper 5

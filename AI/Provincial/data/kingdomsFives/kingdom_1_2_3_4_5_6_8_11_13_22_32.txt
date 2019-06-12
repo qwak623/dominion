@@ -1,0 +1,20 @@
+3
+16
+6
+3
+Gold 8
+Silver 9
+Province 5
+Province 1
+Gold 102
+Silver 12
+Moat 4
+Copper 7
+Silver 3
+CouncilRoom 8
+Festival 4
+Estate 9
+Moat 6
+Moat 9
+Moat 2
+Moat 9

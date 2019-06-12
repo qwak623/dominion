@@ -1,0 +1,17 @@
+6
+11
+6
+6
+Gold 9
+Silver 6
+Silver 11
+Province 7
+Silver 13
+Gold 101
+Gold 11
+Duchy 2
+Moat 8
+Festival 12
+Moat 10
+Bureaucrat 9
+Province 9

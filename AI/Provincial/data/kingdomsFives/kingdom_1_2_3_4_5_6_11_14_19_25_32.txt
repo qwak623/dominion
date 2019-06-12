@@ -1,0 +1,16 @@
+3
+13
+14
+7
+Gold 2
+Workshop 3
+Market 7
+Gardens 11
+CouncilRoom 3
+Copper 1
+Silver 6
+Copper 3
+Estate 13
+Gold 102
+Silver 13
+Duchy 10

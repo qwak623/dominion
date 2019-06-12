@@ -1,0 +1,15 @@
+3
+14
+10
+8
+Gold 101
+Silver 2
+Gold 6
+Silver 11
+Thief 6
+Remodel 2
+Duchy 6
+Copper 8
+Remodel 7
+Copper 11
+Thief 8

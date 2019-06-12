@@ -1,0 +1,19 @@
+4
+17
+14
+8
+Gold 5
+Province 8
+Duchy 5
+Workshop 4
+Gold 101
+Province 8
+Gardens 8
+Province 6
+Copper 4
+Gold 8
+Estate 8
+Province 12
+Workshop 9
+Silver 11
+Chancellor 7

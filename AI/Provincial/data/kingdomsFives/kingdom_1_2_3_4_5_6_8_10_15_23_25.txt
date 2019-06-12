@@ -1,0 +1,15 @@
+5
+14
+6
+6
+Province 12
+Gold 6
+Smithy 2
+Silver 10
+Copper 8
+Silver 7
+Chancellor 1
+Gold 102
+Estate 14
+Gold 8
+Adventurer 6

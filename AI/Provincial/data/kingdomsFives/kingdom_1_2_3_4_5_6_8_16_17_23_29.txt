@@ -1,0 +1,15 @@
+5
+19
+5
+5
+Gold 7
+Adventurer 2
+Laboratory 11
+Province 2
+Adventurer 9
+Silver 11
+Silver 9
+Moneylender 12
+Gold 101
+Silver 13
+Village 6

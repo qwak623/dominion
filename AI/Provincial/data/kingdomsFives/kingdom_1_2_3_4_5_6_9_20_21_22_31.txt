@@ -1,0 +1,17 @@
+4
+11
+8
+6
+Gold 100
+Mine 7
+Silver 5
+Militia 11
+Silver 7
+Province 14
+Duchy 11
+Woodcutter 5
+Province 8
+Gold 2
+Gold 8
+Silver 11
+Gold 3

@@ -1,0 +1,16 @@
+7
+12
+5
+5
+Province 6
+Gold 102
+Library 8
+Silver 14
+Copper 7
+Estate 6
+Workshop 8
+Estate 10
+Woodcutter 11
+Duchy 2
+Workshop 10
+Silver 5

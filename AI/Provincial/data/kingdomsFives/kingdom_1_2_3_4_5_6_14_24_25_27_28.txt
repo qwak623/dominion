@@ -1,0 +1,18 @@
+1
+11
+10
+8
+Duchy 2
+Gardens 11
+Duchy 8
+Silver 5
+Copper 3
+Estate 7
+Smithy 10
+Remodel 7
+ThroneRoom 7
+Province 9
+Silver 14
+Remodel 10
+Estate 8
+Thief 102

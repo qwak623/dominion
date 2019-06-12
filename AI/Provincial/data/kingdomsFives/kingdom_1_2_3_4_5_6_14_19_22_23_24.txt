@@ -1,0 +1,16 @@
+5
+12
+18
+8
+Market 102
+Gardens 13
+Silver 11
+Duchy 4
+Duchy 9
+Moat 2
+Market 9
+Remodel 6
+Estate 4
+Copper 11
+Province 6
+Moneylender 10

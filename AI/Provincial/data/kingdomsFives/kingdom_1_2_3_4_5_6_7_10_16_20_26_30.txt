@@ -1,0 +1,17 @@
+1
+20
+8
+8
+Gold 6
+Witch 4
+Silver 5
+Cellar 1
+Province 5
+Silver 11
+Witch 99
+Silver 4
+Witch 9
+Spy 5
+Chapel 7
+Estate 4
+Duchy 6

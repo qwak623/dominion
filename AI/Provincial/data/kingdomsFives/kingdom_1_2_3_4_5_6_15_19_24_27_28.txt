@@ -1,0 +1,17 @@
+4
+12
+7
+7
+Silver 1
+Province 2
+Province 10
+Gold 100
+Silver 12
+Chancellor 9
+Province 6
+ThroneRoom 12
+Remodel 9
+Market 2
+Market 11
+Duchy 11
+Chancellor 5

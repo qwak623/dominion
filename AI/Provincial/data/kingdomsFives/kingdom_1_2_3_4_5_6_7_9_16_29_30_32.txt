@@ -1,0 +1,17 @@
+7
+12
+7
+8
+Witch 5
+Duchy 14
+Gold 7
+Gold 101
+Silver 10
+Copper 9
+Copper 9
+Bureaucrat 13
+Estate 5
+Province 4
+Estate 2
+Province 6
+Duchy 14

@@ -1,0 +1,15 @@
+0
+10
+7
+7
+Province 9
+Province 12
+Gold 5
+Gold 8
+Silver 9
+Gold 100
+Gold 11
+Gardens 5
+Woodcutter 10
+Village 8
+Village 6

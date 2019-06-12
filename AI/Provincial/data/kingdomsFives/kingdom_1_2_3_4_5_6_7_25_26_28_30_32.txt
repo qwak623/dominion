@@ -1,0 +1,19 @@
+7
+9
+8
+8
+Province 7
+Gold 100
+Witch 5
+Gold 9
+Silver 12
+Copper 8
+Witch 3
+Curse 6
+Gold 12
+Spy 10
+Curse 5
+Workshop 10
+Silver 3
+Duchy 8
+Silver 9

@@ -1,0 +1,14 @@
+0
+14
+8
+5
+Gold 101
+Gold 5
+Gold 10
+Silver 12
+ThroneRoom 9
+Moat 11
+Cellar 4
+Copper 6
+ThroneRoom 10
+Estate 5

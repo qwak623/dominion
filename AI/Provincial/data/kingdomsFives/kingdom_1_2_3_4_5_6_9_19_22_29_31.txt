@@ -1,0 +1,16 @@
+7
+15
+8
+6
+Gold 9
+Gold 99
+Silver 12
+Moat 6
+Village 13
+Moat 1
+Market 12
+Bureaucrat 7
+Estate 5
+Woodcutter 8
+Province 4
+Village 5

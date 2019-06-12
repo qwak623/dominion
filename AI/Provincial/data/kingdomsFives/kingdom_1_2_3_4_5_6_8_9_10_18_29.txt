@@ -1,0 +1,17 @@
+0
+15
+7
+5
+Gold 13
+Gold 101
+Library 1
+Silver 6
+Copper 5
+Estate 7
+Duchy 12
+Adventurer 5
+Bureaucrat 12
+Cellar 2
+Library 9
+Village 2
+Province 6

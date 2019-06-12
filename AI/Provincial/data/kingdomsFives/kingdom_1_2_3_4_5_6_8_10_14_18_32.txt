@@ -1,0 +1,15 @@
+0
+7
+5
+4
+Province 9
+Gold 102
+Library 11
+Silver 10
+Cellar 7
+Gold 5
+Gardens 4
+Adventurer 6
+Copper 5
+Copper 3
+Adventurer 3

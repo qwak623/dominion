@@ -1,0 +1,17 @@
+3
+12
+15
+8
+Duchy 3
+Silver 5
+Gardens 13
+Copper 3
+Estate 13
+Province 8
+Duchy 4
+Militia 5
+Smithy 3
+Gardens 8
+Copper 2
+Province 7
+Silver 12

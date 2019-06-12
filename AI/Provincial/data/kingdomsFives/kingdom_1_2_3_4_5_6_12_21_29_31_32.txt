@@ -1,0 +1,16 @@
+5
+23
+8
+7
+Mine 1
+Province 5
+Gold 10
+Silver 5
+Silver 12
+Woodcutter 4
+Mine 4
+Workshop 8
+Feast 9
+Woodcutter 1
+Duchy 11
+Gold 99

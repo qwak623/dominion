@@ -1,0 +1,14 @@
+7
+14
+7
+7
+Gold 7
+Mine 14
+Silver 8
+Province 8
+Duchy 3
+Duchy 5
+Smithy 10
+Gold 102
+Silver 12
+Workshop 8

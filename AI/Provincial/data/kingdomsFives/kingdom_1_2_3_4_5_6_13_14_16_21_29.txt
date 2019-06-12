@@ -1,0 +1,15 @@
+6
+7
+5
+5
+Province 6
+Gold 100
+Silver 13
+Mine 10
+Chapel 4
+Copper 3
+Duchy 10
+Gold 9
+Festival 12
+Gardens 4
+Silver 4

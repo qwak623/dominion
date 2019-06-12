@@ -1,0 +1,15 @@
+4
+8
+6
+5
+Market 4
+Province 10
+Gold 100
+Silver 13
+Province 4
+Village 11
+Duchy 10
+Chancellor 6
+Cellar 3
+Bureaucrat 2
+Gold 6

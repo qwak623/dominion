@@ -1,0 +1,15 @@
+3
+10
+5
+5
+Gold 5
+Festival 10
+Province 5
+Silver 8
+Moat 8
+Province 6
+Silver 12
+Gold 100
+Village 5
+Province 9
+Duchy 8

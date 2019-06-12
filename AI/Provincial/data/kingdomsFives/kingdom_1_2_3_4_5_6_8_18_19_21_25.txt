@@ -1,0 +1,18 @@
+7
+16
+7
+4
+Smithy 1
+Gold 100
+Silver 10
+Adventurer 8
+Silver 12
+Adventurer 14
+Province 5
+Market 5
+Copper 13
+Library 9
+Duchy 3
+Estate 9
+Duchy 3
+Smithy 2

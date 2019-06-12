@@ -1,0 +1,17 @@
+7
+20
+6
+5
+Gold 11
+Silver 13
+Chapel 1
+Militia 10
+Remodel 6
+Bureaucrat 6
+Militia 4
+Silver 11
+Province 10
+Duchy 3
+Bureaucrat 2
+Silver 9
+Library 3

@@ -1,0 +1,16 @@
+2
+3
+12
+8
+Province 8
+Estate 1
+Duchy 5
+Laboratory 7
+Province 6
+Gardens 13
+Gold 101
+Duchy 10
+Workshop 11
+Estate 8
+Smithy 12
+Copper 12

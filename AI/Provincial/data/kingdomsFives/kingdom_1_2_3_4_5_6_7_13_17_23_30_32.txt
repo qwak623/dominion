@@ -1,0 +1,15 @@
+0
+13
+8
+8
+Gold 103
+Witch 3
+Silver 12
+Province 9
+Copper 5
+Duchy 7
+Gold 10
+Estate 10
+Moneylender 8
+Silver 13
+Silver 5

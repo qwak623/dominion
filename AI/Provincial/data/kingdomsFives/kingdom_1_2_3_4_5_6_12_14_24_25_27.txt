@@ -1,0 +1,18 @@
+5
+11
+15
+8
+Gardens 12
+Gold 6
+Silver 11
+Copper 2
+Gold 101
+Estate 9
+Duchy 10
+Thief 9
+Smithy 10
+Remodel 5
+Copper 8
+Duchy 1
+Estate 12
+Copper 12

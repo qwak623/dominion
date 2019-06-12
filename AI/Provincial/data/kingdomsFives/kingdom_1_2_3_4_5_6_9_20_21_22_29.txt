@@ -1,0 +1,15 @@
+1
+11
+8
+8
+Province 13
+Gold 10
+Mine 8
+Silver 12
+Bureaucrat 10
+Silver 4
+Duchy 12
+Moat 9
+Estate 5
+Duchy 6
+Mine 8

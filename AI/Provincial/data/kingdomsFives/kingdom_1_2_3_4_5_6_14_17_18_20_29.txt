@@ -1,0 +1,15 @@
+6
+19
+5
+4
+Laboratory 9
+Province 5
+Province 12
+Silver 7
+Province 5
+Silver 8
+Village 9
+Silver 12
+Laboratory 13
+Militia 11
+Militia 11

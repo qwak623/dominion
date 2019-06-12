@@ -1,0 +1,16 @@
+4
+20
+8
+8
+Gold 101
+Bureaucrat 11
+Province 8
+Silver 11
+ThroneRoom 4
+Silver 12
+Copper 6
+Estate 7
+Gold 11
+Woodcutter 9
+Cellar 4
+Cellar 10

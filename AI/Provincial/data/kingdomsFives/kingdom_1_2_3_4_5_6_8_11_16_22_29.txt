@@ -1,0 +1,13 @@
+5
+11
+6
+5
+Gold 100
+Adventurer 9
+Silver 10
+Moat 9
+Copper 9
+Province 4
+Estate 5
+Estate 9
+Silver 14

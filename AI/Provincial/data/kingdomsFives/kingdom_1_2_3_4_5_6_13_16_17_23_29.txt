@@ -1,0 +1,17 @@
+4
+16
+7
+4
+Gold 7
+Gold 100
+Laboratory 10
+Silver 5
+Silver 12
+Gold 10
+Festival 5
+Chapel 3
+Province 9
+Duchy 2
+Laboratory 9
+Copper 10
+Moneylender 12

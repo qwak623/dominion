@@ -1,0 +1,14 @@
+6
+12
+8
+6
+Silver 6
+Feast 1
+Gardens 12
+Duchy 5
+Province 9
+Copper 1
+Estate 7
+Militia 8
+Silver 12
+Workshop 8

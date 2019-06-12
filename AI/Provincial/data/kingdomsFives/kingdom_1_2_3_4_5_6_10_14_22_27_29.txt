@@ -1,0 +1,15 @@
+4
+12
+11
+8
+Gardens 13
+Gold 103
+Thief 6
+Silver 6
+Village 10
+Duchy 13
+Gardens 4
+Gold 6
+Duchy 11
+Cellar 12
+Estate 7

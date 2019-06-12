@@ -1,0 +1,15 @@
+0
+14
+8
+4
+Spy 2
+Gold 3
+Province 9
+Gold 103
+Silver 6
+Silver 12
+Duchy 5
+Workshop 3
+Copper 7
+Village 7
+Curse 9

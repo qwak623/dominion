@@ -1,0 +1,16 @@
+6
+21
+7
+5
+Gold 9
+Province 9
+Bureaucrat 2
+Festival 5
+Mine 11
+Duchy 102
+Silver 8
+Adventurer 4
+Duchy 12
+Silver 10
+Festival 9
+Bureaucrat 10

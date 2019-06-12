@@ -1,0 +1,16 @@
+0
+10
+7
+6
+Gold 4
+Bureaucrat 1
+Province 8
+Library 14
+Gold 102
+Silver 10
+Feast 8
+Feast 1
+Market 14
+Library 5
+Library 13
+Province 11

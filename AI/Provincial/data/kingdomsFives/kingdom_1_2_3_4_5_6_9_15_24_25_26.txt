@@ -1,0 +1,17 @@
+2
+21
+8
+8
+Bureaucrat 5
+Duchy 7
+Gold 102
+Silver 4
+Province 13
+Smithy 8
+Spy 11
+Gold 10
+Remodel 5
+Copper 3
+Silver 10
+Estate 2
+Estate 5

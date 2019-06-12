@@ -1,0 +1,18 @@
+3
+12
+6
+6
+Province 9
+Gold 101
+Market 9
+Market 2
+Bureaucrat 5
+Smithy 5
+Bureaucrat 10
+Gardens 10
+Silver 11
+Duchy 5
+CouncilRoom 8
+Market 7
+Gold 7
+Silver 7

@@ -1,0 +1,16 @@
+6
+11
+13
+8
+Gardens 14
+Silver 5
+Copper 8
+Gold 100
+Province 2
+Province 4
+Estate 6
+Gardens 10
+Gold 5
+Gold 13
+Gardens 11
+Bureaucrat 12

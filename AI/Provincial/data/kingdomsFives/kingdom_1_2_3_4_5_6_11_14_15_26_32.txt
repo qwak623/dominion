@@ -1,0 +1,19 @@
+7
+9
+5
+4
+CouncilRoom 1
+Gold 99
+Silver 5
+Duchy 6
+Gardens 2
+CouncilRoom 3
+Silver 12
+Spy 11
+Copper 6
+Silver 3
+Workshop 8
+Gardens 11
+Silver 11
+Spy 12
+Estate 9

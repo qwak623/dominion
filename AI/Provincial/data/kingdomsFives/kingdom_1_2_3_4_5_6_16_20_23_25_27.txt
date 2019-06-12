@@ -1,0 +1,16 @@
+6
+16
+16
+7
+Gold 7
+Province 5
+Silver 13
+Smithy 11
+Duchy 6
+Silver 6
+Thief 5
+Chapel 5
+Gold 99
+Copper 3
+Province 14
+Gold 7

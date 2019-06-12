@@ -1,0 +1,15 @@
+5
+15
+8
+8
+Gold 101
+Silver 13
+Workshop 5
+Market 5
+Duchy 6
+Gold 4
+Duchy 4
+Market 11
+Duchy 2
+Duchy 5
+Adventurer 4

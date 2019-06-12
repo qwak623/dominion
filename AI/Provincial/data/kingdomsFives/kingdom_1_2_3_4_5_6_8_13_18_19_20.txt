@@ -1,0 +1,15 @@
+3
+8
+6
+6
+Province 13
+Gold 99
+Library 9
+Duchy 5
+Silver 8
+Copper 8
+Festival 13
+Estate 6
+Market 3
+Adventurer 5
+Gold 11

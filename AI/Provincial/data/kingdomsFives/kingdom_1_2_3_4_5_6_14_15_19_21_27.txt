@@ -1,0 +1,16 @@
+6
+13
+8
+7
+Market 3
+Chancellor 2
+Gold 11
+Gardens 12
+Silver 6
+Copper 9
+Silver 6
+Province 102
+Thief 7
+Copper 6
+Gold 5
+Silver 11

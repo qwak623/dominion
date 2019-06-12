@@ -1,0 +1,18 @@
+0
+14
+13
+8
+Gold 12
+CouncilRoom 7
+Province 5
+Gold 101
+Bureaucrat 8
+Mine 8
+Silver 11
+CouncilRoom 4
+Militia 3
+Copper 1
+Silver 8
+Mine 12
+Duchy 12
+Mine 10

@@ -1,0 +1,12 @@
+3
+16
+8
+8
+Gold 1
+Gold 102
+Gold 10
+Festival 10
+Province 4
+Province 9
+Gold 5
+Silver 10

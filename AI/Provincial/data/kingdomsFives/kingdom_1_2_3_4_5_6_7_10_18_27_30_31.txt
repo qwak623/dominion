@@ -1,0 +1,14 @@
+2
+13
+8
+8
+Province 8
+Gold 8
+Witch 2
+Silver 9
+Gold 12
+Witch 7
+Library 8
+Cellar 3
+Gold 102
+Thief 5

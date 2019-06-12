@@ -1,0 +1,17 @@
+6
+15
+19
+8
+Bureaucrat 4
+Silver 4
+Province 12
+Estate 12
+Province 7
+Festival 3
+Province 103
+Militia 6
+Militia 8
+Silver 13
+Copper 11
+Spy 5
+Silver 10

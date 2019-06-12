@@ -1,0 +1,15 @@
+4
+13
+19
+8
+Province 99
+Silver 5
+Gardens 8
+Gold 4
+Province 4
+Laboratory 6
+Silver 13
+Adventurer 4
+Laboratory 3
+Province 8
+Cellar 11

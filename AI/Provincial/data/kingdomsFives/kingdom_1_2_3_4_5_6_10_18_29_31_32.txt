@@ -1,0 +1,16 @@
+1
+16
+7
+6
+Gold 12
+Library 14
+Province 9
+Gold 101
+Gold 2
+Gold 2
+Library 9
+Silver 12
+Cellar 4
+Estate 2
+Duchy 12
+Woodcutter 3

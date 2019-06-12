@@ -1,0 +1,16 @@
+1
+10
+14
+8
+Market 12
+Duchy 12
+Province 7
+Silver 2
+Silver 10
+Silver 6
+Workshop 2
+Copper 3
+Workshop 1
+Woodcutter 102
+Market 8
+Estate 9

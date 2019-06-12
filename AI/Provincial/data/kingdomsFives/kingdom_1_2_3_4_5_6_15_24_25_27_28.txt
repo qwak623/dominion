@@ -1,0 +1,14 @@
+2
+19
+8
+4
+Thief 4
+Gold 100
+Gold 4
+Silver 14
+Copper 1
+Smithy 7
+Chancellor 3
+Duchy 9
+Remodel 4
+Silver 4

@@ -1,0 +1,17 @@
+3
+20
+7
+5
+Gold 4
+Silver 8
+Gardens 7
+Gold 101
+Province 6
+Feast 11
+Silver 10
+Duchy 3
+Adventurer 9
+Village 4
+Duchy 10
+Province 2
+Moneylender 12

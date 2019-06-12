@@ -1,0 +1,15 @@
+1
+10
+6
+4
+Gold 103
+Province 13
+Gold 11
+Province 2
+Silver 15
+Duchy 7
+Woodcutter 7
+Spy 10
+Woodcutter 3
+Chapel 3
+Spy 12

@@ -1,0 +1,14 @@
+2
+9
+8
+4
+Gold 9
+Province 8
+Gold 100
+CouncilRoom 4
+CouncilRoom 5
+Copper 1
+Silver 10
+Workshop 12
+CouncilRoom 4
+Moneylender 3

@@ -1,0 +1,17 @@
+5
+9
+12
+7
+Adventurer 5
+Duchy 6
+Duchy 7
+Festival 7
+Gold 3
+Gardens 7
+Workshop 12
+Estate 5
+Duchy 2
+Estate 100
+Silver 13
+Gold 5
+Mine 10

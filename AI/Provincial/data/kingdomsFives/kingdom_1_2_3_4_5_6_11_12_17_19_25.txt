@@ -1,0 +1,16 @@
+1
+15
+7
+6
+Gold 100
+Gold 9
+Province 5
+CouncilRoom 1
+Silver 10
+Smithy 3
+Feast 5
+Duchy 9
+Smithy 9
+Feast 3
+Market 7
+Laboratory 6

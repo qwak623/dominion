@@ -1,0 +1,15 @@
+4
+10
+8
+4
+Province 6
+Witch 3
+Gold 9
+Silver 5
+Province 4
+Gardens 8
+Silver 13
+Gold 7
+Copper 5
+Mine 10
+Gold 105

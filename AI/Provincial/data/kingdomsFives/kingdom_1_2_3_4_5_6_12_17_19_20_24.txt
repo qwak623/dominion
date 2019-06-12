@@ -1,0 +1,17 @@
+7
+9
+6
+5
+Gold 5
+Province 11
+Laboratory 7
+Province 7
+Militia 9
+Gold 101
+Remodel 1
+Province 7
+Duchy 9
+Silver 11
+Market 12
+Silver 10
+Militia 1

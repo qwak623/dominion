@@ -1,0 +1,15 @@
+0
+14
+13
+7
+Duchy 4
+Woodcutter 7
+Estate 10
+Estate 7
+Province 13
+Province 10
+Adventurer 6
+Copper 13
+Copper 5
+Gold 102
+Copper 5

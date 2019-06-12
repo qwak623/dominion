@@ -1,0 +1,14 @@
+2
+10
+7
+8
+Province 8
+Bureaucrat 9
+Bureaucrat 11
+Gardens 11
+Estate 10
+Duchy 9
+Copper 11
+Copper 11
+Province 101
+CouncilRoom 7

@@ -1,0 +1,13 @@
+6
+12
+7
+7
+Gold 101
+Silver 7
+Smithy 5
+Market 11
+Duchy 2
+Gold 7
+Province 9
+Thief 8
+Silver 12

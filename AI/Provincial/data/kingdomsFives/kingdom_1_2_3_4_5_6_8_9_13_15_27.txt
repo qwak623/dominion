@@ -1,0 +1,14 @@
+7
+12
+7
+6
+Bureaucrat 2
+Province 8
+Gold 100
+Festival 7
+Festival 3
+Duchy 10
+Silver 4
+Province 5
+Silver 15
+Thief 3

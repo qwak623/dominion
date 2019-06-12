@@ -1,0 +1,16 @@
+1
+13
+6
+5
+Province 9
+Gold 6
+Gold 12
+Gold 101
+Silver 4
+Market 8
+Smithy 11
+Silver 11
+Smithy 5
+Silver 6
+Chancellor 4
+Moneylender 10

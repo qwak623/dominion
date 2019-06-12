@@ -1,0 +1,16 @@
+0
+15
+14
+6
+Duchy 13
+Gold 99
+Library 4
+Gold 7
+Silver 8
+Silver 14
+Workshop 7
+ThroneRoom 9
+Spy 8
+Library 6
+Woodcutter 8
+Gold 5

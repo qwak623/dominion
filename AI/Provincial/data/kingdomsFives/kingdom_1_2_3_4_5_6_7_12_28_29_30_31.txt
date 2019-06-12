@@ -1,0 +1,14 @@
+5
+14
+8
+8
+Witch 5
+Duchy 7
+Silver 14
+Copper 6
+Province 7
+Woodcutter 3
+Duchy 6
+Village 3
+Silver 9
+ThroneRoom 100

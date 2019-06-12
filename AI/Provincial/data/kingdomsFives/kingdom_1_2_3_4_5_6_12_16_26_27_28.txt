@@ -1,0 +1,13 @@
+2
+12
+6
+6
+Gold 4
+Province 10
+Gold 103
+Chapel 1
+Silver 14
+Estate 10
+Feast 4
+Duchy 6
+Spy 2

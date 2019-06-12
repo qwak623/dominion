@@ -1,0 +1,16 @@
+0
+16
+8
+8
+Library 1
+Gold 103
+Province 9
+Silver 13
+Smithy 10
+Copper 7
+Province 8
+Estate 4
+Adventurer 7
+Estate 4
+Silver 8
+Smithy 12

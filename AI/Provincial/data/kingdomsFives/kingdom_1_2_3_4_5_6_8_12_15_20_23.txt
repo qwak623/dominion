@@ -1,0 +1,16 @@
+2
+11
+15
+8
+Silver 11
+Province 8
+Silver 3
+Province 4
+Estate 7
+Duchy 6
+Militia 11
+Chancellor 9
+Copper 13
+Gold 8
+Gold 8
+Feast 8

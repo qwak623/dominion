@@ -1,0 +1,16 @@
+2
+14
+12
+7
+Province 2
+Province 2
+Duchy 4
+Gold 100
+Silver 14
+Spy 8
+Library 11
+Woodcutter 7
+Village 7
+Copper 10
+Estate 6
+Silver 12

@@ -1,0 +1,13 @@
+5
+14
+8
+8
+Witch 4
+Gold 101
+Silver 10
+Remodel 3
+Witch 10
+Remodel 10
+Province 5
+Silver 11
+Laboratory 3

@@ -1,0 +1,18 @@
+5
+11
+7
+7
+Gold 99
+Mine 3
+Silver 12
+Smithy 4
+Gold 10
+Duchy 6
+Copper 5
+Province 8
+Copper 6
+Moneylender 7
+Silver 11
+Estate 5
+Moneylender 4
+Estate 7

@@ -1,0 +1,13 @@
+0
+14
+7
+7
+Gold 100
+Province 11
+Library 8
+Silver 14
+Gold 12
+Copper 10
+Gold 7
+Estate 7
+Silver 7

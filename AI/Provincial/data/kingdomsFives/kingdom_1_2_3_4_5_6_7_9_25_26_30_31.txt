@@ -1,0 +1,17 @@
+6
+12
+8
+8
+Witch 9
+Silver 10
+Estate 13
+Curse 1
+Woodcutter 6
+Spy 2
+Woodcutter 6
+Silver 14
+Province 6
+Gold 7
+Gold 6
+Gold 103
+Bureaucrat 8

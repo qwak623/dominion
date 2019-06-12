@@ -1,0 +1,15 @@
+6
+16
+13
+8
+Province 9
+Silver 5
+Gold 99
+Silver 13
+Copper 8
+Workshop 8
+Estate 12
+Mine 9
+Woodcutter 11
+CouncilRoom 8
+Province 8

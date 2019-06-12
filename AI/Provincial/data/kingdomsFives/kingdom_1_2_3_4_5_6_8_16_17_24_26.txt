@@ -1,0 +1,18 @@
+5
+17
+8
+8
+Adventurer 10
+Silver 12
+Gold 100
+Duchy 5
+Silver 6
+Chapel 7
+Spy 10
+Copper 8
+Province 8
+Estate 11
+Remodel 5
+Province 8
+Spy 3
+Chapel 8

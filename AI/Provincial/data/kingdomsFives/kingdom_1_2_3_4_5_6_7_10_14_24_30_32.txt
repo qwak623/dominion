@@ -1,0 +1,15 @@
+5
+5
+8
+8
+Curse 2
+Gardens 8
+Duchy 10
+Gold 103
+Workshop 10
+Estate 8
+Remodel 5
+Witch 9
+Silver 11
+Cellar 5
+Copper 14

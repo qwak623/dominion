@@ -1,0 +1,15 @@
+3
+8
+6
+5
+Province 8
+Gold 10
+Silver 12
+Cellar 9
+Gold 8
+Cellar 9
+Remodel 3
+Moneylender 5
+Copper 102
+Workshop 10
+Duchy 9

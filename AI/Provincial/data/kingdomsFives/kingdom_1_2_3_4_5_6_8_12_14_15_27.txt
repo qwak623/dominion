@@ -1,0 +1,16 @@
+1
+10
+19
+8
+Province 5
+Gardens 7
+Gold 4
+Thief 11
+Thief 9
+Adventurer 6
+Silver 8
+Silver 14
+Copper 6
+Estate 1
+Thief 14
+Duchy 99

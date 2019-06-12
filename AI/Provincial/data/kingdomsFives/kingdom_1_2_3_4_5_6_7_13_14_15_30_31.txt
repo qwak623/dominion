@@ -1,0 +1,15 @@
+4
+14
+8
+8
+Festival 5
+Gardens 9
+Province 9
+Duchy 8
+Gold 102
+Woodcutter 4
+Copper 5
+Silver 1
+Estate 6
+Copper 13
+Curse 8

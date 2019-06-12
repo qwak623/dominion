@@ -1,0 +1,15 @@
+5
+15
+7
+5
+Gold 102
+Cellar 1
+Province 7
+Silver 7
+Woodcutter 7
+Duchy 8
+Province 10
+Workshop 11
+Cellar 14
+Estate 7
+Chapel 8

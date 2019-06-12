@@ -1,0 +1,17 @@
+4
+17
+8
+8
+Witch 2
+Silver 13
+Duchy 8
+Silver 13
+Village 13
+Moneylender 11
+Silver 1
+Copper 10
+Gold 100
+Market 5
+Copper 2
+Gold 14
+Moneylender 11

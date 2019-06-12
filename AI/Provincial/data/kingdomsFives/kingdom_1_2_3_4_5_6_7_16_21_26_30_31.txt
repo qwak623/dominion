@@ -1,0 +1,18 @@
+3
+13
+14
+7
+Gold 104
+Province 4
+Province 11
+Gold 1
+Silver 11
+Silver 11
+Mine 10
+Silver 3
+Chapel 7
+Duchy 10
+Woodcutter 4
+Province 6
+Estate 7
+Gold 10

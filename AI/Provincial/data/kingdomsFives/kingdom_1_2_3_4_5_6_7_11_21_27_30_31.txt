@@ -1,0 +1,16 @@
+0
+13
+8
+7
+Province 4
+Gold 99
+Witch 14
+Silver 11
+Copper 10
+Duchy 8
+Woodcutter 13
+Mine 6
+Copper 5
+Curse 3
+Silver 12
+CouncilRoom 10

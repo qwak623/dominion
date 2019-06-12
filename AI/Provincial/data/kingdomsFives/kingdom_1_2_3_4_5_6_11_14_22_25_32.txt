@@ -1,0 +1,16 @@
+1
+11
+8
+8
+Province 6
+Workshop 4
+Gold 104
+Duchy 11
+Gardens 12
+Workshop 1
+CouncilRoom 13
+Workshop 11
+Estate 9
+Smithy 8
+Copper 13
+Moat 7

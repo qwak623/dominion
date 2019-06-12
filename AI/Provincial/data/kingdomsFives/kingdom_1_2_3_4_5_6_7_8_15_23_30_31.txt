@@ -1,0 +1,13 @@
+2
+16
+8
+8
+Gold 13
+Witch 9
+Silver 6
+Estate 9
+Silver 101
+Chancellor 10
+Province 2
+Adventurer 11
+Moneylender 7

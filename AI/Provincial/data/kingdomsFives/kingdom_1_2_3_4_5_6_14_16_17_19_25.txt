@@ -1,0 +1,14 @@
+4
+11
+7
+3
+Province 4
+Province 11
+Gold 101
+Market 10
+Market 8
+Smithy 2
+Gardens 9
+Silver 11
+Copper 6
+Estate 5

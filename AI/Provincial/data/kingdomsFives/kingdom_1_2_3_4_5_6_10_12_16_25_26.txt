@@ -1,0 +1,16 @@
+4
+14
+5
+5
+Gold 100
+Silver 10
+Smithy 2
+Chapel 6
+Duchy 5
+Province 10
+Copper 8
+Cellar 8
+Estate 10
+Cellar 5
+Smithy 10
+Gold 11

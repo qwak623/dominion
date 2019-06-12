@@ -1,0 +1,14 @@
+3
+11
+5
+5
+Province 11
+Gold 99
+Silver 10
+Smithy 10
+Moat 5
+Province 8
+Copper 7
+Estate 7
+Duchy 8
+Silver 13

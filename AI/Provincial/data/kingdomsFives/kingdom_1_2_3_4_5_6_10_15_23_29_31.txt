@@ -1,0 +1,12 @@
+6
+13
+6
+6
+Gold 8
+Silver 10
+Copper 10
+Silver 7
+Duchy 3
+Province 7
+Copper 13
+Silver 12

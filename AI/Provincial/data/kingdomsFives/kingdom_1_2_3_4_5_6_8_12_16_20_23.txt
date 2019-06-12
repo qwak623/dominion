@@ -1,0 +1,16 @@
+3
+17
+5
+5
+Province 8
+Gold 100
+Silver 15
+Chapel 7
+Militia 7
+Copper 7
+Duchy 4
+Duchy 6
+Adventurer 5
+Moneylender 4
+Gold 8
+Adventurer 6

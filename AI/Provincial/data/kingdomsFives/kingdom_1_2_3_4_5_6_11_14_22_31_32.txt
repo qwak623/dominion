@@ -1,0 +1,14 @@
+7
+4
+17
+8
+Woodcutter 4
+Duchy 8
+Gardens 7
+Duchy 9
+Copper 4
+Estate 8
+Gardens 3
+Gold 3
+Silver 7
+Copper 10

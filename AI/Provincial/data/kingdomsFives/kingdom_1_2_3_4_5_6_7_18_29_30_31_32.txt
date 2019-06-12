@@ -1,0 +1,14 @@
+1
+16
+8
+8
+Province 7
+Gold 103
+Witch 7
+Silver 11
+Copper 6
+Woodcutter 2
+Village 7
+Silver 6
+Library 5
+Curse 5

@@ -1,0 +1,20 @@
+2
+10
+17
+8
+Province 10
+Witch 5
+Silver 10
+Copper 6
+Estate 8
+Witch 10
+Library 3
+Duchy 11
+Curse 5
+Gold 101
+Duchy 10
+Curse 9
+Estate 8
+Laboratory 4
+Gold 7
+Curse 8

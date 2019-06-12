@@ -1,0 +1,18 @@
+4
+14
+18
+8
+Gold 101
+Bureaucrat 9
+Market 3
+Silver 10
+Chancellor 6
+Silver 13
+Province 14
+Gold 9
+Duchy 7
+Copper 8
+Chapel 10
+Market 9
+Province 9
+Workshop 11

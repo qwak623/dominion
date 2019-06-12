@@ -1,0 +1,17 @@
+7
+12
+8
+7
+Gold 10
+Province 5
+Cellar 1
+Bureaucrat 4
+Silver 12
+Gold 99
+Bureaucrat 11
+Workshop 7
+Duchy 11
+Copper 9
+Moneylender 8
+Silver 11
+Cellar 7

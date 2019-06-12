@@ -1,0 +1,17 @@
+2
+14
+15
+8
+Workshop 3
+Copper 5
+Duchy 3
+Gardens 11
+Province 3
+Gardens 6
+Gardens 6
+Laboratory 8
+Silver 13
+Gold 101
+Estate 10
+Woodcutter 2
+Militia 4

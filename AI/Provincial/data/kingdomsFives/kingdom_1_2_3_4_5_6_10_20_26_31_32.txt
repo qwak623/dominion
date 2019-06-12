@@ -1,0 +1,17 @@
+0
+12
+14
+8
+Gold 6
+Militia 5
+Province 2
+Gold 99
+Spy 6
+Spy 10
+Militia 10
+Silver 12
+Silver 10
+Workshop 10
+Duchy 9
+Province 11
+Militia 8

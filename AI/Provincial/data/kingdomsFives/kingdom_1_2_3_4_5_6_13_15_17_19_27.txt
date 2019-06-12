@@ -1,0 +1,18 @@
+5
+17
+7
+4
+Gold 5
+Gold 102
+Laboratory 8
+Festival 8
+Silver 13
+Thief 6
+Festival 2
+Thief 13
+Copper 7
+Province 11
+Estate 2
+Duchy 4
+Laboratory 6
+Market 3

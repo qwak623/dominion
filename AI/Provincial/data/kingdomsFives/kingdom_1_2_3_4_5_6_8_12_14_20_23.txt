@@ -1,0 +1,14 @@
+4
+12
+8
+8
+Gold 103
+Province 5
+Militia 6
+Gardens 5
+Silver 15
+Adventurer 11
+Silver 14
+Copper 6
+Moneylender 11
+Estate 12

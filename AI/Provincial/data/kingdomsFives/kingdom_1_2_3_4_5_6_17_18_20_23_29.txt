@@ -1,0 +1,15 @@
+7
+17
+8
+8
+Gold 101
+Laboratory 12
+Militia 13
+Province 2
+Silver 13
+Village 9
+Silver 13
+Copper 9
+Estate 5
+Gold 13
+Estate 3

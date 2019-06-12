@@ -1,0 +1,18 @@
+0
+12
+11
+8
+Militia 4
+Silver 2
+Province 11
+Copper 3
+Estate 10
+Militia 9
+Estate 5
+Silver 12
+Gold 102
+Festival 13
+Gold 3
+Festival 9
+Mine 8
+Cellar 5

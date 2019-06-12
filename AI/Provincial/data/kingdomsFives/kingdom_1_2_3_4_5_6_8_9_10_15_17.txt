@@ -1,0 +1,15 @@
+5
+12
+7
+6
+Gold 5
+Bureaucrat 4
+Laboratory 8
+Gold 102
+Duchy 6
+Silver 11
+Laboratory 13
+Copper 7
+Province 8
+Chancellor 9
+Estate 4

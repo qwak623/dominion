@@ -1,0 +1,11 @@
+4
+19
+7
+5
+Gold 13
+Market 11
+Militia 9
+Silver 10
+Moneylender 9
+Militia 7
+Silver 9

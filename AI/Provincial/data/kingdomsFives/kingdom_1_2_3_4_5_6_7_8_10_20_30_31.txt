@@ -1,0 +1,16 @@
+3
+14
+8
+8
+Witch 7
+Duchy 7
+Silver 10
+Militia 9
+Gold 102
+Woodcutter 3
+Silver 11
+Duchy 9
+Duchy 8
+Adventurer 12
+Silver 5
+Gold 7

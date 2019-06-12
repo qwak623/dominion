@@ -1,0 +1,17 @@
+5
+17
+8
+8
+Witch 1
+Market 10
+Gardens 10
+Duchy 6
+Gardens 10
+Gold 100
+Gold 11
+Workshop 4
+Estate 7
+Market 5
+Silver 12
+Estate 4
+Chancellor 10

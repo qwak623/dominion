@@ -1,0 +1,15 @@
+6
+11
+10
+8
+Province 1
+Duchy 11
+Silver 4
+Gardens 11
+Cellar 3
+Estate 8
+Laboratory 3
+Province 11
+Silver 13
+Festival 8
+Copper 100

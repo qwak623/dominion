@@ -1,0 +1,13 @@
+5
+15
+7
+5
+Gold 5
+Silver 6
+Gardens 10
+Silver 12
+Cellar 3
+Cellar 5
+Gold 102
+Witch 8
+Copper 10

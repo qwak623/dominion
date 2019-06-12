@@ -1,0 +1,14 @@
+4
+11
+8
+8
+Gold 12
+Silver 7
+Province 14
+Silver 11
+Duchy 5
+Woodcutter 5
+Moneylender 10
+Copper 104
+Copper 9
+Thief 11

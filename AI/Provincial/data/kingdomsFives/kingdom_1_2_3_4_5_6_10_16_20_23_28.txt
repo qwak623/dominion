@@ -1,0 +1,15 @@
+5
+7
+6
+6
+Chapel 1
+Militia 5
+Province 8
+Gold 101
+Silver 3
+Silver 14
+Silver 7
+Copper 1
+Estate 5
+Silver 8
+ThroneRoom 4

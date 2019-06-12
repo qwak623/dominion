@@ -1,0 +1,16 @@
+2
+11
+7
+5
+Province 8
+Gold 100
+Gold 3
+Moat 1
+Silver 10
+Moat 7
+Feast 14
+Chapel 7
+Estate 4
+Copper 5
+Province 11
+Estate 8

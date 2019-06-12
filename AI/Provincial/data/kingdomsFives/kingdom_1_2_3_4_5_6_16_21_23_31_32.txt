@@ -1,0 +1,15 @@
+1
+11
+5
+4
+Province 11
+Gold 100
+Silver 12
+Gold 3
+Duchy 3
+Silver 12
+Chapel 3
+Duchy 11
+Workshop 7
+Mine 8
+Moneylender 12

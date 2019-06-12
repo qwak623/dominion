@@ -1,0 +1,15 @@
+4
+14
+8
+8
+Bureaucrat 5
+Gold 102
+Silver 12
+Cellar 5
+Estate 10
+Province 9
+Estate 4
+Smithy 11
+Gold 6
+Silver 7
+Gold 6

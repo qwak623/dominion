@@ -1,0 +1,20 @@
+0
+8
+6
+6
+Gold 3
+Province 8
+Library 4
+Gold 101
+Copper 1
+Laboratory 9
+Silver 12
+Woodcutter 7
+Gold 2
+Copper 10
+Library 7
+Library 13
+Village 4
+Estate 5
+Moneylender 4
+Laboratory 4

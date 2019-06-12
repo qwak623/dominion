@@ -1,0 +1,17 @@
+7
+15
+7
+5
+Mine 4
+Gold 101
+Silver 4
+Silver 13
+Copper 7
+Gold 3
+Duchy 6
+Gold 9
+ThroneRoom 6
+Chancellor 6
+Woodcutter 3
+Estate 3
+Mine 5

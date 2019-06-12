@@ -1,0 +1,13 @@
+0
+9
+14
+8
+Gardens 12
+Province 5
+Province 11
+Silver 7
+Copper 4
+Estate 8
+Laboratory 5
+Library 9
+Gold 101

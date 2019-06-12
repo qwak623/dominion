@@ -1,0 +1,12 @@
+4
+11
+16
+7
+Gold 4
+Gold 99
+Witch 11
+Silver 11
+Silver 8
+Cellar 9
+Moneylender 5
+Estate 8

@@ -1,0 +1,14 @@
+4
+19
+13
+8
+Gardens 7
+Silver 4
+Province 8
+Copper 4
+Estate 14
+Gold 7
+Duchy 5
+Militia 5
+Chancellor 9
+Silver 15

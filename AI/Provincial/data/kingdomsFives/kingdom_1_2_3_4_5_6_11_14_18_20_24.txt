@@ -1,0 +1,15 @@
+2
+10
+8
+8
+Remodel 2
+Province 10
+Gold 6
+Gold 100
+CouncilRoom 11
+Library 11
+Silver 9
+Gardens 12
+Copper 9
+Silver 13
+Estate 10

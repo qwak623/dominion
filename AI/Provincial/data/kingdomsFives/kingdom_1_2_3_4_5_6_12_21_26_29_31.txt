@@ -1,0 +1,17 @@
+1
+13
+7
+6
+Province 13
+Gold 102
+Mine 9
+Silver 10
+Village 4
+Woodcutter 2
+Copper 1
+Woodcutter 11
+Silver 12
+Copper 12
+Feast 6
+Estate 10
+Gold 3

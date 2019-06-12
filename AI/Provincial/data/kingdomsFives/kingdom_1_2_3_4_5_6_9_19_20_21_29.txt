@@ -1,0 +1,12 @@
+5
+17
+8
+8
+Gold 8
+Gold 101
+Province 7
+Mine 10
+Market 3
+Silver 14
+Militia 7
+Gold 7

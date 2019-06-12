@@ -1,0 +1,15 @@
+4
+20
+7
+7
+Silver 8
+Gardens 10
+Gold 101
+Witch 2
+Gold 10
+Woodcutter 7
+Witch 5
+Copper 10
+Estate 10
+Silver 11
+Smithy 11

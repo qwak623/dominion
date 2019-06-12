@@ -1,0 +1,12 @@
+3
+8
+15
+7
+Province 13
+Gardens 9
+Silver 7
+Gold 102
+Cellar 2
+Estate 11
+Moat 3
+Cellar 8

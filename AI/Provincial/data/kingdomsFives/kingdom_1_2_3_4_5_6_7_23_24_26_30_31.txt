@@ -1,0 +1,14 @@
+4
+16
+8
+7
+Gold 101
+Witch 6
+Province 6
+Silver 17
+Gold 13
+Spy 8
+Woodcutter 7
+Silver 7
+Remodel 7
+Gold 2

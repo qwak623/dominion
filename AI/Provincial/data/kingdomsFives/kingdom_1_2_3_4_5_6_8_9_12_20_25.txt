@@ -1,0 +1,19 @@
+1
+15
+8
+6
+Militia 5
+Gold 99
+Silver 14
+Militia 12
+Province 9
+Province 11
+Gold 3
+Bureaucrat 6
+Bureaucrat 9
+Duchy 6
+Gold 3
+Smithy 9
+Feast 11
+Duchy 13
+Adventurer 11

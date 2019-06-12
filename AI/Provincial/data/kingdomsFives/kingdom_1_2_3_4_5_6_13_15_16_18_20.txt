@@ -1,0 +1,16 @@
+6
+8
+6
+4
+Province 11
+Gold 13
+Silver 13
+Gold 99
+Chapel 4
+Silver 9
+Silver 15
+Festival 4
+Estate 4
+Militia 8
+Festival 7
+Chancellor 14

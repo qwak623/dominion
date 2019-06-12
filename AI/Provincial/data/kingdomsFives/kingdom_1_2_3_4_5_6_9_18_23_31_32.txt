@@ -1,0 +1,17 @@
+7
+11
+6
+5
+Bureaucrat 1
+Province 14
+Gold 103
+Silver 11
+Moneylender 4
+Copper 6
+Woodcutter 3
+Library 9
+Silver 8
+Province 11
+Woodcutter 12
+Moneylender 9
+Province 10

@@ -1,0 +1,18 @@
+4
+11
+7
+7
+Province 13
+Smithy 2
+Gold 102
+Gold 7
+Silver 11
+Silver 8
+Festival 9
+Copper 4
+Duchy 4
+Smithy 9
+Remodel 4
+Cellar 4
+Estate 6
+Workshop 9

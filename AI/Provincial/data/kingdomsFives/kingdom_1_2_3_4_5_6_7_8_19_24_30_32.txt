@@ -1,0 +1,14 @@
+7
+10
+8
+8
+Province 3
+Gold 5
+Witch 4
+Adventurer 2
+Silver 2
+Silver 13
+Copper 8
+Estate 8
+Remodel 5
+Market 8

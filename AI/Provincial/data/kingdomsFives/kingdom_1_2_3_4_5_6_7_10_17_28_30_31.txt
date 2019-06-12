@@ -1,0 +1,15 @@
+6
+13
+6
+4
+Province 7
+Gold 6
+Laboratory 12
+Gold 8
+Gold 9
+Gold 101
+Silver 11
+Cellar 9
+ThroneRoom 5
+Estate 7
+Copper 6

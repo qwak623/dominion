@@ -1,0 +1,16 @@
+1
+13
+8
+8
+Province 7
+Gold 11
+Festival 2
+Witch 10
+Province 2
+Chancellor 3
+Copper 12
+Festival 4
+Cellar 8
+Cellar 10
+Duchy 9
+Gold 101

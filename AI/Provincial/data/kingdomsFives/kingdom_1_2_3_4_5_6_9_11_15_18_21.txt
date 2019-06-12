@@ -1,0 +1,16 @@
+2
+10
+5
+4
+Province 11
+Gold 101
+CouncilRoom 6
+Library 5
+Gold 4
+Silver 5
+CouncilRoom 4
+Copper 5
+Duchy 8
+Copper 13
+Chancellor 1
+Mine 3

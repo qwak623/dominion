@@ -1,0 +1,14 @@
+6
+22
+8
+7
+Gold 11
+Gold 99
+Festival 12
+Gold 9
+Militia 9
+Festival 8
+Silver 15
+Duchy 7
+Silver 6
+Village 5

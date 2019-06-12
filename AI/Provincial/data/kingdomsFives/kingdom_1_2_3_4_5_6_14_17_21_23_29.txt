@@ -1,0 +1,15 @@
+7
+15
+6
+4
+Silver 10
+Gardens 9
+Duchy 8
+Estate 9
+Mine 5
+Province 4
+Copper 6
+Gold 102
+Silver 7
+Gold 14
+Moneylender 9

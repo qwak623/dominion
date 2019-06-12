@@ -1,0 +1,16 @@
+2
+13
+8
+7
+Gold 4
+Mine 1
+Militia 5
+Gold 99
+Silver 11
+Province 7
+Mine 9
+Silver 4
+Village 8
+Estate 2
+Feast 9
+Silver 10

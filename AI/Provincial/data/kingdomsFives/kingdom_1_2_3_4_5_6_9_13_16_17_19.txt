@@ -1,0 +1,17 @@
+3
+16
+6
+6
+Laboratory 100
+Province 12
+Market 9
+Laboratory 6
+Bureaucrat 8
+Silver 3
+Duchy 14
+Silver 3
+Chapel 16
+Market 9
+Estate 9
+Festival 6
+Silver 11

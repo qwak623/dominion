@@ -1,0 +1,15 @@
+0
+9
+7
+4
+CouncilRoom 1
+Silver 8
+Province 13
+Gold 101
+Militia 11
+Bureaucrat 8
+Bureaucrat 9
+Workshop 7
+Moneylender 10
+Silver 16
+CouncilRoom 8

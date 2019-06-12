@@ -1,0 +1,14 @@
+6
+13
+7
+7
+Province 4
+Gold 100
+Laboratory 5
+Silver 12
+Silver 14
+Copper 12
+Feast 7
+Estate 4
+Copper 2
+Gold 4

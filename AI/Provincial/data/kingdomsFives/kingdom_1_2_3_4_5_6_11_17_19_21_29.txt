@@ -1,0 +1,12 @@
+3
+13
+8
+6
+Gold 5
+Gold 7
+Mine 13
+CouncilRoom 13
+Laboratory 9
+Silver 12
+Market 10
+Market 14

@@ -1,0 +1,12 @@
+5
+16
+8
+3
+Silver 9
+Moat 3
+Gardens 7
+Silver 13
+Copper 6
+Village 5
+Silver 11
+Estate 9

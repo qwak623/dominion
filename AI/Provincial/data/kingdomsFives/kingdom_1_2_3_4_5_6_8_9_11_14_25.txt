@@ -1,0 +1,14 @@
+2
+16
+8
+8
+Bureaucrat 8
+Province 1
+Gardens 10
+Duchy 10
+Gold 4
+CouncilRoom 10
+Silver 11
+Smithy 5
+Copper 9
+Gold 102

@@ -1,0 +1,14 @@
+6
+13
+8
+8
+Gold 12
+Witch 4
+Province 9
+Gold 101
+Province 9
+Silver 12
+Woodcutter 10
+Copper 8
+Estate 7
+Copper 2

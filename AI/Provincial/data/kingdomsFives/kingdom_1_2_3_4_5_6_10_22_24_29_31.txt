@@ -1,0 +1,14 @@
+2
+12
+8
+5
+Gold 13
+Gold 12
+Silver 10
+Gold 100
+Silver 11
+Moat 5
+Estate 9
+Copper 4
+Remodel 7
+Village 9

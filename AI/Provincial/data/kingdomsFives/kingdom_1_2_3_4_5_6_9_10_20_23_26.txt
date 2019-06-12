@@ -1,0 +1,19 @@
+0
+4
+16
+7
+Duchy 10
+Bureaucrat 8
+Silver 3
+Estate 8
+Silver 13
+Estate 1
+Moneylender 9
+Gold 6
+Spy 12
+Gold 104
+Duchy 8
+Militia 6
+Copper 7
+Moneylender 9
+Moneylender 9

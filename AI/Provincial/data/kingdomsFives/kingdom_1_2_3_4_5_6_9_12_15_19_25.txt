@@ -1,0 +1,16 @@
+2
+15
+7
+6
+Gold 100
+Market 5
+Bureaucrat 12
+Feast 7
+Silver 11
+Market 5
+Smithy 3
+Silver 11
+Chancellor 6
+Province 5
+Duchy 12
+Silver 13

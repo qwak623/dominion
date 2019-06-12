@@ -1,0 +1,12 @@
+3
+15
+6
+6
+Silver 10
+Gardens 14
+Gold 101
+Duchy 3
+Province 8
+Cellar 11
+Adventurer 2
+Copper 5

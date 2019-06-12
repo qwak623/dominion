@@ -1,0 +1,14 @@
+6
+8
+8
+4
+Province 5
+Gold 100
+Silver 14
+Chapel 10
+Estate 5
+CouncilRoom 8
+Copper 6
+Duchy 12
+Smithy 7
+Province 12

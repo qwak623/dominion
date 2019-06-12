@@ -1,0 +1,16 @@
+7
+15
+8
+7
+Gold 7
+Witch 5
+Province 11
+Silver 12
+Copper 8
+Silver 6
+Estate 6
+Witch 8
+Curse 3
+Copper 8
+Copper 12
+Smithy 9

@@ -1,0 +1,15 @@
+2
+12
+8
+8
+Gold 11
+Silver 9
+Smithy 6
+Province 9
+Duchy 13
+Festival 7
+Province 11
+Silver 2
+Copper 7
+Chancellor 1
+Gold 100

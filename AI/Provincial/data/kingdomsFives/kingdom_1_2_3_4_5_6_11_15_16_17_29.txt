@@ -1,0 +1,19 @@
+6
+8
+8
+5
+Gold 3
+Province 7
+CouncilRoom 2
+Gold 100
+Silver 11
+Duchy 9
+Village 10
+Copper 9
+Village 6
+Chapel 2
+Duchy 3
+Estate 4
+Laboratory 9
+Estate 12
+Chancellor 5

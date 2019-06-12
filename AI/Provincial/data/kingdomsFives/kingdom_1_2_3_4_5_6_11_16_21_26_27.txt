@@ -1,0 +1,19 @@
+7
+13
+5
+5
+Gold 101
+Province 12
+CouncilRoom 9
+Silver 6
+Thief 6
+Copper 1
+Spy 9
+Spy 10
+Province 7
+Province 4
+Silver 11
+Gold 11
+Gold 4
+Chapel 8
+CouncilRoom 11

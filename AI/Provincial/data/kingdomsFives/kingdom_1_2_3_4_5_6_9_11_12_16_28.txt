@@ -1,0 +1,18 @@
+6
+20
+7
+5
+Gold 101
+Bureaucrat 3
+CouncilRoom 8
+Silver 14
+Gold 10
+CouncilRoom 7
+ThroneRoom 12
+Copper 11
+Copper 3
+Silver 8
+CouncilRoom 9
+Feast 9
+Estate 4
+Chapel 8

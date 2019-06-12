@@ -1,0 +1,12 @@
+6
+11
+8
+8
+Gold 103
+Witch 3
+Silver 12
+Remodel 9
+Silver 14
+CouncilRoom 4
+Witch 9
+CouncilRoom 12

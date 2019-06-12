@@ -1,0 +1,16 @@
+3
+12
+8
+7
+Gold 103
+Militia 5
+Market 5
+Chapel 1
+Silver 6
+Militia 5
+Province 6
+Duchy 12
+Spy 3
+Mine 12
+Copper 5
+Silver 14

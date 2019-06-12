@@ -1,0 +1,16 @@
+7
+11
+5
+4
+Province 8
+Gold 103
+Gold 8
+Market 11
+Duchy 5
+Duchy 4
+Silver 16
+Cellar 1
+Chancellor 2
+Silver 8
+Thief 10
+Gold 10

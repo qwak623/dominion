@@ -1,0 +1,20 @@
+7
+19
+6
+5
+Gold 12
+Laboratory 7
+Silver 10
+Duchy 99
+CouncilRoom 9
+CouncilRoom 9
+Province 12
+CouncilRoom 6
+CouncilRoom 5
+Market 3
+Duchy 4
+Silver 6
+Province 5
+Remodel 3
+Remodel 3
+Market 10

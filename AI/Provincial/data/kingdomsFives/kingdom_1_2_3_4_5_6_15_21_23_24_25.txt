@@ -1,0 +1,16 @@
+6
+9
+7
+4
+Silver 3
+Silver 1
+Province 6
+Province 9
+Gold 100
+Smithy 4
+Duchy 15
+Silver 12
+Mine 2
+Moneylender 4
+Chancellor 4
+Remodel 9

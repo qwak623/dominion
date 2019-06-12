@@ -1,0 +1,15 @@
+6
+13
+8
+4
+Smithy 2
+Gold 102
+Adventurer 8
+Silver 12
+Duchy 1
+Province 5
+Copper 8
+Province 8
+Silver 10
+Smithy 8
+Estate 11

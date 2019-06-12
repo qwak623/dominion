@@ -1,0 +1,14 @@
+3
+14
+15
+6
+Remodel 1
+Gold 102
+Province 5
+Silver 13
+Duchy 10
+Silver 12
+Silver 7
+Copper 6
+Estate 9
+Adventurer 5

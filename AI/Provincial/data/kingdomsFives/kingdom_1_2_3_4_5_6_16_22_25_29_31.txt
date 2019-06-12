@@ -1,0 +1,15 @@
+7
+14
+7
+3
+Gold 102
+Silver 14
+Chapel 1
+Province 5
+Province 7
+Gold 3
+Silver 9
+Smithy 12
+Village 2
+Moat 11
+Copper 7

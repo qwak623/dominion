@@ -1,0 +1,17 @@
+1
+18
+8
+8
+Gold 100
+Gold 5
+Silver 11
+Silver 6
+Gold 3
+Market 11
+Copper 10
+Province 2
+Province 11
+Estate 8
+ThroneRoom 3
+Province 4
+Spy 11

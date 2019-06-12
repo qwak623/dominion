@@ -1,0 +1,16 @@
+5
+14
+7
+5
+Gold 101
+Gold 5
+Market 6
+Province 9
+Duchy 8
+Mine 4
+Militia 3
+Silver 6
+Silver 12
+Duchy 7
+Silver 2
+Market 11

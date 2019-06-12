@@ -1,0 +1,16 @@
+0
+11
+7
+5
+Gold 9
+Mine 12
+Market 11
+Province 4
+Silver 10
+Cellar 7
+Village 9
+Silver 14
+Gold 100
+Mine 13
+Village 7
+Copper 2

@@ -1,0 +1,18 @@
+2
+11
+7
+5
+Gold 6
+CouncilRoom 1
+Silver 11
+Silver 9
+Copper 7
+Chancellor 4
+Workshop 14
+Smithy 13
+Province 5
+Curse 9
+Province 5
+Gold 100
+Smithy 3
+Duchy 9

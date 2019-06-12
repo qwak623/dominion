@@ -1,0 +1,17 @@
+0
+13
+6
+3
+Province 7
+Gold 7
+Silver 10
+Moat 5
+Village 100
+Estate 12
+Village 10
+Adventurer 12
+Moneylender 8
+Copper 11
+Estate 10
+Silver 11
+Moneylender 8

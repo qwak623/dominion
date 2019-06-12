@@ -1,0 +1,17 @@
+6
+16
+6
+6
+Province 4
+Gold 101
+Silver 9
+Duchy 4
+Cellar 9
+Estate 4
+Workshop 12
+Copper 1
+Gold 12
+Copper 4
+Estate 5
+Festival 2
+Festival 7

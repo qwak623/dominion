@@ -1,0 +1,15 @@
+2
+21
+6
+6
+Province 9
+Gold 105
+CouncilRoom 13
+Silver 10
+Duchy 9
+Silver 6
+Copper 14
+Province 7
+Festival 6
+Workshop 1
+Militia 10

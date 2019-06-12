@@ -1,0 +1,20 @@
+0
+14
+20
+6
+Gold 100
+Province 6
+Gold 10
+Witch 12
+Silver 12
+Library 9
+Province 2
+Silver 10
+Duchy 6
+Province 2
+Library 5
+Copper 4
+Library 8
+Estate 5
+Spy 5
+Province 12

@@ -1,0 +1,15 @@
+4
+10
+7
+5
+Gold 99
+Library 10
+Festival 4
+Silver 5
+Silver 9
+Province 8
+Feast 6
+Festival 11
+Adventurer 11
+Feast 5
+Silver 12

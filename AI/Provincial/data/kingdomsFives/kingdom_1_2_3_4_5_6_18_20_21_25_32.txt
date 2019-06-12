@@ -1,0 +1,15 @@
+1
+10
+5
+5
+Gold 5
+Gold 100
+Library 3
+Silver 12
+Copper 8
+Province 8
+Militia 2
+Smithy 7
+Duchy 4
+Silver 11
+Mine 4

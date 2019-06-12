@@ -1,0 +1,17 @@
+5
+17
+6
+6
+Gold 101
+Province 9
+Silver 7
+Silver 4
+Province 6
+Moat 11
+Duchy 5
+Silver 13
+Duchy 6
+Copper 3
+Feast 9
+Estate 2
+Gold 5

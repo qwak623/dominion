@@ -1,0 +1,19 @@
+1
+15
+8
+6
+Witch 8
+Province 2
+Duchy 9
+Festival 4
+Duchy 6
+Silver 9
+Estate 9
+Village 9
+Gold 10
+Workshop 3
+ThroneRoom 11
+Copper 7
+Gold 100
+Gold 4
+ThroneRoom 6

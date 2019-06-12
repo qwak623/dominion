@@ -1,0 +1,15 @@
+5
+10
+7
+6
+Province 7
+Gold 4
+Gold 100
+Mine 2
+Silver 11
+Duchy 4
+Duchy 7
+Adventurer 1
+Gardens 5
+Province 5
+Silver 12

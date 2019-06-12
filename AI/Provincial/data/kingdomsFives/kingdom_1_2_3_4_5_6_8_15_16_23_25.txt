@@ -1,0 +1,16 @@
+6
+12
+6
+6
+Gold 12
+Chapel 1
+Silver 7
+Gold 105
+Silver 11
+Duchy 10
+Moneylender 8
+Province 12
+Chancellor 8
+Gold 6
+Adventurer 11
+Smithy 5

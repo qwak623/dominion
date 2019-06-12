@@ -1,0 +1,19 @@
+1
+13
+14
+7
+Gardens 12
+Copper 1
+Gold 100
+Gold 8
+Silver 7
+Province 14
+Estate 8
+Adventurer 3
+Chancellor 3
+ThroneRoom 6
+Feast 6
+Copper 6
+Estate 10
+Silver 16
+Adventurer 7

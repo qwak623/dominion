@@ -1,0 +1,18 @@
+7
+18
+16
+7
+Province 3
+Duchy 8
+Silver 12
+Province 9
+Gold 100
+Spy 12
+Spy 7
+Remodel 8
+Woodcutter 6
+Province 6
+Village 6
+Village 7
+Duchy 4
+Copper 2

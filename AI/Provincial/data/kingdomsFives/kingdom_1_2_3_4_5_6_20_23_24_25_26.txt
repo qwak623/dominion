@@ -1,0 +1,16 @@
+7
+12
+6
+6
+Province 9
+Gold 10
+Gold 100
+Silver 10
+Spy 13
+Copper 11
+Province 6
+Copper 11
+Copper 3
+Duchy 9
+Remodel 7
+Estate 3

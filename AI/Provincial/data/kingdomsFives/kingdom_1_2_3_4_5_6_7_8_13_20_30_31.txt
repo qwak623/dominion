@@ -1,0 +1,18 @@
+1
+13
+11
+7
+Gold 99
+Adventurer 2
+Province 10
+Gold 11
+Witch 4
+Silver 5
+Silver 8
+Witch 11
+Copper 8
+Gold 6
+Silver 6
+Festival 11
+Gold 8
+Militia 9

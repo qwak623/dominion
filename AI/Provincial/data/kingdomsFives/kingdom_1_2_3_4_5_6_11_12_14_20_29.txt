@@ -1,0 +1,18 @@
+2
+11
+7
+5
+Gold 104
+CouncilRoom 4
+Silver 5
+Gardens 7
+Duchy 9
+Feast 9
+Province 5
+Gold 2
+Silver 13
+Duchy 12
+Militia 5
+Feast 7
+Copper 9
+Estate 5

@@ -1,0 +1,16 @@
+3
+9
+5
+5
+Province 10
+Gold 100
+Laboratory 11
+Silver 10
+Festival 9
+Copper 13
+Laboratory 7
+Laboratory 5
+Estate 6
+Copper 9
+Copper 5
+Duchy 11

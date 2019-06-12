@@ -1,0 +1,16 @@
+6
+17
+7
+4
+Gold 102
+Silver 12
+CouncilRoom 7
+Silver 9
+Gold 12
+Duchy 7
+Gardens 7
+Moat 14
+Copper 5
+Duchy 5
+Chancellor 8
+Province 7

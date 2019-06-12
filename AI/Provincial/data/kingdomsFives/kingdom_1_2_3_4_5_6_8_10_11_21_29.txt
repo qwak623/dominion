@@ -1,0 +1,16 @@
+5
+20
+7
+7
+Mine 3
+Gold 99
+Silver 10
+CouncilRoom 15
+Gold 5
+Silver 13
+Adventurer 10
+Duchy 9
+Duchy 9
+Province 12
+Copper 11
+Estate 12

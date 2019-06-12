@@ -1,0 +1,19 @@
+2
+14
+8
+8
+Gold 2
+Silver 7
+Province 2
+Gardens 8
+Copper 2
+Province 6
+Laboratory 4
+Laboratory 7
+Silver 8
+Estate 9
+Gardens 9
+Village 4
+Gold 101
+Woodcutter 7
+Copper 11

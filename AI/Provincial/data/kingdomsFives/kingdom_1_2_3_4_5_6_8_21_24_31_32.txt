@@ -1,0 +1,16 @@
+3
+18
+7
+3
+Copper 1
+Province 8
+Gold 101
+Gold 10
+Silver 10
+Copper 2
+Silver 7
+Workshop 13
+Adventurer 7
+Silver 10
+Province 8
+Estate 2

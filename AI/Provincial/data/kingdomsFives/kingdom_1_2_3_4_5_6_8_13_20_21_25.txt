@@ -1,0 +1,15 @@
+1
+15
+6
+5
+Province 9
+Gold 6
+Adventurer 6
+Gold 101
+Festival 11
+Smithy 10
+Duchy 6
+Copper 1
+Silver 11
+Duchy 11
+Militia 9

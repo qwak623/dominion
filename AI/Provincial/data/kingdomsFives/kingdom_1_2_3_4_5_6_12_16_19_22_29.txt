@@ -1,0 +1,16 @@
+7
+13
+7
+5
+Gold 6
+Silver 5
+Province 10
+Silver 15
+Gold 99
+Village 12
+Market 12
+Moat 5
+Copper 4
+Feast 3
+Gold 4
+Estate 8

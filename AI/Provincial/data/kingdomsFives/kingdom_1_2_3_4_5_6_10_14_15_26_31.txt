@@ -1,0 +1,16 @@
+6
+15
+7
+3
+Province 11
+Gold 100
+Silver 10
+Gold 10
+Gardens 12
+Cellar 5
+Estate 3
+Duchy 7
+Estate 2
+Chancellor 4
+Chancellor 6
+Cellar 10

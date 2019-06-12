@@ -1,0 +1,15 @@
+5
+13
+20
+8
+Gold 103
+Smithy 2
+Silver 10
+Silver 4
+Thief 10
+Copper 4
+Copper 5
+Estate 11
+Chancellor 3
+Duchy 13
+Woodcutter 8

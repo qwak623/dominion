@@ -1,0 +1,17 @@
+6
+14
+8
+8
+Festival 2
+Province 7
+Gardens 7
+Silver 11
+Gardens 8
+Copper 7
+Copper 9
+Silver 6
+Estate 2
+Festival 2
+Bureaucrat 7
+Duchy 4
+Duchy 14

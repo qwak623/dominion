@@ -1,0 +1,16 @@
+6
+11
+11
+8
+Province 6
+Province 2
+Gold 102
+Militia 9
+Silver 11
+Estate 8
+Feast 4
+Gold 10
+Silver 8
+Gold 7
+Copper 9
+Duchy 15

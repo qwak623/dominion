@@ -1,0 +1,18 @@
+4
+10
+6
+3
+Province 11
+Gold 6
+Gold 99
+Silver 10
+Woodcutter 7
+Silver 11
+Moat 7
+Copper 3
+Adventurer 3
+Workshop 4
+Gold 3
+Province 4
+Smithy 7
+Duchy 10

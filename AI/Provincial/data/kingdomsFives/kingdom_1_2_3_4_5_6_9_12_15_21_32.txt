@@ -1,0 +1,16 @@
+2
+9
+13
+8
+Duchy 11
+Feast 14
+Silver 2
+Copper 3
+Duchy 8
+Estate 5
+Gold 101
+Bureaucrat 10
+Chancellor 5
+Silver 13
+Mine 10
+Chancellor 4

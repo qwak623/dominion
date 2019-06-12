@@ -1,0 +1,17 @@
+1
+16
+8
+8
+Witch 3
+Province 7
+Silver 12
+Woodcutter 7
+Gold 8
+Remodel 1
+Province 9
+Remodel 7
+Province 3
+Thief 5
+Province 1
+ThroneRoom 7
+Duchy 4

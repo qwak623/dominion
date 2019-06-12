@@ -1,0 +1,16 @@
+1
+14
+13
+8
+Market 6
+Silver 6
+Militia 7
+Mine 7
+Market 6
+Copper 2
+Estate 4
+Silver 11
+Province 3
+Duchy 9
+Silver 8
+Cellar 6

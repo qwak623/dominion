@@ -1,0 +1,17 @@
+3
+10
+8
+8
+Witch 3
+Festival 11
+Duchy 9
+Witch 4
+Silver 11
+Smithy 7
+Cellar 11
+Festival 13
+Estate 3
+Province 100
+Cellar 3
+Festival 1
+Silver 10

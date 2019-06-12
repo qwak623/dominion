@@ -1,0 +1,16 @@
+5
+13
+8
+7
+Gold 104
+Silver 13
+Chancellor 4
+Copper 6
+Silver 11
+Province 5
+Woodcutter 6
+Estate 8
+Moneylender 5
+Chancellor 7
+Duchy 5
+Gold 4

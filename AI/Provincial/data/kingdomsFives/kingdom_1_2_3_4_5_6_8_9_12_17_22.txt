@@ -1,0 +1,15 @@
+0
+16
+6
+6
+Gold 6
+Adventurer 2
+Gold 99
+Adventurer 4
+Province 12
+Silver 10
+Duchy 3
+Bureaucrat 11
+Moat 2
+Bureaucrat 8
+Laboratory 9

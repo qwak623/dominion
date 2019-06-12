@@ -1,0 +1,19 @@
+1
+13
+6
+5
+Gold 102
+Library 2
+Festival 10
+Gold 7
+Silver 15
+Duchy 4
+Copper 6
+Market 6
+Silver 6
+Copper 1
+Militia 7
+Silver 9
+Duchy 4
+Militia 6
+Gold 6

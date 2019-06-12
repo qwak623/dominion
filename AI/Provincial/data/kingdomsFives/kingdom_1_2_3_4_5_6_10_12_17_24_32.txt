@@ -1,0 +1,17 @@
+1
+14
+6
+5
+Gold 10
+Gold 9
+Cellar 1
+Silver 12
+Laboratory 9
+Workshop 8
+Copper 8
+Feast 6
+Cellar 7
+Gold 5
+Province 11
+Gold 99
+Remodel 8

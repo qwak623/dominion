@@ -1,0 +1,15 @@
+1
+22
+6
+6
+Gold 3
+Gold 99
+Silver 15
+Province 8
+Moat 7
+Estate 12
+Silver 7
+Spy 2
+Duchy 9
+Spy 2
+Cellar 10

@@ -1,0 +1,16 @@
+2
+14
+8
+8
+Witch 2
+Province 12
+Duchy 14
+Duchy 10
+Silver 9
+Chapel 14
+Gold 103
+Province 9
+Copper 6
+Curse 11
+Curse 4
+Library 5

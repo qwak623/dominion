@@ -1,0 +1,11 @@
+6
+14
+7
+6
+Gold 10
+Adventurer 15
+Silver 12
+Gold 101
+Silver 12
+Chapel 6
+Village 5

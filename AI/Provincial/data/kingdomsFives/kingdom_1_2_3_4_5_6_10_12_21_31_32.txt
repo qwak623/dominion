@@ -1,0 +1,15 @@
+1
+9
+15
+5
+Workshop 3
+Province 5
+Silver 14
+Copper 6
+Gold 101
+Duchy 10
+Gold 12
+Silver 9
+Mine 11
+Estate 10
+Feast 5

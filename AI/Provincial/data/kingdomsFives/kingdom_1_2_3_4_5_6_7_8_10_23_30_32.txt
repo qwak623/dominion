@@ -1,0 +1,19 @@
+5
+11
+8
+8
+Gold 102
+Witch 2
+Silver 12
+Copper 4
+Province 9
+Adventurer 9
+Curse 7
+Silver 5
+Cellar 3
+Curse 14
+Curse 5
+Duchy 1
+Gold 10
+Cellar 2
+Moneylender 12

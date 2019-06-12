@@ -1,0 +1,15 @@
+5
+14
+7
+6
+Province 14
+Gold 5
+Silver 7
+Moat 4
+Moneylender 3
+Duchy 9
+Market 7
+Estate 9
+Moat 13
+Copper 7
+Duchy 100

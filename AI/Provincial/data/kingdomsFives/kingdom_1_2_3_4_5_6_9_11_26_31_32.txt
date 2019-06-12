@@ -1,0 +1,16 @@
+4
+11
+7
+6
+Gold 99
+Silver 8
+CouncilRoom 7
+Bureaucrat 2
+Province 7
+Silver 4
+Province 2
+Workshop 3
+Silver 12
+Spy 2
+Spy 7
+Spy 12

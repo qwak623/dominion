@@ -1,0 +1,16 @@
+6
+14
+6
+5
+Gold 12
+Laboratory 10
+Silver 11
+Province 12
+Feast 10
+Gold 7
+Village 14
+Duchy 5
+Cellar 101
+Laboratory 8
+Silver 7
+Duchy 8

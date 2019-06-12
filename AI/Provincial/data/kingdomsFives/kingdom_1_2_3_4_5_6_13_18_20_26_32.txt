@@ -1,0 +1,14 @@
+3
+11
+7
+3
+Gold 11
+Library 5
+Silver 8
+Copper 103
+Spy 3
+Silver 9
+Estate 2
+Copper 6
+Festival 11
+Festival 9

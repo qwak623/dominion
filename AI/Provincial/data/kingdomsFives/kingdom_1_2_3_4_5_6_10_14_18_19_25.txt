@@ -1,0 +1,17 @@
+6
+8
+8
+8
+Market 5
+Silver 3
+Province 5
+Gardens 10
+Silver 12
+Library 2
+Copper 13
+Gold 105
+Estate 5
+Copper 8
+Cellar 9
+Gold 4
+Duchy 7

@@ -1,0 +1,17 @@
+2
+16
+8
+4
+Gold 7
+CouncilRoom 105
+Silver 14
+Duchy 7
+Adventurer 7
+Market 8
+Adventurer 5
+Copper 7
+Silver 7
+Silver 12
+Province 7
+Library 5
+Village 8

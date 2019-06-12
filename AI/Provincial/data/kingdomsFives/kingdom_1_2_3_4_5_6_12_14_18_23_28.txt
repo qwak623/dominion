@@ -1,0 +1,13 @@
+1
+14
+8
+5
+Gold 12
+Province 13
+Gold 101
+Library 2
+Silver 10
+ThroneRoom 13
+Duchy 12
+Silver 12
+Province 8

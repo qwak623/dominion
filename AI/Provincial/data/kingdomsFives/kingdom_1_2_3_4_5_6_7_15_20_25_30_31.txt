@@ -1,0 +1,17 @@
+3
+21
+7
+5
+Gold 7
+Smithy 2
+Gold 104
+Silver 7
+Militia 7
+Chancellor 10
+Smithy 6
+Woodcutter 6
+Copper 12
+Duchy 5
+Silver 5
+Silver 10
+Curse 9

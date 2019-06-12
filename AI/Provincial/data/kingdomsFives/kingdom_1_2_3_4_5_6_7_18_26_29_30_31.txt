@@ -1,0 +1,13 @@
+2
+8
+8
+8
+Witch 3
+Silver 11
+Province 7
+Copper 5
+Gold 10
+Silver 6
+Village 6
+Estate 7
+Estate 101

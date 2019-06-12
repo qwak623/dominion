@@ -1,0 +1,15 @@
+5
+14
+7
+7
+Province 7
+Gold 8
+Silver 6
+Gardens 10
+Chancellor 6
+Gold 102
+Silver 12
+Militia 11
+CouncilRoom 5
+Spy 7
+Gold 10

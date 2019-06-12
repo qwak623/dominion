@@ -1,0 +1,16 @@
+3
+12
+16
+8
+Militia 5
+Militia 102
+Silver 11
+Province 11
+Estate 7
+Militia 4
+Copper 10
+Estate 6
+Duchy 10
+Duchy 7
+Woodcutter 3
+Spy 7

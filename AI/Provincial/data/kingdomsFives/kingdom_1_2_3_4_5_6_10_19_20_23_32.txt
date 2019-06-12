@@ -1,0 +1,14 @@
+0
+12
+16
+8
+Province 12
+Militia 5
+Silver 10
+Estate 10
+Workshop 5
+Copper 10
+Duchy 9
+Estate 101
+Gold 9
+Silver 12

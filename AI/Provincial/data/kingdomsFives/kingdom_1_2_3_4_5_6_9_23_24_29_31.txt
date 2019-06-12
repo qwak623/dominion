@@ -1,0 +1,13 @@
+4
+6
+6
+6
+Province 6
+Silver 11
+Duchy 3
+Duchy 14
+Silver 6
+Duchy 99
+Woodcutter 13
+Province 7
+Remodel 13

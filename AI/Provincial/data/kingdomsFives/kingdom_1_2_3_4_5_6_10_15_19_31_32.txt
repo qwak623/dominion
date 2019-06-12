@@ -1,0 +1,16 @@
+6
+22
+8
+8
+Gold 99
+Province 10
+Silver 11
+Silver 2
+Copper 11
+Duchy 4
+Estate 7
+Chancellor 5
+Cellar 11
+Duchy 9
+Woodcutter 10
+Duchy 3

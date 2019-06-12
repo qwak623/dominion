@@ -1,0 +1,16 @@
+7
+10
+8
+7
+Province 12
+Gold 103
+Gold 6
+Witch 5
+Silver 10
+Militia 2
+Spy 2
+Militia 7
+Spy 5
+Silver 12
+Woodcutter 6
+Witch 6

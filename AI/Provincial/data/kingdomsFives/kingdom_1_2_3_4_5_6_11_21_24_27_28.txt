@@ -1,0 +1,14 @@
+6
+11
+8
+6
+Gold 5
+Thief 3
+Silver 4
+Province 5
+CouncilRoom 9
+Duchy 8
+Silver 10
+Copper 3
+Thief 102
+Silver 12

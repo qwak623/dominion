@@ -1,0 +1,16 @@
+7
+14
+6
+4
+Gold 11
+Silver 13
+Moat 10
+Market 6
+Moneylender 11
+Gold 100
+Copper 7
+Silver 10
+Province 8
+Copper 6
+Estate 2
+Curse 8

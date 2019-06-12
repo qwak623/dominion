@@ -1,0 +1,16 @@
+6
+14
+8
+6
+Gold 101
+Gold 5
+CouncilRoom 8
+CouncilRoom 10
+Silver 3
+Silver 10
+Village 8
+CouncilRoom 5
+Village 5
+Province 7
+Duchy 11
+Feast 11

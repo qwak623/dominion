@@ -1,0 +1,18 @@
+2
+9
+14
+7
+Province 10
+Silver 5
+Duchy 12
+Gardens 10
+Duchy 6
+Festival 6
+Bureaucrat 5
+Silver 12
+Moat 10
+Gardens 4
+Estate 7
+Laboratory 8
+Gardens 7
+Gold 100

@@ -1,0 +1,12 @@
+5
+11
+6
+5
+Province 5
+Gold 103
+Silver 11
+ThroneRoom 8
+Woodcutter 7
+Silver 10
+Silver 11
+ThroneRoom 11

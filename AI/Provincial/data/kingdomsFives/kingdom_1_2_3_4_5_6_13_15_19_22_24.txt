@@ -1,0 +1,18 @@
+4
+14
+6
+6
+Gold 100
+Province 2
+Province 9
+Silver 6
+Moat 10
+Silver 11
+Duchy 3
+Chancellor 11
+Remodel 6
+Gold 6
+Chancellor 4
+Festival 15
+Province 7
+Remodel 5

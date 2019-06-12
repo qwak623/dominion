@@ -1,0 +1,18 @@
+2
+12
+8
+7
+Bureaucrat 1
+Gold 101
+Silver 10
+Gold 9
+Bureaucrat 6
+Village 11
+Chapel 6
+Copper 7
+Duchy 2
+Library 10
+Province 7
+Province 12
+Gold 11
+Feast 7

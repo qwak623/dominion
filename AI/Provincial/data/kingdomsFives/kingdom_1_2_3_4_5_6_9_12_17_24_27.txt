@@ -1,0 +1,16 @@
+2
+14
+8
+7
+Gold 3
+Bureaucrat 2
+Laboratory 9
+Province 5
+Silver 13
+Remodel 6
+Silver 5
+Copper 7
+Gold 7
+Bureaucrat 3
+Thief 2
+Gold 100

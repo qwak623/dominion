@@ -1,0 +1,13 @@
+2
+13
+2
+6
+Witch 5
+Duchy 9
+Silver 6
+Copper 1
+Estate 11
+Woodcutter 3
+Province 7
+Woodcutter 101
+Curse 4

@@ -1,0 +1,18 @@
+6
+15
+11
+8
+Province 11
+Duchy 8
+Gold 9
+Province 6
+Festival 2
+Militia 9
+Mine 5
+Gold 11
+Mine 4
+Spy 4
+Gold 8
+Silver 10
+Spy 99
+Silver 13

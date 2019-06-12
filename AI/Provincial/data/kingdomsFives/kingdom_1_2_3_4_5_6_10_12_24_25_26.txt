@@ -1,0 +1,19 @@
+1
+9
+6
+5
+Province 8
+Gold 7
+Silver 8
+Remodel 3
+Duchy 3
+Duchy 4
+Silver 10
+Cellar 5
+Silver 9
+Estate 6
+Spy 6
+Spy 12
+Duchy 3
+Smithy 10
+Gold 99

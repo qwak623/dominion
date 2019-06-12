@@ -1,0 +1,16 @@
+0
+16
+7
+7
+Gold 101
+Province 2
+Mine 3
+Province 5
+Silver 11
+Mine 6
+Festival 2
+Estate 2
+Festival 3
+Woodcutter 1
+Gold 8
+Silver 10

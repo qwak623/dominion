@@ -1,0 +1,16 @@
+2
+13
+8
+7
+Gold 6
+Witch 3
+Festival 10
+Silver 100
+Copper 1
+Workshop 1
+Province 4
+Moat 2
+Province 5
+Silver 13
+Witch 10
+Moat 4

@@ -1,0 +1,17 @@
+5
+10
+6
+5
+Gold 13
+Silver 5
+Province 4
+Market 9
+Silver 8
+Copper 102
+Workshop 7
+Duchy 6
+Moneylender 9
+Silver 12
+Market 14
+Feast 6
+Estate 5

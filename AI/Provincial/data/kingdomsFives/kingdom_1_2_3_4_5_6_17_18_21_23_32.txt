@@ -1,0 +1,17 @@
+3
+13
+6
+6
+Gold 8
+Library 7
+Silver 6
+Duchy 14
+Copper 10
+Province 3
+Province 8
+Laboratory 12
+Library 7
+Mine 6
+Workshop 4
+Silver 7
+Duchy 11

@@ -1,0 +1,15 @@
+0
+10
+5
+4
+Gold 4
+Province 8
+CouncilRoom 2
+Silver 13
+Militia 8
+Silver 10
+Copper 9
+Gold 102
+Militia 12
+Mine 5
+Festival 6

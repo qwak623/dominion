@@ -1,0 +1,14 @@
+2
+13
+8
+5
+Bureaucrat 2
+Gold 102
+Library 4
+Market 3
+Gold 6
+Province 12
+Silver 13
+Militia 11
+Adventurer 3
+Duchy 9

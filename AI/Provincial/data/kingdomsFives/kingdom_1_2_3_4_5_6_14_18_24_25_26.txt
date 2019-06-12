@@ -1,0 +1,16 @@
+0
+17
+7
+7
+Silver 12
+Gardens 11
+Gold 11
+Silver 12
+Copper 6
+Gold 100
+Library 4
+Copper 11
+Spy 9
+Province 12
+Smithy 4
+Gold 8

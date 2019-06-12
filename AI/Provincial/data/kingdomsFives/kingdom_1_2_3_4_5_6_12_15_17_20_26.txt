@@ -1,0 +1,16 @@
+1
+10
+6
+6
+Province 9
+Gold 100
+Laboratory 7
+Militia 3
+Laboratory 4
+Silver 13
+Silver 3
+Chancellor 4
+Copper 3
+Feast 8
+Copper 9
+Gold 2

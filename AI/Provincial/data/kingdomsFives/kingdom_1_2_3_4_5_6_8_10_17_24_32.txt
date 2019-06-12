@@ -1,0 +1,17 @@
+3
+12
+7
+3
+Laboratory 6
+Gold 101
+Silver 13
+Duchy 8
+Cellar 3
+Estate 7
+Remodel 3
+Silver 10
+Duchy 6
+Adventurer 5
+Remodel 1
+Gold 10
+Remodel 3

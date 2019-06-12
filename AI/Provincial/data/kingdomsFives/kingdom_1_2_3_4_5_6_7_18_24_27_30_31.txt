@@ -1,0 +1,15 @@
+0
+16
+8
+7
+Gold 6
+Province 9
+Witch 9
+Gold 99
+Silver 10
+Estate 10
+Woodcutter 9
+Duchy 7
+Duchy 3
+Silver 11
+Library 9

@@ -1,0 +1,17 @@
+3
+13
+8
+8
+Gold 10
+Library 4
+Silver 11
+Gold 101
+Duchy 10
+Spy 9
+Copper 4
+Workshop 9
+Silver 5
+Estate 3
+Workshop 5
+Province 5
+Woodcutter 7

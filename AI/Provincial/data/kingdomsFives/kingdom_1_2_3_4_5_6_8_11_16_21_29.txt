@@ -1,0 +1,16 @@
+0
+16
+7
+6
+Gold 101
+Mine 2
+CouncilRoom 10
+CouncilRoom 11
+Silver 5
+Silver 12
+Duchy 6
+Gold 9
+Copper 6
+Gold 3
+Copper 12
+Adventurer 9

@@ -1,0 +1,19 @@
+5
+11
+8
+8
+Witch 6
+Village 10
+Gold 6
+Province 9
+Gold 4
+Gold 101
+Militia 9
+Silver 14
+Village 8
+Village 11
+Duchy 10
+Workshop 12
+Gold 6
+Chapel 4
+Silver 3

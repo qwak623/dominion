@@ -1,0 +1,17 @@
+5
+17
+6
+5
+Province 11
+Chancellor 1
+Gold 101
+Festival 5
+Adventurer 8
+Silver 8
+Silver 4
+Duchy 8
+Gold 5
+Province 11
+Feast 10
+Province 2
+Workshop 13

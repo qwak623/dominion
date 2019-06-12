@@ -1,0 +1,14 @@
+5
+12
+8
+8
+Bureaucrat 3
+Gardens 11
+Duchy 7
+Silver 11
+Copper 9
+Gold 11
+CouncilRoom 3
+Smithy 2
+CouncilRoom 10
+Thief 3

@@ -1,0 +1,15 @@
+3
+18
+8
+8
+Gold 102
+Gold 10
+Witch 3
+Silver 8
+Province 7
+Gardens 3
+Woodcutter 2
+Gardens 12
+Silver 12
+Province 10
+Village 6

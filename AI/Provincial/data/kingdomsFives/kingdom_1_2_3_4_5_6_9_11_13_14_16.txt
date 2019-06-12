@@ -1,0 +1,17 @@
+1
+22
+8
+8
+Bureaucrat 3
+Gardens 12
+Festival 4
+CouncilRoom 3
+Silver 13
+Bureaucrat 4
+Province 7
+CouncilRoom 11
+Copper 8
+Estate 4
+Province 2
+Chapel 12
+Silver 7

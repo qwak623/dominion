@@ -1,0 +1,16 @@
+5
+10
+6
+3
+Mine 1
+Province 10
+Gold 101
+Silver 6
+CouncilRoom 7
+Gold 12
+Gardens 6
+Silver 15
+Copper 4
+Estate 7
+Silver 4
+Remodel 9

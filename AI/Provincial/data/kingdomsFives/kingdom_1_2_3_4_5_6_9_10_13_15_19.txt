@@ -1,0 +1,17 @@
+3
+14
+8
+7
+Gold 99
+Bureaucrat 4
+Festival 3
+Province 6
+Market 8
+Silver 11
+Province 5
+Gold 4
+Copper 3
+Silver 8
+Bureaucrat 7
+Gold 10
+Estate 7

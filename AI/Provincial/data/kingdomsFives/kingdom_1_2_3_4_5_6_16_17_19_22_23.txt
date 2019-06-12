@@ -1,0 +1,16 @@
+4
+19
+5
+4
+Gold 11
+Province 5
+Laboratory 6
+Market 12
+Gold 103
+Laboratory 8
+Province 8
+Silver 12
+Moat 4
+Chapel 5
+Moneylender 12
+Estate 7

@@ -1,0 +1,15 @@
+5
+19
+8
+8
+Bureaucrat 5
+Duchy 7
+Copper 6
+Estate 10
+Spy 9
+Gold 9
+Silver 13
+Duchy 12
+Library 9
+Smithy 3
+Estate 102

@@ -1,0 +1,17 @@
+6
+13
+7
+6
+Gold 11
+Silver 3
+Adventurer 1
+Adventurer 5
+Gold 101
+Library 8
+Province 9
+Gold 6
+Silver 6
+Gold 8
+Province 6
+Province 11
+Remodel 5

@@ -1,0 +1,16 @@
+5
+11
+7
+7
+Thief 1
+Gold 12
+Province 7
+Gold 6
+Library 5
+Silver 10
+Copper 7
+Province 8
+Gold 101
+Estate 4
+Silver 10
+Adventurer 14

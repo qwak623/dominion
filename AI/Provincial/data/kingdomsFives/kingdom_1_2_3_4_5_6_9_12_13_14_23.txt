@@ -1,0 +1,15 @@
+0
+11
+8
+7
+Silver 6
+Duchy 6
+Gardens 11
+Estate 9
+Bureaucrat 9
+Gold 102
+Silver 13
+Gold 6
+Festival 6
+Feast 11
+Moneylender 4

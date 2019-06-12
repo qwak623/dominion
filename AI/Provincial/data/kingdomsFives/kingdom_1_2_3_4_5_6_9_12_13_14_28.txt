@@ -1,0 +1,18 @@
+6
+12
+14
+8
+Gardens 9
+Bureaucrat 8
+Bureaucrat 7
+Duchy 12
+Bureaucrat 9
+Gardens 6
+Gardens 6
+Silver 11
+Copper 10
+Gold 12
+Gold 103
+Copper 8
+ThroneRoom 8
+Festival 6

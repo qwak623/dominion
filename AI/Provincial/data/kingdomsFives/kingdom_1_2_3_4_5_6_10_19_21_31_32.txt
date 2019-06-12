@@ -1,0 +1,16 @@
+5
+14
+6
+6
+Market 2
+Gold 7
+Market 4
+Silver 11
+Gold 99
+Province 8
+Cellar 8
+Silver 10
+Estate 7
+Cellar 8
+Estate 5
+Woodcutter 9

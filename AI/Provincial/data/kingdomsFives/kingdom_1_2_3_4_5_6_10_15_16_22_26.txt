@@ -1,0 +1,15 @@
+6
+8
+7
+7
+Gold 3
+Province 9
+Province 2
+Gold 8
+Silver 10
+Moat 8
+Province 8
+Spy 6
+Gold 104
+Copper 1
+Chancellor 9

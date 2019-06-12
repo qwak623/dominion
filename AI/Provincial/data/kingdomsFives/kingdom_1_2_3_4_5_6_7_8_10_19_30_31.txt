@@ -1,0 +1,14 @@
+2
+11
+8
+8
+Witch 12
+Adventurer 10
+Adventurer 5
+Estate 7
+Gold 103
+Adventurer 10
+Cellar 12
+Duchy 11
+Market 3
+Market 8

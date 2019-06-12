@@ -1,0 +1,14 @@
+4
+12
+7
+6
+Gold 102
+Silver 6
+Smithy 6
+Smithy 3
+Duchy 5
+Village 6
+Province 7
+Province 7
+Laboratory 7
+Gold 7

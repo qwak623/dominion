@@ -1,0 +1,15 @@
+4
+11
+7
+6
+Province 10
+Gold 101
+Gold 3
+Bureaucrat 2
+Market 5
+Spy 8
+Feast 8
+Duchy 4
+Feast 8
+Silver 11
+Silver 4

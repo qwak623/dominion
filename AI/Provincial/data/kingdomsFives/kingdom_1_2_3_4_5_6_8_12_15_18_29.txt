@@ -1,0 +1,15 @@
+3
+11
+6
+4
+Gold 6
+Silver 9
+Gold 5
+Library 102
+Gold 9
+Silver 11
+Copper 8
+Chancellor 3
+Village 4
+Province 11
+Estate 6

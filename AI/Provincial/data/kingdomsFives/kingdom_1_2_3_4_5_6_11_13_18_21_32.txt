@@ -1,0 +1,15 @@
+6
+12
+6
+4
+Province 6
+Gold 100
+Silver 2
+CouncilRoom 4
+Silver 12
+Mine 9
+Copper 8
+Duchy 4
+Library 7
+Estate 13
+Library 11

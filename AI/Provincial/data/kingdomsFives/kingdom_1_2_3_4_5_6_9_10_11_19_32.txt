@@ -1,0 +1,18 @@
+5
+13
+7
+6
+Gold 10
+Market 9
+Bureaucrat 4
+Silver 8
+Silver 7
+Silver 8
+Province 7
+Cellar 9
+Province 2
+Gold 101
+Estate 9
+Estate 9
+Province 12
+Province 5

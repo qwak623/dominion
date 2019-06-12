@@ -1,0 +1,19 @@
+4
+9
+15
+8
+Duchy 7
+Gardens 103
+Workshop 7
+Festival 10
+Gardens 11
+Province 12
+Estate 11
+Workshop 8
+Gardens 7
+Moneylender 11
+Silver 11
+Workshop 6
+Estate 9
+Copper 14
+Gardens 3

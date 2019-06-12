@@ -1,0 +1,16 @@
+6
+11
+8
+6
+Gold 103
+Mine 6
+Gold 7
+Duchy 9
+Silver 7
+Silver 10
+Smithy 2
+Copper 1
+Duchy 6
+Militia 9
+Workshop 9
+Silver 9

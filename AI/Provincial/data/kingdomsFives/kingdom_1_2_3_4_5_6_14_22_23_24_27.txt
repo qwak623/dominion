@@ -1,0 +1,14 @@
+6
+19
+6
+6
+Gold 13
+Silver 9
+Gold 102
+Silver 12
+Moat 9
+Copper 10
+Moat 12
+Gardens 10
+Duchy 13
+Copper 7

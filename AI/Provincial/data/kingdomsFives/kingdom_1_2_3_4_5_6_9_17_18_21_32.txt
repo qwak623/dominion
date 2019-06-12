@@ -1,0 +1,16 @@
+4
+15
+6
+5
+Copper 1
+Province 6
+Gold 8
+Bureaucrat 1
+Province 4
+Library 12
+Laboratory 12
+Silver 7
+Silver 13
+Gold 99
+Mine 5
+Laboratory 3

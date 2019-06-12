@@ -1,0 +1,16 @@
+3
+10
+6
+5
+Gold 9
+Gold 10
+Library 9
+Silver 13
+Copper 4
+Province 102
+Silver 7
+Workshop 15
+Village 7
+Estate 7
+Woodcutter 7
+Workshop 5

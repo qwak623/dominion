@@ -1,0 +1,13 @@
+6
+17
+12
+8
+Gold 100
+Gardens 8
+Market 7
+Silver 12
+Adventurer 4
+Copper 13
+Gold 7
+Village 6
+Estate 9

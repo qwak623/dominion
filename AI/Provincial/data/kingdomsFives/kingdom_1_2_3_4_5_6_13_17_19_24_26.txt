@@ -1,0 +1,19 @@
+7
+10
+6
+6
+Market 2
+Province 7
+Gold 9
+Laboratory 5
+Silver 7
+Festival 8
+Spy 7
+Laboratory 8
+Festival 8
+Laboratory 4
+Duchy 1
+Duchy 3
+Silver 11
+Laboratory 7
+Gold 4

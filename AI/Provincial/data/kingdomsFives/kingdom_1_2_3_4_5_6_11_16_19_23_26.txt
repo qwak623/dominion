@@ -1,0 +1,22 @@
+1
+16
+8
+4
+Gold 8
+Silver 9
+CouncilRoom 6
+Spy 8
+Moneylender 8
+Market 6
+Duchy 2
+Gold 11
+Silver 9
+Gold 100
+Duchy 5
+Silver 12
+Chapel 3
+Copper 7
+Spy 3
+Province 5
+Estate 1
+Province 9

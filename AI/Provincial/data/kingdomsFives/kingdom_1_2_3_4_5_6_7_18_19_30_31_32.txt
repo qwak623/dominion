@@ -1,0 +1,13 @@
+4
+13
+8
+8
+Gold 8
+Witch 9
+Silver 13
+Silver 10
+Market 9
+Silver 11
+Woodcutter 5
+Gold 100
+Province 12

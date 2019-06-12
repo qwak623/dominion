@@ -1,0 +1,16 @@
+5
+19
+6
+6
+Gold 9
+Silver 15
+Province 9
+Gold 99
+Market 6
+Chapel 8
+Estate 1
+Market 6
+Copper 7
+Copper 10
+Cellar 8
+Chapel 4

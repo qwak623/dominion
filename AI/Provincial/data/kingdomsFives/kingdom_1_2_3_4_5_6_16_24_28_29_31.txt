@@ -1,0 +1,15 @@
+5
+18
+8
+8
+Province 8
+Silver 2
+Gold 100
+Silver 14
+Duchy 6
+Duchy 5
+Woodcutter 2
+Gold 8
+Chapel 3
+Copper 4
+ThroneRoom 8

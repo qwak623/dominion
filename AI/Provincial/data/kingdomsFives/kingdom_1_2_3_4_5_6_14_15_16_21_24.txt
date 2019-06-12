@@ -1,0 +1,14 @@
+5
+9
+7
+3
+Province 14
+Gold 102
+Silver 10
+Mine 6
+Chapel 2
+Estate 4
+Remodel 9
+Duchy 9
+Gardens 3
+Copper 8

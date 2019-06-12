@@ -1,0 +1,19 @@
+6
+7
+7
+6
+CouncilRoom 5
+Copper 1
+Silver 11
+Province 10
+Gold 101
+CouncilRoom 12
+Copper 4
+Silver 8
+Thief 3
+Copper 2
+Gold 10
+Feast 8
+Estate 6
+Duchy 6
+Woodcutter 7

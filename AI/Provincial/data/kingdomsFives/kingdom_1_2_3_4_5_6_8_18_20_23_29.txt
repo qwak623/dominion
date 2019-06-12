@@ -1,0 +1,15 @@
+5
+17
+6
+4
+Gold 6
+Province 11
+Library 5
+Silver 12
+Moneylender 6
+Village 8
+Gold 99
+Adventurer 3
+Duchy 9
+Province 15
+Village 4

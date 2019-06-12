@@ -1,0 +1,18 @@
+1
+15
+8
+8
+Gold 101
+Province 7
+Silver 6
+Duchy 10
+Militia 10
+Moneylender 10
+Adventurer 11
+Silver 13
+Duchy 11
+Chancellor 8
+Duchy 12
+Duchy 12
+Adventurer 2
+Moneylender 6

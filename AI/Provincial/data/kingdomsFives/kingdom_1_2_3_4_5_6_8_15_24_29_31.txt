@@ -1,0 +1,17 @@
+2
+18
+16
+7
+Duchy 2
+Gold 101
+Silver 6
+Silver 13
+Chancellor 12
+Estate 7
+Estate 14
+Village 5
+Adventurer 10
+Remodel 8
+Province 6
+Chancellor 5
+Duchy 12

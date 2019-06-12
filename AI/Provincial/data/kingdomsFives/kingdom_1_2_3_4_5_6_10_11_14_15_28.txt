@@ -1,0 +1,15 @@
+2
+14
+6
+3
+Silver 11
+Duchy 10
+Gardens 8
+Estate 10
+Gardens 10
+Silver 13
+Chancellor 8
+Copper 11
+ThroneRoom 8
+CouncilRoom 7
+Province 14

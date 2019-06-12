@@ -1,0 +1,16 @@
+2
+11
+8
+8
+Gold 11
+Market 6
+Duchy 6
+Bureaucrat 6
+CouncilRoom 11
+Province 10
+Silver 13
+Workshop 8
+Gold 100
+Bureaucrat 7
+Mine 6
+Silver 11

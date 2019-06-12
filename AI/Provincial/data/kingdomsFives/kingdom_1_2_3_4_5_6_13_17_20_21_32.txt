@@ -1,0 +1,16 @@
+7
+15
+8
+8
+Province 11
+Festival 1
+Gold 99
+Mine 3
+Festival 9
+Duchy 9
+Silver 8
+Silver 11
+Militia 9
+Laboratory 3
+Duchy 5
+Workshop 8

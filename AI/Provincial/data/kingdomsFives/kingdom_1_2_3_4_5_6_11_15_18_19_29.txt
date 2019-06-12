@@ -1,0 +1,14 @@
+7
+14
+7
+7
+Gold 102
+Silver 12
+Library 8
+Province 12
+Copper 6
+Village 11
+Gold 7
+Estate 4
+Duchy 6
+Chancellor 7

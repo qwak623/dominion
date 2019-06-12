@@ -1,0 +1,15 @@
+6
+10
+6
+5
+Province 4
+Gold 104
+Mine 8
+Market 4
+Duchy 9
+Silver 11
+Market 5
+Feast 2
+Feast 6
+Smithy 7
+Festival 10

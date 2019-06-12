@@ -1,0 +1,19 @@
+5
+12
+6
+4
+Laboratory 8
+Gold 99
+Militia 2
+Province 4
+Silver 11
+Workshop 6
+CouncilRoom 9
+Gold 6
+Chapel 2
+Copper 7
+Estate 11
+Duchy 7
+Gold 9
+Laboratory 1
+Silver 13

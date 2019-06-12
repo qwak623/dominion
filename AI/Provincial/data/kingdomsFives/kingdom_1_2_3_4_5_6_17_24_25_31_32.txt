@@ -1,0 +1,16 @@
+1
+13
+8
+8
+Silver 12
+Province 1
+Silver 11
+Copper 8
+Estate 8
+Woodcutter 13
+Smithy 6
+Gold 103
+Duchy 15
+Smithy 3
+Copper 4
+Remodel 8

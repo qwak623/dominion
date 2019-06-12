@@ -1,0 +1,15 @@
+5
+10
+7
+5
+Province 4
+Gold 101
+Laboratory 6
+Militia 5
+Adventurer 10
+Silver 13
+Copper 9
+Silver 6
+ThroneRoom 7
+Estate 13
+Adventurer 6

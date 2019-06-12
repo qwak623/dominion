@@ -1,0 +1,14 @@
+4
+14
+6
+6
+Gold 7
+Library 6
+Gold 10
+Silver 8
+Province 8
+Feast 9
+Duchy 8
+Gold 100
+Spy 11
+Silver 11

@@ -1,0 +1,14 @@
+4
+14
+5
+3
+Gold 8
+Laboratory 12
+Silver 7
+Duchy 5
+Province 4
+Militia 101
+Chancellor 8
+Village 6
+Feast 10
+Copper 10

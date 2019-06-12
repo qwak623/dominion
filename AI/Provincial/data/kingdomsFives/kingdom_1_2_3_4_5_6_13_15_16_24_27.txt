@@ -1,0 +1,14 @@
+4
+16
+5
+5
+Gold 101
+Silver 13
+Festival 8
+Silver 7
+Province 11
+Chancellor 4
+Remodel 12
+Chapel 2
+Duchy 13
+Thief 12

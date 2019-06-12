@@ -1,0 +1,13 @@
+3
+17
+7
+7
+Province 13
+Gold 102
+Silver 12
+Chancellor 4
+Workshop 6
+Silver 10
+Cellar 9
+Copper 4
+Duchy 10

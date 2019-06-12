@@ -1,0 +1,19 @@
+2
+13
+6
+6
+Province 9
+Gold 6
+Library 8
+Silver 11
+Silver 6
+Silver 2
+Copper 3
+Gold 99
+Duchy 4
+Remodel 7
+Gold 2
+Duchy 11
+Silver 4
+Copper 10
+Estate 6

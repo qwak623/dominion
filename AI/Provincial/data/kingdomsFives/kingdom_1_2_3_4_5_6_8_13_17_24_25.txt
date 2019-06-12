@@ -1,0 +1,14 @@
+4
+12
+8
+6
+Gold 100
+Province 13
+Festival 7
+Silver 2
+Adventurer 9
+Gold 10
+Smithy 10
+Remodel 7
+Remodel 3
+Silver 12

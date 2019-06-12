@@ -1,0 +1,17 @@
+2
+13
+7
+6
+Gold 5
+Silver 7
+Province 7
+Witch 7
+Library 4
+Witch 11
+Silver 12
+Library 3
+Province 11
+Silver 103
+Chapel 10
+Workshop 3
+Copper 5

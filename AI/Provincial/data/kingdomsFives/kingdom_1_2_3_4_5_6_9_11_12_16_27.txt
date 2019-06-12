@@ -1,0 +1,17 @@
+3
+9
+5
+5
+Chapel 1
+Province 11
+Gold 102
+Gold 4
+Silver 13
+Copper 7
+Feast 4
+Gold 5
+Estate 10
+Silver 8
+Bureaucrat 4
+Thief 11
+Silver 10

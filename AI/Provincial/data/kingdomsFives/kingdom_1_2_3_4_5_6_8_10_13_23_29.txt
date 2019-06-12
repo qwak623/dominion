@@ -1,0 +1,17 @@
+0
+14
+6
+6
+Gold 13
+Silver 7
+Silver 14
+Moneylender 5
+Cellar 6
+Copper 5
+Estate 9
+Cellar 9
+Copper 6
+Gold 100
+Village 8
+Village 5
+Duchy 12

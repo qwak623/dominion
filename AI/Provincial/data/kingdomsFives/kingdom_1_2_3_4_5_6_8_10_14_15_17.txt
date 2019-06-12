@@ -1,0 +1,16 @@
+7
+11
+8
+8
+Province 11
+Silver 10
+Gardens 11
+Gold 100
+Silver 2
+Laboratory 12
+Silver 3
+Duchy 7
+Copper 13
+Adventurer 8
+Gardens 8
+Silver 13

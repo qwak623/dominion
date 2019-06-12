@@ -1,0 +1,13 @@
+3
+13
+6
+4
+Province 13
+Gold 6
+Silver 8
+Gold 101
+Woodcutter 10
+Copper 10
+ThroneRoom 2
+Silver 14
+Estate 10

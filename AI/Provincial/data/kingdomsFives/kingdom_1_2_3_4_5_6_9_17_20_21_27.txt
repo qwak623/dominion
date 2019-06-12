@@ -1,0 +1,18 @@
+7
+15
+6
+6
+Gold 103
+Province 9
+Mine 2
+Gold 7
+Laboratory 7
+Silver 11
+Thief 7
+Mine 1
+Thief 9
+Silver 8
+Bureaucrat 5
+Militia 10
+Thief 4
+Duchy 2

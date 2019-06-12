@@ -1,0 +1,16 @@
+3
+15
+6
+6
+Gold 100
+Gold 9
+Witch 3
+Silver 14
+Province 4
+Chapel 4
+Laboratory 8
+Workshop 3
+Silver 11
+Copper 6
+Moneylender 8
+Duchy 13

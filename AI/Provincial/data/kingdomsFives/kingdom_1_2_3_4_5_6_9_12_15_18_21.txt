@@ -1,0 +1,16 @@
+1
+12
+7
+5
+Gold 101
+Province 9
+Mine 5
+Silver 12
+Gold 5
+Chancellor 4
+Library 10
+Bureaucrat 5
+Duchy 3
+Feast 9
+Duchy 13
+Duchy 3

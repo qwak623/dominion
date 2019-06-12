@@ -1,0 +1,12 @@
+3
+11
+7
+4
+Province 5
+Gold 5
+Gold 101
+Silver 8
+Bureaucrat 13
+Copper 4
+Estate 10
+Spy 9

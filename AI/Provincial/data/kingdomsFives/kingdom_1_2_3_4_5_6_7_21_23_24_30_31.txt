@@ -1,0 +1,18 @@
+4
+14
+8
+8
+Witch 6
+Duchy 7
+Silver 10
+Witch 4
+Witch 10
+Witch 12
+Copper 11
+Gold 13
+Copper 7
+Moneylender 4
+Woodcutter 5
+Moneylender 5
+Remodel 10
+Estate 9

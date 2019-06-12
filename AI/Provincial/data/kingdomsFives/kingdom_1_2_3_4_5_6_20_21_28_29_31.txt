@@ -1,0 +1,15 @@
+3
+18
+8
+8
+Gold 5
+Militia 6
+Silver 10
+Militia 10
+Militia 7
+Province 11
+Estate 9
+ThroneRoom 6
+Mine 9
+Village 4
+Woodcutter 10

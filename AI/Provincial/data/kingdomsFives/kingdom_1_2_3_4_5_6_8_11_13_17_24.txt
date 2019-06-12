@@ -1,0 +1,14 @@
+7
+12
+7
+5
+Province 6
+Gold 102
+Adventurer 4
+CouncilRoom 6
+Silver 12
+Laboratory 7
+Silver 11
+Adventurer 8
+Laboratory 4
+Copper 10

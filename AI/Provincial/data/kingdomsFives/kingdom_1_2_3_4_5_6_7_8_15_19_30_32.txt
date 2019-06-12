@@ -1,0 +1,16 @@
+2
+18
+8
+8
+Gold 12
+Witch 6
+Province 8
+Duchy 13
+Silver 11
+Market 6
+Adventurer 4
+Copper 4
+Silver 8
+Gold 11
+Gold 100
+Curse 6

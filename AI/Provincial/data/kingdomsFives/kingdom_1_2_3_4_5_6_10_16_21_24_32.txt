@@ -1,0 +1,13 @@
+5
+11
+7
+5
+Gold 99
+Mine 4
+Silver 14
+Gold 14
+Chapel 1
+Copper 10
+Gold 9
+Workshop 10
+Estate 11

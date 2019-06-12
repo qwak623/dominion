@@ -1,0 +1,16 @@
+3
+13
+8
+8
+Witch 5
+Duchy 9
+Silver 11
+Silver 12
+Copper 10
+Curse 8
+Moneylender 9
+Witch 10
+Woodcutter 9
+Gold 102
+Moneylender 2
+Estate 11

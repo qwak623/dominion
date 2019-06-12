@@ -1,0 +1,14 @@
+4
+13
+8
+6
+Copper 3
+Gold 101
+Laboratory 5
+Witch 2
+Silver 13
+Copper 3
+Workshop 7
+Duchy 7
+Moneylender 7
+Moneylender 8

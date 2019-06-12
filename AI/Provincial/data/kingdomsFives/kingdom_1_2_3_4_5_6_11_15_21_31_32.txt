@@ -1,0 +1,17 @@
+4
+14
+7
+5
+Gold 100
+Mine 9
+Silver 10
+Chancellor 6
+Duchy 10
+Copper 9
+Chancellor 6
+Estate 9
+Woodcutter 11
+Gold 7
+Duchy 9
+Silver 11
+Province 4

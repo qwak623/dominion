@@ -1,0 +1,16 @@
+2
+20
+6
+6
+Gold 7
+Laboratory 7
+Silver 5
+Silver 7
+Province 11
+Silver 11
+Workshop 10
+Remodel 2
+Province 101
+Festival 9
+Festival 2
+Cellar 3

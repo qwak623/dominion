@@ -1,0 +1,14 @@
+7
+20
+7
+5
+Gold 102
+Mine 7
+Gold 5
+Silver 15
+Village 6
+Silver 4
+Moneylender 9
+Gold 9
+Province 5
+Duchy 10

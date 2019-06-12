@@ -1,0 +1,16 @@
+4
+7
+6
+4
+Silver 4
+Province 7
+Gold 101
+Smithy 12
+Gold 6
+Feast 8
+Silver 11
+Copper 10
+Feast 11
+Copper 9
+Duchy 10
+Workshop 3

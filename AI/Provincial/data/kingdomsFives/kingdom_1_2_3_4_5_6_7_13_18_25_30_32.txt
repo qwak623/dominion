@@ -1,0 +1,14 @@
+3
+12
+6
+5
+Gold 103
+Library 5
+Silver 10
+Copper 3
+Workshop 7
+Festival 10
+Silver 12
+Witch 13
+Estate 13
+Province 10

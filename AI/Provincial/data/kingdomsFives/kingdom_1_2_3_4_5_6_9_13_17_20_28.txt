@@ -1,0 +1,13 @@
+2
+10
+7
+7
+Laboratory 9
+Province 9
+Militia 4
+Gold 9
+Gold 102
+Silver 3
+Duchy 14
+Silver 12
+ThroneRoom 8

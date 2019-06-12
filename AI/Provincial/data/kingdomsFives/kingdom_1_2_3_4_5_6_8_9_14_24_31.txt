@@ -1,0 +1,14 @@
+4
+15
+5
+5
+Gold 99
+Remodel 1
+Adventurer 14
+Gold 4
+Silver 3
+Silver 5
+Province 4
+Gardens 12
+Gold 3
+Woodcutter 5

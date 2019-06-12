@@ -1,0 +1,16 @@
+2
+15
+6
+6
+Bureaucrat 1
+Gold 100
+Gold 8
+Province 11
+Festival 8
+Duchy 12
+Silver 4
+Mine 10
+Silver 12
+Silver 7
+Remodel 7
+Festival 2

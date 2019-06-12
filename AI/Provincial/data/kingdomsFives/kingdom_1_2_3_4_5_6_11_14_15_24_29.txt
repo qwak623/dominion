@@ -1,0 +1,17 @@
+7
+12
+7
+5
+Gold 102
+Silver 7
+Gardens 6
+CouncilRoom 9
+Gardens 7
+Silver 12
+Province 2
+Gardens 2
+Copper 6
+Estate 5
+Gold 9
+Duchy 10
+Remodel 3

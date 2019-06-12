@@ -1,0 +1,15 @@
+1
+16
+8
+6
+Gold 4
+Gold 11
+Gold 103
+Silver 2
+Silver 10
+Spy 4
+ThroneRoom 7
+Duchy 6
+Woodcutter 7
+Province 7
+ThroneRoom 7

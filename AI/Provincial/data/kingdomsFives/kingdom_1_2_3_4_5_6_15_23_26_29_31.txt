@@ -1,0 +1,18 @@
+3
+12
+6
+6
+Gold 5
+Silver 4
+Province 6
+Gold 3
+Silver 10
+Duchy 5
+Gold 7
+Gold 101
+Gold 4
+Woodcutter 3
+Spy 12
+Duchy 8
+Chancellor 3
+Silver 3

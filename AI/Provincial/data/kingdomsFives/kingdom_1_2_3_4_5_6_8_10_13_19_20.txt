@@ -1,0 +1,19 @@
+1
+12
+8
+8
+Province 7
+Gold 102
+Market 6
+Festival 8
+Militia 6
+Duchy 9
+Market 7
+Festival 7
+Silver 9
+Silver 3
+Silver 2
+Cellar 11
+Festival 8
+Market 4
+Silver 11

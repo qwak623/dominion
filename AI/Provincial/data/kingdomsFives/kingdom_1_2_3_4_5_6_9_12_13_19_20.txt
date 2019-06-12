@@ -1,0 +1,20 @@
+3
+10
+19
+8
+Gold 11
+Militia 3
+Silver 4
+Province 6
+Militia 9
+Silver 10
+Feast 9
+Copper 9
+Feast 9
+Festival 7
+Silver 12
+Estate 4
+Estate 3
+Province 10
+Gold 101
+Festival 4

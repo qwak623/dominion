@@ -1,0 +1,17 @@
+3
+11
+8
+6
+Province 11
+Gold 7
+Gold 103
+Library 4
+Duchy 9
+Silver 11
+Workshop 2
+Remodel 8
+Workshop 2
+Bureaucrat 8
+Library 7
+Gold 5
+Silver 6

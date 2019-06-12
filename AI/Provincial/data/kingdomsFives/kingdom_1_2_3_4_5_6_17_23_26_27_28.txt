@@ -1,0 +1,16 @@
+6
+20
+7
+5
+Gold 101
+Laboratory 6
+Silver 10
+Copper 5
+Spy 9
+Laboratory 9
+Silver 10
+Gold 6
+Silver 12
+ThroneRoom 3
+Estate 11
+Copper 10

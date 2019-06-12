@@ -1,0 +1,15 @@
+6
+13
+6
+5
+Library 4
+Gold 7
+Silver 6
+Gardens 7
+Village 10
+Village 4
+Militia 15
+Gold 100
+Province 8
+Duchy 6
+Silver 13

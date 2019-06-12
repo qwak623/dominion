@@ -1,0 +1,15 @@
+7
+10
+12
+8
+Silver 9
+Silver 11
+Estate 10
+Workshop 10
+Cellar 3
+Cellar 7
+Copper 9
+Gold 100
+Duchy 12
+Militia 3
+Estate 10

@@ -1,0 +1,17 @@
+4
+15
+7
+6
+Gold 7
+Copper 1
+Gold 2
+Gold 100
+Festival 5
+Silver 12
+Cellar 7
+Workshop 3
+Library 9
+Province 6
+Cellar 9
+Duchy 9
+Province 3

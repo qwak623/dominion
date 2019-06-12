@@ -1,0 +1,15 @@
+0
+12
+8
+5
+Gold 12
+Militia 5
+Silver 5
+Silver 12
+Bureaucrat 8
+Bureaucrat 4
+Silver 3
+Province 9
+Spy 6
+Duchy 7
+Spy 5

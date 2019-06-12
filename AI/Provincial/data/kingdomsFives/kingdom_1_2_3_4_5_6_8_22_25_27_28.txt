@@ -1,0 +1,14 @@
+6
+12
+6
+5
+Gold 10
+Silver 12
+Gold 102
+Province 6
+Duchy 7
+Adventurer 9
+Silver 13
+Moat 12
+Smithy 8
+Thief 7

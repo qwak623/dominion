@@ -1,0 +1,10 @@
+6
+15
+8
+8
+Gold 7
+Province 12
+Witch 11
+Duchy 6
+Silver 13
+Workshop 6

@@ -1,0 +1,18 @@
+4
+17
+6
+6
+Copper 1
+Gold 103
+Adventurer 7
+Laboratory 3
+Silver 12
+Province 8
+Silver 10
+Laboratory 10
+Cellar 13
+Silver 5
+Chancellor 8
+Estate 12
+Copper 8
+Duchy 4

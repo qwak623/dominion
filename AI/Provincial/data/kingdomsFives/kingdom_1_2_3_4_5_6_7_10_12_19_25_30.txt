@@ -1,0 +1,19 @@
+2
+19
+8
+8
+Copper 1
+Gold 100
+Silver 10
+Estate 6
+Witch 10
+Market 9
+Copper 4
+Copper 9
+Witch 8
+Smithy 5
+Feast 11
+Gold 7
+Estate 3
+Copper 10
+Province 9

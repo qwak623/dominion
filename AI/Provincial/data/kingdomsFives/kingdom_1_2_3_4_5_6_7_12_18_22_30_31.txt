@@ -1,0 +1,18 @@
+5
+16
+8
+7
+Province 4
+Gold 9
+Silver 9
+Silver 13
+Moat 7
+Copper 10
+Feast 8
+Library 1
+Moat 11
+Duchy 101
+Duchy 10
+Library 4
+Woodcutter 6
+Moat 13

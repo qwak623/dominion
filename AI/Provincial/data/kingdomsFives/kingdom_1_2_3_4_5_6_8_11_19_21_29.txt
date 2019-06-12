@@ -1,0 +1,16 @@
+1
+17
+5
+5
+Gold 10
+CouncilRoom 8
+Duchy 8
+Silver 11
+Village 9
+Gold 102
+Province 2
+Market 10
+Copper 10
+Mine 8
+Copper 12
+Silver 7

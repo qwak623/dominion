@@ -1,0 +1,15 @@
+6
+18
+8
+8
+Laboratory 6
+Silver 10
+Duchy 7
+Copper 10
+Gold 4
+Moneylender 5
+Estate 10
+Thief 10
+Gold 102
+Woodcutter 9
+Woodcutter 1

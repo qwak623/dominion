@@ -1,0 +1,15 @@
+1
+13
+13
+8
+Laboratory 4
+Laboratory 8
+Laboratory 11
+Duchy 10
+Market 3
+Silver 11
+Copper 1
+Moneylender 7
+Copper 14
+Chancellor 10
+Estate 16

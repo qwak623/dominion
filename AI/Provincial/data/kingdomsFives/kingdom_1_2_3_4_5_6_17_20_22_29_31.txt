@@ -1,0 +1,16 @@
+2
+18
+7
+6
+Gold 9
+Silver 14
+Moat 7
+Militia 13
+Silver 9
+Village 3
+Woodcutter 7
+Laboratory 13
+Gold 102
+Copper 11
+Woodcutter 5
+Copper 3

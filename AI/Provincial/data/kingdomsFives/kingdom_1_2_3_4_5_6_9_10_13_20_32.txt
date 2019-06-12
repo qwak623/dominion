@@ -1,0 +1,15 @@
+0
+10
+8
+8
+Gold 100
+Gold 13
+Militia 13
+Province 7
+Duchy 9
+Silver 10
+Gold 4
+Cellar 3
+Bureaucrat 3
+Cellar 8
+Silver 11

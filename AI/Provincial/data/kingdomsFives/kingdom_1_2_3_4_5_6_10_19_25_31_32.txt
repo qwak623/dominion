@@ -1,0 +1,13 @@
+4
+20
+8
+5
+Gold 104
+Silver 10
+Smithy 6
+Copper 8
+Woodcutter 7
+Woodcutter 12
+Woodcutter 13
+Province 8
+Workshop 9

@@ -1,0 +1,18 @@
+3
+18
+13
+8
+Silver 4
+Duchy 10
+Gardens 14
+Gold 10
+Gold 101
+Gardens 1
+Militia 8
+Province 2
+Silver 7
+Duchy 4
+Chancellor 7
+Chancellor 13
+Militia 12
+Copper 11

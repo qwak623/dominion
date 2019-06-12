@@ -1,0 +1,16 @@
+7
+13
+7
+4
+Province 5
+Gold 102
+Silver 14
+Moat 8
+Woodcutter 2
+Gold 4
+Woodcutter 6
+Feast 3
+Copper 8
+Festival 10
+Workshop 10
+Silver 13

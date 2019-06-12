@@ -1,0 +1,16 @@
+4
+16
+6
+4
+Gold 101
+Silver 16
+Chancellor 6
+Feast 10
+Copper 13
+Market 13
+Duchy 3
+Smithy 5
+Silver 11
+Market 9
+Copper 8
+Estate 11

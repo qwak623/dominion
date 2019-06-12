@@ -1,0 +1,13 @@
+6
+10
+6
+5
+Gold 5
+Province 11
+Silver 6
+Laboratory 11
+Duchy 8
+Silver 7
+Gold 99
+Chancellor 3
+Spy 7

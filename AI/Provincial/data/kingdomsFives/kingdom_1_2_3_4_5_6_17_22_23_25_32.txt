@@ -1,0 +1,13 @@
+2
+10
+8
+5
+Laboratory 5
+Province 15
+Gold 106
+Silver 11
+Moat 3
+Estate 8
+Copper 4
+Duchy 9
+Moneylender 7

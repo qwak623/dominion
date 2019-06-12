@@ -1,0 +1,20 @@
+4
+7
+15
+8
+Workshop 3
+Gardens 14
+Silver 9
+Province 4
+Gold 7
+Copper 8
+Festival 6
+Estate 5
+Silver 11
+Gold 6
+Silver 11
+Festival 4
+Woodcutter 7
+Province 6
+Gold 101
+Estate 7

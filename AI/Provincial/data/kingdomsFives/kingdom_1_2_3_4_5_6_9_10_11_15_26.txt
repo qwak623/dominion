@@ -1,0 +1,15 @@
+5
+18
+7
+5
+Gold 100
+Bureaucrat 2
+CouncilRoom 4
+Silver 12
+Gold 6
+Chancellor 10
+Spy 6
+Cellar 2
+Spy 8
+Gold 8
+Gold 4

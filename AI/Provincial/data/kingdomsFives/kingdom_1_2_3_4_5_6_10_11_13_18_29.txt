@@ -1,0 +1,15 @@
+1
+12
+7
+5
+Gold 15
+Library 6
+Silver 11
+Silver 2
+Duchy 8
+Library 102
+Library 7
+Cellar 7
+Province 12
+Festival 11
+CouncilRoom 4

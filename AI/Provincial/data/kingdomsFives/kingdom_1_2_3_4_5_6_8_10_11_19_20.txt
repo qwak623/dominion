@@ -1,0 +1,16 @@
+4
+14
+6
+6
+Province 8
+Gold 6
+Market 5
+CouncilRoom 11
+Silver 6
+Silver 11
+Cellar 8
+Gold 99
+Adventurer 6
+Estate 6
+CouncilRoom 8
+Duchy 11

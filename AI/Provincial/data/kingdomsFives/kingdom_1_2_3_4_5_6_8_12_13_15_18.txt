@@ -1,0 +1,15 @@
+6
+13
+6
+4
+Province 9
+Gold 100
+Silver 10
+Silver 10
+Copper 2
+Estate 7
+Chancellor 12
+Gold 12
+Feast 4
+Festival 9
+Library 5

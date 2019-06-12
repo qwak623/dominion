@@ -1,0 +1,17 @@
+2
+12
+7
+7
+Laboratory 11
+Province 10
+Gold 100
+Militia 9
+Duchy 2
+Duchy 4
+Moneylender 10
+Silver 13
+Militia 6
+Workshop 10
+Copper 2
+Estate 3
+Feast 9

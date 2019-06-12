@@ -1,0 +1,18 @@
+4
+16
+8
+8
+Province 11
+Gold 6
+Witch 11
+Silver 11
+Laboratory 4
+Gold 101
+Silver 1
+Chancellor 11
+Silver 12
+Gold 7
+Copper 11
+Curse 4
+Laboratory 11
+Bureaucrat 5

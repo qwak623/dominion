@@ -1,0 +1,13 @@
+1
+14
+6
+5
+Gold 9
+Gold 100
+Silver 9
+Gardens 6
+Silver 10
+Cellar 1
+Gardens 7
+Province 11
+Province 6

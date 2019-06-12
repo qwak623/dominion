@@ -1,0 +1,16 @@
+7
+17
+8
+8
+Gold 101
+Silver 11
+Duchy 12
+Market 14
+Silver 5
+Copper 4
+Remodel 5
+Province 4
+Chapel 10
+Chapel 9
+Feast 4
+Estate 10

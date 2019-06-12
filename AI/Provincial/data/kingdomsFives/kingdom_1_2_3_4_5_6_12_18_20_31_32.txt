@@ -1,0 +1,16 @@
+0
+14
+8
+8
+Gold 102
+Library 8
+Silver 3
+Silver 9
+Militia 5
+Silver 13
+Workshop 3
+Workshop 10
+Province 6
+Feast 5
+Woodcutter 4
+Silver 4

@@ -1,0 +1,15 @@
+3
+18
+7
+7
+Gold 9
+Mine 6
+Laboratory 14
+Silver 10
+Market 4
+Duchy 11
+Adventurer 12
+Silver 12
+Copper 14
+Feast 7
+Estate 14

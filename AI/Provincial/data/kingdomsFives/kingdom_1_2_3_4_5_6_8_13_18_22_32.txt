@@ -1,0 +1,15 @@
+3
+11
+8
+8
+Gold 100
+Province 12
+Library 9
+Copper 2
+Silver 11
+Festival 3
+Silver 13
+Duchy 5
+Estate 6
+Workshop 10
+Copper 8

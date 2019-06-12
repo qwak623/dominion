@@ -1,0 +1,14 @@
+2
+10
+7
+6
+Gold 8
+Market 5
+Silver 14
+Silver 15
+Gold 102
+Province 11
+Feast 10
+Chancellor 2
+Market 4
+Chapel 2

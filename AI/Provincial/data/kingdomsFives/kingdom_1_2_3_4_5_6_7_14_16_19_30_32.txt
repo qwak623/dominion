@@ -1,0 +1,19 @@
+7
+13
+4
+8
+Market 3
+Duchy 11
+Gardens 6
+Province 3
+Gold 9
+Gold 100
+Workshop 15
+Copper 4
+Estate 11
+Copper 4
+Silver 11
+Witch 2
+Copper 8
+Gold 4
+Chapel 10

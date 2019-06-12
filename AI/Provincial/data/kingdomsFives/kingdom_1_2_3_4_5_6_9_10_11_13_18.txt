@@ -1,0 +1,16 @@
+0
+11
+8
+8
+Gold 5
+Library 2
+Province 5
+Library 10
+Silver 13
+Cellar 9
+Bureaucrat 103
+Bureaucrat 3
+Silver 9
+Duchy 7
+CouncilRoom 8
+Duchy 10

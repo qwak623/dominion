@@ -1,0 +1,17 @@
+2
+10
+6
+6
+Festival 2
+Silver 11
+Gold 9
+Moat 8
+Silver 4
+Festival 4
+Duchy 101
+Estate 8
+Chancellor 13
+Copper 6
+Workshop 8
+Laboratory 9
+Duchy 11

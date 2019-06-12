@@ -1,0 +1,17 @@
+4
+12
+8
+4
+Province 6
+Gold 102
+Mine 7
+Silver 12
+Library 5
+Moat 6
+Bureaucrat 4
+Duchy 1
+Mine 6
+Gold 12
+Silver 14
+Village 8
+Copper 8

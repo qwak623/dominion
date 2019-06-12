@@ -1,0 +1,18 @@
+2
+13
+6
+4
+Province 9
+Gold 101
+Library 3
+Province 11
+Silver 7
+Adventurer 2
+Bureaucrat 7
+Gold 2
+Library 6
+Village 2
+Remodel 5
+Duchy 12
+Village 2
+Silver 12

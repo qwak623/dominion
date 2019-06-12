@@ -1,0 +1,22 @@
+7
+19
+7
+4
+Gold 101
+Silver 1
+Gold 8
+Silver 8
+Copper 1
+Silver 11
+Estate 10
+Moneylender 10
+Silver 6
+CouncilRoom 7
+Silver 9
+Moneylender 9
+Workshop 9
+Feast 5
+Workshop 13
+Silver 12
+Province 14
+Moneylender 7

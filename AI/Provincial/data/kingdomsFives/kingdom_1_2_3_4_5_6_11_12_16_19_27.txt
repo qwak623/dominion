@@ -1,0 +1,16 @@
+5
+17
+6
+4
+Province 5
+Gold 8
+CouncilRoom 14
+Duchy 12
+Copper 1
+Silver 9
+Estate 11
+Chapel 5
+Chapel 8
+Thief 1
+Gold 99
+Feast 3

@@ -1,0 +1,15 @@
+7
+12
+21
+7
+Gold 102
+Festival 8
+Silver 10
+Gold 3
+Province 9
+Province 8
+Province 7
+Silver 10
+Village 4
+Duchy 4
+Adventurer 7

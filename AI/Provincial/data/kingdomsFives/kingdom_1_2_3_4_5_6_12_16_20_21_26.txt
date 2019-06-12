@@ -1,0 +1,17 @@
+1
+11
+10
+8
+Duchy 8
+Militia 5
+Silver 7
+Estate 10
+Gold 100
+Gold 8
+Spy 8
+Spy 3
+Copper 7
+Chapel 10
+Silver 10
+Feast 9
+Mine 6

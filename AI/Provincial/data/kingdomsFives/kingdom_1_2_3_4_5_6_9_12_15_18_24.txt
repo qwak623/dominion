@@ -1,0 +1,16 @@
+7
+12
+5
+3
+Province 8
+Gold 9
+Library 6
+Gold 105
+Silver 13
+Gold 6
+Bureaucrat 14
+Remodel 11
+Feast 3
+Remodel 8
+Duchy 8
+Chancellor 3

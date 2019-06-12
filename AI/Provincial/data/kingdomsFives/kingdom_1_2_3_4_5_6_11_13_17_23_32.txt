@@ -1,0 +1,12 @@
+6
+11
+6
+6
+Gold 5
+Province 2
+CouncilRoom 2
+Silver 11
+Copper 7
+Estate 4
+Province 102
+Province 8

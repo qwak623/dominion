@@ -1,0 +1,17 @@
+7
+14
+8
+8
+Silver 8
+Province 4
+Gardens 12
+Duchy 4
+Gold 101
+Estate 1
+Silver 11
+Chancellor 8
+Laboratory 3
+Gardens 6
+Chancellor 4
+Province 11
+Adventurer 9

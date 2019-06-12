@@ -1,0 +1,15 @@
+2
+11
+8
+8
+Market 11
+Province 8
+Gold 103
+Silver 11
+Duchy 4
+ThroneRoom 10
+Gold 1
+Copper 6
+Gold 6
+Library 11
+Gold 8

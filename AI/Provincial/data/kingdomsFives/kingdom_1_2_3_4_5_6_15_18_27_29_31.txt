@@ -1,0 +1,15 @@
+4
+14
+6
+5
+Library 1
+Gold 5
+Silver 13
+Library 8
+Thief 4
+Province 9
+Province 2
+Gold 100
+Duchy 15
+Woodcutter 8
+Chancellor 5

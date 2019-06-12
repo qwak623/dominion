@@ -1,0 +1,16 @@
+6
+15
+12
+7
+Militia 2
+Province 12
+Gardens 11
+Gold 4
+Militia 7
+Spy 15
+Feast 11
+Silver 5
+Remodel 5
+Estate 9
+Copper 11
+Silver 11

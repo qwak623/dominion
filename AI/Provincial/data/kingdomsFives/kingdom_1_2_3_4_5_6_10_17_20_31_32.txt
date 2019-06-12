@@ -1,0 +1,16 @@
+3
+18
+7
+4
+Gold 11
+Gold 100
+Laboratory 4
+Silver 10
+Cellar 7
+Cellar 6
+Copper 5
+Silver 7
+Woodcutter 5
+Woodcutter 8
+Estate 3
+Duchy 10

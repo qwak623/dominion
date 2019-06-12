@@ -1,0 +1,17 @@
+4
+17
+8
+3
+Province 4
+Gold 11
+CouncilRoom 6
+Silver 6
+Duchy 11
+Silver 11
+Silver 7
+Copper 10
+Gold 101
+Silver 11
+Workshop 9
+Market 10
+Library 5

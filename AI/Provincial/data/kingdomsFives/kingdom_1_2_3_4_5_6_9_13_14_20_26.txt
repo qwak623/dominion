@@ -1,0 +1,16 @@
+0
+19
+18
+8
+Gold 102
+Gardens 12
+Gold 9
+Festival 13
+Silver 9
+Copper 3
+Province 10
+Spy 6
+Spy 4
+Militia 5
+Estate 5
+Silver 11

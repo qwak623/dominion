@@ -1,0 +1,15 @@
+1
+18
+8
+8
+Witch 3
+Silver 7
+Duchy 7
+Gold 102
+Silver 13
+Gold 3
+Militia 9
+Copper 4
+Woodcutter 7
+Province 2
+Duchy 2

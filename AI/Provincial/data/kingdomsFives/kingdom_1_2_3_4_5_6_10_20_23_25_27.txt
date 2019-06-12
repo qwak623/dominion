@@ -1,0 +1,18 @@
+1
+12
+12
+8
+Gold 10
+Gold 100
+Militia 7
+Silver 10
+Militia 4
+Smithy 3
+Copper 10
+Province 11
+Province 9
+Cellar 8
+Cellar 6
+Estate 2
+Militia 6
+Moneylender 5

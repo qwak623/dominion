@@ -1,0 +1,15 @@
+2
+17
+8
+5
+Gold 102
+Province 12
+Library 5
+Market 9
+Market 10
+Silver 10
+Gold 2
+Workshop 11
+Workshop 7
+Laboratory 3
+Copper 2

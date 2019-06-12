@@ -1,0 +1,17 @@
+3
+10
+6
+6
+CouncilRoom 1
+Gold 6
+Silver 6
+Gold 100
+Gold 3
+CouncilRoom 12
+Silver 14
+Copper 1
+Silver 14
+Spy 9
+Copper 8
+Province 9
+Estate 14

@@ -1,0 +1,14 @@
+4
+19
+8
+8
+Witch 6
+Duchy 3
+Gardens 7
+Gold 101
+Silver 14
+Duchy 14
+Witch 5
+Gold 13
+CouncilRoom 8
+Province 3

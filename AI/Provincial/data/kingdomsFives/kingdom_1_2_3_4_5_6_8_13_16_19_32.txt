@@ -1,0 +1,16 @@
+6
+9
+6
+5
+Market 3
+Silver 3
+Province 5
+Gold 10
+Silver 11
+Market 7
+Silver 5
+Duchy 101
+Duchy 4
+Duchy 6
+Festival 12
+Chapel 2

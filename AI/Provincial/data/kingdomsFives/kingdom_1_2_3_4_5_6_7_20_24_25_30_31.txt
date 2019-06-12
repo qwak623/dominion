@@ -1,0 +1,18 @@
+3
+12
+8
+7
+Gold 100
+Province 7
+Witch 4
+Silver 10
+Silver 11
+Duchy 10
+Smithy 4
+Copper 4
+Smithy 4
+Province 8
+Woodcutter 4
+Smithy 12
+Estate 7
+Curse 4

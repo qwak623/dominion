@@ -1,0 +1,17 @@
+1
+14
+7
+7
+Mine 1
+Province 6
+Gold 101
+Library 3
+Silver 13
+Spy 11
+Gold 5
+Militia 3
+Duchy 7
+Copper 9
+Bureaucrat 13
+Duchy 5
+Estate 6

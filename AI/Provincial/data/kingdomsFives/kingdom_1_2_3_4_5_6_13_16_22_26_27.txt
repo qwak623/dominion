@@ -1,0 +1,18 @@
+1
+10
+7
+4
+Gold 102
+Province 6
+Silver 12
+Festival 5
+Duchy 6
+Moat 5
+Chapel 10
+Silver 8
+Festival 2
+Estate 2
+Copper 6
+Duchy 10
+Spy 13
+Thief 6

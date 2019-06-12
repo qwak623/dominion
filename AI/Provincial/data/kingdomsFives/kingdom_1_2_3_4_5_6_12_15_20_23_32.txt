@@ -1,0 +1,16 @@
+2
+17
+8
+8
+Copper 1
+Gold 101
+Gold 12
+Silver 6
+Militia 9
+Feast 10
+Moneylender 9
+Chancellor 1
+Moneylender 9
+Province 1
+Silver 13
+Silver 10

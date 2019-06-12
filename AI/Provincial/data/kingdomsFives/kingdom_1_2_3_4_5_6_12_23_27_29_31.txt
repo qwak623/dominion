@@ -1,0 +1,15 @@
+0
+13
+7
+6
+Gold 102
+Silver 9
+Silver 11
+Gold 9
+Gold 9
+Silver 12
+Woodcutter 10
+Silver 13
+Copper 7
+Estate 5
+Duchy 8

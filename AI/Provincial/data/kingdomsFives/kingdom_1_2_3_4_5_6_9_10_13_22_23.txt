@@ -1,0 +1,16 @@
+6
+13
+8
+3
+Province 8
+Gold 7
+Silver 9
+Duchy 3
+Silver 10
+Moat 6
+Estate 8
+Moneylender 9
+Festival 102
+Festival 5
+Duchy 13
+Copper 10

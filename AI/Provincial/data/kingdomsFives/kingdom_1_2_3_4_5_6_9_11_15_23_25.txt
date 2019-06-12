@@ -1,0 +1,18 @@
+0
+9
+8
+7
+Bureaucrat 4
+Province 6
+Province 7
+Gold 102
+CouncilRoom 8
+Duchy 11
+Silver 11
+Copper 4
+Chancellor 8
+Moneylender 13
+Duchy 4
+Silver 4
+Estate 7
+Smithy 6

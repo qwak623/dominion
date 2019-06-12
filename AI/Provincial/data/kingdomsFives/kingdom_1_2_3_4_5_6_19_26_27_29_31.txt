@@ -1,0 +1,14 @@
+1
+12
+8
+8
+Gold 102
+Silver 8
+Market 6
+Thief 9
+Duchy 13
+Woodcutter 6
+Spy 8
+Silver 4
+Village 11
+Province 5

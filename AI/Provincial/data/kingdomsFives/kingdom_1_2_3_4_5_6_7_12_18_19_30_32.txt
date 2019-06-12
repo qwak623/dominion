@@ -1,0 +1,16 @@
+6
+20
+8
+8
+Witch 9
+Duchy 10
+Silver 13
+Province 12
+Library 4
+Feast 11
+Workshop 2
+Copper 3
+Silver 8
+Gold 103
+Silver 9
+Market 8

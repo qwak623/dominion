@@ -1,0 +1,17 @@
+6
+14
+5
+5
+Gold 9
+Smithy 2
+Silver 5
+Gold 100
+Silver 14
+Duchy 12
+Copper 5
+Duchy 9
+Estate 10
+Province 8
+Adventurer 6
+Adventurer 8
+Festival 13

@@ -1,0 +1,16 @@
+4
+8
+5
+5
+Gold 5
+Laboratory 3
+Province 9
+Chancellor 1
+Silver 4
+Gardens 11
+Duchy 5
+Silver 8
+Thief 10
+Gold 102
+Silver 12
+Silver 3

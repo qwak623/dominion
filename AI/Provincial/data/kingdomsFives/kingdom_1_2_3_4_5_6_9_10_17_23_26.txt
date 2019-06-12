@@ -1,0 +1,16 @@
+0
+10
+6
+5
+Laboratory 10
+Province 7
+Silver 5
+Gold 99
+Silver 13
+Moneylender 6
+Bureaucrat 7
+Gold 3
+Cellar 4
+Silver 8
+Spy 6
+Copper 4

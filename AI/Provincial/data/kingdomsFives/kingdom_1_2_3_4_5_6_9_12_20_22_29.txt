@@ -1,0 +1,14 @@
+1
+10
+8
+8
+Gold 9
+Silver 3
+Province 12
+Gold 101
+Militia 11
+Silver 11
+Estate 1
+Bureaucrat 6
+Province 11
+Village 8

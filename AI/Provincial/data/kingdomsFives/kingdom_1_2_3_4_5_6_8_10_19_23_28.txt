@@ -1,0 +1,15 @@
+2
+12
+6
+5
+Gold 9
+Silver 10
+Duchy 4
+ThroneRoom 4
+Cellar 11
+Cellar 9
+Copper 4
+Market 14
+Estate 4
+Adventurer 8
+Moneylender 8

@@ -1,0 +1,14 @@
+7
+13
+14
+8
+Gold 7
+Gold 102
+Militia 9
+Silver 10
+Gold 9
+Cellar 2
+Estate 7
+Woodcutter 11
+Woodcutter 10
+Militia 8

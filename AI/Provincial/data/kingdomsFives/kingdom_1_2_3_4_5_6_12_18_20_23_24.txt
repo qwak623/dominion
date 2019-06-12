@@ -1,0 +1,17 @@
+3
+11
+8
+6
+Gold 103
+Library 5
+Silver 3
+Library 4
+Silver 11
+Feast 5
+Militia 2
+Moneylender 7
+Library 9
+Duchy 9
+Province 9
+Silver 3
+Remodel 7

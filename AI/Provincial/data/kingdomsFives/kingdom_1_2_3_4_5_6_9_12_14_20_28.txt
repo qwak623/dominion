@@ -1,0 +1,16 @@
+1
+12
+6
+6
+Gold 4
+Silver 10
+Province 8
+Gardens 10
+Gardens 3
+ThroneRoom 5
+Militia 8
+Silver 7
+Copper 11
+Feast 8
+Gold 99
+Estate 8

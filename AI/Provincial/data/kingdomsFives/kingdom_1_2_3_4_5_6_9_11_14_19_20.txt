@@ -1,0 +1,18 @@
+3
+19
+8
+7
+Bureaucrat 5
+Duchy 6
+Gardens 7
+Market 10
+Market 8
+Militia 11
+Silver 10
+Duchy 11
+Province 4
+Gold 100
+Market 10
+Silver 3
+Copper 5
+Gold 11

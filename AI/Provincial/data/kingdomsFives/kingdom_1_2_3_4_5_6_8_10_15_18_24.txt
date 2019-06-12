@@ -1,0 +1,14 @@
+5
+11
+8
+6
+Province 4
+Silver 11
+Copper 1
+Library 9
+Adventurer 4
+Silver 11
+Province 6
+Cellar 6
+Duchy 9
+Copper 10

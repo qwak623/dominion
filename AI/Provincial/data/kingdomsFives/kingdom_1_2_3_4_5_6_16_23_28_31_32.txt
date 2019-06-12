@@ -1,0 +1,14 @@
+1
+12
+7
+4
+Gold 100
+Gold 1
+Silver 11
+Silver 12
+Workshop 8
+Workshop 11
+Copper 10
+Woodcutter 10
+Copper 4
+Silver 11

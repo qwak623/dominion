@@ -1,0 +1,16 @@
+2
+14
+6
+6
+Gold 12
+Laboratory 7
+Duchy 6
+Silver 1
+Militia 12
+Gold 102
+Silver 10
+Province 9
+Copper 5
+Estate 8
+Chancellor 6
+Adventurer 5

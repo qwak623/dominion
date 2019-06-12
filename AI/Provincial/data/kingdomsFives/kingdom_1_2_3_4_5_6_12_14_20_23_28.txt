@@ -1,0 +1,18 @@
+4
+14
+14
+7
+Gardens 10
+Silver 5
+Estate 12
+Copper 8
+Estate 2
+Province 9
+Silver 12
+ThroneRoom 6
+Gardens 9
+Silver 13
+Duchy 11
+Moneylender 8
+Gold 6
+Province 100

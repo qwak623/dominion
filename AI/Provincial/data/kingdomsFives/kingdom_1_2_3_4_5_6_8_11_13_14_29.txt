@@ -1,0 +1,21 @@
+3
+11
+5
+5
+Province 10
+Gold 6
+CouncilRoom 9
+Silver 10
+Adventurer 2
+Gardens 5
+Copper 4
+Gardens 7
+Silver 11
+Village 6
+Village 1
+CouncilRoom 11
+Festival 12
+Gold 102
+Silver 1
+Gardens 3
+Silver 8

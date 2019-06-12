@@ -1,0 +1,17 @@
+4
+15
+18
+8
+Gardens 10
+Silver 9
+Copper 3
+Gardens 9
+Estate 8
+Feast 10
+Silver 12
+Copper 9
+Silver 9
+Province 8
+Remodel 5
+Gold 100
+Duchy 9

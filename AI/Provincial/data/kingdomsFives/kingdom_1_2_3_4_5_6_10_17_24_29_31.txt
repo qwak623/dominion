@@ -1,0 +1,15 @@
+6
+15
+6
+4
+Gold 12
+Laboratory 11
+Silver 9
+Cellar 4
+Gold 101
+Remodel 2
+Remodel 13
+Copper 10
+Village 12
+Province 7
+Copper 10

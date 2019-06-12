@@ -1,0 +1,15 @@
+2
+17
+8
+7
+Gold 9
+Witch 6
+Duchy 10
+Silver 6
+Silver 10
+Spy 6
+Gold 8
+Witch 1
+Witch 11
+Spy 7
+Woodcutter 13

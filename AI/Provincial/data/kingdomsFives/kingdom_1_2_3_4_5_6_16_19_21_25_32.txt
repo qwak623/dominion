@@ -1,0 +1,15 @@
+5
+11
+7
+7
+Mine 2
+Gold 100
+Province 3
+Silver 6
+Silver 11
+Copper 11
+Copper 3
+Duchy 6
+Chapel 12
+Duchy 5
+Silver 10

@@ -1,0 +1,15 @@
+2
+15
+8
+8
+Province 9
+Gold 102
+Witch 9
+Market 6
+Silver 13
+Silver 5
+Spy 9
+Copper 10
+Bureaucrat 6
+Gold 3
+Woodcutter 7

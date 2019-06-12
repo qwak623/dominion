@@ -1,0 +1,16 @@
+2
+13
+7
+5
+Gold 12
+Gold 99
+CouncilRoom 8
+Province 5
+Silver 12
+Gold 10
+Workshop 9
+Copper 3
+Village 1
+Woodcutter 9
+Gold 10
+CouncilRoom 11

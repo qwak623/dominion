@@ -1,0 +1,15 @@
+5
+13
+8
+8
+Gardens 11
+Duchy 5
+Gold 7
+Silver 14
+Moneylender 7
+Province 9
+Copper 4
+Copper 9
+Spy 8
+Workshop 101
+Province 4

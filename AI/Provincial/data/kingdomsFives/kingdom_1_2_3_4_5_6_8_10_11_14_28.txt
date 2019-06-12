@@ -1,0 +1,13 @@
+7
+8
+7
+5
+Province 13
+Silver 11
+Gardens 8
+CouncilRoom 5
+Cellar 7
+Silver 5
+Duchy 3
+Cellar 8
+ThroneRoom 15

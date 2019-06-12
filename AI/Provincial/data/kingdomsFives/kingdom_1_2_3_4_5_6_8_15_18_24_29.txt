@@ -1,0 +1,19 @@
+3
+14
+8
+4
+Gold 7
+Province 7
+Province 12
+Library 4
+Silver 15
+Copper 4
+Gold 101
+Estate 8
+Adventurer 4
+Silver 13
+Library 11
+Estate 7
+Village 11
+Chancellor 2
+Remodel 7

@@ -1,0 +1,17 @@
+3
+16
+8
+7
+Gold 6
+Silver 9
+Moat 8
+Remodel 2
+Estate 5
+Remodel 9
+Duchy 5
+Copper 2
+Copper 2
+Copper 4
+Estate 9
+Duchy 12
+Smithy 1

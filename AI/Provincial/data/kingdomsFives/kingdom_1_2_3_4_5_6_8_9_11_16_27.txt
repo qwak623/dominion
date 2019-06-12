@@ -1,0 +1,14 @@
+7
+8
+7
+7
+Province 4
+Gold 101
+Silver 15
+Gold 7
+Duchy 10
+Chapel 2
+Province 11
+Silver 6
+Copper 8
+Bureaucrat 8

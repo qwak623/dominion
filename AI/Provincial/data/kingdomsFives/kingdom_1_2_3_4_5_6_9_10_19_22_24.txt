@@ -1,0 +1,16 @@
+0
+17
+8
+8
+Province 7
+Gold 101
+Silver 17
+Moat 9
+Bureaucrat 10
+Duchy 5
+Moat 6
+Remodel 2
+Estate 4
+Market 5
+Cellar 11
+Silver 8

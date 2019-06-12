@@ -1,0 +1,14 @@
+7
+11
+8
+8
+Witch 4
+Gold 10
+Silver 10
+Chancellor 9
+Copper 11
+Gold 10
+Duchy 6
+Province 7
+Province 11
+Gold 101

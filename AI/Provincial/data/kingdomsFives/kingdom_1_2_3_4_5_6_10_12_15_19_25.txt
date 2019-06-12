@@ -1,0 +1,15 @@
+1
+15
+5
+5
+Province 8
+Smithy 1
+Gold 101
+Silver 3
+Silver 13
+Feast 12
+Copper 7
+Duchy 10
+Gold 4
+Province 6
+Estate 3

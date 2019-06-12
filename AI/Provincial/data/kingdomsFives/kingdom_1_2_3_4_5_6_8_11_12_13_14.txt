@@ -1,0 +1,15 @@
+6
+11
+13
+6
+Silver 6
+Gardens 13
+Province 11
+Estate 6
+Gold 99
+Duchy 8
+Estate 5
+CouncilRoom 12
+Adventurer 5
+Feast 10
+Copper 9

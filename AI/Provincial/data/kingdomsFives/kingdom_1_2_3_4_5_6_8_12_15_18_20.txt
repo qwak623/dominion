@@ -1,0 +1,15 @@
+3
+8
+7
+7
+Library 2
+Province 7
+Gold 101
+Gold 9
+Adventurer 8
+Silver 8
+Silver 6
+Duchy 5
+Estate 6
+Silver 13
+Library 6

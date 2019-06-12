@@ -1,0 +1,15 @@
+7
+19
+8
+8
+Gold 103
+Silver 12
+Province 12
+Gardens 4
+ThroneRoom 13
+Chancellor 2
+Festival 13
+ThroneRoom 10
+Silver 4
+Festival 5
+Gold 10

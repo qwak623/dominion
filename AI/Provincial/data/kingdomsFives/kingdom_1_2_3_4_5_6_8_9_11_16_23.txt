@@ -1,0 +1,18 @@
+4
+11
+7
+3
+Gold 100
+Silver 12
+Province 8
+CouncilRoom 5
+Bureaucrat 11
+Gold 8
+Gold 6
+Gold 7
+Gold 9
+Adventurer 9
+Silver 2
+Silver 11
+Moneylender 9
+Chapel 2

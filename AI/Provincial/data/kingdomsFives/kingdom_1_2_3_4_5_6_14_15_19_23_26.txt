@@ -1,0 +1,16 @@
+3
+18
+14
+8
+Gold 100
+Province 4
+Gardens 7
+Silver 10
+Copper 5
+Estate 4
+Silver 5
+Market 4
+Estate 6
+Gold 10
+Spy 7
+Moneylender 11

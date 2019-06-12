@@ -1,0 +1,14 @@
+7
+10
+7
+6
+Gold 11
+Library 1
+Market 6
+Province 3
+Feast 3
+Province 11
+Mine 7
+Duchy 6
+Silver 15
+Silver 11

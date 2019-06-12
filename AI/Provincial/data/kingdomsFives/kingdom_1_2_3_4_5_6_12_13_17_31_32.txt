@@ -1,0 +1,15 @@
+2
+10
+6
+6
+Gold 8
+Laboratory 11
+Province 11
+Gold 102
+Gold 3
+Silver 11
+Woodcutter 9
+Workshop 6
+Workshop 4
+Silver 11
+Feast 13

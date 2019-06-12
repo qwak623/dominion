@@ -1,0 +1,17 @@
+6
+15
+18
+5
+Duchy 8
+Province 9
+Gold 7
+Gold 8
+Province 7
+Silver 13
+Moat 5
+Estate 8
+Workshop 10
+Duchy 12
+Copper 6
+Woodcutter 7
+Gold 99

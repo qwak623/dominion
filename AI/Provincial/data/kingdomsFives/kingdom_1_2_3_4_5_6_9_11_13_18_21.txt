@@ -1,0 +1,14 @@
+1
+13
+8
+6
+Gold 6
+Mine 2
+Library 10
+Silver 11
+Copper 3
+Province 1
+Festival 4
+Estate 6
+Estate 6
+Gold 101

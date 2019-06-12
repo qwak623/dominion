@@ -1,0 +1,15 @@
+1
+9
+15
+8
+Witch 10
+Silver 8
+Province 5
+Silver 12
+Gold 1
+Gold 101
+Province 4
+Province 11
+Workshop 11
+Cellar 5
+Witch 5

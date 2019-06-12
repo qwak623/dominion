@@ -1,0 +1,21 @@
+2
+9
+7
+5
+Province 6
+Gold 101
+Silver 11
+Gold 11
+Festival 9
+Chancellor 2
+Silver 7
+Chapel 10
+Festival 6
+Silver 8
+Workshop 8
+Silver 10
+Duchy 1
+Workshop 8
+Cellar 6
+Workshop 2
+Copper 11

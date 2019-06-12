@@ -1,0 +1,16 @@
+5
+14
+6
+5
+Province 9
+Gold 15
+Gold 101
+Silver 4
+Silver 12
+Woodcutter 13
+Spy 12
+Province 4
+Gold 9
+Smithy 12
+Woodcutter 5
+ThroneRoom 12

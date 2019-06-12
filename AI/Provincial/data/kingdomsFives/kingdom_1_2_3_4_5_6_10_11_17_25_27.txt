@@ -1,0 +1,13 @@
+1
+15
+7
+6
+Gold 102
+CouncilRoom 11
+Silver 13
+Gold 7
+Province 7
+Laboratory 12
+Laboratory 2
+Smithy 6
+Copper 7

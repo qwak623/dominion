@@ -1,0 +1,17 @@
+0
+11
+8
+8
+Gold 12
+Witch 10
+Province 2
+Witch 9
+Duchy 9
+Gold 7
+Silver 13
+Copper 4
+Silver 9
+Militia 7
+Woodcutter 6
+Gold 101
+Smithy 6

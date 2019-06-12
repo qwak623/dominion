@@ -1,0 +1,17 @@
+2
+9
+6
+5
+Province 15
+Gold 101
+CouncilRoom 12
+Gold 9
+Silver 10
+Thief 6
+Copper 8
+Market 6
+Silver 14
+Festival 2
+Duchy 12
+Market 7
+Estate 8

@@ -1,0 +1,15 @@
+4
+17
+6
+5
+Gold 102
+Gold 3
+Silver 15
+Moat 7
+Copper 6
+Gold 9
+Estate 7
+Festival 4
+Chapel 5
+Silver 9
+Province 5

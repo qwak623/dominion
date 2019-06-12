@@ -1,0 +1,14 @@
+3
+11
+7
+6
+Province 14
+Gold 10
+Witch 7
+Gold 104
+Silver 9
+Village 9
+Chancellor 1
+Workshop 6
+Chapel 11
+Silver 10

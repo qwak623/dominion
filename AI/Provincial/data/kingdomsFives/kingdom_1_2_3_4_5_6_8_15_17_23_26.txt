@@ -1,0 +1,16 @@
+7
+15
+6
+6
+Gold 103
+Laboratory 7
+Silver 3
+Silver 4
+Silver 7
+Gold 4
+Silver 1
+Duchy 3
+Adventurer 10
+Silver 10
+Duchy 4
+Chancellor 3

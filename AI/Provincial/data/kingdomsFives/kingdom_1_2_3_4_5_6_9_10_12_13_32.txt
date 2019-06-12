@@ -1,0 +1,18 @@
+1
+11
+8
+8
+Province 11
+Province 2
+Bureaucrat 5
+Duchy 10
+Silver 4
+Estate 13
+Estate 8
+Gold 100
+Estate 5
+Cellar 11
+Copper 11
+Silver 11
+Workshop 5
+Gold 7

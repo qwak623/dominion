@@ -1,0 +1,10 @@
+6
+8
+8
+8
+Province 9
+Silver 13
+Gold 12
+Gold 11
+Province 8
+Copper 101

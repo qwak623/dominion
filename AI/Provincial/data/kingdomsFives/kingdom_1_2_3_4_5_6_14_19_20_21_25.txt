@@ -1,0 +1,14 @@
+3
+14
+7
+6
+Province 9
+Gold 5
+Market 13
+Mine 10
+Militia 6
+Gardens 13
+Silver 10
+Gold 101
+Silver 11
+Duchy 13

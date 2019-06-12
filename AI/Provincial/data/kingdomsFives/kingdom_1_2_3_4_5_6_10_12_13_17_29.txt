@@ -1,0 +1,19 @@
+6
+16
+6
+4
+Gold 13
+Laboratory 8
+Province 7
+Gold 99
+Laboratory 3
+Province 2
+Silver 12
+Cellar 7
+Estate 12
+Province 9
+Feast 7
+Silver 3
+Feast 2
+Duchy 7
+Estate 4

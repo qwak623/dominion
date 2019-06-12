@@ -1,0 +1,15 @@
+0
+9
+8
+8
+Mine 1
+Gardens 10
+Duchy 7
+Silver 6
+Silver 13
+Gold 100
+Gardens 1
+Duchy 2
+Gold 9
+Copper 9
+Estate 10

@@ -1,0 +1,15 @@
+4
+15
+8
+8
+Gold 102
+Festival 10
+Militia 9
+Spy 3
+Copper 1
+Silver 4
+Gold 6
+Duchy 14
+Silver 13
+Militia 4
+Workshop 1

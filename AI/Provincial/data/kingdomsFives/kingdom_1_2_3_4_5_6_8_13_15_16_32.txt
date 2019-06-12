@@ -1,0 +1,16 @@
+5
+17
+5
+4
+Gold 102
+Adventurer 8
+Adventurer 5
+Silver 16
+Duchy 9
+Province 5
+Chapel 4
+Copper 8
+Estate 9
+Chancellor 10
+Chapel 7
+Province 10

@@ -1,0 +1,15 @@
+0
+18
+8
+4
+Gold 100
+Mine 4
+Silver 13
+Militia 7
+Militia 5
+Province 8
+Moneylender 4
+Province 13
+Gold 8
+Estate 4
+Remodel 3

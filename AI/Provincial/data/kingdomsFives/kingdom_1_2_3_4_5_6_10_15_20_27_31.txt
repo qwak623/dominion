@@ -1,0 +1,18 @@
+4
+9
+8
+7
+Gold 10
+Silver 5
+Silver 10
+Duchy 104
+Province 4
+Silver 6
+Cellar 7
+Militia 11
+Thief 7
+Duchy 5
+Duchy 10
+Thief 3
+Estate 6
+Chancellor 2

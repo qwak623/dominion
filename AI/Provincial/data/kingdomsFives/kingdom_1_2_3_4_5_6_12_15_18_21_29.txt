@@ -1,0 +1,17 @@
+0
+17
+6
+4
+Mine 1
+Gold 9
+Library 7
+Silver 2
+Silver 12
+Duchy 3
+Village 11
+Copper 3
+Chancellor 5
+Copper 12
+Province 9
+Mine 4
+Silver 4

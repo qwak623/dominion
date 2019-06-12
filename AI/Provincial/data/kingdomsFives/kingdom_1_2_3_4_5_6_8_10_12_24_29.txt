@@ -1,0 +1,19 @@
+6
+16
+7
+3
+Gold 5
+Silver 9
+Duchy 11
+Gold 100
+Adventurer 11
+Remodel 9
+Province 10
+Village 6
+Cellar 7
+Adventurer 9
+Silver 12
+Silver 10
+Feast 10
+Copper 6
+Village 11

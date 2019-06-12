@@ -1,0 +1,17 @@
+4
+10
+8
+7
+Province 7
+Bureaucrat 7
+Duchy 101
+Province 2
+Gardens 8
+Gardens 8
+Gold 4
+Silver 5
+Gold 9
+Festival 3
+Festival 9
+Silver 12
+Chancellor 8

@@ -1,0 +1,16 @@
+4
+11
+8
+8
+Market 3
+Gardens 12
+Duchy 11
+Province 100
+Silver 6
+Gold 4
+Copper 10
+Estate 9
+Thief 4
+Silver 11
+Woodcutter 9
+Village 5

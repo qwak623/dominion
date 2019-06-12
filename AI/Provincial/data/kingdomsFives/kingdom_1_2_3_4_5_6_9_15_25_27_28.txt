@@ -1,0 +1,18 @@
+1
+13
+6
+5
+Gold 6
+Silver 7
+Silver 7
+Province 12
+Thief 9
+Copper 102
+ThroneRoom 8
+Estate 7
+Duchy 1
+Duchy 7
+Bureaucrat 7
+Bureaucrat 7
+Silver 13
+Chancellor 5

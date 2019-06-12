@@ -1,0 +1,18 @@
+6
+16
+18
+8
+Gold 7
+Silver 13
+Chancellor 8
+Copper 99
+Estate 14
+Woodcutter 12
+Province 7
+Bureaucrat 8
+Estate 4
+Remodel 6
+Province 12
+Estate 2
+Chancellor 12
+Chancellor 11

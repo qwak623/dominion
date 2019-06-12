@@ -1,0 +1,15 @@
+3
+12
+8
+7
+Gold 103
+Witch 15
+Silver 4
+Duchy 10
+Silver 11
+Province 5
+Feast 6
+Copper 12
+Curse 12
+Workshop 3
+Copper 10

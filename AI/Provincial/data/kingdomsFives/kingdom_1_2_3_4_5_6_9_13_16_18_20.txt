@@ -1,0 +1,15 @@
+3
+16
+6
+5
+Gold 100
+Library 8
+Province 7
+Silver 12
+Copper 10
+Bureaucrat 10
+Gold 9
+Duchy 4
+Library 7
+Chapel 1
+Chapel 5

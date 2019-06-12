@@ -1,0 +1,15 @@
+7
+8
+8
+8
+Workshop 5
+Gardens 11
+Province 3
+Duchy 10
+Gold 8
+Province 9
+Silver 12
+Witch 11
+Copper 4
+Gold 99
+Moneylender 4

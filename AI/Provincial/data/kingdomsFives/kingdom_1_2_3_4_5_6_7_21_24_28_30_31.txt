@@ -1,0 +1,12 @@
+2
+13
+8
+7
+Gold 6
+Gold 103
+Witch 2
+Silver 10
+Estate 7
+Duchy 11
+Duchy 7
+ThroneRoom 10

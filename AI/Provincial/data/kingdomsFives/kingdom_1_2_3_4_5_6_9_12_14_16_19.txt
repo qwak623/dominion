@@ -1,0 +1,13 @@
+3
+16
+11
+8
+Gardens 9
+Duchy 12
+Silver 5
+Province 7
+Gardens 7
+Duchy 4
+Duchy 101
+Copper 4
+Estate 8

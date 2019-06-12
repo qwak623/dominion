@@ -1,0 +1,14 @@
+2
+13
+12
+5
+Province 11
+Gold 10
+CouncilRoom 10
+Duchy 5
+Silver 12
+Militia 6
+Adventurer 10
+Duchy 10
+Copper 9
+Copper 10

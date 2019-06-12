@@ -1,0 +1,14 @@
+6
+7
+6
+5
+Province 16
+Gold 9
+Gold 99
+Mine 1
+Festival 7
+Gold 4
+Silver 13
+Moneylender 4
+Duchy 12
+Duchy 3

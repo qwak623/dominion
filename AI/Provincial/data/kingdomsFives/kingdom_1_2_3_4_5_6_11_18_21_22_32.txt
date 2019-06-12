@@ -1,0 +1,16 @@
+3
+13
+6
+6
+Province 8
+Moat 1
+Province 11
+Gold 101
+Silver 10
+Silver 13
+Copper 4
+Mine 8
+CouncilRoom 10
+Estate 11
+Estate 8
+Workshop 7

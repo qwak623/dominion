@@ -1,0 +1,16 @@
+2
+3
+15
+8
+Silver 4
+Witch 1
+Province 9
+Copper 3
+Gold 9
+Gold 101
+Witch 9
+Silver 12
+Estate 11
+Cellar 10
+Duchy 10
+Province 10

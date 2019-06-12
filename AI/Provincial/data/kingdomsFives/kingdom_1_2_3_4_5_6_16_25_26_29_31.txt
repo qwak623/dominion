@@ -1,0 +1,15 @@
+4
+12
+6
+5
+Gold 101
+Silver 9
+Smithy 10
+Silver 11
+Village 9
+Province 6
+Chapel 8
+Copper 3
+Estate 7
+Silver 8
+Chapel 9

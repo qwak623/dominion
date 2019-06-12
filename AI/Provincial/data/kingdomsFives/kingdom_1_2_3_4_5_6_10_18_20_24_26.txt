@@ -1,0 +1,15 @@
+2
+17
+8
+7
+Gold 101
+Silver 3
+Militia 10
+Silver 9
+Militia 9
+Copper 14
+Cellar 3
+Duchy 9
+Province 8
+Silver 5
+Silver 10

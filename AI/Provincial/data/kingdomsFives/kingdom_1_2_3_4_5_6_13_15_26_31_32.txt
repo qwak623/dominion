@@ -1,0 +1,20 @@
+5
+19
+8
+8
+Gold 9
+Gold 8
+Gold 5
+Silver 11
+Woodcutter 2
+Festival 5
+Woodcutter 8
+Copper 11
+Estate 4
+Woodcutter 9
+Woodcutter 7
+Silver 2
+Workshop 4
+Silver 5
+Gold 101
+Festival 5

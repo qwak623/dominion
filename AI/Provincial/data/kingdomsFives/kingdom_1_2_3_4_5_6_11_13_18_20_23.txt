@@ -1,0 +1,17 @@
+2
+19
+8
+7
+Gold 101
+Militia 5
+Province 4
+Silver 10
+Militia 7
+Duchy 7
+Festival 3
+Copper 12
+Library 8
+CouncilRoom 9
+CouncilRoom 10
+Gold 14
+Copper 4

@@ -1,0 +1,17 @@
+7
+13
+8
+7
+Gold 10
+Silver 1
+Festival 14
+Gold 104
+Province 6
+Adventurer 9
+Province 3
+Silver 10
+Thief 8
+Spy 14
+Duchy 12
+Silver 2
+Province 10

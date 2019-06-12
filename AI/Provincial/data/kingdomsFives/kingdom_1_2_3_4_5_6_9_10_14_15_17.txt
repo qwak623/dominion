@@ -1,0 +1,18 @@
+1
+11
+6
+5
+Gold 104
+Province 11
+Laboratory 2
+Laboratory 5
+Laboratory 9
+Gold 11
+Duchy 9
+Silver 2
+Silver 5
+Gardens 11
+Cellar 12
+Chancellor 6
+Duchy 16
+Gardens 4

@@ -1,0 +1,15 @@
+7
+10
+5
+5
+Gold 100
+Province 11
+Gold 3
+Silver 12
+Library 11
+Moat 12
+Duchy 10
+Gold 2
+Copper 5
+Silver 7
+Moat 7

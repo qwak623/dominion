@@ -1,0 +1,15 @@
+0
+9
+7
+4
+Gold 102
+Festival 8
+Smithy 6
+Gardens 4
+Remodel 9
+Festival 4
+Duchy 6
+Gardens 9
+Silver 12
+Province 5
+Silver 8

@@ -1,0 +1,21 @@
+6
+14
+6
+6
+Gold 16
+CouncilRoom 12
+Duchy 1
+Silver 9
+Gold 101
+Duchy 4
+Adventurer 14
+Feast 7
+Province 5
+Copper 4
+Silver 10
+Copper 7
+Moneylender 9
+Feast 12
+Estate 6
+Bureaucrat 9
+Province 7

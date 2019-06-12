@@ -1,0 +1,18 @@
+0
+16
+8
+8
+Gold 3
+Silver 4
+Adventurer 4
+Gold 99
+Adventurer 13
+Silver 15
+Spy 6
+Chapel 1
+Province 9
+Feast 5
+Adventurer 2
+Copper 7
+Estate 4
+Province 8

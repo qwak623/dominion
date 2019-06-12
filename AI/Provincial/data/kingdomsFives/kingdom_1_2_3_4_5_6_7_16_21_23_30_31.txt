@@ -1,0 +1,16 @@
+4
+9
+7
+6
+Province 5
+Gold 102
+Witch 12
+Silver 12
+Duchy 3
+Moneylender 9
+Silver 7
+Woodcutter 4
+Mine 7
+Chapel 4
+Woodcutter 8
+Duchy 2

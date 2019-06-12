@@ -1,0 +1,17 @@
+2
+7
+8
+7
+Province 9
+Province 9
+Gold 101
+Market 16
+Militia 4
+Duchy 7
+Laboratory 14
+Silver 12
+Market 11
+CouncilRoom 12
+Copper 3
+Estate 14
+Festival 3

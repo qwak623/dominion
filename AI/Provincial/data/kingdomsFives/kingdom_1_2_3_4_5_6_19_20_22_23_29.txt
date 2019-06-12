@@ -1,0 +1,15 @@
+0
+10
+18
+8
+Gold 5
+Province 3
+Silver 2
+Market 7
+Militia 8
+Silver 10
+Gold 100
+Village 3
+Market 12
+Gold 12
+Village 12

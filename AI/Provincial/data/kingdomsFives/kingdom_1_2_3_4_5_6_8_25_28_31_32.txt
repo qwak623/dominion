@@ -1,0 +1,14 @@
+5
+12
+7
+7
+Gold 8
+Silver 9
+Adventurer 9
+Province 9
+Adventurer 7
+Duchy 4
+Smithy 5
+Gold 101
+Silver 12
+Woodcutter 4

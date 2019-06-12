@@ -1,0 +1,13 @@
+7
+12
+7
+6
+Gold 101
+Silver 10
+Gold 4
+Silver 7
+Thief 7
+Chapel 10
+Silver 12
+Cellar 10
+Province 13

@@ -1,0 +1,14 @@
+6
+13
+6
+4
+Province 4
+Silver 3
+Gold 101
+Silver 10
+Cellar 3
+Copper 2
+Copper 10
+Chancellor 13
+Feast 9
+Cellar 5

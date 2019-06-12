@@ -1,0 +1,15 @@
+2
+16
+16
+6
+Gold 99
+Duchy 11
+Adventurer 10
+Gold 3
+CouncilRoom 5
+Silver 12
+Copper 7
+Silver 2
+Gold 6
+Copper 5
+Silver 6

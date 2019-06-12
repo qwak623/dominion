@@ -1,0 +1,18 @@
+5
+6
+6
+4
+Province 1
+Province 5
+Gold 6
+Festival 4
+Smithy 7
+Silver 12
+ThroneRoom 6
+Gold 102
+Woodcutter 3
+Copper 3
+Province 7
+Estate 5
+Province 7
+Workshop 6

@@ -1,0 +1,13 @@
+3
+16
+7
+5
+Gold 103
+Laboratory 11
+Silver 12
+Duchy 3
+Silver 9
+Thief 5
+CouncilRoom 13
+Market 9
+Province 7

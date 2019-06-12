@@ -1,0 +1,13 @@
+2
+12
+8
+8
+Gold 104
+Militia 5
+Festival 9
+Adventurer 8
+Gold 7
+Silver 15
+Province 9
+Festival 12
+Market 9

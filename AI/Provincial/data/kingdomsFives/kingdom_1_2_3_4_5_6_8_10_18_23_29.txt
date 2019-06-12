@@ -1,0 +1,16 @@
+7
+11
+6
+4
+Gold 7
+Library 6
+Gold 9
+Adventurer 12
+Silver 11
+Adventurer 12
+Moneylender 13
+Adventurer 11
+Gold 101
+Silver 12
+Library 9
+Cellar 11

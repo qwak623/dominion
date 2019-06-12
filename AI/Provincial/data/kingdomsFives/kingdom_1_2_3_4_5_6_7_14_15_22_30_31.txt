@@ -1,0 +1,18 @@
+0
+10
+19
+8
+Gardens 8
+Woodcutter 10
+Gold 100
+Witch 8
+Copper 6
+Estate 11
+Chancellor 10
+Province 2
+Chancellor 8
+Copper 7
+Duchy 8
+Moat 11
+Province 8
+Province 13

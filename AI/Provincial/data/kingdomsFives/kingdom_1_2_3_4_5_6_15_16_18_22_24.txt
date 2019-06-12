@@ -1,0 +1,13 @@
+1
+14
+14
+5
+Gold 101
+Silver 10
+Province 5
+Silver 13
+Moat 6
+Chancellor 6
+Remodel 9
+Library 10
+Copper 5

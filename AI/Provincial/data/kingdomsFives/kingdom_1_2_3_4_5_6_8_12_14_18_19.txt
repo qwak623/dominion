@@ -1,0 +1,17 @@
+1
+8
+7
+7
+Market 5
+Silver 10
+Province 7
+Gardens 5
+Gardens 7
+Duchy 5
+Gold 102
+Gold 3
+Silver 11
+Silver 11
+Gold 3
+Adventurer 5
+Feast 7

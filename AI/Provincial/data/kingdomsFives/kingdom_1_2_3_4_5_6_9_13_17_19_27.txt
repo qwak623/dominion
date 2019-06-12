@@ -1,0 +1,18 @@
+5
+12
+6
+6
+Province 7
+Gold 10
+Laboratory 5
+Market 5
+Bureaucrat 3
+Market 6
+Festival 9
+Silver 8
+Silver 12
+Duchy 6
+Province 4
+Thief 2
+Duchy 10
+Thief 9

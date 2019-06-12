@@ -1,0 +1,16 @@
+2
+15
+6
+4
+Gold 6
+Market 5
+Province 10
+Silver 10
+Silver 13
+Gold 99
+Smithy 7
+Woodcutter 4
+Feast 6
+Feast 7
+Province 9
+Workshop 12

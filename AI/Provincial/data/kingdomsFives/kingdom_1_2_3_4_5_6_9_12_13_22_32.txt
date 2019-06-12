@@ -1,0 +1,19 @@
+1
+11
+7
+7
+Silver 1
+Gold 8
+Silver 9
+Silver 6
+Bureaucrat 9
+Workshop 2
+Moat 8
+Moat 9
+Festival 10
+Estate 8
+Bureaucrat 12
+Gold 100
+Silver 13
+Duchy 12
+Feast 5

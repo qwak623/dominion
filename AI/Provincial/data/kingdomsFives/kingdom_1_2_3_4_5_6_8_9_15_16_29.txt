@@ -1,0 +1,16 @@
+1
+10
+6
+6
+Adventurer 7
+Silver 16
+Province 101
+Bureaucrat 13
+Village 6
+Chapel 7
+Silver 3
+Chancellor 10
+Silver 11
+Copper 12
+Estate 10
+Province 9

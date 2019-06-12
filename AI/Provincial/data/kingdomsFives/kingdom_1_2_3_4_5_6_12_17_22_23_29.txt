@@ -1,0 +1,16 @@
+2
+7
+4
+8
+Gold 8
+Duchy 11
+Duchy 8
+Feast 8
+Copper 5
+Estate 11
+Laboratory 11
+Moneylender 9
+Moat 2
+Village 10
+Moat 11
+Moat 9

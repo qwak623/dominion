@@ -1,0 +1,16 @@
+0
+6
+18
+8
+Feast 9
+Silver 5
+Estate 9
+Gold 12
+Smithy 1
+Estate 1
+Duchy 12
+Remodel 12
+Silver 12
+Gold 102
+Duchy 8
+Chancellor 9

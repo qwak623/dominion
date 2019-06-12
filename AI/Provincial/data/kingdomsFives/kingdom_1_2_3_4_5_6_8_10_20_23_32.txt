@@ -1,0 +1,15 @@
+3
+13
+6
+5
+Copper 1
+Gold 103
+Silver 11
+Workshop 3
+Cellar 7
+Province 8
+Gold 2
+Moneylender 3
+Estate 10
+Province 4
+Gold 8

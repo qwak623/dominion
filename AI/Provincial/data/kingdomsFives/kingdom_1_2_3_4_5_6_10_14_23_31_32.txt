@@ -1,0 +1,16 @@
+1
+17
+12
+8
+Province 8
+Copper 2
+Gold 100
+Workshop 3
+Gardens 8
+Silver 11
+Gardens 11
+Cellar 6
+Woodcutter 1
+Copper 5
+Estate 8
+Silver 7

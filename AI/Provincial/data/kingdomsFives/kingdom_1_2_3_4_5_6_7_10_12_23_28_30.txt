@@ -1,0 +1,17 @@
+5
+16
+8
+8
+Witch 5
+Silver 13
+Copper 11
+Gold 101
+Province 1
+Feast 10
+Province 8
+Province 6
+Estate 6
+Curse 11
+ThroneRoom 12
+Silver 12
+Curse 7

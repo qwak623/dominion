@@ -1,0 +1,16 @@
+1
+12
+8
+8
+Witch 5
+Silver 8
+Duchy 6
+Silver 12
+Copper 9
+ThroneRoom 6
+Bureaucrat 7
+Feast 2
+Copper 7
+Feast 8
+Estate 13
+Province 9

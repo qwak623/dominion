@@ -1,0 +1,13 @@
+2
+15
+10
+8
+Gold 7
+Gardens 10
+Bureaucrat 4
+Workshop 8
+Cellar 10
+Gold 99
+Adventurer 3
+Workshop 11
+Estate 5

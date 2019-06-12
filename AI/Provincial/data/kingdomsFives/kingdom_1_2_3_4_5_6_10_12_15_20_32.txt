@@ -1,0 +1,14 @@
+3
+13
+9
+8
+Gold 102
+Militia 6
+Silver 7
+Silver 12
+Gold 4
+Copper 7
+Estate 11
+Gold 2
+Gold 8
+Feast 6

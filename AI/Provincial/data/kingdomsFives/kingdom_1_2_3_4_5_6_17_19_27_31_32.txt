@@ -1,0 +1,17 @@
+6
+14
+6
+5
+Gold 5
+Province 2
+Silver 11
+Laboratory 15
+Duchy 9
+Copper 8
+Workshop 10
+Silver 8
+Laboratory 8
+Estate 10
+Woodcutter 5
+Woodcutter 13
+Workshop 7

@@ -1,0 +1,18 @@
+3
+16
+8
+8
+Gold 99
+Witch 3
+Silver 12
+Witch 4
+Festival 4
+Province 7
+Duchy 9
+Festival 5
+Gold 9
+Silver 3
+Duchy 11
+Workshop 3
+Spy 2
+Silver 4

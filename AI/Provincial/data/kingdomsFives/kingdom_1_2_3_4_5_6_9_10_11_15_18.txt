@@ -1,0 +1,16 @@
+2
+16
+6
+5
+Gold 6
+CouncilRoom 6
+Province 8
+Library 5
+Silver 13
+Gold 101
+Copper 11
+Estate 11
+Bureaucrat 5
+Silver 5
+CouncilRoom 6
+Bureaucrat 4

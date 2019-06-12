@@ -1,0 +1,17 @@
+3
+14
+8
+8
+Gold 1
+Gold 101
+Silver 10
+Province 8
+Militia 8
+Gold 3
+Silver 12
+Silver 8
+Militia 5
+ThroneRoom 12
+Chapel 10
+Estate 11
+Estate 8

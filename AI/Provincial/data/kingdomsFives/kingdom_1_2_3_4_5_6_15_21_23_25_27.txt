@@ -1,0 +1,19 @@
+5
+12
+7
+6
+Gold 10
+Mine 9
+Province 7
+Copper 1
+Province 6
+Silver 10
+Duchy 9
+Silver 5
+Duchy 2
+Thief 6
+Moneylender 7
+Silver 7
+Smithy 6
+Province 6
+Gold 102

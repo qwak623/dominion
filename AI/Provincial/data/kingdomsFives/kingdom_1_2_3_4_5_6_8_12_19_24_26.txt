@@ -1,0 +1,13 @@
+2
+9
+6
+4
+Province 5
+Gold 102
+Market 11
+Silver 12
+Copper 4
+Spy 9
+Feast 4
+Province 12
+Estate 8

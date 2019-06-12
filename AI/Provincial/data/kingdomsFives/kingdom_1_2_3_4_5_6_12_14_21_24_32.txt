@@ -1,0 +1,16 @@
+7
+10
+6
+8
+Duchy 8
+Mine 10
+Gardens 8
+Feast 99
+Workshop 7
+Gold 3
+Estate 8
+Copper 9
+Silver 12
+Province 6
+Silver 9
+Remodel 8

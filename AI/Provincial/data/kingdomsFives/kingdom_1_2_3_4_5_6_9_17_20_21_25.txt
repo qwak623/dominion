@@ -1,0 +1,17 @@
+0
+13
+7
+5
+Province 102
+Gold 12
+Mine 3
+Laboratory 9
+Silver 12
+Smithy 5
+Militia 7
+Bureaucrat 11
+Copper 8
+Silver 12
+Estate 5
+Laboratory 9
+Province 2

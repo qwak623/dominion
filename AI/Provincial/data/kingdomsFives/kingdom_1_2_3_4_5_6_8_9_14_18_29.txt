@@ -1,0 +1,17 @@
+2
+11
+8
+8
+Bureaucrat 4
+Gardens 10
+Duchy 6
+Gold 99
+Adventurer 11
+Silver 15
+Silver 6
+Gold 8
+Village 2
+Bureaucrat 4
+Gardens 8
+Province 1
+Adventurer 4

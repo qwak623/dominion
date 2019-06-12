@@ -1,0 +1,12 @@
+2
+9
+6
+6
+Province 11
+Gold 100
+Silver 13
+Moat 7
+Chapel 5
+Festival 13
+Silver 3
+Copper 3

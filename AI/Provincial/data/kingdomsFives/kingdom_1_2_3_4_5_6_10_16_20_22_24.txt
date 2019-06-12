@@ -1,0 +1,15 @@
+6
+15
+19
+8
+Duchy 5
+Gold 101
+Silver 11
+Militia 10
+Silver 11
+Militia 5
+Moat 5
+Cellar 13
+Copper 4
+Silver 13
+Estate 5

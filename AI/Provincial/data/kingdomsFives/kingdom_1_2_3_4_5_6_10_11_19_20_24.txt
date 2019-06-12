@@ -1,0 +1,14 @@
+3
+14
+7
+5
+Gold 1
+Militia 6
+Gold 9
+Market 11
+Silver 12
+Silver 105
+Cellar 2
+Remodel 6
+Silver 6
+Gold 6

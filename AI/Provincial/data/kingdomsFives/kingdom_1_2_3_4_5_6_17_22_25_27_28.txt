@@ -1,0 +1,15 @@
+1
+11
+7
+5
+Gold 4
+Province 9
+Gold 100
+Silver 15
+ThroneRoom 9
+Silver 10
+Silver 6
+Moat 8
+Thief 4
+Laboratory 14
+Smithy 6

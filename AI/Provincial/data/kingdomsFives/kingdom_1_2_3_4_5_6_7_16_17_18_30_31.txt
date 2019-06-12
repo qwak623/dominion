@@ -1,0 +1,17 @@
+5
+10
+8
+8
+Province 5
+Curse 1
+Gold 12
+Gold 7
+Witch 5
+Silver 14
+Chapel 9
+Curse 7
+Woodcutter 14
+Estate 4
+Gold 103
+Province 9
+Duchy 11

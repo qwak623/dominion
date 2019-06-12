@@ -1,0 +1,13 @@
+1
+13
+7
+7
+Province 6
+Gold 100
+Mine 2
+Festival 9
+Silver 10
+Province 10
+Gold 9
+Mine 2
+Silver 12

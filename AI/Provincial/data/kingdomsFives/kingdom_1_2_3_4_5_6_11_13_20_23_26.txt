@@ -1,0 +1,16 @@
+6
+11
+8
+8
+Silver 1
+Gold 100
+Militia 7
+Duchy 5
+Silver 12
+Copper 10
+Estate 10
+Duchy 4
+Festival 6
+CouncilRoom 7
+Duchy 5
+Spy 8

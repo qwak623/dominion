@@ -1,0 +1,17 @@
+1
+15
+12
+8
+Gardens 7
+Gold 7
+Silver 10
+Silver 6
+Remodel 1
+Province 100
+Chancellor 11
+Chancellor 7
+Remodel 11
+Copper 10
+Chancellor 11
+Estate 12
+Thief 8

@@ -1,0 +1,17 @@
+1
+5
+8
+4
+Witch 4
+Duchy 7
+Silver 7
+Estate 9
+Gold 100
+Gold 12
+Silver 10
+Witch 4
+Province 3
+Moneylender 6
+Moneylender 5
+Estate 10
+Cellar 3

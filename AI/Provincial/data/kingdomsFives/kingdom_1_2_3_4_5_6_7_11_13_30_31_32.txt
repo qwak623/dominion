@@ -1,0 +1,17 @@
+2
+12
+7
+4
+CouncilRoom 2
+Gold 99
+Silver 10
+Woodcutter 6
+Workshop 1
+Copper 5
+Festival 5
+Woodcutter 6
+CouncilRoom 11
+Workshop 9
+Province 7
+Silver 10
+Duchy 11

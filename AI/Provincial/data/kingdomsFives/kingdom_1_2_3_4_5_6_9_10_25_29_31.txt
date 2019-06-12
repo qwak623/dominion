@@ -1,0 +1,16 @@
+1
+10
+7
+6
+Smithy 1
+Gold 100
+Province 13
+Gold 12
+Silver 11
+Village 6
+Copper 3
+Bureaucrat 5
+Bureaucrat 7
+Bureaucrat 9
+Cellar 8
+Silver 9

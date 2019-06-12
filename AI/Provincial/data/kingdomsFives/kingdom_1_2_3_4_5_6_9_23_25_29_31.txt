@@ -1,0 +1,15 @@
+0
+12
+5
+4
+Province 12
+Smithy 1
+Gold 100
+Silver 5
+Silver 14
+Copper 5
+Moneylender 13
+Duchy 9
+Estate 2
+Woodcutter 9
+Smithy 2

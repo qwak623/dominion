@@ -1,0 +1,14 @@
+4
+8
+8
+8
+Witch 4
+Gardens 101
+Copper 6
+Estate 10
+Silver 15
+CouncilRoom 10
+Silver 10
+Duchy 11
+Gardens 14
+Curse 14

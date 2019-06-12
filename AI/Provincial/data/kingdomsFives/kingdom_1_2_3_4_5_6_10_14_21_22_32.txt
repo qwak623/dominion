@@ -1,0 +1,16 @@
+3
+16
+8
+6
+Province 10
+Gold 10
+Silver 13
+Moat 3
+Moat 5
+Silver 11
+Silver 7
+Cellar 1
+Estate 3
+Workshop 6
+Gold 102
+Cellar 7

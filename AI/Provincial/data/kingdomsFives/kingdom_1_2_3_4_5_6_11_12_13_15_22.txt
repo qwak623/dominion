@@ -1,0 +1,17 @@
+4
+15
+6
+5
+Province 6
+Gold 5
+Gold 99
+Moat 1
+Silver 14
+Moat 9
+CouncilRoom 5
+Silver 9
+Feast 5
+Moat 5
+Chancellor 5
+Gold 5
+Festival 4

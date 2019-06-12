@@ -1,0 +1,16 @@
+7
+15
+6
+4
+Gold 104
+Library 9
+Duchy 6
+Silver 12
+ThroneRoom 8
+Cellar 8
+Estate 9
+ThroneRoom 6
+Cellar 6
+Silver 10
+Village 7
+Village 12

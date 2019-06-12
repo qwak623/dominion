@@ -1,0 +1,15 @@
+1
+13
+17
+5
+Duchy 9
+Gold 3
+Adventurer 13
+Silver 11
+Festival 11
+Gold 4
+Village 10
+CouncilRoom 14
+Remodel 7
+Silver 8
+Gold 100

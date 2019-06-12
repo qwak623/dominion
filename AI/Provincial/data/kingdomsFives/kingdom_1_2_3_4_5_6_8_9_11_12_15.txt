@@ -1,0 +1,16 @@
+0
+19
+8
+6
+Bureaucrat 2
+Gold 9
+Province 3
+Province 4
+Silver 3
+Silver 12
+Gold 103
+Adventurer 10
+Duchy 7
+CouncilRoom 7
+Chancellor 7
+CouncilRoom 11

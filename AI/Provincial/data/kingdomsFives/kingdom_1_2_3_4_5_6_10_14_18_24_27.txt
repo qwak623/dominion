@@ -1,0 +1,18 @@
+1
+12
+11
+8
+Thief 2
+Cellar 2
+Gold 9
+Gardens 8
+Library 7
+Thief 6
+Duchy 7
+Library 2
+Silver 11
+Estate 100
+Copper 10
+Remodel 5
+Thief 3
+Silver 11

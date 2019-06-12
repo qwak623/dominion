@@ -1,0 +1,15 @@
+4
+14
+12
+8
+Gold 7
+Witch 11
+Duchy 13
+Laboratory 8
+Silver 13
+Mine 13
+Gold 100
+Mine 10
+CouncilRoom 11
+Witch 6
+Woodcutter 9

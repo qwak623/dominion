@@ -1,0 +1,17 @@
+4
+7
+5
+5
+CouncilRoom 2
+Province 9
+Silver 2
+Gold 9
+Silver 11
+Gold 100
+Smithy 11
+Copper 8
+Workshop 4
+Estate 4
+CouncilRoom 4
+Province 2
+Village 3

@@ -1,0 +1,18 @@
+2
+9
+7
+6
+Gold 6
+Silver 10
+Mine 15
+Gold 100
+Mine 2
+Silver 13
+Chancellor 5
+Festival 8
+Chancellor 4
+Gold 8
+Moat 2
+Duchy 14
+Village 12
+Moat 8

@@ -1,0 +1,18 @@
+5
+11
+8
+6
+Gold 8
+Silver 8
+Silver 13
+Gold 101
+Adventurer 5
+Workshop 9
+Gold 1
+Gold 9
+Moat 7
+Chapel 4
+Adventurer 6
+Library 2
+Library 1
+Copper 13

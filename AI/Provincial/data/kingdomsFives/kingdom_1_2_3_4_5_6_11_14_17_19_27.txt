@@ -1,0 +1,18 @@
+0
+12
+7
+7
+Laboratory 10
+Gold 101
+Silver 11
+CouncilRoom 3
+Duchy 7
+Province 7
+Copper 5
+Gardens 3
+Gardens 6
+Silver 8
+Market 5
+Market 7
+Gold 7
+Thief 3

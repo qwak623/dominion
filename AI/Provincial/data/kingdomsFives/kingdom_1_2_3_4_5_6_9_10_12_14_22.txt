@@ -1,0 +1,15 @@
+0
+19
+7
+7
+Bureaucrat 8
+Province 9
+Copper 1
+Gardens 9
+Duchy 9
+Gardens 11
+Silver 5
+Copper 1
+Estate 9
+Silver 11
+Moat 7

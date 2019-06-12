@@ -1,0 +1,17 @@
+4
+13
+8
+7
+Province 6
+Witch 1
+Gold 101
+Witch 7
+Silver 16
+Remodel 3
+Village 5
+Duchy 9
+Copper 6
+Gold 9
+Curse 5
+Silver 10
+Silver 4

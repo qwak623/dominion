@@ -1,0 +1,16 @@
+6
+10
+7
+7
+Gold 104
+Province 5
+Silver 11
+Smithy 2
+Market 4
+Duchy 12
+Gold 7
+Silver 13
+Gold 5
+Bureaucrat 8
+Library 6
+Chapel 12

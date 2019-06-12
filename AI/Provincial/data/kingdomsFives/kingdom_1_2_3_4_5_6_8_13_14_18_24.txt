@@ -1,0 +1,15 @@
+6
+12
+6
+3
+Gold 5
+Province 6
+Festival 3
+Gold 102
+Library 6
+Silver 7
+Province 12
+Duchy 10
+Gold 3
+Gardens 8
+Silver 15

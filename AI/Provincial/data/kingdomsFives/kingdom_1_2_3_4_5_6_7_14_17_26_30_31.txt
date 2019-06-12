@@ -1,0 +1,16 @@
+5
+19
+8
+8
+Witch 9
+Laboratory 8
+Gold 100
+Gardens 10
+Duchy 10
+Silver 2
+Estate 11
+Silver 13
+Copper 7
+Duchy 10
+Copper 7
+Spy 9

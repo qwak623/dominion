@@ -1,0 +1,16 @@
+2
+23
+6
+6
+Gold 101
+Gold 4
+CouncilRoom 7
+Silver 12
+Province 10
+Copper 5
+Copper 7
+Festival 9
+Smithy 8
+Laboratory 2
+Estate 7
+CouncilRoom 7

@@ -1,0 +1,15 @@
+0
+14
+8
+8
+Gold 100
+Silver 7
+Silver 10
+Province 5
+Duchy 10
+Province 8
+Silver 11
+Chapel 9
+Estate 3
+Feast 3
+Moneylender 12

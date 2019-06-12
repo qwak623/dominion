@@ -1,0 +1,15 @@
+0
+18
+6
+3
+Silver 1
+Gold 12
+Silver 11
+Gardens 12
+Gold 102
+Remodel 5
+Feast 7
+Feast 9
+Feast 9
+Duchy 5
+Duchy 9

@@ -1,0 +1,19 @@
+5
+6
+5
+3
+Province 11
+Gold 99
+CouncilRoom 9
+Laboratory 8
+Silver 6
+Feast 4
+Province 12
+Feast 7
+Laboratory 2
+Silver 13
+Feast 3
+Silver 14
+Moneylender 13
+Duchy 6
+Province 6

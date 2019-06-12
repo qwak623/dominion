@@ -1,0 +1,17 @@
+4
+12
+6
+6
+Province 7
+Gold 100
+Copper 1
+Laboratory 3
+Market 6
+Silver 10
+Market 9
+Duchy 4
+Silver 9
+Duchy 16
+Moneylender 5
+Market 9
+Festival 3

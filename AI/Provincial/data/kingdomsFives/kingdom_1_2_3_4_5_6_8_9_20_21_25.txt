@@ -1,0 +1,14 @@
+6
+14
+8
+8
+Gold 6
+Mine 1
+Silver 7
+Smithy 15
+Bureaucrat 9
+Smithy 6
+Province 4
+Duchy 11
+Silver 11
+Militia 7

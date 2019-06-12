@@ -1,0 +1,15 @@
+6
+8
+8
+5
+Province 15
+Gold 9
+Market 5
+Silver 12
+Silver 10
+Moneylender 99
+Adventurer 6
+Moneylender 9
+Moneylender 3
+Remodel 11
+Remodel 2

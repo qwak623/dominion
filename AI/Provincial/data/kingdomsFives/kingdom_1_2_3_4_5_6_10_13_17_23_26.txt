@@ -1,0 +1,18 @@
+7
+20
+8
+3
+Laboratory 3
+Gold 101
+Silver 9
+Festival 8
+Silver 11
+Province 4
+Cellar 9
+Copper 6
+Province 2
+Province 10
+Estate 7
+Estate 5
+Copper 6
+Spy 8

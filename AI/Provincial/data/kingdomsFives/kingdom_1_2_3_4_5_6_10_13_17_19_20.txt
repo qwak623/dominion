@@ -1,0 +1,16 @@
+5
+15
+8
+6
+Gold 11
+Gold 104
+Laboratory 10
+Market 5
+Militia 12
+Festival 6
+Silver 9
+Duchy 2
+Duchy 10
+Province 9
+Silver 15
+Silver 9

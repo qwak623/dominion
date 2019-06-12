@@ -1,0 +1,15 @@
+7
+19
+5
+4
+Gold 102
+Province 5
+Silver 12
+Gardens 8
+Silver 4
+Moat 4
+Moneylender 4
+Duchy 11
+CouncilRoom 6
+Silver 2
+Moat 6

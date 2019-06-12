@@ -1,0 +1,15 @@
+1
+14
+14
+8
+Gardens 7
+Gold 2
+Silver 7
+Witch 9
+Gold 99
+Silver 13
+Copper 11
+Chapel 12
+Feast 7
+Feast 7
+Cellar 7

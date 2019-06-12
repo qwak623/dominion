@@ -1,0 +1,17 @@
+1
+10
+8
+8
+Market 9
+Duchy 10
+Silver 11
+Feast 101
+Copper 4
+Market 3
+Mine 12
+Laboratory 10
+Chancellor 12
+Province 7
+Silver 12
+Duchy 13
+Estate 11

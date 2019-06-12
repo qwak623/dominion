@@ -1,0 +1,13 @@
+4
+12
+7
+7
+Province 11
+Gold 104
+Silver 11
+Cellar 11
+Duchy 12
+Adventurer 7
+Duchy 3
+Estate 7
+Smithy 11

@@ -1,0 +1,19 @@
+5
+17
+8
+8
+Workshop 3
+Gardens 7
+Duchy 6
+Gardens 11
+Duchy 5
+Gold 8
+Duchy 8
+Adventurer 10
+Silver 10
+Militia 6
+Gold 102
+Silver 11
+Festival 7
+Copper 3
+Estate 7

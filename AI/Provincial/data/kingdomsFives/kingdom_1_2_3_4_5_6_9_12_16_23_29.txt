@@ -1,0 +1,22 @@
+7
+12
+6
+6
+Province 5
+Gold 5
+Silver 4
+Gold 8
+Silver 6
+Province 4
+Silver 12
+Duchy 7
+Chapel 2
+Silver 9
+Copper 4
+Village 9
+Bureaucrat 9
+Province 6
+Estate 3
+Gold 100
+Duchy 8
+Chapel 11

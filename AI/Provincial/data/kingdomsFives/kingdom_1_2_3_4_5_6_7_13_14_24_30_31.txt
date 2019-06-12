@@ -1,0 +1,15 @@
+1
+8
+6
+5
+Silver 6
+Copper 2
+Province 9
+Gold 100
+Witch 10
+Gardens 6
+Witch 1
+Woodcutter 4
+Estate 13
+Festival 10
+Silver 13

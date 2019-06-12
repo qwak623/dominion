@@ -1,0 +1,17 @@
+4
+12
+6
+6
+Gold 5
+Laboratory 5
+Province 8
+Silver 11
+Province 4
+Chapel 10
+Gold 100
+Laboratory 5
+Chapel 10
+Silver 9
+Estate 9
+Smithy 8
+Gold 7

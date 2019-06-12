@@ -1,0 +1,15 @@
+3
+18
+7
+6
+Remodel 1
+Gold 100
+Adventurer 7
+Silver 7
+Silver 12
+Chancellor 6
+Silver 8
+Gold 3
+Province 12
+Feast 3
+Duchy 3

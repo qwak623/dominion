@@ -1,0 +1,15 @@
+1
+15
+6
+5
+Gold 100
+Gold 7
+Province 12
+Laboratory 3
+Silver 9
+CouncilRoom 6
+Silver 14
+Chancellor 5
+CouncilRoom 12
+Duchy 7
+Chancellor 12

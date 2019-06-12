@@ -1,0 +1,22 @@
+2
+14
+8
+7
+Witch 3
+Silver 17
+Chapel 11
+Gold 8
+Curse 2
+Estate 5
+Silver 8
+Estate 13
+Province 99
+Province 11
+CouncilRoom 10
+Province 2
+CouncilRoom 9
+Gold 8
+Laboratory 7
+Duchy 8
+Silver 12
+Woodcutter 5

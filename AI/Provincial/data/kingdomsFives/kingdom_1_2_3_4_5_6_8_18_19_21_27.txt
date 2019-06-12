@@ -1,0 +1,16 @@
+0
+16
+6
+3
+Gold 103
+Province 6
+Library 12
+Silver 11
+Silver 12
+Silver 8
+Mine 10
+Gold 13
+Gold 6
+Mine 5
+Gold 10
+Market 10

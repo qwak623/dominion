@@ -1,0 +1,14 @@
+0
+13
+8
+8
+Gold 100
+Gold 11
+Market 10
+Duchy 8
+Adventurer 13
+Militia 6
+Silver 3
+Province 9
+Spy 11
+Silver 16

@@ -1,0 +1,15 @@
+6
+15
+7
+5
+Gold 5
+Silver 7
+Province 12
+Gold 8
+Library 11
+Smithy 11
+Bureaucrat 11
+Duchy 6
+Gold 99
+Silver 12
+Province 6

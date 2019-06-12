@@ -1,0 +1,14 @@
+5
+15
+14
+8
+Gold 3
+Militia 6
+Gold 105
+Silver 11
+Militia 12
+Remodel 6
+Silver 10
+Province 10
+Moneylender 9
+Silver 8

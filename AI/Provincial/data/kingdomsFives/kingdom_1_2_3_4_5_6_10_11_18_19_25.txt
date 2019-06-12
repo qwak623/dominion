@@ -1,0 +1,17 @@
+3
+13
+18
+5
+Smithy 1
+Duchy 7
+Gold 9
+Market 4
+Silver 7
+Gold 100
+Smithy 8
+Gold 10
+Province 8
+CouncilRoom 8
+Silver 11
+Cellar 6
+Market 5

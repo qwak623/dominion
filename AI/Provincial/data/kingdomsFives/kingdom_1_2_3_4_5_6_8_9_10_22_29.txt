@@ -1,0 +1,14 @@
+4
+14
+7
+7
+Moat 2
+Gold 8
+Gold 100
+Silver 11
+Silver 14
+Province 10
+Copper 9
+Adventurer 7
+Village 4
+Estate 8

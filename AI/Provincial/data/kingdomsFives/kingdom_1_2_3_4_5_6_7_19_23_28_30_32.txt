@@ -1,0 +1,18 @@
+6
+15
+7
+7
+Province 5
+Province 7
+Gold 12
+Gold 101
+Silver 7
+Silver 14
+ThroneRoom 5
+Duchy 1
+Duchy 6
+Duchy 3
+Workshop 10
+Province 2
+Workshop 8
+Moneylender 9

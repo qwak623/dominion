@@ -1,0 +1,15 @@
+4
+15
+7
+7
+Gold 101
+Silver 5
+Gold 8
+Moat 1
+CouncilRoom 11
+Festival 6
+Festival 4
+Silver 13
+Duchy 9
+Festival 7
+Copper 9

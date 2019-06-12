@@ -1,0 +1,19 @@
+7
+12
+6
+3
+Gold 14
+CouncilRoom 12
+Silver 8
+Library 4
+Gold 99
+Spy 5
+Gold 8
+Copper 10
+Province 7
+Library 8
+Duchy 9
+Spy 7
+Library 11
+Silver 11
+Militia 5

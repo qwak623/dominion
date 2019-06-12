@@ -1,0 +1,16 @@
+3
+11
+7
+6
+Gold 5
+Copper 1
+Gold 6
+Gold 102
+Mine 8
+Silver 13
+Feast 5
+Village 9
+Chancellor 3
+Silver 7
+Province 6
+Militia 5

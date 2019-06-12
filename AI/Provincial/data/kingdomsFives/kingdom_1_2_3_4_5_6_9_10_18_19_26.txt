@@ -1,0 +1,17 @@
+3
+13
+7
+3
+Cellar 1
+Province 13
+Gold 103
+Market 1
+Library 7
+Duchy 8
+Silver 8
+Cellar 12
+Bureaucrat 8
+Duchy 7
+Market 12
+Silver 11
+Library 7

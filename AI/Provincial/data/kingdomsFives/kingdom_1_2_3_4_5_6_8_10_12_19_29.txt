@@ -1,0 +1,19 @@
+0
+12
+17
+7
+Gold 10
+Market 4
+Silver 13
+Gold 8
+Feast 11
+Silver 8
+Province 5
+Gold 4
+Province 4
+Gold 9
+Duchy 4
+Village 4
+Feast 10
+Cellar 3
+Gold 101

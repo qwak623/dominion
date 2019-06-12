@@ -1,0 +1,14 @@
+6
+15
+7
+7
+Gold 8
+Gold 101
+Library 9
+Silver 8
+Silver 10
+Cellar 5
+Estate 8
+Copper 8
+Moat 5
+Gold 4

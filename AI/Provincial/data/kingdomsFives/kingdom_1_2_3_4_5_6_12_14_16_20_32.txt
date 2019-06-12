@@ -1,0 +1,14 @@
+4
+11
+7
+7
+Militia 2
+Gold 99
+Silver 9
+Duchy 10
+Gardens 13
+Workshop 11
+Chapel 12
+Copper 9
+Duchy 7
+Estate 4

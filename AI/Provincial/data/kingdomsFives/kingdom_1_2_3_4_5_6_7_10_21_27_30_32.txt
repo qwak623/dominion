@@ -1,0 +1,13 @@
+7
+10
+8
+7
+Province 5
+Gold 100
+Mine 10
+Gold 12
+Silver 13
+Cellar 3
+Copper 6
+Curse 5
+Province 6

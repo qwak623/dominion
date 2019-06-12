@@ -1,0 +1,15 @@
+0
+20
+6
+4
+Gold 11
+Silver 9
+Duchy 9
+Library 5
+Gold 100
+Silver 13
+Chapel 10
+Cellar 5
+Chancellor 6
+Mine 11
+Estate 2

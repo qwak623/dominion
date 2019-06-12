@@ -1,0 +1,16 @@
+6
+14
+6
+4
+Gold 8
+Gold 3
+Silver 11
+Silver 5
+Chapel 4
+Copper 9
+Gold 102
+Duchy 12
+Silver 9
+Estate 3
+Chancellor 3
+Spy 9

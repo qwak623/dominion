@@ -1,0 +1,17 @@
+4
+12
+8
+6
+Gold 100
+Bureaucrat 2
+Province 6
+Market 4
+Silver 10
+Feast 9
+Duchy 10
+Mine 5
+Copper 3
+Smithy 2
+Mine 10
+Estate 5
+Market 6

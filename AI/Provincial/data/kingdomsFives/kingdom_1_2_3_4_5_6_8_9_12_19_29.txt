@@ -1,0 +1,16 @@
+7
+16
+7
+5
+Gold 5
+Adventurer 7
+Market 6
+Bureaucrat 13
+Silver 2
+Village 6
+Market 5
+Duchy 6
+Province 2
+Gold 102
+Silver 11
+Duchy 6

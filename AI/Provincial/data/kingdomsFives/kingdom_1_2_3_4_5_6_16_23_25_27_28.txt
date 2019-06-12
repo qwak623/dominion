@@ -1,0 +1,18 @@
+2
+15
+6
+5
+Gold 2
+Gold 5
+Silver 4
+Smithy 12
+Thief 11
+Province 8
+Moneylender 7
+Province 7
+Thief 11
+ThroneRoom 9
+Silver 11
+Smithy 4
+Gold 100
+Smithy 12

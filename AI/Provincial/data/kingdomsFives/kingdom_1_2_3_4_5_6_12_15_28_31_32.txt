@@ -1,0 +1,14 @@
+7
+15
+7
+6
+Province 11
+Gold 101
+Silver 13
+Feast 6
+Gold 6
+Copper 8
+Estate 9
+Silver 4
+ThroneRoom 2
+Chancellor 8

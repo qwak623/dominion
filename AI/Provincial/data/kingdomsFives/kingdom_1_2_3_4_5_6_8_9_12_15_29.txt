@@ -1,0 +1,18 @@
+1
+14
+8
+6
+Gold 12
+Province 6
+Bureaucrat 3
+Silver 9
+Duchy 4
+Gold 101
+Copper 7
+Silver 10
+Adventurer 12
+Feast 8
+Village 5
+Gold 6
+Chancellor 8
+Estate 6

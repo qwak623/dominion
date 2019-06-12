@@ -1,0 +1,15 @@
+4
+19
+7
+5
+Gold 5
+Mine 5
+Silver 8
+Silver 12
+Bureaucrat 11
+CouncilRoom 10
+Silver 5
+Copper 4
+CouncilRoom 1
+Estate 102
+Gold 2

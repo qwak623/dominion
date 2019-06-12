@@ -1,0 +1,18 @@
+3
+11
+8
+8
+Silver 6
+Gold 102
+Gold 4
+Witch 10
+Spy 4
+Chancellor 6
+Chapel 4
+Chapel 6
+Workshop 5
+Copper 9
+Duchy 10
+Silver 11
+Estate 11
+Province 8

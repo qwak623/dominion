@@ -1,0 +1,18 @@
+0
+13
+8
+8
+Witch 4
+Duchy 11
+Market 6
+Silver 10
+Silver 14
+Gold 100
+Copper 7
+Duchy 3
+Province 5
+Woodcutter 6
+Witch 6
+Workshop 7
+Estate 5
+Estate 4

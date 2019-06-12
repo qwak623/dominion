@@ -1,0 +1,14 @@
+5
+15
+7
+4
+Gold 8
+Silver 14
+Province 15
+Gold 100
+Adventurer 6
+Chancellor 10
+Silver 9
+Moneylender 5
+Duchy 4
+Workshop 13

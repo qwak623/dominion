@@ -1,0 +1,15 @@
+2
+18
+8
+8
+Witch 11
+Gold 7
+Market 10
+Province 9
+Silver 15
+Duchy 3
+Workshop 5
+Copper 2
+Estate 5
+Curse 3
+Silver 12

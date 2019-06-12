@@ -1,0 +1,16 @@
+3
+16
+7
+6
+Gold 5
+CouncilRoom 9
+Silver 8
+Province 5
+Chancellor 5
+Copper 5
+Silver 13
+Duchy 6
+Chancellor 1
+Silver 101
+Workshop 3
+Silver 5

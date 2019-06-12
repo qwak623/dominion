@@ -1,0 +1,14 @@
+2
+14
+6
+6
+Gold 9
+Silver 14
+Moat 11
+Moat 9
+Village 1
+Silver 10
+Woodcutter 9
+Moneylender 3
+Province 5
+Village 10

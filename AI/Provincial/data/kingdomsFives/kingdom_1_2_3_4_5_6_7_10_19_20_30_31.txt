@@ -1,0 +1,18 @@
+2
+12
+8
+8
+Province 8
+Witch 6
+Duchy 5
+Silver 11
+Cellar 11
+Province 13
+Silver 11
+Militia 10
+Estate 5
+Copper 7
+Woodcutter 4
+Militia 4
+Silver 8
+Gold 103

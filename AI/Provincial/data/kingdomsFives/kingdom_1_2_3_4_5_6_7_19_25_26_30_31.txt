@@ -1,0 +1,15 @@
+5
+18
+8
+8
+Province 6
+Witch 9
+Duchy 3
+Duchy 101
+Silver 10
+Estate 2
+Market 12
+Silver 8
+Estate 5
+Silver 11
+Smithy 12

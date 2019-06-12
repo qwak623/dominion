@@ -1,0 +1,17 @@
+7
+17
+8
+8
+Gold 100
+Mine 5
+Duchy 9
+Silver 7
+Silver 4
+Copper 11
+Adventurer 3
+Silver 14
+Silver 2
+Workshop 3
+Estate 11
+Silver 3
+Workshop 8

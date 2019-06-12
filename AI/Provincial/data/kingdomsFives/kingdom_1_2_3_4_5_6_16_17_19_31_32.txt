@@ -1,0 +1,16 @@
+5
+12
+16
+8
+Duchy 2
+Province 5
+Duchy 8
+Gold 100
+Laboratory 8
+Province 9
+Duchy 10
+Gold 7
+Silver 11
+Market 3
+Silver 14
+Woodcutter 11

@@ -1,0 +1,18 @@
+2
+12
+7
+5
+Province 9
+Gold 13
+Silver 5
+CouncilRoom 3
+Silver 12
+CouncilRoom 3
+Moneylender 10
+Gold 101
+Duchy 9
+Bureaucrat 10
+Cellar 9
+Estate 3
+Bureaucrat 2
+Copper 10

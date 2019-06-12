@@ -1,0 +1,15 @@
+4
+12
+6
+5
+Province 11
+Gold 10
+Silver 7
+Silver 12
+Copper 2
+Workshop 14
+Cellar 9
+Duchy 4
+Estate 5
+Gold 100
+Remodel 5

@@ -1,0 +1,18 @@
+2
+18
+7
+6
+Mine 3
+Silver 4
+Gold 100
+Laboratory 6
+Silver 12
+Workshop 5
+Workshop 7
+Duchy 9
+Laboratory 12
+Remodel 11
+Gold 13
+Adventurer 7
+Province 5
+Workshop 9

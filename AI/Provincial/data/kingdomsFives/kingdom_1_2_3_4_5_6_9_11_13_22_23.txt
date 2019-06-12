@@ -1,0 +1,17 @@
+6
+23
+6
+6
+Gold 99
+Gold 5
+Silver 12
+CouncilRoom 11
+Bureaucrat 2
+Moat 7
+Bureaucrat 8
+Festival 5
+Estate 11
+Gold 5
+Moat 3
+Silver 11
+Province 6

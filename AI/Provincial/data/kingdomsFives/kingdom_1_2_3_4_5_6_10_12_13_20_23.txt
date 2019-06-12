@@ -1,0 +1,19 @@
+0
+14
+7
+6
+Gold 9
+Silver 10
+Gold 10
+Militia 5
+Duchy 11
+Silver 4
+Cellar 7
+Duchy 6
+Copper 3
+Province 7
+Feast 9
+Silver 11
+Province 9
+Festival 3
+Copper 101

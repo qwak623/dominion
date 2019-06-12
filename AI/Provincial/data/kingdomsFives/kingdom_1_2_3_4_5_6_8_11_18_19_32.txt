@@ -1,0 +1,13 @@
+0
+13
+8
+8
+Gold 101
+Silver 2
+Library 10
+CouncilRoom 5
+Silver 14
+Duchy 3
+Workshop 8
+Adventurer 10
+Market 18

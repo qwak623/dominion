@@ -1,0 +1,14 @@
+7
+13
+7
+4
+Gold 102
+Mine 3
+Silver 9
+Gold 7
+Remodel 12
+Silver 15
+Province 9
+Remodel 5
+CouncilRoom 12
+Adventurer 12

@@ -1,0 +1,18 @@
+6
+17
+6
+6
+Market 4
+Gold 100
+Silver 3
+Gardens 11
+Silver 10
+Copper 2
+Cellar 10
+Silver 9
+Market 10
+Duchy 6
+Copper 2
+Copper 10
+Market 3
+Library 7

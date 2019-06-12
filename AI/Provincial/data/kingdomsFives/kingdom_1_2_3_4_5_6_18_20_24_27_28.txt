@@ -1,0 +1,16 @@
+0
+13
+6
+5
+Province 10
+Gold 12
+Silver 5
+Militia 5
+ThroneRoom 12
+Gold 10
+Duchy 6
+Silver 13
+Gold 100
+Silver 4
+Thief 11
+Remodel 5

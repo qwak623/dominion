@@ -1,0 +1,15 @@
+2
+12
+7
+6
+Gold 7
+Province 1
+Silver 8
+CouncilRoom 9
+Province 5
+Silver 11
+Silver 11
+Duchy 6
+Duchy 11
+Militia 7
+CouncilRoom 5

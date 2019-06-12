@@ -1,0 +1,17 @@
+2
+10
+8
+8
+Province 12
+Witch 7
+Gold 9
+Duchy 4
+Witch 102
+Silver 12
+Moneylender 4
+Gold 12
+Chancellor 7
+Workshop 4
+Silver 14
+Village 13
+Moneylender 4

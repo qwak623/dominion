@@ -1,0 +1,16 @@
+3
+16
+6
+6
+Gold 5
+Silver 8
+Adventurer 6
+Moat 2
+Adventurer 11
+Province 2
+Silver 15
+Festival 12
+Smithy 4
+Gold 102
+Duchy 6
+Estate 6

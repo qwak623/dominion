@@ -1,0 +1,14 @@
+6
+21
+13
+8
+Gardens 10
+Gold 102
+Militia 7
+Silver 7
+Duchy 8
+Village 6
+Cellar 5
+Estate 5
+Silver 13
+Village 12

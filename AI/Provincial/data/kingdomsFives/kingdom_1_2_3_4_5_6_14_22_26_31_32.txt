@@ -1,0 +1,13 @@
+5
+16
+8
+8
+Workshop 5
+Duchy 8
+Gardens 9
+Gold 105
+Estate 10
+Silver 10
+Silver 1
+Province 9
+Spy 9

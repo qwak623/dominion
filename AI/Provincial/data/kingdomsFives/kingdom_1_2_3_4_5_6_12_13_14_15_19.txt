@@ -1,0 +1,12 @@
+2
+11
+7
+6
+Province 6
+Gold 4
+Silver 6
+Duchy 5
+Gardens 5
+Feast 15
+Gold 102
+Silver 13

@@ -1,0 +1,15 @@
+3
+11
+8
+8
+Gold 100
+Silver 5
+CouncilRoom 3
+Province 7
+CouncilRoom 10
+Silver 13
+Cellar 3
+Duchy 6
+Spy 12
+Gold 5
+Moneylender 7

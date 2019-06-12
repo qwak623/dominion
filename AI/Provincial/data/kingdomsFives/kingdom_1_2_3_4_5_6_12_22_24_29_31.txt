@@ -1,0 +1,17 @@
+0
+9
+7
+7
+Province 2
+Gold 101
+Silver 13
+Village 12
+Feast 5
+Woodcutter 6
+Moat 12
+Moat 9
+Remodel 2
+Estate 9
+Copper 5
+Province 8
+Village 7

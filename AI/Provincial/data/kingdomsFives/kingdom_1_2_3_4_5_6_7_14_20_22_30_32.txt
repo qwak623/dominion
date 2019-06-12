@@ -1,0 +1,17 @@
+7
+11
+10
+5
+Province 10
+Gold 13
+Witch 11
+Gardens 11
+Workshop 11
+Estate 13
+Copper 6
+Gardens 4
+Gold 9
+Militia 8
+Gold 101
+Silver 2
+Moat 3

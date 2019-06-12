@@ -1,0 +1,15 @@
+2
+15
+5
+5
+Silver 4
+Chapel 1
+Province 5
+Gold 101
+Smithy 2
+Silver 11
+Spy 9
+Copper 5
+Gardens 15
+Duchy 11
+Cellar 5

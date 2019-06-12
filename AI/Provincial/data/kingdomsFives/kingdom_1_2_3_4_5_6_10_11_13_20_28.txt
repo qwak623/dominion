@@ -1,0 +1,15 @@
+3
+16
+13
+8
+Festival 10
+Province 8
+CouncilRoom 12
+Gold 5
+Duchy 12
+Militia 8
+Festival 11
+Silver 10
+Estate 6
+ThroneRoom 7
+Gold 101

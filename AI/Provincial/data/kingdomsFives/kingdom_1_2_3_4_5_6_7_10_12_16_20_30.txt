@@ -1,0 +1,14 @@
+1
+13
+13
+8
+Witch 12
+Province 7
+Witch 104
+Silver 14
+Copper 9
+Chapel 9
+Duchy 11
+Chapel 8
+Militia 10
+Estate 10

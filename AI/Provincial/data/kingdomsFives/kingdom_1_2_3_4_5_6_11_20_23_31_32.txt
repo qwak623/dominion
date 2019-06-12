@@ -1,0 +1,17 @@
+3
+17
+7
+6
+Gold 102
+CouncilRoom 6
+Silver 13
+Workshop 3
+Duchy 10
+Silver 12
+Militia 10
+Copper 2
+Moneylender 10
+Province 8
+Copper 6
+Moneylender 4
+Woodcutter 1

@@ -1,0 +1,17 @@
+4
+13
+7
+6
+Gold 103
+Bureaucrat 1
+Province 8
+Gold 9
+Silver 12
+Festival 11
+Silver 5
+Duchy 9
+Bureaucrat 5
+Moat 8
+Silver 12
+Duchy 16
+Estate 8

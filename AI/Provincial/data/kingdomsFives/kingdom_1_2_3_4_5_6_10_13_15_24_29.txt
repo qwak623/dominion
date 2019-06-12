@@ -1,0 +1,16 @@
+7
+9
+8
+8
+Province 7
+Gold 100
+Silver 10
+Silver 10
+Cellar 11
+Copper 5
+Remodel 13
+Copper 9
+Remodel 7
+Silver 13
+Festival 7
+Festival 7

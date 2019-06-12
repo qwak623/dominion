@@ -1,0 +1,14 @@
+4
+13
+8
+7
+Gold 101
+Bureaucrat 7
+Silver 11
+Gold 9
+Copper 10
+Bureaucrat 4
+Copper 9
+Duchy 6
+Spy 5
+Feast 8

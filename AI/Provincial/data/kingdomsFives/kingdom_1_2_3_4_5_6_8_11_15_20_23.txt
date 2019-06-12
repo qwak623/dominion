@@ -1,0 +1,21 @@
+3
+16
+8
+8
+CouncilRoom 1
+Gold 7
+Copper 1
+Silver 12
+Moneylender 12
+Province 2
+Adventurer 8
+Militia 13
+Gold 100
+Estate 2
+Chancellor 11
+Duchy 6
+CouncilRoom 13
+Chancellor 8
+Militia 7
+Estate 3
+Silver 9

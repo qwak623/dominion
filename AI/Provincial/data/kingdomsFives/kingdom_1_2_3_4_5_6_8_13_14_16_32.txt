@@ -1,0 +1,14 @@
+1
+15
+6
+4
+Gold 12
+Copper 1
+Gold 101
+Festival 4
+Adventurer 4
+Silver 6
+Province 11
+Gold 4
+Gardens 9
+Silver 13

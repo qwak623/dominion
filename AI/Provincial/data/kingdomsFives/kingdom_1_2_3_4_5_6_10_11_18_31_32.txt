@@ -1,0 +1,19 @@
+0
+14
+14
+5
+Province 9
+Province 4
+Gold 101
+Gold 2
+CouncilRoom 7
+Silver 15
+Cellar 4
+Duchy 6
+Woodcutter 5
+Copper 3
+Woodcutter 10
+Gold 9
+Silver 5
+Woodcutter 7
+Library 10

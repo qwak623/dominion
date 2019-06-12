@@ -1,0 +1,16 @@
+6
+13
+6
+5
+Gold 7
+Festival 10
+Duchy 8
+Silver 5
+Gold 102
+Gardens 4
+Chancellor 7
+Village 8
+Gold 9
+Silver 6
+Silver 10
+Province 11

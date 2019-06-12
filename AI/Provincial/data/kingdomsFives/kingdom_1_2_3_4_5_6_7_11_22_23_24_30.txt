@@ -1,0 +1,19 @@
+3
+15
+8
+8
+Gold 4
+Province 5
+Witch 5
+Duchy 7
+Silver 10
+Silver 7
+CouncilRoom 4
+Moneylender 5
+Silver 4
+Copper 6
+Province 8
+Gold 101
+Silver 11
+Duchy 3
+Moat 4

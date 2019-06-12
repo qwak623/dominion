@@ -1,0 +1,14 @@
+6
+12
+6
+5
+Province 14
+Gold 11
+CouncilRoom 6
+Gold 102
+Festival 6
+Silver 8
+Feast 4
+Copper 7
+Remodel 12
+Silver 12

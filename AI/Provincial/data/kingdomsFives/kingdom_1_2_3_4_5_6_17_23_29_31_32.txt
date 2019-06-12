@@ -1,0 +1,12 @@
+6
+17
+8
+8
+Gold 100
+Laboratory 5
+Silver 14
+Province 8
+Woodcutter 9
+Silver 12
+Moneylender 6
+Workshop 13

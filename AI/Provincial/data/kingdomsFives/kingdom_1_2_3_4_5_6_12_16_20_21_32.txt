@@ -1,0 +1,14 @@
+6
+9
+13
+8
+Gold 102
+Militia 9
+Province 9
+Silver 13
+Feast 9
+Duchy 8
+Copper 11
+Chapel 10
+Workshop 3
+Chapel 11

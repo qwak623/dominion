@@ -1,0 +1,14 @@
+7
+15
+6
+5
+Witch 4
+Library 7
+Silver 9
+Laboratory 15
+Gold 102
+Estate 9
+Province 10
+Witch 6
+Woodcutter 11
+Thief 3

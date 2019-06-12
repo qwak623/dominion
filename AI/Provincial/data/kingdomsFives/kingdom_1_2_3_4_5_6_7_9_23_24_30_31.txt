@@ -1,0 +1,14 @@
+5
+13
+12
+8
+Witch 15
+Silver 12
+Gold 102
+Bureaucrat 11
+Witch 7
+Copper 9
+Remodel 12
+Silver 12
+Curse 11
+Curse 9

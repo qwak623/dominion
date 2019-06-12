@@ -1,0 +1,15 @@
+5
+18
+7
+5
+Gold 10
+Gold 13
+Province 7
+Silver 13
+Moat 7
+Militia 4
+Village 13
+Gold 100
+Copper 3
+Gold 9
+Chancellor 7

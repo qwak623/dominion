@@ -1,0 +1,18 @@
+3
+13
+5
+4
+Gold 3
+Gold 101
+Silver 13
+Market 9
+Moat 9
+Moat 9
+Copper 7
+CouncilRoom 6
+Province 6
+Chancellor 6
+Moneylender 8
+Silver 11
+Market 7
+Duchy 1

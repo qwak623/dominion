@@ -1,0 +1,16 @@
+1
+13
+8
+4
+Gold 101
+Silver 6
+Silver 13
+Duchy 12
+Chapel 11
+Woodcutter 14
+Copper 7
+Estate 10
+Gold 12
+Province 15
+Woodcutter 9
+Bureaucrat 11

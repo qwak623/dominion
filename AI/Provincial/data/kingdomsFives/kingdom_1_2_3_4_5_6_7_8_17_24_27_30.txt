@@ -1,0 +1,16 @@
+5
+14
+8
+8
+Province 8
+Witch 7
+Duchy 3
+Adventurer 8
+Silver 4
+Laboratory 9
+Gold 101
+Estate 12
+Silver 10
+Duchy 7
+Curse 6
+Remodel 5

@@ -1,0 +1,18 @@
+3
+15
+7
+6
+Gold 103
+Mine 3
+Copper 1
+Duchy 11
+Silver 10
+Gardens 12
+Silver 10
+Silver 11
+Chancellor 7
+CouncilRoom 7
+CouncilRoom 11
+Remodel 7
+Province 14
+Gold 4

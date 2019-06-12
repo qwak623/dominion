@@ -1,0 +1,14 @@
+0
+12
+6
+6
+Market 1
+Province 10
+Gold 103
+Market 3
+Silver 10
+Duchy 12
+Chapel 2
+Smithy 7
+Thief 5
+Moneylender 11

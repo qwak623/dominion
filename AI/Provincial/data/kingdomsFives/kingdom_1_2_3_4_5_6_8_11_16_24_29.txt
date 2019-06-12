@@ -1,0 +1,14 @@
+2
+16
+6
+6
+Gold 10
+Province 5
+Province 4
+Gold 102
+Silver 12
+Duchy 2
+Village 9
+Chapel 12
+Duchy 8
+Duchy 1

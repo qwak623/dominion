@@ -1,0 +1,15 @@
+2
+9
+16
+5
+Province 8
+Duchy 10
+Province 9
+Gold 103
+Silver 10
+Silver 11
+Cellar 5
+Silver 5
+Remodel 8
+Gold 5
+Estate 12

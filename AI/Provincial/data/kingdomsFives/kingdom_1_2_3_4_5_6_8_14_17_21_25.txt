@@ -1,0 +1,16 @@
+2
+11
+8
+7
+Province 8
+Gold 4
+Gold 10
+Silver 4
+Smithy 3
+Gardens 8
+Copper 6
+Silver 10
+Estate 6
+Duchy 11
+Mine 9
+Mine 10

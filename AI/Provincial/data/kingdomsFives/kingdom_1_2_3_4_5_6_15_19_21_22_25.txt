@@ -1,0 +1,13 @@
+0
+13
+8
+7
+Province 7
+Gold 100
+Mine 9
+Silver 12
+Market 3
+Gold 11
+Province 10
+Duchy 10
+Chancellor 7

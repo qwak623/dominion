@@ -1,0 +1,16 @@
+2
+13
+14
+8
+Gold 4
+Gardens 103
+Duchy 13
+Library 2
+Silver 11
+Silver 10
+Copper 7
+Mine 7
+Gardens 8
+Gold 1
+Feast 5
+Province 12

@@ -1,0 +1,17 @@
+6
+19
+8
+7
+Province 5
+Gold 100
+Moat 1
+Witch 7
+Duchy 7
+Silver 9
+Moat 7
+Festival 10
+Estate 4
+Silver 2
+Woodcutter 2
+Woodcutter 11
+Duchy 13

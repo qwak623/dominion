@@ -1,0 +1,16 @@
+1
+14
+6
+6
+Gold 100
+Library 3
+Silver 6
+Silver 11
+Mine 9
+Feast 6
+Copper 9
+Province 6
+Province 9
+Gold 9
+Village 7
+Moneylender 8

@@ -1,0 +1,16 @@
+7
+12
+13
+6
+Witch 3
+Gold 12
+Duchy 5
+Silver 11
+Silver 8
+Militia 4
+Village 11
+Workshop 102
+Feast 10
+Feast 10
+Workshop 4
+Province 9

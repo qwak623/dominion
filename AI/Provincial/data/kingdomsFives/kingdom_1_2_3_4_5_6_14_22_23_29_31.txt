@@ -1,0 +1,16 @@
+6
+17
+18
+8
+Gardens 13
+Gold 10
+Silver 11
+Moat 7
+Village 3
+Woodcutter 3
+Gold 99
+Copper 5
+Estate 10
+Moneylender 9
+Duchy 4
+Province 10

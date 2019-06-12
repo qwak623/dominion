@@ -1,0 +1,15 @@
+3
+16
+6
+4
+Gold 100
+Silver 14
+Duchy 3
+Province 12
+Chapel 9
+Library 4
+Copper 9
+Thief 5
+Estate 8
+Festival 13
+Duchy 7

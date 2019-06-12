@@ -1,0 +1,15 @@
+1
+18
+8
+8
+Province 7
+Province 12
+Remodel 2
+Duchy 6
+Silver 10
+Market 4
+Witch 11
+Duchy 2
+Workshop 12
+Silver 10
+Market 13

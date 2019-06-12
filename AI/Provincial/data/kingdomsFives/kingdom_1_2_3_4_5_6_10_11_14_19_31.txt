@@ -1,0 +1,14 @@
+1
+14
+8
+7
+Woodcutter 4
+Gardens 6
+Duchy 10
+Silver 3
+Cellar 3
+CouncilRoom 2
+Estate 5
+Market 11
+Silver 12
+Copper 10

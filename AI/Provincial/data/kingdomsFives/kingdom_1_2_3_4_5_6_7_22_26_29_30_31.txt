@@ -1,0 +1,15 @@
+5
+11
+5
+4
+Gold 103
+Province 14
+Silver 3
+Silver 14
+Gold 5
+Moat 2
+Estate 3
+Woodcutter 5
+Witch 9
+Duchy 4
+Copper 11

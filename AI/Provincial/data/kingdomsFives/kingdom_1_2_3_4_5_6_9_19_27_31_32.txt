@@ -1,0 +1,21 @@
+2
+21
+8
+8
+Gold 9
+Bureaucrat 4
+Silver 13
+Duchy 11
+Province 5
+Province 5
+Thief 11
+Bureaucrat 8
+Province 8
+Workshop 6
+Gold 5
+Woodcutter 5
+Bureaucrat 9
+Gold 7
+Thief 10
+Market 6
+Gold 101

@@ -1,0 +1,20 @@
+2
+17
+7
+7
+Militia 4
+Province 12
+Gold 101
+Province 7
+Silver 8
+Militia 9
+Remodel 9
+Silver 11
+Chapel 6
+Laboratory 7
+Remodel 6
+Copper 8
+Library 5
+Copper 5
+Estate 12
+Estate 5

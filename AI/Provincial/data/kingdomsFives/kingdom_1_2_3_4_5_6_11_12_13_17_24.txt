@@ -1,0 +1,16 @@
+7
+12
+6
+6
+Gold 102
+Laboratory 5
+Province 8
+Silver 11
+CouncilRoom 8
+Festival 6
+Festival 11
+Remodel 6
+Feast 4
+Feast 2
+Silver 4
+Gold 7

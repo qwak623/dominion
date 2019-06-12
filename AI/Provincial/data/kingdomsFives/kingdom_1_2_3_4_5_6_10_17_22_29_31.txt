@@ -1,0 +1,13 @@
+0
+9
+5
+5
+Moat 2
+Gold 100
+Silver 12
+Duchy 9
+Village 14
+Laboratory 5
+Silver 5
+Silver 8
+Cellar 10

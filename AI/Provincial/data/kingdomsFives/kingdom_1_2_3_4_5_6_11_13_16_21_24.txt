@@ -1,0 +1,17 @@
+1
+13
+7
+6
+Province 9
+Gold 100
+Mine 3
+Province 4
+Silver 12
+Duchy 9
+CouncilRoom 9
+Gold 12
+Silver 9
+Remodel 4
+Remodel 4
+Gold 9
+Silver 4

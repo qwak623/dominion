@@ -1,0 +1,16 @@
+7
+21
+5
+5
+Gold 14
+Silver 11
+Moat 5
+Estate 11
+Duchy 7
+Gold 100
+Gold 9
+Laboratory 2
+Workshop 2
+Chancellor 5
+Copper 12
+Silver 9

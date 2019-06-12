@@ -1,0 +1,12 @@
+7
+17
+8
+8
+Witch 11
+Duchy 4
+Duchy 10
+Gold 102
+Silver 13
+Province 6
+Festival 4
+Silver 13

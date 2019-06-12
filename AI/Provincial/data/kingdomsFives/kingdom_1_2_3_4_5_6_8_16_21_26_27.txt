@@ -1,0 +1,18 @@
+1
+14
+7
+6
+Gold 100
+Mine 1
+Mine 6
+Silver 12
+Chapel 2
+Spy 13
+Thief 8
+Copper 4
+Spy 6
+Estate 10
+Mine 3
+Adventurer 5
+Duchy 11
+Silver 10

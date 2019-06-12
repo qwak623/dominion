@@ -1,0 +1,19 @@
+2
+14
+6
+5
+Gold 100
+Province 6
+Silver 12
+Workshop 3
+Copper 6
+Gold 6
+Chancellor 8
+Province 5
+Adventurer 8
+Silver 11
+Estate 11
+Mine 8
+Gold 7
+Mine 3
+Duchy 7

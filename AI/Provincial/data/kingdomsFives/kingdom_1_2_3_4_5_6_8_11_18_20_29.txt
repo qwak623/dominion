@@ -1,0 +1,12 @@
+4
+21
+4
+4
+Province 11
+CouncilRoom 1
+Gold 99
+Silver 10
+Duchy 11
+Silver 13
+CouncilRoom 3
+Gold 10

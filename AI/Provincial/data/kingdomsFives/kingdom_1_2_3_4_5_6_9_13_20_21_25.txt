@@ -1,0 +1,16 @@
+5
+15
+8
+7
+Gold 100
+Mine 2
+Festival 11
+Militia 7
+Bureaucrat 6
+Duchy 11
+Militia 7
+Gold 5
+Festival 8
+Silver 11
+Estate 4
+Estate 6

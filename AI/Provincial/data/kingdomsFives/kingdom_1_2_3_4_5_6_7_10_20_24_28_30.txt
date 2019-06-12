@@ -1,0 +1,14 @@
+2
+16
+7
+7
+Province 2
+Gold 11
+Militia 3
+Silver 5
+Duchy 5
+Duchy 9
+Militia 10
+Silver 104
+Province 16
+Remodel 8

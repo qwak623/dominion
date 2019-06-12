@@ -1,0 +1,16 @@
+5
+17
+15
+5
+Chapel 1
+Gold 100
+Duchy 2
+Silver 15
+Copper 10
+ThroneRoom 2
+Estate 5
+Duchy 8
+Village 13
+Province 6
+Chapel 11
+Workshop 6

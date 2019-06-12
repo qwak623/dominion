@@ -1,0 +1,16 @@
+2
+15
+7
+6
+Mine 3
+Gold 100
+Silver 12
+Duchy 4
+Gold 5
+Chancellor 8
+Library 7
+Mine 5
+Workshop 14
+Province 4
+Workshop 3
+Silver 11

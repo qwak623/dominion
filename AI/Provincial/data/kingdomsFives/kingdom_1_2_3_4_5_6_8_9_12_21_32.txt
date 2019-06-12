@@ -1,0 +1,13 @@
+6
+3
+6
+6
+Province 12
+Province 17
+Gold 100
+Silver 13
+Feast 8
+Duchy 12
+Bureaucrat 8
+Adventurer 6
+Adventurer 5

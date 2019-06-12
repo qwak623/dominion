@@ -1,0 +1,18 @@
+4
+13
+8
+7
+Silver 7
+Gardens 11
+Duchy 7
+Duchy 12
+Gold 12
+Copper 3
+Estate 9
+Moneylender 6
+Copper 10
+Copper 12
+Gardens 99
+Chancellor 13
+Copper 7
+Province 2

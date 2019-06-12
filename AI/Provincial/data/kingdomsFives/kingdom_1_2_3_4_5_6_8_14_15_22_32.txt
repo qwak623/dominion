@@ -1,0 +1,15 @@
+7
+18
+10
+8
+Workshop 3
+Gardens 12
+Gold 100
+Gardens 8
+Silver 11
+Province 7
+Workshop 7
+Gold 9
+Copper 6
+Adventurer 9
+Silver 9

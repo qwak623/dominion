@@ -1,0 +1,14 @@
+7
+17
+5
+5
+Gold 103
+Province 8
+Copper 1
+Market 8
+Silver 8
+Workshop 8
+Mine 8
+Feast 8
+Silver 13
+Workshop 7

@@ -1,0 +1,15 @@
+5
+14
+17
+8
+Silver 6
+Witch 9
+Gold 102
+Spy 6
+Silver 14
+Chancellor 9
+Spy 4
+Copper 3
+Estate 9
+Curse 1
+Adventurer 5

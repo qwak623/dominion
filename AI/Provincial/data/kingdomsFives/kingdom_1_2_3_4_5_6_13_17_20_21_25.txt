@@ -1,0 +1,15 @@
+1
+15
+7
+6
+Province 6
+Gold 103
+Mine 2
+Silver 13
+Gold 8
+Copper 11
+Smithy 7
+Festival 6
+Estate 11
+Silver 12
+Militia 11

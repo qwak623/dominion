@@ -1,0 +1,14 @@
+5
+11
+8
+6
+Gold 5
+Province 4
+CouncilRoom 12
+Silver 10
+Village 7
+Copper 5
+ThroneRoom 13
+CouncilRoom 11
+Gold 104
+Estate 3

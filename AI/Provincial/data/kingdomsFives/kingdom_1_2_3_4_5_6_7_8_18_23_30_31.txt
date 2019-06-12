@@ -1,0 +1,15 @@
+7
+13
+7
+7
+Province 9
+Copper 1
+Gold 102
+Witch 2
+Silver 11
+Library 10
+Duchy 12
+Witch 2
+Gold 6
+Witch 6
+Silver 2

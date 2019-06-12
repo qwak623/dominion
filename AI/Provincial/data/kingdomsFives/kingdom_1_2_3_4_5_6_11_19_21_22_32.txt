@@ -1,0 +1,17 @@
+1
+13
+19
+8
+Gold 13
+Gold 5
+Silver 11
+Moat 7
+CouncilRoom 7
+Duchy 4
+Workshop 5
+Estate 12
+Mine 6
+Silver 2
+CouncilRoom 8
+Silver 11
+Market 6

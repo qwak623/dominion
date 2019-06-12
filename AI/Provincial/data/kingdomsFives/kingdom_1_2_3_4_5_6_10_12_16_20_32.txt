@@ -1,0 +1,17 @@
+7
+7
+5
+5
+Province 9
+Gold 9
+Silver 2
+Silver 14
+Chapel 7
+Gold 104
+Silver 11
+Militia 5
+Duchy 7
+Estate 9
+Chapel 8
+Feast 7
+Copper 7

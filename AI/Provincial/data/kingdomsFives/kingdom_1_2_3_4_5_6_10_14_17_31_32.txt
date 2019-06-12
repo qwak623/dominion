@@ -1,0 +1,15 @@
+1
+12
+12
+8
+Gold 103
+Province 12
+Workshop 3
+Gardens 14
+Silver 12
+Silver 12
+Copper 9
+Workshop 11
+Estate 6
+Silver 10
+Laboratory 9

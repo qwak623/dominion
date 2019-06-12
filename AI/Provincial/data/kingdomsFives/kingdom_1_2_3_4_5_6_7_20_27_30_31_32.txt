@@ -1,0 +1,15 @@
+1
+21
+8
+8
+Gold 10
+Witch 2
+Province 7
+Silver 12
+Workshop 4
+Copper 12
+Silver 9
+Gold 102
+Estate 5
+Copper 11
+Woodcutter 5

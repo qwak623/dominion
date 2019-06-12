@@ -1,0 +1,15 @@
+5
+14
+7
+6
+Gold 9
+Silver 12
+Moat 12
+Laboratory 4
+Spy 9
+Cellar 6
+Cellar 11
+Duchy 11
+Spy 9
+Copper 8
+Silver 3

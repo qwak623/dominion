@@ -1,0 +1,17 @@
+5
+18
+7
+4
+Gold 100
+Gold 13
+Silver 11
+Moat 5
+Militia 11
+Workshop 10
+Library 8
+Militia 3
+Workshop 6
+Estate 2
+Gold 9
+Estate 10
+Moat 10

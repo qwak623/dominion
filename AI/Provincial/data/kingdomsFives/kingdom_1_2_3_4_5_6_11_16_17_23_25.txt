@@ -1,0 +1,16 @@
+0
+19
+5
+5
+Gold 100
+Laboratory 7
+Silver 12
+Silver 5
+Province 14
+Moneylender 3
+Laboratory 5
+Gold 6
+Duchy 11
+Silver 2
+CouncilRoom 5
+Chapel 8

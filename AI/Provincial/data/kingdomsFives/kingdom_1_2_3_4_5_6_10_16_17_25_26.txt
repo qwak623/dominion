@@ -1,0 +1,13 @@
+6
+13
+7
+6
+Gold 7
+Province 8
+Laboratory 13
+Silver 9
+Duchy 8
+Spy 5
+Cellar 7
+Estate 6
+Silver 14

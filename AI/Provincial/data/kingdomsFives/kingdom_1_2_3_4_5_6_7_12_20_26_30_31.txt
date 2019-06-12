@@ -1,0 +1,16 @@
+7
+14
+8
+8
+Gold 101
+Witch 10
+Gold 4
+Witch 11
+Gold 10
+Duchy 6
+Militia 7
+Silver 6
+Estate 6
+Woodcutter 8
+Copper 2
+Estate 10

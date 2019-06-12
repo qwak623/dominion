@@ -1,0 +1,13 @@
+6
+14
+7
+7
+Gold 100
+Silver 14
+Woodcutter 4
+Copper 6
+Moneylender 4
+Duchy 5
+Duchy 12
+Estate 12
+Gold 12

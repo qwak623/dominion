@@ -1,0 +1,13 @@
+4
+13
+8
+7
+Gold 10
+Witch 12
+Library 8
+Silver 3
+Silver 13
+Village 14
+Estate 10
+Laboratory 5
+Workshop 6

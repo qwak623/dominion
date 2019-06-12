@@ -1,0 +1,14 @@
+6
+15
+7
+5
+Gold 13
+Adventurer 6
+Market 7
+Festival 10
+Bureaucrat 8
+Festival 7
+Silver 8
+Smithy 10
+Gold 103
+Bureaucrat 10

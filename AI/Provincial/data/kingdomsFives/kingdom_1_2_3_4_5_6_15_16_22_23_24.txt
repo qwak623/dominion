@@ -1,0 +1,17 @@
+6
+16
+8
+8
+Gold 5
+Gold 100
+Silver 15
+Moat 8
+Remodel 2
+Province 7
+Gold 12
+Province 11
+Duchy 12
+Chapel 9
+Copper 7
+Silver 9
+Moneylender 2

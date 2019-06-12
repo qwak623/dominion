@@ -1,0 +1,16 @@
+3
+12
+7
+5
+Mine 1
+Gold 10
+Silver 11
+Gardens 3
+Gardens 11
+Silver 5
+Gold 99
+Cellar 4
+Province 11
+Mine 3
+Estate 11
+Workshop 10

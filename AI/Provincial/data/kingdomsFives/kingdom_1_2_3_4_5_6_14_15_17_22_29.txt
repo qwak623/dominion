@@ -1,0 +1,14 @@
+3
+9
+13
+8
+Gardens 9
+Duchy 12
+Province 7
+Duchy 11
+Silver 6
+Copper 3
+Estate 7
+Gold 101
+Gold 2
+Gold 7

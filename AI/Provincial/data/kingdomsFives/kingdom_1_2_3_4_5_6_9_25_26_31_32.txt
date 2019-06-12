@@ -1,0 +1,17 @@
+3
+10
+7
+3
+Gold 5
+Smithy 2
+Gold 99
+Silver 11
+Province 12
+Spy 9
+Copper 9
+Smithy 7
+Smithy 2
+Silver 5
+Workshop 4
+Gold 10
+Duchy 8

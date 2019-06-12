@@ -1,0 +1,12 @@
+2
+9
+6
+4
+Province 6
+Silver 11
+Gold 100
+Militia 3
+Moat 9
+Silver 12
+Feast 1
+Duchy 10

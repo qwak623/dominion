@@ -1,0 +1,21 @@
+1
+16
+8
+8
+Gold 100
+Silver 7
+Duchy 10
+Smithy 12
+Militia 2
+Militia 8
+Silver 7
+Province 8
+Spy 9
+Cellar 4
+Estate 9
+Copper 11
+Smithy 10
+Gold 4
+Silver 7
+Cellar 2
+Remodel 6

@@ -1,0 +1,15 @@
+0
+13
+6
+6
+Gold 101
+Gold 2
+Province 7
+Chapel 1
+Silver 13
+Silver 6
+Feast 8
+Chancellor 4
+Spy 7
+Copper 4
+Chapel 9

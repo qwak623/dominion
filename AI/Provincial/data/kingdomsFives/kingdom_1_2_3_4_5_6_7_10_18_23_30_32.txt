@@ -1,0 +1,16 @@
+7
+15
+8
+8
+Gold 99
+Province 11
+Witch 6
+Silver 3
+Silver 13
+Duchy 4
+Copper 5
+Gold 3
+Library 6
+Gold 8
+Cellar 8
+Workshop 8

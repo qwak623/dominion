@@ -1,0 +1,21 @@
+5
+14
+8
+8
+Province 10
+Market 12
+Militia 5
+Market 8
+Duchy 6
+Province 3
+Silver 11
+Silver 6
+Spy 6
+Province 5
+Province 4
+Spy 7
+Workshop 7
+Feast 1
+Province 5
+Workshop 6
+Duchy 5

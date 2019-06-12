@@ -1,0 +1,12 @@
+5
+8
+8
+6
+Gold 11
+CouncilRoom 5
+Province 12
+CouncilRoom 101
+Silver 10
+Spy 4
+Workshop 12
+Workshop 11

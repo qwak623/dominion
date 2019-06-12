@@ -1,0 +1,16 @@
+6
+12
+8
+5
+Witch 6
+Duchy 7
+Silver 7
+Estate 12
+Silver 11
+CouncilRoom 6
+Woodcutter 11
+Witch 10
+Gold 103
+Gold 8
+Silver 6
+Witch 10

@@ -1,0 +1,16 @@
+2
+15
+6
+6
+Silver 11
+Gardens 6
+Gold 12
+Moneylender 15
+Gold 99
+Gold 7
+Gardens 8
+Moat 4
+Village 4
+Adventurer 6
+Estate 1
+Duchy 7

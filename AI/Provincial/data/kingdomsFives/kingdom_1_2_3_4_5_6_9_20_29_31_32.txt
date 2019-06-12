@@ -1,0 +1,19 @@
+6
+14
+9
+8
+Gold 5
+Gold 102
+Militia 8
+Silver 12
+Province 7
+Duchy 12
+Village 7
+Gold 9
+Duchy 9
+Workshop 6
+Bureaucrat 3
+Workshop 7
+Duchy 5
+Silver 8
+Village 5

@@ -1,0 +1,18 @@
+5
+19
+6
+6
+Moat 2
+Silver 11
+Gardens 10
+Gold 99
+Copper 6
+Estate 4
+Feast 11
+Gardens 4
+Copper 13
+Workshop 7
+Workshop 9
+Mine 3
+Workshop 10
+Province 7

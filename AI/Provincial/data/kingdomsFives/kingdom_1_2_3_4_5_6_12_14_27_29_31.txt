@@ -1,0 +1,14 @@
+2
+15
+14
+7
+Duchy 10
+Gold 10
+Estate 1
+Gold 101
+Gardens 9
+Feast 6
+Province 11
+Woodcutter 12
+Copper 10
+Estate 10

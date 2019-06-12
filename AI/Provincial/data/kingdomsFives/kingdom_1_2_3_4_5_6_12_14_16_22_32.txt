@@ -1,0 +1,14 @@
+1
+13
+15
+8
+Workshop 4
+Gold 105
+Province 9
+Gardens 8
+Silver 13
+Copper 7
+Estate 7
+Gold 10
+Estate 5
+Moat 7

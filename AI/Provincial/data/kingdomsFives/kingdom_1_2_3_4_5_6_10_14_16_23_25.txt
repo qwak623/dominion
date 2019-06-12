@@ -1,0 +1,17 @@
+0
+12
+8
+8
+Silver 6
+Gardens 9
+Duchy 9
+Smithy 12
+Smithy 7
+Silver 11
+Copper 8
+Province 9
+Chapel 12
+Province 4
+Cellar 13
+Copper 5
+Gold 105

@@ -1,0 +1,19 @@
+3
+19
+6
+6
+Mine 1
+Province 7
+Gold 100
+Market 5
+Chapel 1
+Silver 10
+Gardens 6
+Duchy 11
+Copper 10
+Market 1
+Gold 2
+Mine 4
+Village 10
+Market 5
+Estate 5

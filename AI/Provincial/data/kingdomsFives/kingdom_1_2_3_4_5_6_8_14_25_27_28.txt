@@ -1,0 +1,18 @@
+2
+9
+8
+8
+Province 6
+Silver 7
+Duchy 11
+Gardens 11
+Silver 13
+Silver 10
+Silver 10
+Copper 3
+Thief 6
+Copper 3
+Smithy 7
+Thief 101
+Province 1
+Duchy 7

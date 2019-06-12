@@ -1,0 +1,14 @@
+4
+12
+7
+6
+Gold 6
+Mine 9
+Gold 99
+Province 10
+Silver 13
+Feast 7
+Copper 7
+Market 5
+Estate 5
+Silver 6

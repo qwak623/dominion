@@ -1,0 +1,13 @@
+2
+12
+8
+8
+Gold 6
+Bureaucrat 6
+Duchy 10
+Gold 101
+Silver 10
+Province 11
+Remodel 11
+Thief 6
+ThroneRoom 6

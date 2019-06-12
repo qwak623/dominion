@@ -1,0 +1,17 @@
+1
+8
+7
+7
+Province 10
+Gold 100
+Mine 11
+Silver 10
+Copper 7
+Silver 2
+Silver 10
+Province 8
+Village 12
+Gold 11
+Remodel 14
+Estate 6
+Estate 10

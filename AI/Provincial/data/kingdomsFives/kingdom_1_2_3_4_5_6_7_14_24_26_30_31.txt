@@ -1,0 +1,16 @@
+6
+10
+8
+4
+Witch 2
+Silver 5
+Gardens 6
+Duchy 6
+Estate 13
+Gold 104
+Copper 9
+Silver 12
+Silver 12
+Silver 12
+Gold 15
+Silver 6

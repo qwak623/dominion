@@ -1,0 +1,19 @@
+5
+14
+8
+7
+Festival 5
+Gardens 7
+Silver 9
+Province 12
+CouncilRoom 3
+Silver 7
+Copper 6
+Gold 100
+Estate 5
+Silver 11
+Festival 11
+Gold 6
+Chancellor 7
+Chancellor 2
+Copper 10

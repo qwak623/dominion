@@ -1,0 +1,14 @@
+6
+13
+7
+5
+Gold 6
+Bureaucrat 2
+Province 4
+Gold 100
+Silver 10
+Adventurer 5
+Moat 12
+CouncilRoom 11
+Silver 12
+Copper 13

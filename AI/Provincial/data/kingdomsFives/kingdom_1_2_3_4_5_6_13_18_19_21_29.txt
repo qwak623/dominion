@@ -1,0 +1,16 @@
+7
+15
+5
+5
+Gold 105
+Library 2
+Silver 5
+Duchy 11
+Gold 5
+Gold 9
+Province 5
+Festival 8
+Mine 4
+Market 9
+Library 3
+Silver 13

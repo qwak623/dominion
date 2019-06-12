@@ -1,0 +1,15 @@
+3
+16
+7
+6
+Gold 6
+Library 100
+Silver 7
+Silver 15
+Province 9
+Province 4
+Province 9
+Copper 12
+Chapel 11
+Estate 3
+Silver 3

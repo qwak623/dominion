@@ -1,0 +1,16 @@
+6
+13
+21
+7
+Witch 2
+Gold 14
+Duchy 11
+Witch 9
+Silver 13
+Copper 7
+Duchy 4
+Estate 13
+Curse 10
+Silver 11
+Duchy 9
+Copper 101

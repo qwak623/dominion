@@ -1,0 +1,17 @@
+4
+19
+6
+6
+Gold 102
+Silver 3
+Gold 4
+Market 13
+Duchy 5
+Militia 6
+Militia 5
+Moat 3
+Library 11
+Province 4
+Village 2
+Moat 4
+Market 14

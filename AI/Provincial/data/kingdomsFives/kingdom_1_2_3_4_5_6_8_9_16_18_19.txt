@@ -1,0 +1,17 @@
+1
+18
+6
+6
+Gold 9
+Province 7
+Silver 7
+Gold 102
+Adventurer 5
+Library 8
+Silver 12
+Bureaucrat 12
+Chapel 9
+Duchy 1
+Chapel 10
+Gold 1
+Copper 9

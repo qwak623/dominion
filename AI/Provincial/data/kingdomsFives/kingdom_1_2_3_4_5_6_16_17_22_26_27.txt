@@ -1,0 +1,14 @@
+2
+12
+8
+4
+Province 9
+Gold 101
+Silver 5
+Silver 11
+Moat 12
+Gold 11
+Laboratory 7
+Silver 4
+Thief 11
+Copper 4

@@ -1,0 +1,17 @@
+7
+14
+8
+4
+Gold 8
+Silver 10
+Chapel 2
+Silver 7
+Province 4
+Copper 6
+Gold 14
+Gold 100
+Woodcutter 3
+Woodcutter 2
+Estate 2
+Silver 10
+Estate 12

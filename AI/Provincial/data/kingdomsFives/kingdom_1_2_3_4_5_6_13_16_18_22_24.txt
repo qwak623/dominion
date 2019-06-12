@@ -1,0 +1,14 @@
+1
+14
+8
+6
+Gold 8
+Silver 12
+Festival 6
+Moat 14
+Moat 6
+Festival 2
+Gold 100
+Festival 11
+Copper 5
+Copper 5

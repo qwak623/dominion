@@ -1,0 +1,19 @@
+1
+12
+8
+8
+Gold 103
+Library 2
+Silver 3
+Adventurer 3
+Gardens 9
+Silver 12
+Province 6
+Silver 4
+Duchy 10
+Copper 9
+Gold 8
+Estate 5
+Copper 7
+Adventurer 5
+Copper 7

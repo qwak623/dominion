@@ -1,0 +1,15 @@
+4
+11
+13
+8
+Gold 5
+Witch 13
+Silver 15
+Witch 9
+Silver 5
+Thief 5
+Moat 13
+Workshop 9
+Village 9
+Village 10
+Gold 102

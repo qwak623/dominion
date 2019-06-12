@@ -1,0 +1,21 @@
+3
+14
+8
+7
+Gold 9
+Mine 9
+Mine 8
+Duchy 3
+Silver 12
+Festival 7
+Mine 8
+Gold 101
+Copper 9
+Province 9
+Militia 7
+Village 6
+Estate 7
+Copper 10
+Province 11
+Militia 7
+Library 4

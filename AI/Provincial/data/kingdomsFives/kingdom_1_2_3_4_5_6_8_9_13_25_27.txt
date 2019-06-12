@@ -1,0 +1,15 @@
+3
+13
+8
+5
+Gold 4
+Adventurer 3
+Bureaucrat 2
+Silver 11
+Festival 11
+Adventurer 11
+Thief 2
+Province 12
+Smithy 6
+Festival 5
+Gold 101

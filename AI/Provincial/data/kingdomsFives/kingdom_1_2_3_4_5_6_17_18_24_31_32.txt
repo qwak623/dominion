@@ -1,0 +1,16 @@
+3
+14
+6
+6
+Gold 101
+Library 10
+Silver 9
+Gold 8
+Silver 11
+Remodel 2
+Workshop 6
+Estate 6
+Laboratory 5
+Library 9
+Estate 10
+Estate 11

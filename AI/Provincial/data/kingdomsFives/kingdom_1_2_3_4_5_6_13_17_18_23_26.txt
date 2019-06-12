@@ -1,0 +1,18 @@
+0
+10
+8
+8
+Gold 5
+Province 1
+Festival 4
+Gold 9
+Gold 6
+Silver 5
+Festival 6
+Spy 9
+Gold 9
+Spy 6
+Moneylender 11
+Silver 17
+Laboratory 5
+Duchy 14

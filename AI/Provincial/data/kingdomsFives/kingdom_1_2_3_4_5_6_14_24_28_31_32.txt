@@ -1,0 +1,16 @@
+2
+8
+5
+7
+Workshop 2
+Gardens 10
+Workshop 8
+Duchy 8
+Gold 10
+Province 1
+Estate 8
+Silver 10
+Woodcutter 10
+Copper 12
+Gold 99
+Remodel 6

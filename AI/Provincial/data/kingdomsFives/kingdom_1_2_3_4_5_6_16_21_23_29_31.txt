@@ -1,0 +1,14 @@
+0
+19
+7
+5
+Gold 13
+Mine 8
+Province 8
+Silver 11
+Silver 10
+Duchy 10
+Gold 100
+Woodcutter 2
+Village 13
+Moneylender 11

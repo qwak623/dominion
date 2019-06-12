@@ -1,0 +1,15 @@
+7
+17
+16
+8
+Gold 101
+Festival 4
+Militia 8
+Duchy 11
+Province 2
+Copper 1
+Silver 11
+Estate 5
+Silver 10
+Festival 10
+Moneylender 6

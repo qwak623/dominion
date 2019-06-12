@@ -1,0 +1,13 @@
+5
+16
+6
+5
+Gold 100
+Silver 5
+Gardens 8
+Feast 7
+Silver 11
+Smithy 5
+Feast 2
+Feast 9
+Silver 4

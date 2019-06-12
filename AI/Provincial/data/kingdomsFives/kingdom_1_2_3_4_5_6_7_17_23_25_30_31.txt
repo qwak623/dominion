@@ -1,0 +1,14 @@
+4
+14
+8
+5
+Witch 6
+Duchy 10
+Gold 102
+Laboratory 8
+Silver 9
+Gold 8
+Estate 10
+Moneylender 4
+Silver 11
+Smithy 5

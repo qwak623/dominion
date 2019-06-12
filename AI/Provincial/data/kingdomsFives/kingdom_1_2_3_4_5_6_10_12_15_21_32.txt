@@ -1,0 +1,14 @@
+4
+8
+7
+7
+Province 5
+Gold 103
+Silver 12
+Copper 7
+Workshop 9
+Gold 2
+Estate 13
+Mine 11
+Workshop 9
+Cellar 6

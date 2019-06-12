@@ -1,0 +1,17 @@
+7
+14
+7
+4
+Gold 101
+Silver 4
+Smithy 7
+Province 8
+Gold 9
+Silver 10
+Militia 5
+Duchy 6
+Copper 8
+Estate 6
+Feast 2
+Province 8
+Woodcutter 1

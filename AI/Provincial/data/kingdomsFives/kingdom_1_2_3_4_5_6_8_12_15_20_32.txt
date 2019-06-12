@@ -1,0 +1,14 @@
+2
+12
+8
+7
+Militia 5
+Gold 99
+Silver 14
+Duchy 8
+Silver 3
+Gold 1
+Gold 7
+Silver 6
+Copper 3
+Copper 11

@@ -1,0 +1,17 @@
+5
+16
+6
+6
+Gold 101
+Silver 11
+Smithy 10
+Duchy 4
+Spy 11
+Chapel 7
+Laboratory 9
+Province 11
+Smithy 5
+Smithy 5
+CouncilRoom 4
+Laboratory 3
+Silver 8

@@ -1,0 +1,14 @@
+1
+19
+8
+4
+Gold 103
+Gold 2
+Library 2
+Silver 13
+Duchy 4
+Feast 4
+Duchy 12
+Silver 11
+Spy 11
+Festival 13

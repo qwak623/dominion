@@ -1,0 +1,19 @@
+7
+9
+7
+4
+Laboratory 7
+Duchy 5
+Gold 99
+Gardens 12
+Bureaucrat 8
+Silver 10
+Militia 10
+Copper 2
+Gardens 8
+Silver 9
+Estate 8
+Militia 7
+Militia 3
+Duchy 3
+Copper 7

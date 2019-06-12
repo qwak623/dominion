@@ -1,0 +1,14 @@
+7
+10
+9
+8
+Silver 4
+Province 4
+Province 6
+Duchy 12
+Gold 99
+Silver 6
+Gold 9
+Estate 9
+Militia 9
+Spy 3

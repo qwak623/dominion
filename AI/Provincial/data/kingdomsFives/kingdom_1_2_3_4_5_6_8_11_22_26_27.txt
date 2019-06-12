@@ -1,0 +1,15 @@
+7
+20
+17
+5
+Gold 8
+CouncilRoom 5
+Duchy 10
+Silver 11
+Silver 8
+Moat 10
+Adventurer 11
+Moat 14
+Gold 101
+Spy 7
+Estate 10

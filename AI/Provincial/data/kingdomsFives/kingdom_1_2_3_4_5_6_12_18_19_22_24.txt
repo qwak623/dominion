@@ -1,0 +1,13 @@
+5
+15
+7
+7
+Gold 101
+Silver 12
+Moat 9
+Market 7
+Estate 5
+Duchy 6
+Moat 4
+Feast 4
+Silver 5

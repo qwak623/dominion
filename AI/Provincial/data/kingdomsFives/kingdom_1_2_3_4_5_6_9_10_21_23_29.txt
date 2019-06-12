@@ -1,0 +1,16 @@
+2
+13
+8
+8
+Silver 12
+Silver 5
+Duchy 4
+Gold 99
+Duchy 11
+Bureaucrat 9
+Province 7
+Cellar 4
+Copper 7
+Gold 2
+Village 9
+Mine 7

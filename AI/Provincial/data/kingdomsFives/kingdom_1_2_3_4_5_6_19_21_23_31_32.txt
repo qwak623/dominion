@@ -1,0 +1,14 @@
+7
+14
+6
+5
+Province 14
+Gold 100
+Silver 8
+Woodcutter 6
+Gold 5
+Duchy 8
+Workshop 4
+Moneylender 14
+Moneylender 11
+Silver 11

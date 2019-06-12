@@ -1,0 +1,16 @@
+0
+16
+7
+4
+Copper 1
+Province 7
+Gold 7
+Gold 99
+Smithy 2
+Silver 3
+Silver 14
+ThroneRoom 6
+Feast 12
+Copper 10
+ThroneRoom 11
+Estate 8

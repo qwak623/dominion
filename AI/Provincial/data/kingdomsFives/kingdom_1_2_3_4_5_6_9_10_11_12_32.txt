@@ -1,0 +1,17 @@
+7
+17
+7
+6
+Province 6
+Gold 7
+Bureaucrat 3
+CouncilRoom 7
+Silver 12
+Gold 5
+Duchy 8
+Province 1
+Copper 6
+Province 13
+Copper 3
+Cellar 4
+Silver 3

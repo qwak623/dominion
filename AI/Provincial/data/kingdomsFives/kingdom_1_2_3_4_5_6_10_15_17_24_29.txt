@@ -1,0 +1,16 @@
+1
+10
+7
+7
+Province 13
+Gold 101
+Gold 4
+Silver 10
+Silver 14
+Cellar 10
+Chancellor 12
+Estate 6
+Estate 4
+Laboratory 3
+Village 5
+Remodel 9

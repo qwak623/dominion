@@ -1,0 +1,16 @@
+2
+14
+8
+6
+Province 2
+Gold 14
+Mine 2
+Silver 15
+Copper 2
+Militia 6
+Thief 6
+Silver 9
+Duchy 7
+Estate 13
+Gold 100
+Spy 9

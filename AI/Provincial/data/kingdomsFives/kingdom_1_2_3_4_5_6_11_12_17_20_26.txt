@@ -1,0 +1,14 @@
+4
+15
+6
+4
+Gold 102
+Silver 6
+Gold 9
+CouncilRoom 8
+Feast 6
+Gold 12
+Silver 13
+Spy 8
+Militia 13
+Laboratory 13

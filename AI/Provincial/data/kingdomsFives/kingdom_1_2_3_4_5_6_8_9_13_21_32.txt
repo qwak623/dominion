@@ -1,0 +1,19 @@
+6
+12
+8
+5
+Gold 99
+Province 8
+Gold 1
+Adventurer 2
+Mine 4
+Adventurer 9
+Festival 4
+Festival 5
+Silver 4
+Silver 11
+Gold 9
+Estate 12
+Workshop 4
+Silver 5
+Province 5

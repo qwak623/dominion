@@ -1,0 +1,17 @@
+3
+16
+8
+8
+Bureaucrat 3
+Gardens 10
+Duchy 6
+Silver 11
+Moneylender 1
+Duchy 8
+Militia 11
+Gold 4
+Copper 8
+Gold 100
+Duchy 11
+Village 2
+Province 5

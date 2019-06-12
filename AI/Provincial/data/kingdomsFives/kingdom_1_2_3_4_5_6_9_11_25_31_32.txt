@@ -1,0 +1,16 @@
+4
+11
+6
+5
+Silver 2
+Province 8
+Gold 100
+Silver 6
+Woodcutter 3
+Copper 7
+CouncilRoom 10
+Smithy 6
+Gold 4
+CouncilRoom 4
+CouncilRoom 3
+Silver 10

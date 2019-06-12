@@ -1,0 +1,16 @@
+1
+10
+6
+3
+Province 12
+Gold 100
+Library 9
+Silver 13
+Gold 5
+CouncilRoom 3
+Silver 10
+Moneylender 4
+Duchy 12
+Moneylender 4
+Silver 4
+Bureaucrat 8

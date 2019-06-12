@@ -1,0 +1,16 @@
+4
+14
+8
+8
+Witch 3
+Gold 102
+Silver 13
+Copper 4
+Estate 3
+Laboratory 12
+Province 3
+Woodcutter 7
+Curse 5
+ThroneRoom 6
+Silver 11
+Laboratory 3

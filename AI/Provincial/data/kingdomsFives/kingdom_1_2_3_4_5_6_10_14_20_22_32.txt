@@ -1,0 +1,16 @@
+4
+10
+7
+5
+Province 5
+Gold 7
+Silver 4
+Gold 104
+Militia 4
+Moat 5
+Gardens 7
+Duchy 5
+Estate 9
+Copper 5
+Cellar 9
+Silver 10

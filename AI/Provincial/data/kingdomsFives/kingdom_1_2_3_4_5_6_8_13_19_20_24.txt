@@ -1,0 +1,17 @@
+4
+14
+13
+8
+Gold 7
+Market 3
+Adventurer 3
+Duchy 1
+Silver 4
+Militia 10
+Adventurer 10
+Festival 6
+Gold 101
+Silver 4
+Silver 12
+Estate 6
+Duchy 7

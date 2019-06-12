@@ -1,0 +1,21 @@
+6
+13
+6
+4
+Province 4
+Province 8
+Gold 100
+Silver 12
+CouncilRoom 5
+Duchy 2
+Moat 4
+Estate 5
+Village 9
+Province 1
+CouncilRoom 3
+Duchy 7
+Village 2
+Gold 6
+Copper 1
+Copper 7
+Cellar 10

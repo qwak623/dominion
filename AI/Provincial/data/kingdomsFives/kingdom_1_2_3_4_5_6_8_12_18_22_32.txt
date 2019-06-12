@@ -1,0 +1,17 @@
+1
+13
+6
+5
+Province 11
+Silver 2
+Moat 2
+Gold 5
+Gold 100
+Silver 11
+Copper 7
+Library 10
+Workshop 5
+Adventurer 7
+Silver 8
+Feast 5
+Estate 2

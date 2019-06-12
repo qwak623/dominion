@@ -1,0 +1,16 @@
+7
+6
+8
+8
+Province 7
+Gold 102
+Copper 2
+Silver 14
+Gold 7
+Estate 11
+Market 13
+Cellar 5
+Spy 7
+Cellar 5
+Duchy 8
+Silver 6

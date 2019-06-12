@@ -1,0 +1,16 @@
+2
+10
+6
+6
+Province 6
+Gold 6
+CouncilRoom 8
+Gold 100
+Duchy 10
+Laboratory 5
+Silver 2
+Silver 10
+Copper 7
+Copper 14
+Spy 3
+Copper 3

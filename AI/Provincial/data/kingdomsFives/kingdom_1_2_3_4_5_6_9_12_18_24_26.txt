@@ -1,0 +1,17 @@
+2
+9
+12
+7
+Province 10
+Gold 102
+Duchy 11
+Library 7
+Silver 11
+Copper 9
+Estate 11
+Library 6
+Duchy 10
+Feast 8
+Spy 10
+Silver 4
+Bureaucrat 6

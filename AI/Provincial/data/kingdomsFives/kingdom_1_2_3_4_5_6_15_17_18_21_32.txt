@@ -1,0 +1,15 @@
+2
+15
+8
+7
+Gold 101
+Mine 6
+Silver 9
+Silver 4
+Library 11
+Duchy 5
+Province 10
+Copper 10
+Workshop 1
+Silver 9
+Gold 7

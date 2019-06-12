@@ -1,0 +1,16 @@
+5
+12
+8
+8
+Gold 99
+Gold 3
+Mine 13
+Silver 12
+Silver 13
+Province 2
+Moat 10
+Festival 4
+Mine 3
+Duchy 7
+Bureaucrat 6
+Province 6

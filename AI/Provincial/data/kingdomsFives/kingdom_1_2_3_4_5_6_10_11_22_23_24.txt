@@ -1,0 +1,13 @@
+4
+9
+8
+8
+Gold 99
+Province 11
+Silver 12
+Duchy 7
+Moneylender 8
+Moat 9
+Remodel 11
+Estate 8
+Estate 3

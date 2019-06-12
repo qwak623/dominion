@@ -1,0 +1,17 @@
+0
+10
+8
+8
+Bureaucrat 3
+Silver 5
+Duchy 9
+Gold 6
+Silver 13
+Moneylender 7
+Copper 7
+Silver 10
+Feast 6
+Copper 7
+Province 4
+Estate 102
+Estate 5

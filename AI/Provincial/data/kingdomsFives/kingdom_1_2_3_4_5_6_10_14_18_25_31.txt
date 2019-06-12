@@ -1,0 +1,15 @@
+0
+19
+7
+7
+Province 10
+Gold 7
+Silver 13
+Woodcutter 5
+Library 4
+Smithy 1
+Cellar 7
+Silver 7
+Woodcutter 10
+Gold 100
+Estate 13

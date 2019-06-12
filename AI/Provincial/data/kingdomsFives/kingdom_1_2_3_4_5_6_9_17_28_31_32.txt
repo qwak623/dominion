@@ -1,0 +1,16 @@
+4
+10
+7
+7
+Bureaucrat 3
+Gold 101
+Province 3
+Province 10
+Laboratory 5
+Silver 10
+Bureaucrat 9
+ThroneRoom 9
+Bureaucrat 8
+Gold 5
+Duchy 4
+Silver 5

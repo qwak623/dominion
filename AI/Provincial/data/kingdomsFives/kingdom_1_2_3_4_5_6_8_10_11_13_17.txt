@@ -1,0 +1,17 @@
+5
+15
+6
+3
+Province 14
+Gold 10
+Gold 99
+Laboratory 5
+Cellar 1
+CouncilRoom 2
+Duchy 7
+Festival 11
+Duchy 5
+Silver 6
+Silver 11
+Adventurer 2
+Silver 2

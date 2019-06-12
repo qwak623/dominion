@@ -1,0 +1,15 @@
+3
+15
+8
+8
+Gold 102
+Witch 2
+Province 3
+Province 6
+Silver 11
+Remodel 1
+Duchy 6
+Library 10
+Duchy 12
+Gold 10
+CouncilRoom 10

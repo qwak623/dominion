@@ -1,0 +1,16 @@
+1
+16
+6
+5
+Gold 15
+Province 11
+Library 10
+Silver 11
+Silver 15
+Province 5
+Spy 12
+Thief 1
+ThroneRoom 10
+Gold 100
+Silver 12
+Duchy 5

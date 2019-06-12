@@ -1,0 +1,17 @@
+0
+12
+8
+5
+Gold 100
+Silver 13
+Cellar 9
+Cellar 9
+Cellar 5
+Woodcutter 6
+Copper 6
+Cellar 4
+Copper 6
+Province 7
+Estate 14
+Gold 6
+Duchy 7

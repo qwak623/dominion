@@ -1,0 +1,16 @@
+0
+17
+6
+5
+Gold 5
+Silver 9
+Province 7
+Gardens 9
+Copper 7
+Duchy 7
+Province 7
+Copper 12
+Village 11
+Adventurer 102
+Silver 10
+Estate 10

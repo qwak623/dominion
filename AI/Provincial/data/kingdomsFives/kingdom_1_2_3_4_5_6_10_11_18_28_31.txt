@@ -1,0 +1,16 @@
+0
+14
+6
+6
+Gold 9
+Gold 1
+CouncilRoom 8
+Province 11
+Silver 10
+Copper 11
+Duchy 9
+ThroneRoom 8
+Library 8
+Woodcutter 10
+Library 2
+Woodcutter 7

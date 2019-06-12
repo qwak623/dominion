@@ -1,0 +1,15 @@
+5
+18
+7
+5
+Gold 99
+Laboratory 7
+Silver 11
+Province 12
+Chapel 12
+Silver 10
+Adventurer 4
+Duchy 11
+Duchy 11
+Chapel 5
+Silver 10

@@ -1,0 +1,17 @@
+7
+15
+6
+5
+Province 10
+Gold 5
+Library 5
+Gold 99
+Silver 10
+ThroneRoom 3
+Workshop 10
+Silver 11
+ThroneRoom 8
+Province 9
+Duchy 11
+Province 12
+Workshop 2

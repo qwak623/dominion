@@ -1,0 +1,16 @@
+5
+14
+8
+8
+Festival 4
+Chancellor 2
+Province 7
+Gardens 8
+Cellar 2
+Gold 6
+Gardens 9
+Copper 13
+Silver 2
+Duchy 5
+Cellar 4
+Gold 100

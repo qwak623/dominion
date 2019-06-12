@@ -1,0 +1,13 @@
+3
+13
+7
+7
+Province 9
+Gold 9
+Gold 100
+Province 8
+Adventurer 9
+Library 4
+Festival 1
+Silver 13
+Adventurer 13

@@ -1,0 +1,20 @@
+1
+13
+7
+3
+Gold 5
+Festival 3
+Gold 6
+Province 12
+Library 11
+Silver 11
+Laboratory 11
+Moat 4
+Festival 4
+Silver 10
+Silver 9
+Moneylender 5
+Festival 8
+Province 99
+Duchy 1
+Estate 7

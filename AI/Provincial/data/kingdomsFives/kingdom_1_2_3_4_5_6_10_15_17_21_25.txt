@@ -1,0 +1,15 @@
+6
+16
+7
+6
+Gold 102
+Province 8
+Mine 2
+Laboratory 7
+Silver 13
+Chancellor 8
+Smithy 2
+Silver 5
+Chancellor 2
+Chancellor 6
+Chancellor 11

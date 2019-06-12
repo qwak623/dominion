@@ -1,0 +1,15 @@
+6
+20
+8
+8
+Gold 15
+Market 7
+Province 5
+Silver 12
+Silver 8
+Moneylender 7
+Duchy 7
+Chapel 10
+Spy 102
+Silver 8
+Spy 13

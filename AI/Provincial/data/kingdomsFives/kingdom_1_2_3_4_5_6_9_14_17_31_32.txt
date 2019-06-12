@@ -1,0 +1,14 @@
+1
+13
+8
+8
+Province 5
+Province 8
+Gold 5
+Workshop 3
+Silver 6
+Gardens 10
+Duchy 7
+Silver 13
+Bureaucrat 11
+Gold 100

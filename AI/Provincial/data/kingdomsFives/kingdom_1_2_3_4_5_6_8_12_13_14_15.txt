@@ -1,0 +1,16 @@
+1
+12
+8
+8
+Festival 4
+Duchy 11
+Duchy 7
+Province 101
+Gardens 11
+Chancellor 4
+Copper 8
+Estate 7
+Feast 6
+Copper 10
+Silver 12
+Estate 2

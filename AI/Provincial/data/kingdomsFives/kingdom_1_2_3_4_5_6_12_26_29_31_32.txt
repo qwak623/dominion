@@ -1,0 +1,15 @@
+2
+10
+8
+6
+Workshop 1
+Gold 4
+Silver 11
+Silver 4
+Copper 5
+Estate 11
+Workshop 9
+Feast 13
+Province 9
+Duchy 10
+Woodcutter 4

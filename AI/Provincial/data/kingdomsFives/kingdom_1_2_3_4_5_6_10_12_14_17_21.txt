@@ -1,0 +1,16 @@
+6
+11
+8
+7
+Province 3
+Silver 6
+Gardens 8
+Province 2
+Duchy 12
+Copper 4
+Estate 12
+Silver 7
+Laboratory 102
+Silver 5
+Cellar 11
+Estate 13

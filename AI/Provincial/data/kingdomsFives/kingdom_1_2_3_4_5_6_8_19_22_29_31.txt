@@ -1,0 +1,16 @@
+5
+15
+8
+6
+Gold 101
+Province 6
+Silver 12
+Adventurer 8
+Moat 8
+Market 2
+Woodcutter 7
+Estate 8
+Duchy 8
+Adventurer 9
+Silver 4
+Province 7

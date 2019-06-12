@@ -1,0 +1,15 @@
+2
+10
+6
+4
+Province 3
+Gold 100
+Silver 16
+Village 7
+Copper 3
+Cellar 7
+Moneylender 8
+Silver 7
+Adventurer 11
+Duchy 11
+Moneylender 12

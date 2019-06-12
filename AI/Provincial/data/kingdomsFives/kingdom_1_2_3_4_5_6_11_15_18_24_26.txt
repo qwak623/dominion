@@ -1,0 +1,14 @@
+2
+10
+10
+6
+Gold 101
+CouncilRoom 13
+Silver 13
+Duchy 10
+Province 9
+Chancellor 9
+Library 14
+Gold 8
+Spy 2
+Silver 12

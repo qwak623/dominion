@@ -1,0 +1,16 @@
+7
+14
+8
+8
+Gold 99
+Witch 3
+Silver 13
+Duchy 9
+Market 6
+Chapel 6
+Copper 10
+Gold 10
+Silver 9
+Militia 3
+Village 4
+Province 9

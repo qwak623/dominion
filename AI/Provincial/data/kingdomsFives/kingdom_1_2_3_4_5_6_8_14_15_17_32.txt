@@ -1,0 +1,15 @@
+3
+24
+8
+8
+Silver 11
+Gardens 10
+Duchy 7
+Workshop 13
+Gold 7
+Silver 4
+Chancellor 7
+Chancellor 11
+Copper 6
+Laboratory 6
+Adventurer 8

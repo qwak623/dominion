@@ -1,0 +1,14 @@
+6
+16
+8
+8
+Witch 6
+Duchy 7
+Silver 8
+Silver 11
+Copper 11
+Gold 5
+Silver 11
+Workshop 3
+Moat 9
+Gold 101

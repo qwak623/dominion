@@ -1,0 +1,15 @@
+7
+10
+10
+8
+Gold 99
+CouncilRoom 12
+Duchy 7
+Province 5
+Bureaucrat 7
+Silver 14
+Duchy 14
+Copper 7
+Estate 6
+Market 4
+Feast 7

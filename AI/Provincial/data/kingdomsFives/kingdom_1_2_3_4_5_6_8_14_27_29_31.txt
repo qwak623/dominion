@@ -1,0 +1,16 @@
+4
+15
+8
+7
+Gardens 9
+Duchy 7
+Woodcutter 10
+Estate 9
+Adventurer 11
+Copper 11
+Village 13
+Silver 7
+Gold 101
+Gold 11
+Silver 11
+Duchy 4

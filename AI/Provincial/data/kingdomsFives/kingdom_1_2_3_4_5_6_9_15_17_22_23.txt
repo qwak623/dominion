@@ -1,0 +1,17 @@
+2
+19
+8
+7
+Gold 7
+Silver 8
+Moat 6
+Moat 5
+Chancellor 7
+Laboratory 8
+Copper 11
+Estate 100
+Duchy 4
+Silver 12
+Province 11
+Bureaucrat 8
+Chancellor 6

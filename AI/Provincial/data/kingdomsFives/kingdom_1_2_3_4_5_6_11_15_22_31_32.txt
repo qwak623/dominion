@@ -1,0 +1,17 @@
+4
+12
+6
+6
+Province 8
+Gold 100
+CouncilRoom 1
+Silver 8
+Silver 11
+Workshop 8
+Chancellor 4
+Copper 11
+Moat 3
+Chancellor 12
+Workshop 5
+Moat 12
+Gold 7

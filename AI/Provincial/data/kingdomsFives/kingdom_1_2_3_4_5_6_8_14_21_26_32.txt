@@ -1,0 +1,17 @@
+3
+12
+7
+6
+Mine 2
+Silver 9
+Copper 2
+Gold 101
+Province 12
+Gardens 10
+Duchy 10
+Spy 11
+Workshop 6
+Estate 4
+Adventurer 4
+Silver 13
+Mine 7

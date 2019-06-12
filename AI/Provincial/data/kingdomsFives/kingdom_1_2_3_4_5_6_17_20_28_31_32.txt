@@ -1,0 +1,16 @@
+3
+13
+13
+8
+Duchy 6
+Silver 5
+Gold 8
+Militia 6
+Gold 99
+Estate 9
+Silver 12
+Workshop 4
+ThroneRoom 11
+Estate 4
+Laboratory 8
+Copper 8

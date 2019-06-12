@@ -1,0 +1,15 @@
+7
+16
+11
+8
+Province 3
+Province 4
+Gardens 12
+Gold 100
+Woodcutter 3
+Silver 12
+Copper 14
+Silver 6
+Remodel 10
+Village 4
+Duchy 10

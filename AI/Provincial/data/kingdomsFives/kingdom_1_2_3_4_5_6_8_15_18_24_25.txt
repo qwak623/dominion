@@ -1,0 +1,16 @@
+1
+12
+6
+5
+Province 8
+Gold 12
+Library 11
+Silver 11
+Copper 14
+Adventurer 6
+Smithy 11
+Duchy 11
+Gold 105
+Silver 10
+Copper 1
+Remodel 2

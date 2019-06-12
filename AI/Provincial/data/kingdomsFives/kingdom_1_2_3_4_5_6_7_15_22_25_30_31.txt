@@ -1,0 +1,15 @@
+4
+19
+10
+7
+Gold 12
+Witch 3
+Silver 14
+Witch 11
+Moat 7
+Copper 12
+Gold 8
+Gold 11
+Woodcutter 7
+Gold 101
+Curse 7

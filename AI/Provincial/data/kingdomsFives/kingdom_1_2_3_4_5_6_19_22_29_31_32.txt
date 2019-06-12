@@ -1,0 +1,18 @@
+3
+8
+7
+7
+Province 16
+Gold 12
+Silver 10
+Duchy 4
+Moat 6
+Market 11
+Woodcutter 2
+Silver 103
+Village 7
+Gold 6
+Gold 4
+Estate 8
+Workshop 5
+Silver 12

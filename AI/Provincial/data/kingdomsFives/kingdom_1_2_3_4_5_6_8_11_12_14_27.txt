@@ -1,0 +1,17 @@
+1
+12
+5
+5
+Gold 2
+Gold 101
+CouncilRoom 3
+Duchy 5
+Gardens 3
+Province 4
+Gardens 9
+Thief 9
+Silver 9
+Copper 6
+Silver 11
+Adventurer 8
+Copper 5

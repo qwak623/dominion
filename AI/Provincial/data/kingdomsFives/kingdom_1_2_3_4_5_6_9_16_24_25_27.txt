@@ -1,0 +1,17 @@
+0
+15
+12
+8
+Smithy 2
+Gold 9
+Silver 13
+Smithy 6
+Province 12
+Silver 5
+Duchy 9
+Bureaucrat 6
+Gold 103
+Copper 4
+Bureaucrat 9
+Chapel 5
+Silver 8

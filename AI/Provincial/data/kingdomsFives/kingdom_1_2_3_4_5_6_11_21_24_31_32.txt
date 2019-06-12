@@ -1,0 +1,15 @@
+6
+18
+8
+7
+Gold 102
+Silver 4
+Province 4
+CouncilRoom 10
+Silver 12
+Workshop 11
+Copper 6
+Remodel 15
+Woodcutter 4
+Silver 9
+Estate 9

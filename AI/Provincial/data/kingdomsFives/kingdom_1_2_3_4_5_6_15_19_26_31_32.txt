@@ -1,0 +1,15 @@
+7
+12
+7
+6
+Gold 100
+Province 7
+Market 6
+Silver 12
+Duchy 9
+Spy 9
+Gold 2
+Duchy 15
+Woodcutter 3
+Chancellor 10
+Woodcutter 12

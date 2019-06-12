@@ -1,0 +1,16 @@
+2
+11
+20
+8
+Gardens 11
+Gold 100
+Gold 7
+Bureaucrat 9
+Silver 2
+Feast 7
+Silver 2
+ThroneRoom 7
+Chancellor 11
+Duchy 6
+Copper 11
+Duchy 9

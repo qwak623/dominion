@@ -1,0 +1,15 @@
+3
+15
+8
+8
+Witch 6
+Duchy 5
+Silver 11
+Workshop 7
+Witch 8
+Gold 16
+Estate 9
+Province 8
+Feast 10
+Gold 103
+Feast 10

@@ -1,0 +1,14 @@
+2
+15
+7
+6
+Gold 7
+Market 11
+Adventurer 5
+Duchy 8
+Market 7
+Copper 1
+Duchy 10
+Silver 11
+Gold 100
+Market 10

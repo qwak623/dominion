@@ -1,0 +1,14 @@
+7
+8
+7
+6
+Gold 5
+Province 11
+Gold 104
+Laboratory 13
+Silver 13
+Silver 6
+Chancellor 4
+Chapel 5
+Duchy 8
+Estate 3

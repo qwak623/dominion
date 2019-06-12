@@ -1,0 +1,18 @@
+1
+14
+6
+5
+Gold 6
+Silver 9
+Gardens 7
+Chapel 3
+Copper 9
+Gold 99
+Market 5
+Duchy 12
+Silver 10
+Cellar 11
+Estate 7
+Silver 13
+Estate 3
+Market 12

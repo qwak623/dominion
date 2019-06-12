@@ -1,0 +1,15 @@
+2
+13
+6
+4
+Province 9
+Estate 1
+Province 11
+Gold 100
+Market 14
+Silver 11
+Duchy 10
+Moat 6
+Province 9
+CouncilRoom 12
+Silver 11

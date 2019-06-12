@@ -1,0 +1,15 @@
+1
+16
+17
+8
+Gold 7
+Witch 10
+Silver 6
+Duchy 10
+Silver 12
+Copper 5
+Estate 8
+Library 8
+Estate 3
+Workshop 8
+Duchy 2

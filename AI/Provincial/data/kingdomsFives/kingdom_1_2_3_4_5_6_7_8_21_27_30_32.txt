@@ -1,0 +1,20 @@
+5
+11
+8
+7
+Gold 101
+Witch 4
+Silver 4
+Gold 2
+Silver 6
+Silver 11
+Province 7
+Adventurer 10
+Copper 5
+Province 1
+Gold 2
+Workshop 4
+Estate 10
+Thief 5
+Duchy 13
+Mine 3

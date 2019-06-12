@@ -1,0 +1,17 @@
+2
+11
+8
+8
+Silver 11
+Gardens 7
+Duchy 8
+Gold 4
+Gold 6
+Workshop 12
+Gold 103
+Silver 12
+Copper 3
+Estate 9
+Moneylender 7
+Adventurer 8
+Copper 5

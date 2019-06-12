@@ -1,0 +1,13 @@
+4
+10
+7
+7
+Province 7
+Gold 99
+Silver 3
+Moat 2
+Silver 13
+Silver 3
+Militia 7
+Duchy 8
+Duchy 8

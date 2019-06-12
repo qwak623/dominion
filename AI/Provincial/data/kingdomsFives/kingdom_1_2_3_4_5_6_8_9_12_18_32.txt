@@ -1,0 +1,16 @@
+2
+12
+6
+5
+Province 11
+Gold 102
+Library 5
+Silver 7
+Feast 13
+Silver 14
+Copper 3
+Adventurer 4
+Estate 8
+Copper 2
+Gold 5
+Workshop 12

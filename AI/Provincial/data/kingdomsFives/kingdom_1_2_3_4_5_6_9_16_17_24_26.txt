@@ -1,0 +1,18 @@
+4
+19
+8
+8
+Gold 4
+Bureaucrat 2
+Laboratory 2
+Gold 100
+Duchy 5
+Silver 9
+Bureaucrat 5
+Copper 8
+Province 1
+Remodel 4
+Estate 3
+Copper 8
+Silver 10
+Laboratory 4

@@ -1,0 +1,20 @@
+6
+16
+8
+8
+Gold 5
+Witch 8
+Silver 11
+Silver 2
+Feast 5
+Silver 6
+Gold 101
+Copper 7
+Witch 10
+Copper 13
+Silver 7
+Silver 6
+Silver 6
+Smithy 8
+Province 10
+Curse 2

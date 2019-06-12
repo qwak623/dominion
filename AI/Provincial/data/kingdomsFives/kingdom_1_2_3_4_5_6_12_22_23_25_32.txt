@@ -1,0 +1,16 @@
+6
+13
+8
+7
+Gold 102
+Silver 12
+Province 14
+Duchy 11
+Gold 10
+Moat 2
+Smithy 6
+Estate 13
+Workshop 7
+Silver 5
+Feast 4
+Workshop 1

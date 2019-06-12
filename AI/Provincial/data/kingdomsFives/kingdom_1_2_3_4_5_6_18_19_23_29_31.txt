@@ -1,0 +1,16 @@
+4
+11
+8
+8
+Gold 11
+Silver 11
+Gold 103
+Province 7
+Library 12
+Province 6
+Market 6
+Market 5
+Woodcutter 2
+Moneylender 14
+Silver 7
+Moneylender 10

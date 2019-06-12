@@ -1,0 +1,17 @@
+1
+13
+6
+4
+Province 2
+Gold 100
+Province 12
+Province 4
+Laboratory 13
+Silver 13
+Duchy 10
+Chapel 2
+Chapel 6
+ThroneRoom 11
+Workshop 8
+Woodcutter 7
+Silver 8

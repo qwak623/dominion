@@ -1,0 +1,17 @@
+3
+15
+6
+5
+Gold 10
+CouncilRoom 12
+Laboratory 14
+Silver 9
+Duchy 8
+Province 11
+Duchy 8
+Copper 1
+Duchy 6
+Feast 7
+Feast 9
+Duchy 10
+Copper 10

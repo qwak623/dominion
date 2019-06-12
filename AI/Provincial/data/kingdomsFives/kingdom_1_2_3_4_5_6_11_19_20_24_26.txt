@@ -1,0 +1,13 @@
+4
+10
+8
+8
+Province 15
+Gold 101
+Militia 5
+Spy 7
+Silver 14
+Market 10
+Copper 4
+Silver 11
+Estate 7

@@ -1,0 +1,15 @@
+5
+13
+8
+5
+Gold 10
+Silver 14
+Duchy 8
+Cellar 9
+Woodcutter 11
+Copper 4
+Spy 3
+Silver 10
+Gold 101
+Curse 11
+Silver 12

@@ -1,0 +1,16 @@
+5
+16
+5
+5
+Gold 13
+Laboratory 5
+Silver 7
+Copper 7
+Province 11
+Gold 99
+Moneylender 12
+Silver 15
+Woodcutter 13
+Estate 10
+Adventurer 11
+Moneylender 12

@@ -1,0 +1,17 @@
+0
+14
+8
+4
+Province 6
+Gold 101
+Gold 11
+Silver 8
+Smithy 7
+Province 4
+Silver 11
+Remodel 7
+Chapel 14
+Estate 8
+Copper 6
+Silver 4
+Silver 6

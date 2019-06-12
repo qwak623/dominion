@@ -1,0 +1,15 @@
+2
+11
+8
+8
+Province 9
+Gold 100
+Mine 14
+Silver 3
+Duchy 11
+Silver 13
+Village 3
+Village 12
+Cellar 12
+Estate 1
+Feast 3

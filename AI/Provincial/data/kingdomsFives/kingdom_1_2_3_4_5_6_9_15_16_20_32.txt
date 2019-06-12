@@ -1,0 +1,16 @@
+5
+14
+8
+7
+Province 13
+Province 1
+Chapel 1
+Gold 100
+Silver 13
+Duchy 6
+Militia 7
+Bureaucrat 5
+Duchy 4
+Workshop 5
+Silver 9
+Workshop 11

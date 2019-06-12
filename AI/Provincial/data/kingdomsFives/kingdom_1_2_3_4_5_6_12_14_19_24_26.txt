@@ -1,0 +1,15 @@
+2
+11
+6
+5
+Copper 1
+Province 8
+Gold 9
+Gold 99
+Market 5
+Silver 5
+Gardens 9
+Feast 5
+Spy 8
+Silver 13
+Estate 4

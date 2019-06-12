@@ -1,0 +1,16 @@
+5
+14
+7
+4
+Province 13
+Gold 101
+Silver 10
+Moat 15
+Estate 11
+Silver 10
+Gold 3
+Copper 5
+Bureaucrat 5
+Moneylender 7
+Silver 2
+Mine 12

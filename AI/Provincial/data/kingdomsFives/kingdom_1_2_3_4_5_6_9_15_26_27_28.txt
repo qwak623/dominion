@@ -1,0 +1,12 @@
+6
+18
+6
+4
+Province 11
+Gold 99
+Silver 11
+Copper 9
+Duchy 8
+Estate 11
+Silver 11
+Estate 3

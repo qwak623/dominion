@@ -1,0 +1,18 @@
+1
+14
+8
+8
+Gold 14
+Province 8
+Gold 100
+Library 8
+Gold 8
+Silver 11
+Thief 1
+Province 7
+Festival 9
+Copper 12
+Estate 9
+Smithy 6
+Festival 6
+Smithy 9

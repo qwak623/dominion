@@ -1,0 +1,15 @@
+5
+18
+6
+3
+Province 9
+Gold 102
+Library 4
+Silver 13
+Feast 11
+Moneylender 2
+Gardens 8
+Feast 3
+Gardens 10
+Gardens 11
+Province 3

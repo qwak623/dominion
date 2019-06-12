@@ -1,0 +1,14 @@
+6
+12
+7
+7
+Province 9
+Gold 103
+Mine 10
+Gold 3
+Silver 3
+Silver 16
+Festival 11
+Adventurer 7
+Market 7
+Copper 13

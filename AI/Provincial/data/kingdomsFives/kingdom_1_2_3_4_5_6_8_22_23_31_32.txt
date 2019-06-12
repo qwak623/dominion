@@ -1,0 +1,17 @@
+3
+13
+6
+4
+Gold 100
+Silver 12
+Duchy 8
+Gold 6
+Province 6
+Moat 9
+Province 4
+Copper 10
+Gold 2
+Moneylender 9
+Moneylender 9
+Silver 11
+Woodcutter 12

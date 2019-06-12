@@ -1,0 +1,18 @@
+4
+14
+6
+6
+Silver 11
+Smithy 3
+Silver 8
+Chapel 10
+Gold 102
+Chapel 3
+Cellar 8
+Copper 6
+Copper 9
+Gold 5
+Gold 10
+Silver 11
+Smithy 6
+Estate 3

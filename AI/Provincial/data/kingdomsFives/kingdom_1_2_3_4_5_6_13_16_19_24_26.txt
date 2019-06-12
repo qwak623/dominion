@@ -1,0 +1,15 @@
+3
+6
+14
+8
+Duchy 7
+Duchy 13
+Silver 11
+Market 10
+Festival 10
+Festival 12
+Gold 7
+Copper 3
+Market 9
+Estate 6
+Spy 7

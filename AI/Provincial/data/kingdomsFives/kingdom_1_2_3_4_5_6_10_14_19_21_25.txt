@@ -1,0 +1,15 @@
+1
+12
+8
+5
+Market 13
+Duchy 102
+Silver 4
+Gardens 3
+Copper 9
+Duchy 9
+Gardens 8
+Estate 12
+Smithy 4
+Silver 11
+Gold 13

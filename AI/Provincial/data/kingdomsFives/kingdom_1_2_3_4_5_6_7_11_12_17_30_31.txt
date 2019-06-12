@@ -1,0 +1,17 @@
+6
+10
+8
+8
+Witch 2
+Province 12
+Gold 9
+Gold 4
+Silver 6
+Gold 10
+Silver 10
+Estate 12
+Woodcutter 9
+Silver 10
+Silver 9
+CouncilRoom 7
+Laboratory 9

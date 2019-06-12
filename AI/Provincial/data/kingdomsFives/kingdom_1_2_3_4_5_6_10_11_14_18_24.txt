@@ -1,0 +1,16 @@
+0
+12
+7
+7
+CouncilRoom 2
+Silver 13
+Cellar 3
+Gardens 9
+Silver 102
+Province 4
+Silver 7
+Cellar 7
+Estate 7
+Library 8
+Silver 8
+Gardens 10

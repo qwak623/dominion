@@ -1,0 +1,14 @@
+1
+12
+7
+6
+Gold 100
+Laboratory 10
+Province 11
+Silver 11
+Bureaucrat 9
+Silver 14
+Copper 9
+Silver 12
+Moneylender 8
+Copper 2

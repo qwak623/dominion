@@ -1,0 +1,15 @@
+5
+10
+11
+8
+Gold 99
+Silver 6
+Silver 12
+Woodcutter 11
+Moat 7
+Thief 8
+Gold 11
+Chapel 6
+Witch 11
+Estate 6
+Witch 2

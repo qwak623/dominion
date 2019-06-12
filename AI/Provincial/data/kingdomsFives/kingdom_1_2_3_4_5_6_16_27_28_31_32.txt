@@ -1,0 +1,15 @@
+2
+5
+5
+5
+Province 10
+Gold 9
+Silver 16
+Woodcutter 3
+Chapel 4
+Gold 104
+ThroneRoom 9
+Thief 9
+Duchy 11
+Silver 13
+Woodcutter 6

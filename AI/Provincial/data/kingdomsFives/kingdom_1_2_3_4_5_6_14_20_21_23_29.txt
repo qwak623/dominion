@@ -1,0 +1,14 @@
+6
+14
+8
+8
+Mine 3
+Silver 10
+Gold 7
+Province 14
+Gardens 6
+Silver 10
+Village 3
+Militia 12
+Gold 102
+Moneylender 9

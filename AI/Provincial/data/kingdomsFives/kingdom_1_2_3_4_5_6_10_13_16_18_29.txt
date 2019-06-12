@@ -1,0 +1,12 @@
+3
+15
+7
+5
+Gold 6
+Library 12
+Silver 12
+Cellar 5
+Chapel 8
+Gold 103
+Library 7
+Festival 9

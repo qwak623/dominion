@@ -1,0 +1,14 @@
+2
+12
+11
+8
+Witch 7
+Silver 12
+Province 7
+Copper 10
+Witch 10
+Gold 12
+Estate 8
+Estate 7
+Chancellor 3
+Workshop 8

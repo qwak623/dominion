@@ -1,0 +1,18 @@
+4
+14
+23
+6
+Gold 10
+Silver 13
+Woodcutter 7
+Duchy 4
+Gold 100
+Village 4
+Gold 2
+Copper 5
+Woodcutter 2
+Province 6
+Moneylender 9
+Estate 10
+Village 6
+Estate 9

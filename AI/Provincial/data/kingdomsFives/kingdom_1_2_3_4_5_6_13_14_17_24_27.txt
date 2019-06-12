@@ -1,0 +1,14 @@
+3
+19
+6
+4
+Gold 100
+Laboratory 11
+Silver 11
+Thief 10
+Silver 5
+Province 9
+Gardens 10
+Festival 4
+Remodel 3
+Gold 12

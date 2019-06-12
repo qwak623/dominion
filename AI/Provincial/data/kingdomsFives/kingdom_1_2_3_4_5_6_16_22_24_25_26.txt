@@ -1,0 +1,16 @@
+3
+11
+6
+3
+Gold 12
+Silver 11
+Gold 6
+Remodel 4
+Silver 3
+Moat 7
+Gold 100
+Smithy 4
+Duchy 9
+Province 12
+Spy 8
+Estate 8

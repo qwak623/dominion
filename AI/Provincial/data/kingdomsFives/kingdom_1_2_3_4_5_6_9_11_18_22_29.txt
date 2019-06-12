@@ -1,0 +1,13 @@
+2
+11
+7
+5
+Province 9
+Gold 103
+Silver 15
+Moat 7
+Estate 1
+Copper 4
+Library 6
+Silver 11
+Village 9

@@ -1,0 +1,16 @@
+0
+13
+6
+5
+Province 15
+Gold 101
+Silver 6
+Duchy 7
+Smithy 4
+Copper 10
+Silver 4
+Chancellor 2
+Silver 10
+Estate 6
+Smithy 7
+Market 7

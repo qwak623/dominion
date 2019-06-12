@@ -1,0 +1,14 @@
+6
+9
+16
+8
+Gardens 15
+Cellar 1
+Silver 12
+Estate 6
+Smithy 11
+Moneylender 6
+Gold 9
+Province 6
+Duchy 9
+Estate 8

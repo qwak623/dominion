@@ -1,0 +1,16 @@
+6
+15
+7
+7
+Gold 11
+Gold 101
+Gold 11
+Silver 9
+Province 10
+Moat 9
+Copper 5
+Cellar 9
+Copper 10
+Province 12
+Cellar 3
+Bureaucrat 6

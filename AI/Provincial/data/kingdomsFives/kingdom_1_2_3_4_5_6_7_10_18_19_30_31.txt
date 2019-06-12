@@ -1,0 +1,22 @@
+7
+12
+8
+8
+Province 9
+Gold 99
+Witch 4
+Market 8
+Silver 8
+Duchy 5
+Duchy 1
+Copper 3
+Library 8
+Curse 2
+Copper 4
+Gold 2
+Estate 8
+Duchy 8
+Market 9
+Curse 5
+Cellar 15
+Cellar 12

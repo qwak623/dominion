@@ -1,0 +1,16 @@
+4
+16
+8
+7
+Gold 102
+Province 12
+Silver 6
+CouncilRoom 12
+Spy 4
+Spy 5
+Silver 14
+Duchy 7
+Copper 11
+Gold 6
+Estate 8
+Spy 6

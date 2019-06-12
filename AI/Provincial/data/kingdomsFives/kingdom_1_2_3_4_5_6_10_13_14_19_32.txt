@@ -1,0 +1,15 @@
+0
+9
+8
+8
+Market 5
+Province 6
+Province 11
+Workshop 4
+Duchy 8
+Gardens 10
+Gardens 4
+Silver 13
+Duchy 102
+Silver 11
+Duchy 4

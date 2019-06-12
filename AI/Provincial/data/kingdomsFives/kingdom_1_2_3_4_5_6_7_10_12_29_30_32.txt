@@ -1,0 +1,17 @@
+4
+14
+8
+8
+Witch 4
+Gold 6
+Silver 13
+Cellar 8
+Province 4
+Gold 101
+Village 7
+Copper 14
+Cellar 9
+Silver 9
+Curse 11
+Copper 5
+Province 3

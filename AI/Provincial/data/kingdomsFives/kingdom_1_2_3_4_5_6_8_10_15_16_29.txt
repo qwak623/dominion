@@ -1,0 +1,19 @@
+3
+11
+6
+5
+Gold 14
+Adventurer 2
+Gold 100
+Silver 14
+Silver 8
+Chapel 8
+Copper 10
+Chapel 3
+Cellar 6
+Silver 10
+Chapel 4
+Duchy 6
+Chapel 2
+Village 9
+Silver 9

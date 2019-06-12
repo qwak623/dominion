@@ -1,0 +1,19 @@
+7
+13
+6
+6
+Gold 100
+Laboratory 11
+Mine 4
+Laboratory 2
+Silver 6
+Province 11
+Laboratory 6
+Cellar 5
+Duchy 2
+Mine 4
+Laboratory 5
+Laboratory 12
+Cellar 6
+Cellar 5
+Duchy 5

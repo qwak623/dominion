@@ -24,7 +24,8 @@ namespace AI.Evolution
 
         public void Run()
         {
-            SetUp();
+            if (!SetUp())
+                return;
 
             // todo smazat stopwatch
             var sw = new System.Diagnostics.Stopwatch();
@@ -50,23 +51,32 @@ namespace AI.Evolution
             leaders[0].Save(par.Kingdom, par.Folder);
         }
 
-        public void SetUp()
+        public bool SetUp()
         {
             leaders = new BuyAgenda[par.LeaderCount];
             for (int i = 0; i < leaders.Length; i++)
                 leaders[i] = BuyAgenda.GetRandom(par.Kingdom);
-            leaders[0] = BuyAgenda.Load(par.Kingdom, "KingdomTens") ?? BuyAgenda.GetRandom(par.Kingdom);
+            leaders[0] = BuyAgenda.Load(par.Kingdom, par.Folder) ?? BuyAgenda.GetRandom(par.Kingdom);
             if (leaders[0].Loaded)
-                logger?.Log("Rewriting kingdom.");
+            {
+                if (par.Skip)
+                {
+                    logger?.Log("Skipping kingdom.");
+                    return false;    
+                }
+                else
+                    logger?.Log("Rewriting kingdom.");
+            }
             pool = new (BuyAgenda, double)[par.PoolCount];
+            return true;
         }
 
         void Evaluate()
         {
             // todo parallel
             //for (int i = 0; i < pool.Length; i++)
-            Parallel.For(0, pool.Length, i => 
-                pool[i].Fitness = par.Evaluator.Evaluate(pool[i].Agenda, leaders, par.Kingdom, par.MinGames, par.MaxGames));
+            Parallel.For(0, pool.Length, new ParallelOptions { MaxDegreeOfParallelism = par.ParallelDegreeExt}, i => 
+                pool[i].Fitness = par.Evaluator.Evaluate(pool[i].Agenda, leaders, par.Kingdom, par.MinGames, par.MaxGames, par.ParallelDegreeInt));
         }
 
         void SetNewLeaders()
@@ -136,7 +146,7 @@ namespace AI.Evolution
 
             //if (result[1] > result[0])
             //   buyAgenda.Save(par.Kingdom, $"gen_{generation}({result[0]}, {result[1]})");
-            logger.Log($"Generation {generation}: Referencer {result[0]}, Leader {result[1]}");
+            logger?.Log($"Generation {generation}: Referencer {result[0]}, Leader {result[1]}");
         }
 
         bool IsSimilarToAny(BuyAgenda agenda, int count)

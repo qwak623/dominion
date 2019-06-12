@@ -1,0 +1,15 @@
+6
+14
+8
+8
+Province 8
+Gold 9
+Gold 99
+Witch 2
+Silver 9
+Silver 13
+Workshop 2
+Village 9
+Workshop 5
+Silver 10
+Spy 7

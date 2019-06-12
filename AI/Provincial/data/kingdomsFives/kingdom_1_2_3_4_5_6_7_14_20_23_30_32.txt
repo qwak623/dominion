@@ -1,0 +1,20 @@
+5
+8
+14
+8
+Gardens 9
+Witch 3
+Duchy 9
+Gardens 6
+Militia 2
+Gold 102
+Gardens 3
+Workshop 8
+Gardens 8
+Estate 8
+Gold 9
+Estate 3
+Copper 8
+Moneylender 9
+Silver 14
+Moneylender 10

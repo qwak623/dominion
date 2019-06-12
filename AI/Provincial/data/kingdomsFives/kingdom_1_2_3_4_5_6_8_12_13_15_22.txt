@@ -1,0 +1,15 @@
+6
+9
+6
+6
+Province 4
+Province 11
+Gold 7
+Silver 8
+Chancellor 1
+Silver 7
+Silver 14
+Gold 99
+Province 14
+Moat 4
+Estate 11

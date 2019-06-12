@@ -1,0 +1,17 @@
+6
+10
+6
+6
+Gold 4
+Gold 103
+Silver 11
+Spy 7
+Chancellor 5
+Gold 9
+Village 3
+Woodcutter 5
+Woodcutter 7
+Silver 11
+Province 12
+Library 8
+Spy 9

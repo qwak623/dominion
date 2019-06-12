@@ -1,0 +1,17 @@
+3
+12
+7
+4
+Laboratory 11
+Silver 13
+Cellar 2
+Festival 6
+Province 12
+Copper 12
+Duchy 6
+Workshop 4
+Silver 8
+Province 2
+Workshop 10
+Silver 9
+Estate 7

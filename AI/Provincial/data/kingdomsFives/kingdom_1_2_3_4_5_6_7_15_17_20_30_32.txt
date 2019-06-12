@@ -1,0 +1,14 @@
+7
+10
+8
+6
+Militia 5
+Gold 104
+Silver 10
+Chancellor 4
+Copper 6
+Province 14
+Silver 14
+Curse 5
+Gold 10
+Estate 11

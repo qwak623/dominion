@@ -1,0 +1,18 @@
+3
+12
+6
+3
+Gold 10
+Laboratory 11
+Silver 11
+Province 10
+Copper 7
+Province 11
+Library 12
+Laboratory 10
+Duchy 3
+Workshop 8
+Gold 100
+Silver 3
+Cellar 11
+Copper 12

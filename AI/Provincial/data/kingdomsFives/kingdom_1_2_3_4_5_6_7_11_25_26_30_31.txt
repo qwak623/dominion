@@ -1,0 +1,13 @@
+3
+13
+8
+7
+Province 4
+Gold 100
+Witch 5
+Silver 8
+Smithy 4
+CouncilRoom 5
+Witch 9
+Silver 13
+Woodcutter 3

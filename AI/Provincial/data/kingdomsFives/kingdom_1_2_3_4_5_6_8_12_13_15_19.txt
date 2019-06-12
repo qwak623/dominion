@@ -1,0 +1,15 @@
+7
+17
+8
+8
+Gold 13
+Silver 4
+Market 5
+Adventurer 7
+Silver 9
+Feast 2
+Chancellor 7
+Gold 104
+Market 8
+Duchy 11
+Province 5

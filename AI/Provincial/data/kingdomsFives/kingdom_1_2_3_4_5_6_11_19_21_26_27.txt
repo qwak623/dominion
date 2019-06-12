@@ -1,0 +1,15 @@
+2
+11
+7
+5
+Estate 1
+Gold 99
+Mine 6
+Silver 13
+Gold 9
+Copper 7
+Duchy 13
+Thief 3
+CouncilRoom 11
+Province 9
+Silver 7

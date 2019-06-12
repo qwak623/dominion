@@ -1,0 +1,15 @@
+2
+14
+14
+8
+Witch 14
+Silver 8
+Festival 8
+Silver 7
+Gold 8
+Village 11
+Festival 9
+Workshop 11
+Estate 5
+Festival 11
+Estate 100

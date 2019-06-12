@@ -1,0 +1,14 @@
+4
+11
+7
+7
+Province 15
+Gold 100
+Mine 9
+Duchy 7
+Market 10
+Silver 13
+Bureaucrat 8
+Duchy 6
+Woodcutter 11
+Workshop 7

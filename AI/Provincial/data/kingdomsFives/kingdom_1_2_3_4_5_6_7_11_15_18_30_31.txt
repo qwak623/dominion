@@ -1,0 +1,14 @@
+1
+19
+8
+8
+Gold 101
+Witch 9
+Silver 12
+Province 9
+Chancellor 8
+Province 8
+Copper 5
+Copper 12
+Province 13
+Curse 6

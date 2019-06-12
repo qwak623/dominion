@@ -1,0 +1,16 @@
+6
+17
+7
+6
+Province 6
+Gold 6
+Festival 8
+Militia 3
+Gold 103
+Silver 4
+Militia 9
+Militia 3
+Smithy 13
+Moat 9
+Mine 4
+Silver 10

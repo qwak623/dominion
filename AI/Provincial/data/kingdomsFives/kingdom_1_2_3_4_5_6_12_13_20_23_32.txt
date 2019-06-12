@@ -1,0 +1,16 @@
+5
+15
+13
+8
+Gold 103
+Militia 12
+Festival 3
+Silver 10
+Festival 9
+Gold 7
+Copper 4
+Gold 5
+Gold 2
+Workshop 2
+Feast 6
+Estate 7

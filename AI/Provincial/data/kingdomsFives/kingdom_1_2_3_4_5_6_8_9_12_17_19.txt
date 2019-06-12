@@ -1,0 +1,16 @@
+4
+12
+8
+7
+Gold 100
+Laboratory 9
+Bureaucrat 6
+Duchy 14
+Gold 4
+Silver 10
+Laboratory 7
+Bureaucrat 4
+Feast 10
+Feast 6
+Adventurer 4
+Silver 11

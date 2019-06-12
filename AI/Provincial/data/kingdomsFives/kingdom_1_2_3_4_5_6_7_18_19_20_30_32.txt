@@ -1,0 +1,15 @@
+3
+9
+8
+8
+Gold 2
+Witch 2
+Gold 100
+Silver 13
+Province 12
+Library 4
+Duchy 6
+Market 3
+Copper 2
+Copper 5
+Workshop 6

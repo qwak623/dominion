@@ -1,0 +1,18 @@
+7
+12
+8
+7
+Gold 6
+Witch 12
+Province 5
+Duchy 3
+Silver 9
+Gold 101
+Market 11
+Silver 12
+Market 5
+Province 9
+CouncilRoom 1
+Workshop 9
+CouncilRoom 9
+Gold 10

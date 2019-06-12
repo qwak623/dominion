@@ -1,0 +1,17 @@
+7
+12
+7
+4
+Gold 9
+CouncilRoom 4
+Province 13
+Laboratory 13
+Gold 100
+Silver 7
+CouncilRoom 7
+ThroneRoom 7
+Duchy 10
+Copper 3
+Estate 10
+Moneylender 4
+Estate 8

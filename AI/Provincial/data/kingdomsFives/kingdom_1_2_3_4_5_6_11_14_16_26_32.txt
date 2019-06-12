@@ -1,0 +1,15 @@
+4
+16
+9
+8
+Workshop 2
+Gardens 7
+Province 9
+Gold 99
+Silver 10
+Gardens 12
+Silver 7
+Copper 12
+Chapel 10
+Spy 5
+Estate 4

@@ -1,0 +1,18 @@
+1
+15
+8
+8
+Witch 9
+Province 4
+Duchy 9
+Gold 101
+Adventurer 9
+Chapel 1
+Silver 11
+Estate 9
+Estate 3
+Estate 8
+Market 5
+Chapel 4
+Gold 8
+Duchy 8

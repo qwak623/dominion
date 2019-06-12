@@ -1,0 +1,15 @@
+6
+18
+8
+7
+Gold 100
+Province 8
+Silver 9
+Silver 9
+Silver 13
+Gardens 3
+Moat 5
+Bureaucrat 6
+Gold 12
+Feast 6
+Moneylender 3

@@ -1,0 +1,15 @@
+4
+9
+8
+7
+Province 5
+Gold 100
+Silver 2
+Militia 8
+Militia 3
+Silver 3
+Militia 12
+Remodel 13
+Duchy 6
+Silver 10
+Gold 10

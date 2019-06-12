@@ -1,0 +1,18 @@
+3
+13
+13
+8
+Witch 8
+Gold 3
+Silver 7
+Silver 12
+Smithy 10
+Witch 10
+Duchy 6
+ThroneRoom 6
+Smithy 6
+Duchy 10
+Gold 8
+Smithy 9
+Cellar 1
+Duchy 99

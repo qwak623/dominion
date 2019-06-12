@@ -1,0 +1,14 @@
+2
+17
+8
+8
+Gold 11
+Bureaucrat 103
+Silver 12
+Copper 6
+Feast 2
+Cellar 9
+Feast 14
+Festival 2
+Province 4
+Bureaucrat 9

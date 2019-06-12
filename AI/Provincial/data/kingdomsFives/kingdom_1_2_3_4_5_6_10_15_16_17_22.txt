@@ -1,0 +1,16 @@
+4
+14
+7
+4
+Province 11
+Gold 99
+Silver 9
+Silver 4
+Moat 10
+Gold 3
+Estate 3
+Silver 3
+Laboratory 4
+Gold 6
+Province 6
+Moat 3

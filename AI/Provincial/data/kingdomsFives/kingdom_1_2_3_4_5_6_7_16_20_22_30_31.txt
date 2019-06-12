@@ -1,0 +1,15 @@
+5
+15
+8
+8
+Witch 3
+Silver 12
+Silver 105
+Chapel 7
+Moat 3
+Estate 5
+Witch 4
+Province 10
+Copper 5
+Woodcutter 5
+Copper 4

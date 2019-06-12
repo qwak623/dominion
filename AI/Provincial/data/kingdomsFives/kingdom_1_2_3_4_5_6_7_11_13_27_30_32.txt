@@ -1,0 +1,13 @@
+4
+11
+21
+7
+Gold 14
+Witch 4
+Silver 14
+Workshop 3
+Workshop 4
+Festival 6
+Duchy 12
+Silver 5
+CouncilRoom 4

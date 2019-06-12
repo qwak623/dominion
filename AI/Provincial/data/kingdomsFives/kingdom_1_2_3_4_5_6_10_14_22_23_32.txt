@@ -1,0 +1,14 @@
+7
+9
+8
+7
+Gold 5
+Silver 5
+Gold 102
+Province 5
+Gardens 6
+Moat 8
+Cellar 5
+Silver 12
+Silver 6
+Moneylender 9

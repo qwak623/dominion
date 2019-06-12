@@ -1,0 +1,16 @@
+3
+12
+7
+5
+Gold 11
+Mine 7
+Gold 12
+Festival 8
+Silver 8
+Province 6
+Silver 13
+Silver 6
+Silver 3
+Chancellor 6
+Workshop 12
+Duchy 13

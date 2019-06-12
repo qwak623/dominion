@@ -1,0 +1,15 @@
+6
+11
+4
+3
+Gold 99
+Province 6
+Witch 6
+Village 8
+Silver 11
+Duchy 12
+Chapel 2
+Workshop 7
+Silver 6
+Duchy 8
+CouncilRoom 3

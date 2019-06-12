@@ -1,0 +1,17 @@
+6
+13
+7
+6
+Gold 11
+Silver 15
+Gold 4
+Gold 7
+Copper 14
+Moneylender 7
+Village 6
+Gold 99
+Estate 12
+Woodcutter 10
+Province 7
+Village 5
+Spy 7

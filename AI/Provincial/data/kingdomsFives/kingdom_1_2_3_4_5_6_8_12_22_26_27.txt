@@ -1,0 +1,15 @@
+2
+13
+6
+4
+Gold 7
+Silver 9
+Silver 13
+Gold 102
+Silver 6
+Duchy 6
+Silver 1
+Spy 1
+Copper 5
+Province 11
+Estate 6

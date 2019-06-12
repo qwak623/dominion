@@ -1,0 +1,18 @@
+2
+14
+8
+5
+Gold 101
+Library 9
+Silver 10
+Library 5
+Library 5
+Moneylender 4
+Village 6
+Copper 4
+Gold 10
+Gold 12
+Duchy 7
+Estate 5
+Woodcutter 8
+Province 12

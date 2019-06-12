@@ -1,0 +1,16 @@
+3
+16
+8
+8
+Gold 100
+Silver 8
+Gardens 9
+Adventurer 8
+Workshop 1
+Silver 11
+Moat 4
+Market 9
+Province 4
+Estate 2
+Copper 8
+Moat 8

@@ -1,0 +1,16 @@
+6
+16
+7
+7
+Bureaucrat 3
+Gold 103
+Silver 5
+Province 8
+Silver 11
+Workshop 8
+Feast 13
+Copper 6
+Woodcutter 3
+Woodcutter 11
+Copper 2
+Cellar 9

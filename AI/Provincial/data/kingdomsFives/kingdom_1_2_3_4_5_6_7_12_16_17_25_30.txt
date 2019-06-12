@@ -1,0 +1,17 @@
+5
+21
+7
+7
+Province 9
+Gold 102
+Witch 2
+Silver 13
+Chapel 8
+Witch 4
+Gold 9
+Copper 11
+Copper 8
+Silver 8
+Province 6
+Estate 7
+Curse 5

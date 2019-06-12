@@ -1,0 +1,18 @@
+2
+10
+7
+5
+Gold 102
+Silver 5
+Smithy 5
+Gardens 9
+Silver 9
+Province 7
+Duchy 12
+Silver 12
+Gold 10
+Gardens 6
+Chancellor 7
+Chapel 13
+Chancellor 10
+Province 6

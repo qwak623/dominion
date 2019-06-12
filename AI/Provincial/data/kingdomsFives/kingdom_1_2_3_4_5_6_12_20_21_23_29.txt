@@ -1,0 +1,16 @@
+4
+1
+7
+6
+Mine 4
+Province 10
+Gold 104
+Silver 15
+Duchy 14
+Feast 4
+Copper 4
+Mine 9
+Gold 14
+Village 5
+Province 9
+Moneylender 8

@@ -1,0 +1,17 @@
+0
+13
+6
+5
+Silver 11
+Gold 101
+Library 10
+Militia 6
+Woodcutter 9
+Copper 5
+Remodel 14
+Remodel 4
+Province 11
+Workshop 6
+Copper 13
+Estate 11
+Militia 9

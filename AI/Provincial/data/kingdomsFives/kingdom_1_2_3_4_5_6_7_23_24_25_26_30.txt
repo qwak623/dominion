@@ -1,0 +1,20 @@
+1
+9
+8
+8
+Witch 2
+Silver 6
+Duchy 7
+Gold 7
+Copper 6
+Province 10
+Estate 7
+Remodel 13
+Province 8
+Smithy 7
+Gold 100
+Spy 3
+Copper 13
+Silver 10
+Remodel 8
+Witch 5

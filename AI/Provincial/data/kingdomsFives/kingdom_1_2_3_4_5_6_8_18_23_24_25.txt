@@ -1,0 +1,20 @@
+6
+10
+11
+8
+Duchy 10
+Silver 9
+Gold 9
+Smithy 9
+Copper 11
+Adventurer 6
+Estate 7
+Remodel 3
+Smithy 4
+Library 10
+Duchy 6
+Moneylender 4
+Library 10
+Moneylender 2
+Gold 102
+Remodel 4

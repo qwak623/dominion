@@ -1,0 +1,14 @@
+2
+15
+8
+8
+Gold 9
+Witch 4
+Silver 11
+Gardens 11
+Province 10
+Gardens 102
+Laboratory 10
+Gold 5
+Feast 5
+Smithy 2

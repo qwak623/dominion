@@ -1,0 +1,16 @@
+3
+17
+8
+7
+Gold 7
+Witch 8
+Silver 10
+Curse 7
+Woodcutter 3
+Province 12
+Thief 9
+Curse 8
+Duchy 8
+Witch 11
+Estate 107
+Thief 10

@@ -1,0 +1,16 @@
+1
+17
+7
+5
+Laboratory 12
+Market 11
+Bureaucrat 2
+Gold 102
+Province 7
+Silver 11
+Workshop 9
+Gold 2
+Bureaucrat 3
+Workshop 4
+Silver 4
+Laboratory 8

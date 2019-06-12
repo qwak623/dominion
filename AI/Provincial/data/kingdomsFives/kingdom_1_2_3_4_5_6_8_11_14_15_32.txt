@@ -1,0 +1,16 @@
+7
+16
+10
+8
+Workshop 7
+Gardens 10
+Adventurer 4
+Silver 12
+Gold 4
+Copper 11
+Chancellor 9
+Estate 10
+Silver 4
+Adventurer 4
+Gold 99
+Province 4

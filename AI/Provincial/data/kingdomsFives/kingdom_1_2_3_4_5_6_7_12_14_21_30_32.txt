@@ -1,0 +1,22 @@
+1
+11
+7
+5
+Province 8
+Gold 9
+Gold 100
+Mine 3
+Silver 9
+Silver 11
+Copper 5
+Mine 5
+Workshop 4
+Workshop 10
+Curse 8
+Estate 9
+Feast 7
+Mine 5
+Copper 8
+Silver 7
+Feast 9
+Witch 4

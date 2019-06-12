@@ -1,0 +1,17 @@
+0
+17
+8
+7
+Gold 9
+Market 2
+Duchy 7
+Silver 13
+Market 10
+Gold 101
+Copper 8
+Thief 5
+Copper 6
+Adventurer 3
+Thief 5
+Estate 11
+Gold 7

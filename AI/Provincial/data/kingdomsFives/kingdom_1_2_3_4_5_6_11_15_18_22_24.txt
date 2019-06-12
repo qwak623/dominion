@@ -1,0 +1,19 @@
+4
+16
+7
+7
+Gold 9
+Silver 11
+CouncilRoom 6
+CouncilRoom 100
+Province 9
+Remodel 13
+Gold 4
+Moat 3
+Library 7
+Province 4
+Silver 13
+Estate 3
+Chancellor 4
+Copper 4
+Estate 4

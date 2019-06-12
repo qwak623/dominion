@@ -1,0 +1,18 @@
+0
+11
+8
+8
+Gold 100
+Mine 5
+Province 10
+Silver 15
+Copper 9
+Silver 9
+Copper 9
+Thief 5
+Woodcutter 10
+Woodcutter 9
+Silver 11
+Gold 8
+Woodcutter 3
+Feast 9

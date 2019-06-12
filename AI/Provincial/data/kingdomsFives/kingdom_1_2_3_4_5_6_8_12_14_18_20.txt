@@ -1,0 +1,15 @@
+6
+9
+8
+8
+Militia 4
+Province 12
+Duchy 8
+Gardens 8
+Gold 4
+Adventurer 7
+Gold 101
+Silver 4
+Gold 8
+Estate 6
+Silver 11

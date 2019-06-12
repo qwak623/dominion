@@ -1,0 +1,14 @@
+3
+16
+8
+8
+Gold 8
+Witch 3
+Silver 14
+Remodel 11
+Copper 16
+Witch 5
+Witch 9
+Gold 100
+Duchy 5
+Copper 12

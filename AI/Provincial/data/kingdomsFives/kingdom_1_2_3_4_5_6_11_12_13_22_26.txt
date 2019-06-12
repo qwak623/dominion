@@ -1,0 +1,15 @@
+7
+15
+6
+4
+Province 5
+Gold 100
+Silver 5
+Gold 10
+Silver 13
+Moat 5
+Copper 5
+Duchy 12
+CouncilRoom 10
+Spy 5
+Festival 8

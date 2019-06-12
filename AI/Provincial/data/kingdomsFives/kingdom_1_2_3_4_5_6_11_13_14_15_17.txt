@@ -1,0 +1,13 @@
+1
+15
+5
+5
+Province 14
+Gold 12
+CouncilRoom 8
+Duchy 8
+Silver 5
+Gardens 9
+Laboratory 11
+Silver 13
+Duchy 7

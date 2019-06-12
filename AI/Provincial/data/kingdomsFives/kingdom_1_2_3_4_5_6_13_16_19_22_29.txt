@@ -1,0 +1,15 @@
+6
+13
+6
+6
+Gold 9
+Silver 12
+Moat 2
+Province 7
+Estate 1
+Gold 99
+Province 7
+Province 1
+Duchy 5
+Province 6
+Village 1

@@ -1,0 +1,14 @@
+2
+12
+8
+7
+Witch 6
+Duchy 3
+Duchy 6
+Gold 104
+Silver 11
+Adventurer 9
+Estate 10
+Bureaucrat 5
+Estate 12
+Feast 9

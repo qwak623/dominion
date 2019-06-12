@@ -1,0 +1,13 @@
+7
+21
+7
+5
+Gold 100
+Mine 2
+Silver 15
+Province 7
+Province 10
+Chancellor 6
+Workshop 9
+Chancellor 9
+Copper 5

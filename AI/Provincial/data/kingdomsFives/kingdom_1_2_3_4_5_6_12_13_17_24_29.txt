@@ -1,0 +1,16 @@
+4
+13
+16
+6
+Province 11
+Gold 12
+Laboratory 8
+Silver 5
+Gold 6
+Silver 11
+Feast 7
+Remodel 1
+Province 1
+Festival 8
+Gold 100
+Duchy 5

@@ -1,0 +1,18 @@
+1
+6
+8
+8
+Witch 3
+Silver 2
+Province 7
+Silver 4
+Gold 99
+Laboratory 9
+Laboratory 10
+Witch 3
+Silver 13
+Cellar 6
+Cellar 8
+Bureaucrat 10
+Copper 6
+Curse 12

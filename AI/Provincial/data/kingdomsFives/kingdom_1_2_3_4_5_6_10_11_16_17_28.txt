@@ -1,0 +1,16 @@
+7
+9
+6
+6
+Gold 99
+Laboratory 10
+Gold 4
+Silver 10
+Cellar 4
+Province 7
+Silver 10
+Duchy 14
+ThroneRoom 2
+ThroneRoom 2
+CouncilRoom 9
+Estate 6

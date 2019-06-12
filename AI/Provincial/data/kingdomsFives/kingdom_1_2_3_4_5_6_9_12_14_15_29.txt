@@ -1,0 +1,17 @@
+7
+14
+8
+5
+Province 5
+Silver 11
+Gardens 8
+Bureaucrat 11
+Feast 5
+Province 10
+Chancellor 8
+Village 9
+Chancellor 6
+Duchy 4
+Feast 9
+Copper 4
+Estate 101

@@ -1,0 +1,15 @@
+1
+19
+5
+4
+Copper 1
+Province 12
+Gold 101
+Silver 2
+Laboratory 8
+Mine 8
+Smithy 9
+Silver 12
+Duchy 10
+Laboratory 8
+Estate 9

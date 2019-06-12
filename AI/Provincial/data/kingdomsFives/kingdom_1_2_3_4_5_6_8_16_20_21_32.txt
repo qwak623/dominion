@@ -1,0 +1,16 @@
+1
+10
+5
+5
+Chapel 1
+Province 8
+Gold 100
+Gold 10
+Silver 10
+Militia 12
+Mine 7
+Mine 11
+Province 5
+Duchy 5
+Adventurer 11
+Workshop 9

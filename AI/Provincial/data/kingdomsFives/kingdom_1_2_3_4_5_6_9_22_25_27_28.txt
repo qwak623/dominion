@@ -1,0 +1,13 @@
+7
+10
+8
+7
+Gold 7
+Silver 12
+Province 7
+Gold 102
+Silver 8
+ThroneRoom 7
+Smithy 8
+Moat 7
+Duchy 11

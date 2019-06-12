@@ -1,0 +1,16 @@
+0
+12
+8
+7
+Witch 9
+Province 4
+Duchy 8
+Gold 9
+Library 2
+Silver 11
+Estate 9
+Workshop 10
+Gold 100
+Library 14
+Mine 5
+Library 7

@@ -1,0 +1,13 @@
+7
+3
+6
+6
+Silver 4
+Province 11
+Gold 6
+Silver 11
+Gold 100
+Spy 5
+Chancellor 5
+Cellar 5
+Workshop 5

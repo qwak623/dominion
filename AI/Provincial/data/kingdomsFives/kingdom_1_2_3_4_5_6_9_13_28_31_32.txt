@@ -1,0 +1,12 @@
+2
+10
+7
+5
+Province 11
+Gold 10
+Festival 9
+Bureaucrat 9
+Silver 6
+ThroneRoom 6
+Woodcutter 13
+Woodcutter 102

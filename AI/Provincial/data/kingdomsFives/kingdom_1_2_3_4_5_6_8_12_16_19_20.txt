@@ -1,0 +1,17 @@
+0
+12
+8
+7
+Gold 101
+Copper 1
+Market 11
+Militia 11
+Silver 2
+Militia 9
+Feast 10
+Silver 10
+Estate 8
+Duchy 10
+Gold 6
+Duchy 12
+Estate 7

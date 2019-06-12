@@ -1,0 +1,15 @@
+7
+21
+8
+6
+Gold 11
+Mine 10
+Library 11
+Duchy 9
+Silver 12
+Province 13
+Copper 103
+Market 8
+Silver 6
+Estate 4
+Market 5

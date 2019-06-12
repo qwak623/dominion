@@ -1,0 +1,16 @@
+1
+11
+7
+6
+Gold 100
+Province 13
+Mine 4
+Silver 11
+Village 4
+Gold 7
+Laboratory 8
+Cellar 9
+Estate 10
+Silver 11
+Laboratory 11
+Festival 8

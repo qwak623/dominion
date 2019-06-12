@@ -1,0 +1,12 @@
+5
+16
+5
+5
+Gold 101
+Silver 7
+Silver 11
+Chapel 7
+Duchy 8
+Feast 5
+Village 14
+Copper 6

@@ -1,0 +1,14 @@
+4
+11
+8
+7
+Gold 9
+Mine 3
+Province 14
+Silver 15
+Village 4
+Cellar 14
+Chancellor 3
+Estate 7
+Estate 10
+Duchy 10

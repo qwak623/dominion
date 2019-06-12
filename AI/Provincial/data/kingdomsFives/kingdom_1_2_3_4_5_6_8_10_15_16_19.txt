@@ -1,0 +1,15 @@
+2
+11
+6
+6
+Gold 5
+Market 9
+Silver 11
+Market 5
+Duchy 4
+Gold 102
+Duchy 7
+Adventurer 7
+Province 11
+Chancellor 10
+Province 8

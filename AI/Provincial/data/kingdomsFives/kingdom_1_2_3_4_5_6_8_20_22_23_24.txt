@@ -1,0 +1,15 @@
+2
+11
+6
+4
+Province 6
+Gold 101
+Silver 10
+Militia 5
+Moneylender 7
+Province 5
+Moat 3
+Adventurer 3
+Silver 11
+Copper 10
+Duchy 10

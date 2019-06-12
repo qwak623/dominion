@@ -1,0 +1,14 @@
+0
+14
+7
+5
+Gold 4
+Silver 6
+Province 6
+Province 102
+CouncilRoom 7
+Silver 14
+Feast 3
+Moneylender 12
+Moneylender 5
+Cellar 2

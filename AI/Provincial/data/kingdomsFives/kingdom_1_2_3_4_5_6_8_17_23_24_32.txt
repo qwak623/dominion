@@ -1,0 +1,15 @@
+1
+16
+8
+7
+Province 4
+Gold 8
+Silver 11
+Silver 11
+Gold 100
+Workshop 11
+Laboratory 9
+Workshop 12
+Moneylender 12
+Adventurer 12
+Gold 5

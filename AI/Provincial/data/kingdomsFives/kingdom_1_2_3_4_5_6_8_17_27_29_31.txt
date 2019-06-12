@@ -1,0 +1,17 @@
+4
+15
+8
+5
+Gold 102
+Gold 8
+Gold 8
+Laboratory 4
+Adventurer 2
+Silver 13
+Copper 8
+Thief 4
+Silver 3
+Village 3
+Province 3
+Estate 8
+Duchy 6

@@ -1,0 +1,17 @@
+4
+22
+8
+4
+Gold 6
+Silver 7
+Province 9
+Gardens 14
+Gardens 7
+Bureaucrat 3
+Moat 10
+Province 6
+Gold 101
+Copper 9
+Duchy 2
+Estate 3
+Silver 13

@@ -1,0 +1,15 @@
+5
+10
+8
+8
+Mine 6
+Duchy 7
+Gardens 12
+Gold 101
+Silver 12
+Copper 8
+Estate 9
+Militia 4
+Militia 8
+Province 4
+Festival 6

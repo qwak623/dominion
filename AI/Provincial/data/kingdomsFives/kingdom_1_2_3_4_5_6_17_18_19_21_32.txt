@@ -1,0 +1,14 @@
+7
+14
+6
+3
+Province 6
+Gold 8
+Library 103
+Silver 12
+Market 6
+Silver 4
+Silver 5
+Laboratory 6
+Silver 13
+Duchy 10

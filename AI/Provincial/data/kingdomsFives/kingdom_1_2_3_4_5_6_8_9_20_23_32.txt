@@ -1,0 +1,13 @@
+2
+14
+8
+8
+Province 5
+Gold 100
+Adventurer 6
+Province 9
+Silver 13
+Gold 7
+Adventurer 3
+Moneylender 10
+Militia 9

@@ -1,0 +1,11 @@
+5
+21
+7
+6
+Gold 100
+Library 11
+Silver 9
+Market 4
+Duchy 5
+Province 5
+Silver 14

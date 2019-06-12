@@ -1,0 +1,13 @@
+3
+13
+8
+7
+Gold 9
+CouncilRoom 7
+Province 6
+Gold 102
+Silver 10
+Silver 13
+Remodel 3
+Copper 8
+Thief 13

@@ -1,0 +1,18 @@
+4
+16
+16
+8
+Gold 8
+Silver 9
+Province 7
+Moat 8
+Silver 10
+Feast 5
+Workshop 3
+Feast 11
+Workshop 3
+Province 2
+Duchy 10
+Estate 5
+Duchy 4
+Copper 12

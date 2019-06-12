@@ -1,0 +1,16 @@
+4
+15
+8
+8
+Witch 2
+Silver 12
+Duchy 4
+Silver 8
+Workshop 3
+Duchy 12
+Chapel 2
+Duchy 3
+Witch 7
+Moneylender 3
+Mine 5
+Province 8

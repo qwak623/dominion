@@ -1,0 +1,17 @@
+6
+16
+8
+8
+Witch 2
+Gold 100
+Province 10
+Silver 4
+Gold 8
+Copper 4
+Silver 11
+Estate 6
+Estate 4
+Village 11
+Duchy 7
+ThroneRoom 13
+Curse 3

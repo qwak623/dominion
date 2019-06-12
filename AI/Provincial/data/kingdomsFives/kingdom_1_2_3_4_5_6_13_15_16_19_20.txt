@@ -1,0 +1,14 @@
+1
+14
+8
+6
+Gold 9
+Militia 7
+Market 10
+Silver 10
+Copper 13
+Chapel 5
+Province 102
+Copper 5
+Copper 4
+Market 13

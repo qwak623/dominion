@@ -1,0 +1,16 @@
+2
+12
+6
+6
+Gold 8
+Gold 8
+Silver 6
+Smithy 11
+Copper 7
+Silver 11
+Gold 105
+Chancellor 4
+Bureaucrat 11
+Estate 8
+Remodel 1
+Smithy 10

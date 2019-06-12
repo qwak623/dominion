@@ -1,0 +1,13 @@
+2
+17
+17
+8
+Bureaucrat 3
+Gold 102
+Militia 6
+Silver 12
+Silver 4
+Duchy 8
+Province 4
+Militia 5
+Silver 3

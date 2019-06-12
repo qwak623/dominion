@@ -1,0 +1,17 @@
+6
+17
+8
+8
+Silver 9
+Gardens 1
+Gardens 13
+Duchy 11
+Silver 10
+Copper 5
+Militia 5
+Gold 9
+Estate 5
+Spy 9
+Cellar 12
+Gold 100
+Province 5

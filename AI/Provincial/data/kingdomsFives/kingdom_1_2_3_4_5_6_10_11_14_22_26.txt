@@ -1,0 +1,16 @@
+0
+14
+8
+6
+Silver 6
+Gold 1
+Gardens 9
+Province 5
+Gold 105
+Moat 4
+Spy 6
+Copper 6
+Duchy 5
+Cellar 5
+Province 10
+Province 9

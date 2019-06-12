@@ -1,0 +1,14 @@
+7
+10
+7
+6
+Gold 102
+Province 9
+Bureaucrat 3
+Silver 11
+Copper 8
+Duchy 10
+Feast 5
+Estate 10
+Cellar 9
+Silver 4

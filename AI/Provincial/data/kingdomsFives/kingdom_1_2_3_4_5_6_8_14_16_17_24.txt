@@ -1,0 +1,15 @@
+1
+16
+6
+6
+Gold 10
+Gold 101
+Province 5
+Laboratory 12
+Adventurer 6
+Gold 8
+Duchy 10
+Silver 6
+Gardens 8
+Duchy 5
+Silver 10

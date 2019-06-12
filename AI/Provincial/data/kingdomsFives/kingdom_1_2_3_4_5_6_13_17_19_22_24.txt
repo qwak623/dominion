@@ -1,0 +1,17 @@
+1
+14
+6
+5
+Gold 9
+Gold 100
+Market 11
+Gold 5
+Duchy 10
+Silver 12
+Remodel 10
+Silver 14
+Silver 6
+Silver 7
+Festival 13
+Moat 9
+Estate 13

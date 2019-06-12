@@ -1,0 +1,18 @@
+5
+7
+6
+6
+Province 11
+Copper 1
+Gold 5
+Province 7
+Laboratory 4
+Laboratory 5
+Silver 11
+Duchy 2
+Estate 10
+Feast 7
+Workshop 8
+Adventurer 6
+Feast 10
+Copper 4

@@ -1,0 +1,15 @@
+2
+12
+6
+8
+Bureaucrat 2
+Duchy 11
+Province 9
+Silver 11
+Duchy 9
+Moat 5
+Estate 11
+Gold 101
+Estate 5
+Laboratory 12
+Silver 11

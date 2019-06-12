@@ -1,0 +1,14 @@
+2
+13
+7
+6
+Witch 5
+Silver 13
+ThroneRoom 9
+Gold 102
+Duchy 9
+Gold 12
+Remodel 9
+Silver 11
+Copper 6
+Estate 10

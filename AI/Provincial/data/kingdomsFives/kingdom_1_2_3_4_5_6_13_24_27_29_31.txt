@@ -1,0 +1,16 @@
+0
+11
+6
+5
+Province 8
+Gold 10
+Province 6
+Silver 11
+Remodel 8
+Gold 100
+Copper 3
+Gold 11
+Thief 8
+Gold 3
+Silver 11
+Estate 9

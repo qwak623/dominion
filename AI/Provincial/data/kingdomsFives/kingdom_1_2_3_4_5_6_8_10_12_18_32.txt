@@ -1,0 +1,16 @@
+2
+14
+6
+5
+Gold 8
+Adventurer 4
+Province 11
+Cellar 1
+Library 12
+Duchy 7
+Silver 13
+Workshop 3
+Workshop 14
+Feast 10
+Silver 9
+Gold 100

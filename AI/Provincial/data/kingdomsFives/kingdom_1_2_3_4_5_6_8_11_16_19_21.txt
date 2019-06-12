@@ -1,0 +1,15 @@
+1
+11
+6
+5
+Province 6
+Gold 99
+Market 6
+Duchy 6
+Silver 12
+Silver 13
+Chapel 3
+Market 6
+Estate 9
+Adventurer 6
+CouncilRoom 6

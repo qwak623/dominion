@@ -1,0 +1,17 @@
+5
+6
+16
+8
+Duchy 8
+Province 11
+Duchy 6
+Gold 101
+Province 11
+Silver 14
+Woodcutter 2
+Village 4
+Woodcutter 13
+Province 4
+Moneylender 9
+Province 1
+ThroneRoom 10

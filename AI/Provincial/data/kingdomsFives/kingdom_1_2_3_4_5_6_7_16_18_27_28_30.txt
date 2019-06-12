@@ -1,0 +1,19 @@
+7
+20
+8
+8
+Province 11
+Gold 2
+Gold 99
+Witch 10
+Silver 6
+ThroneRoom 12
+Duchy 11
+ThroneRoom 7
+Thief 9
+Silver 9
+Library 8
+ThroneRoom 13
+Chapel 10
+Thief 1
+Gold 11

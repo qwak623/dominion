@@ -1,0 +1,16 @@
+6
+18
+8
+7
+Gold 103
+Silver 11
+Copper 4
+Festival 7
+Gold 11
+Silver 11
+Estate 15
+Laboratory 3
+Duchy 1
+Province 7
+Moneylender 2
+Copper 11

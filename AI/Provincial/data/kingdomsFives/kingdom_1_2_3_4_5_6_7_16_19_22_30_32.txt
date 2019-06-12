@@ -1,0 +1,14 @@
+7
+13
+8
+7
+Gold 102
+Silver 12
+Silver 5
+Duchy 8
+Workshop 8
+Market 3
+Moat 5
+Estate 3
+Chapel 5
+Copper 4

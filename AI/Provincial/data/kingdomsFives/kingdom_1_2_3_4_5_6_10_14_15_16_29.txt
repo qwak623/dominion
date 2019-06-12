@@ -1,0 +1,17 @@
+3
+13
+7
+7
+Province 10
+Gold 6
+Silver 10
+Duchy 5
+Duchy 4
+Gardens 12
+Chapel 10
+Silver 6
+Cellar 6
+Copper 16
+Estate 1
+Province 9
+Village 6

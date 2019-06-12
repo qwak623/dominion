@@ -1,0 +1,14 @@
+6
+10
+6
+5
+Gold 102
+Province 5
+Market 11
+Market 12
+Militia 6
+Festival 11
+Duchy 3
+Silver 5
+Gold 7
+Duchy 14

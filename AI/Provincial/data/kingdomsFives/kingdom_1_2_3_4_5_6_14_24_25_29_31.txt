@@ -1,0 +1,14 @@
+4
+15
+5
+4
+Province 10
+Gold 9
+Smithy 2
+Silver 10
+Gold 102
+Gardens 6
+Village 1
+Province 5
+Gardens 16
+Woodcutter 2

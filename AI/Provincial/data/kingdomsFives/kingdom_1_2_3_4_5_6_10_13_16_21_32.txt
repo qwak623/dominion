@@ -1,0 +1,15 @@
+6
+13
+5
+5
+Gold 102
+Province 3
+Province 13
+Silver 15
+Festival 15
+Mine 6
+Silver 4
+Chapel 5
+Mine 6
+Workshop 10
+Estate 9

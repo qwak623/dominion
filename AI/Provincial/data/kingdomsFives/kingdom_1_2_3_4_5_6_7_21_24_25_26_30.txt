@@ -1,0 +1,13 @@
+3
+9
+16
+8
+Gold 99
+Witch 10
+Silver 11
+Smithy 13
+Province 7
+Mine 8
+Mine 8
+Spy 10
+Remodel 13

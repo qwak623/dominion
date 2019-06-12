@@ -1,0 +1,16 @@
+2
+13
+7
+7
+Bureaucrat 1
+Gold 10
+Market 6
+Duchy 9
+Gold 102
+Silver 10
+Silver 12
+Thief 10
+Gold 9
+Feast 10
+Province 5
+Market 6

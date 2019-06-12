@@ -1,0 +1,21 @@
+0
+16
+7
+6
+Duchy 3
+Gold 5
+Gardens 9
+Duchy 12
+Militia 5
+Gold 8
+Workshop 13
+Militia 7
+Silver 4
+Province 15
+Silver 10
+ThroneRoom 10
+Witch 5
+Gardens 12
+ThroneRoom 2
+Copper 12
+Militia 101

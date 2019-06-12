@@ -1,0 +1,17 @@
+4
+14
+8
+7
+Witch 7
+Province 8
+Gardens 9
+Duchy 10
+Market 5
+Market 7
+Silver 6
+Gold 10
+Silver 5
+Copper 12
+Province 9
+Silver 7
+Gold 99

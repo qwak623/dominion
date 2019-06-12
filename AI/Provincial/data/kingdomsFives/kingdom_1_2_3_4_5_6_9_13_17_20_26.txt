@@ -1,0 +1,16 @@
+5
+15
+8
+8
+Gold 9
+Bureaucrat 3
+Province 10
+Laboratory 9
+Militia 9
+Gold 12
+Silver 10
+Spy 8
+Silver 9
+Silver 12
+Festival 8
+Duchy 4

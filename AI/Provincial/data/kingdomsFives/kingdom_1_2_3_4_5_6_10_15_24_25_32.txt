@@ -1,0 +1,17 @@
+7
+19
+6
+5
+Gold 99
+Silver 11
+Remodel 6
+Province 6
+Gold 10
+Silver 9
+Cellar 8
+Estate 11
+Province 3
+Cellar 8
+Silver 7
+Remodel 8
+Remodel 7

@@ -1,0 +1,14 @@
+3
+13
+8
+8
+Gold 101
+Province 9
+Bureaucrat 2
+Silver 4
+Gold 12
+Silver 13
+Copper 3
+ThroneRoom 3
+Cellar 2
+Festival 12

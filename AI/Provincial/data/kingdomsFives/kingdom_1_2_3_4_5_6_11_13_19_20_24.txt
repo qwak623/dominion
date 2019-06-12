@@ -1,0 +1,15 @@
+3
+18
+7
+7
+Province 5
+Province 7
+Province 8
+Gold 6
+Market 2
+Militia 5
+Copper 1
+Gold 99
+Silver 12
+Estate 5
+Festival 7

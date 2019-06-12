@@ -1,0 +1,13 @@
+3
+12
+5
+4
+Library 2
+Province 10
+Gold 99
+Festival 10
+Market 11
+Duchy 11
+Silver 11
+Festival 8
+Remodel 9

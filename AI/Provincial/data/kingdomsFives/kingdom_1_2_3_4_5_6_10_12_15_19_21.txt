@@ -1,0 +1,20 @@
+5
+16
+8
+8
+Gold 101
+Mine 4
+Market 6
+Silver 14
+Province 6
+Copper 4
+Estate 9
+Duchy 11
+Silver 6
+Gold 7
+Feast 3
+Feast 7
+Estate 3
+Feast 4
+Gold 7
+Chancellor 8

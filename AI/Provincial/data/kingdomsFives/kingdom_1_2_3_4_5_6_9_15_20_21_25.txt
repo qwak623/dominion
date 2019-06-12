@@ -1,0 +1,15 @@
+1
+14
+8
+8
+Bureaucrat 5
+Duchy 11
+Duchy 6
+Silver 13
+Duchy 100
+Province 1
+Duchy 11
+Chancellor 2
+Province 11
+Smithy 12
+Silver 5

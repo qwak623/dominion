@@ -1,0 +1,13 @@
+4
+17
+6
+6
+Province 9
+Woodcutter 2
+Gold 103
+Silver 12
+ThroneRoom 3
+Adventurer 11
+Festival 4
+Workshop 2
+Silver 8

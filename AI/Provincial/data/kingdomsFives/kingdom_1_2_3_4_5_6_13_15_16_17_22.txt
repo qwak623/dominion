@@ -1,0 +1,16 @@
+6
+11
+7
+7
+Gold 100
+Festival 4
+Duchy 9
+Province 8
+Province 12
+Silver 8
+Moat 11
+Festival 9
+Chancellor 6
+Estate 2
+Laboratory 11
+Chancellor 6

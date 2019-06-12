@@ -1,0 +1,13 @@
+6
+15
+8
+8
+Witch 5
+Gold 100
+Silver 11
+CouncilRoom 7
+CouncilRoom 4
+Adventurer 8
+Workshop 9
+CouncilRoom 5
+Silver 3

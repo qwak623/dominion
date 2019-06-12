@@ -1,0 +1,19 @@
+3
+13
+10
+8
+Gold 11
+Militia 9
+Gold 103
+Silver 2
+Province 4
+Silver 5
+Copper 4
+Spy 3
+Silver 7
+Adventurer 10
+Copper 1
+Estate 7
+Silver 11
+Feast 6
+Spy 9

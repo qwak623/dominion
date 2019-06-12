@@ -1,0 +1,21 @@
+1
+14
+14
+8
+Bureaucrat 2
+Silver 13
+Duchy 6
+Festival 99
+Cellar 10
+Copper 6
+Silver 8
+Village 3
+Estate 12
+Village 1
+Copper 6
+Silver 7
+Bureaucrat 7
+Duchy 13
+Province 9
+Silver 3
+Mine 5

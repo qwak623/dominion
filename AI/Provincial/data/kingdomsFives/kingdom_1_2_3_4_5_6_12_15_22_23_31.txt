@@ -1,0 +1,15 @@
+7
+14
+8
+3
+Gold 9
+Silver 14
+Duchy 2
+Moneylender 11
+Moat 3
+Estate 12
+Copper 8
+Chancellor 11
+Moat 3
+Province 7
+Silver 10

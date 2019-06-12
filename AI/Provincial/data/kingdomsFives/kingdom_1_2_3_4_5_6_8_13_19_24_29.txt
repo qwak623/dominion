@@ -1,0 +1,16 @@
+1
+9
+5
+5
+Copper 1
+Gold 103
+Province 11
+Market 3
+Market 7
+Festival 5
+Silver 4
+Adventurer 7
+Silver 12
+Province 8
+Duchy 8
+Remodel 5

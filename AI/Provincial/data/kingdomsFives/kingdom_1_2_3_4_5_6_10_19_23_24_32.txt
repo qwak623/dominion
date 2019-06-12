@@ -1,0 +1,14 @@
+1
+10
+15
+5
+Province 5
+Remodel 1
+Gold 11
+Silver 102
+Gold 7
+Estate 1
+Moneylender 9
+Gold 12
+Silver 13
+Market 13

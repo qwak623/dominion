@@ -1,0 +1,15 @@
+0
+15
+6
+6
+Gold 102
+Adventurer 8
+Silver 13
+Gold 3
+Cellar 6
+Copper 3
+Laboratory 11
+Estate 6
+Duchy 13
+Province 11
+Adventurer 6

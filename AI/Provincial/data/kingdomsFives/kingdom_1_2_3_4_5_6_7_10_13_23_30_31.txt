@@ -1,0 +1,17 @@
+5
+13
+8
+8
+Gold 103
+Cellar 1
+Gold 8
+Witch 3
+Festival 12
+Province 5
+Silver 13
+Copper 7
+Curse 7
+Duchy 5
+Woodcutter 6
+Silver 6
+Estate 8

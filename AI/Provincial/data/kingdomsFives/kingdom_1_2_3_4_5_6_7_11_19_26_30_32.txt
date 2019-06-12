@@ -1,0 +1,20 @@
+6
+13
+8
+7
+Gold 103
+Silver 5
+CouncilRoom 7
+Silver 11
+Gold 5
+Copper 8
+Copper 4
+Market 9
+Curse 8
+Witch 7
+Workshop 7
+Workshop 8
+Curse 4
+CouncilRoom 8
+Province 12
+Duchy 10

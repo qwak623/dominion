@@ -1,0 +1,15 @@
+5
+13
+6
+4
+Smithy 2
+Province 15
+Gold 11
+Silver 11
+Workshop 3
+Copper 9
+Cellar 3
+Woodcutter 10
+Duchy 7
+Silver 11
+Gold 101

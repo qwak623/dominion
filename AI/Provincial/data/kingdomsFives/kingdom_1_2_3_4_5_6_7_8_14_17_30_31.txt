@@ -1,0 +1,15 @@
+4
+17
+8
+7
+Gold 5
+Gold 7
+Witch 7
+Adventurer 3
+Silver 11
+Laboratory 8
+Woodcutter 10
+Gold 11
+Silver 10
+Duchy 6
+Province 11

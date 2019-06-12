@@ -1,0 +1,16 @@
+6
+12
+6
+3
+Province 13
+Gold 101
+Library 2
+Silver 7
+Silver 13
+Library 8
+Chancellor 7
+Gold 9
+Silver 5
+Militia 3
+Village 6
+Chancellor 8

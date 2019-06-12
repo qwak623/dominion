@@ -1,0 +1,15 @@
+5
+12
+5
+4
+Province 10
+Laboratory 7
+Silver 9
+Copper 3
+Remodel 12
+Estate 11
+Spy 9
+Duchy 7
+Duchy 7
+Bureaucrat 11
+Laboratory 12

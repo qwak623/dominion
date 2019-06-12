@@ -1,0 +1,18 @@
+4
+18
+7
+6
+Gold 5
+Silver 10
+Smithy 9
+Duchy 6
+Silver 4
+Smithy 4
+Remodel 99
+Smithy 11
+Library 10
+Silver 12
+Library 1
+Moat 7
+Copper 10
+Spy 12

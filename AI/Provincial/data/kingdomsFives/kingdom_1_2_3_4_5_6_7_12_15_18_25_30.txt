@@ -1,0 +1,16 @@
+6
+14
+8
+8
+Witch 3
+Duchy 10
+Province 4
+Silver 10
+Copper 4
+Estate 10
+Smithy 7
+Library 4
+Gold 5
+Silver 8
+Copper 7
+Gold 99
