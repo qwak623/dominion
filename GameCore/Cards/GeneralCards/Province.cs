@@ -15,6 +15,6 @@
             isTreasure: false
         ) => province = this;
 
-        public static new Province Get() => province ?? new Province();
+        public static Province Get() => province ?? new Province();
     }
 }

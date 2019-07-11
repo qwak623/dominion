@@ -22,7 +22,7 @@ namespace GameCore.Cards.Base
             message: "You may discard card at top of the draw pile."
         ) => spy = this;
 
-        public static new Spy Get() => spy ?? new Spy();
+        public static Spy Get() => spy ?? new Spy();
 
         protected override void ActionEffect(Player player)
         {

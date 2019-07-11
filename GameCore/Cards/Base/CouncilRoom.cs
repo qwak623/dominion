@@ -21,7 +21,7 @@ namespace GameCore.Cards.Base
             isAttack: false
         ) => councilRoom = this;
 
-        public static new CouncilRoom Get() => councilRoom ?? new CouncilRoom();
+        public static CouncilRoom Get() => councilRoom ?? new CouncilRoom();
 
         protected override void ActionEffect(Player player)
         {

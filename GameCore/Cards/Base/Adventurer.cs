@@ -21,7 +21,7 @@ namespace GameCore.Cards.Base
             isAttack: false
         ) => adventurer = this;
 
-        public static new Adventurer Get() => adventurer ?? new Adventurer();
+        public static Adventurer Get() => adventurer ?? new Adventurer();
 
         protected override void ActionEffect(Player player)
         {

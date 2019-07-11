@@ -22,7 +22,7 @@ namespace GameCore.Cards.Base
             message: "Choose treasure to steal or trash."
         ) => thief = this;
 
-        public static new Thief Get() => thief ?? new Thief();
+        public static Thief Get() => thief ?? new Thief();
 
         public override void Attack(Player defender, Player attacker)
         {

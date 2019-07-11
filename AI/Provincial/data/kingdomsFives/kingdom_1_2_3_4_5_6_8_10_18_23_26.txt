@@ -1,8 +1,0 @@
-5
-10
-6
-3
-Province 13
-Gold 105
-Gold 7
-Silver 13

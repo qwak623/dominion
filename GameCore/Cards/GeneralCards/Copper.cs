@@ -15,6 +15,6 @@
             isTreasure: true
         ) => copper = this;
 
-        public static new Copper Get() => copper ?? new Copper();
+        public static Copper Get() => copper ?? new Copper();
     }
 }

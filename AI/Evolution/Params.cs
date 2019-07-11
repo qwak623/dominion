@@ -1,4 +1,4 @@
-﻿using GameCore;
+﻿using AI.Model;
 using GameCore.Cards;
 using System.Collections.Generic;
 using Utils;
@@ -10,8 +10,6 @@ namespace AI.Evolution
         public List<Card> Kingdom;
         internal MutationSelector MutationSelector = new MutationSelector();
         public Evaluator Evaluator;
-        public string Folder;
-        public bool Skip;
         public int ParallelDegreeExt = -1, ParallelDegreeInt = -1;
 
         public int MinGames = 50;

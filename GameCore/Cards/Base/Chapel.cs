@@ -22,7 +22,7 @@ namespace GameCore.Cards.Base
             message: "Trash up to 4 cards from your hand."
         ) => chapel = this;
 
-        public static new Chapel Get() => chapel ?? new Chapel();
+        public static Chapel Get() => chapel ?? new Chapel();
 
         protected override void ActionEffect(Player player)
         {

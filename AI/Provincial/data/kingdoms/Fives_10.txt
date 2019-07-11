@@ -1,0 +1,3 @@
+10_11_12_13_14:6;0;3;Silver (2) 7,Duchy (5) 7,Gardens (14) 4,Gold (3) 99,CouncilRoom (11) 4,Festival (13) 7,Feast (12) 10,Gold (3) 8,Estate (4) 8,Silver (2) 10,Copper (1) 6
+10_11_12_13_15:1;5;7;Province (6) 7,Festival (13) 6,Duchy (5) 6,Gold (3) 99,Chancellor (15) 5,Feast (12) 5,Gold (3) 7,Cellar (10) 9,Silver (2) 6,Silver (2) 10,Copper (1) 2
+10_11_12_13_16:4;4;4;Silver (2) 11,Province (6) 7,Estate (4) 1,Gold (3) 99,CouncilRoom (11) 7,Gold (3) 9,Duchy (5) 7,Feast (12) 4,Silver (2) 2,Festival (13) 3,Copper (1) 7

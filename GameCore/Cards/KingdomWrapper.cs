@@ -12,6 +12,11 @@ namespace GameCore.Cards
         public int price;
         public bool onlyTreasures;
 
+        /// <summary>
+        /// Returns specified card, if it is available.
+        /// </summary>
+        /// <param name="type"></param>
+        /// <returns></returns>
         public Card GetCard(CardType type)
         {
             var pile = kingdom.GetPile(type);
@@ -20,6 +25,9 @@ namespace GameCore.Cards
             return null;
         }
 
+        /// <summary>
+        /// Returns all available cards.
+        /// </summary>
         public IEnumerable<Card> AvailableCards => 
             kingdom.Where(p => isAvailable(p))
             .Select(p => p.Card);

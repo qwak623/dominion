@@ -19,6 +19,6 @@
             isAttack: false
         ) => smithy = this;
 
-        public static new Smithy Get() => smithy ?? new Smithy();
+        public static Smithy Get() => smithy ?? new Smithy();
     }
 }

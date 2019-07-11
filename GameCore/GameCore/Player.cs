@@ -19,6 +19,9 @@ namespace GameCore
 
         private int? victoryPoints;
 
+        /// <summary>
+        /// Returns earned victory points. Working properly only at the end of the game.
+        /// </summary>
         public int VictoryPoints
         {
             get
@@ -48,19 +51,22 @@ namespace GameCore
                 Coins = 0,
                 Name = user.GetName(),
             };
-           
-            // gain copper
-            for (int i = 0; i < 7; i++)
-                ps.DrawPile.Add(Cards.GeneralCards.Copper.Get());
-            
+
+
+            // TODO 3-4 zacatek taky
             // gain estate
             for (int i = 0; i < 3; i++)
                 ps.DrawPile.Add(Cards.GeneralCards.Estate.Get());
-        }
+
+            // gain copper
+            for (int i = 0; i < 7; i++)
+                ps.DrawPile.Add(Cards.GeneralCards.Copper.Get());
+            }
 
         /// <summary>
-        ///     Null means end of action phase 
-        ///     Allowed actions, draws, discards etc. player handles by himself
+        ///     Null pointer indicates that player cand or doesnt want to play any action card.
+        ///     Player asks user on every decision (card selection, card related decision etc.)
+        ///     when play actions and attack acitons are executed here.
         /// </summary>
         /// <returns> Played card </returns>
         public Card PlayCard()
@@ -84,11 +90,14 @@ namespace GameCore
 
             if (card.IsAttack)
                 foreach (var player in Game.Players.Where(p => p != this))
-                    player.DealAttack(card.Attack, this, card);
+                    player.DealAttack(this, card);
 
             return card;
         }
 
+        /// <summary>
+        /// All treasure cards are automaticly played. 
+        /// </summary>
         public void PlayTreasure()
         {
             foreach (var card in ps.Hand.Where(c => c.IsTreasure))
@@ -98,11 +107,7 @@ namespace GameCore
         /// <summary>
         ///     Null means end of buy phase.
         ///     Allowed buys player counts by himself.
-        ///     After last buy player does the cleanup.
         /// </summary>
-        /// <param name="kingdom">
-        ///     Gives possible buys. 
-        /// </param> 
         /// <returns> Purchased card </returns>
         public Card Buy()
         {
@@ -124,7 +129,7 @@ namespace GameCore
         }
 
         /// <summary>
-        ///     Hand and all played and purchased cards are placed to discard pile
+        ///     Hand and all played and purchased cards are placed to discard pile.
         /// </summary>
         public void Cleanup()
         {
@@ -135,7 +140,9 @@ namespace GameCore
         }
 
         /// <summary>
-        ///     Draws cards from draw pile to hand.
+        ///     Draws cards from draw pile to hand. If there are no cards 
+        ///     shuffles the discard pile and places it onto draw pile place.
+        ///     Then draws cards.
         /// </summary>
         /// <param name="count"></param>
         public void Draw(int count)
@@ -171,6 +178,10 @@ namespace GameCore
             }
         }
 
+        /// <summary>
+        /// Takes specified card from hand and adds it to common trash list.
+        /// </summary>
+        /// <param name="card"></param>
         public void Trash(Card card)
         {
             Game.Logger?.Log($"{Name} trashes {card.Name}.");
@@ -178,6 +189,10 @@ namespace GameCore
             Game.Trash.Add(card);
         }
 
+        /// <summary>
+        /// Takes specified card from hand and adds it to discard pile.
+        /// </summary>
+        /// <param name="card"></param>
         public void Discard(Card card)
         {
             Game.Logger?.Log($"{Name} discards {card.Name}.");
@@ -185,6 +200,10 @@ namespace GameCore
             ps.DiscardPile.Add(card);
         }
 
+        /// <summary>
+        /// Gains card to discard pile, if it is possible.
+        /// </summary>
+        /// <param name="type"></param>
         public void Gain(CardType type)
         {
             var card = gainCard(type);
@@ -194,6 +213,10 @@ namespace GameCore
             ps.PlayedCards.Add(card);
         }
 
+        /// <summary>
+        /// Gains card to hand, if it is possible.
+        /// </summary>
+        /// <param name="type"></param>
         public void GainToHand(CardType type)
         {
             var card = gainCard(type);
@@ -203,6 +226,10 @@ namespace GameCore
             ps.Hand.Add(card);
         }
 
+        /// <summary>
+        /// Gains card up to draw pile, if it is possible.
+        /// </summary>
+        /// <param name="type"></param>
         public void GainToDrawPile(CardType type)
         {
             var card = gainCard(type);
@@ -223,6 +250,10 @@ namespace GameCore
             return pile.GainCard();
         }
 
+        /// <summary>
+        /// Returns card from hand up to draw pile.
+        /// </summary>
+        /// <param name="card"></param>
         public void ReturnToDrawPile(Card card)
         {
             Game.Logger?.Log($"{Name} returns {card.Name} up to draw pile.");
@@ -230,13 +261,21 @@ namespace GameCore
             ps.DrawPile.Add(card);
         }
 
+        /// <summary>
+        /// Discards all cards in draw pile.
+        /// </summary>
         public void DiscardDrawPile()
         {
             Game.Logger?.Log($"{Name} discards draw pile.");
             ps.DiscardPile.AddRange(ps.DrawPile);
             ps.DrawPile.Clear();
         }
-
+        
+        /// <summary>
+        /// Shows cards on top of the draw pile. Then returns them back.
+        /// </summary>
+        /// <param name="count"></param>
+        /// <returns></returns>
         public List<Card> Show(int count)
         {
             var list = new List<Card>(count);
@@ -266,32 +305,16 @@ namespace GameCore
                 list.Add(card);
             }
             return list;
-
-            //for (int i = ps.DrawPile.Count - 1; i >= ps.DrawPile.Count - count && i >= 0; i--)
-            //{
-            //    // if drawPile is empty, we need to shuffle discard pile and place it instead of drawPile
-            //    if (ps.DrawPile.Count == 0)
-            //    {
-            //        // there are no cards to draw
-            //        if (ps.DiscardPile.Count == 0)
-            //            break;
-
-            //        // swap
-            //        var pile = ps.DrawPile;
-            //        ps.DrawPile = ps.DiscardPile;
-            //        ps.DiscardPile = pile;
-
-            //        // shuffle
-            //        ps.DrawPile.Shuffle(rnd);
-            //    }
-
-            //    // showOneCard
-            //    list.Add(ps.DrawPile[ps.DrawPile.Count - 1]);
-            //}
-            //return list;
         }
 
-        public void DealAttack(Action<Player, Player> attack, Player attacker, Card attackCard)
+        /// <summary>
+        /// If player deals attack, defended can reveal reaction cards.
+        /// If any of revealed cards is Moad attack effect wont be executed.
+        /// </summary>
+        /// <param name="attack"></param>
+        /// <param name="attacker"></param>
+        /// <param name="attackCard"></param>
+        public void DealAttack(Player attacker, Card attackCard)
         {
             Game.Logger?.Log($"{Name} deals attack.");
 
@@ -303,6 +326,7 @@ namespace GameCore
             {
                 if (reactions.Count == 0)
                     break;
+                // TODO chtělo by to jinou metodu na obranu (kvuli AI) ale ted na tom nesejde
                 card = User.PlayCard(reactions, ps, Game.Kingdom, Phase.Reaction, attackCard);
                 reactions.Remove(card);
                 if (card == null)
@@ -311,7 +335,7 @@ namespace GameCore
             }
 
             if (!defended)
-                attack(this, attacker);
+                attackCard.Attack(this, attacker);
         }
 
         public override string ToString() => User.GetName();

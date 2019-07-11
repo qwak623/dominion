@@ -19,7 +19,7 @@
             isAttack: false
         ) => gardens = this;
 
-        public static new Gardens Get() => gardens ?? new Gardens();
+        public static Gardens Get() => gardens ?? new Gardens();
 
         public override int CountPoints(Player player) => player.CardCount / 10;
     }

@@ -21,7 +21,7 @@ namespace GameCore.Cards.Base
             isAttack: false
         ) => remodel = this;
 
-        public static new Remodel Get() => remodel ?? new Remodel();
+        public static Remodel Get() => remodel ?? new Remodel();
 
         protected override void ActionEffect(Player p)
         {

@@ -9,6 +9,8 @@ using GameCore.Cards;
 using System.Threading.Tasks;
 using System.IO;
 using Utils;
+using AI.Provincial;
+using AI.Model;
 
 namespace Window
 {
@@ -19,8 +21,9 @@ namespace Window
         Job job = new Job();
         int min, max;
         const int dy = 30, dx = 145;
-        AIResult aiParams = new AIResult();
-        Task task;
+        static readonly char sep = Path.DirectorySeparatorChar;
+        string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms{sep}";
+        CancellationTokenSource tokenSource = new CancellationTokenSource();
 
         public GameForm()
         {
@@ -36,20 +39,36 @@ namespace Window
             GamePanel.Show();
             SetKingdomPanel.Hide();
             LogTextBox.Text = "";
-            StartGame.Enabled = false;  // todo konec hry nebo restart
+            StartGameButton.Text = "Restart";
             SetKingdom.Enabled = false;
-            Settings.Enabled = false;
+            PlayAreaPanel.Controls.Clear();
+            PhaseLabel.Text = "Loading";
+            PhaseDescription.Text = "Please wait, game will be ready as soon as possible.";
 
             gameParams.Save();
-            var cards = gameParams.Cards.AddRequiredCards();
 
-            //var human = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job, "Kaca");
-            var human = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job, "Honza");
-            var ai = aiParams.GetUser(cards, "KingdomsTens");
-            //var ai = new AI.Provincial.PlayAgenda.ProvincialAI(AI.Provincial.Evolution.BuyAgenda.Load(cards, "honza"));
+            if (tokenSource != null)
+            {
+                tokenSource.Cancel();
+                tokenSource = new CancellationTokenSource();
+            }
 
-            Game game = new Game(new User[] { ai, human }, cards.GetKingdom(2), new WindowLogger(Log));
-            task = game.Play().ContinueWith((results) => EnableNextGame(results));
+            Task.Run(() =>
+            {
+                var human = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job, "Honza");
+
+                // todo fives or tens (type of inteligence)
+                //var managerTens = new Tens(directoryPath);
+                var managerFives = new Fives(directoryPath);
+                //  var ai = new ProvincialAI(managerTens.LoadBest(gameParams.Cards), "Tens");
+
+                var ai = new ProvincialAI(managerFives.LoadBest(gameParams.Cards), "Fives");
+
+                var source = new CancellationTokenSource();
+
+                Game game = new Game(new User[] { ai, human }, gameParams.Cards.GetKingdom(2), new WindowLogger(Log), tokenSource);
+                game.Play(int.MaxValue).ContinueWith((results) => EnableNextGame(results));
+            });
         }
 
         void EnableNextGame(Task<GameResults> results)
@@ -57,9 +76,7 @@ namespace Window
             Action<GameResults> function = (gr) =>
             {
                 ShowKingdom(gr.Players[0].Game.Kingdom);
-                StartGame.Enabled = true;
                 SetKingdom.Enabled = true;
-                Settings.Enabled = true;
             };
             this.Invoke(function, new object[] { results.Result });
         }
@@ -236,7 +253,7 @@ namespace Window
             {
                 job.Result = (sender as Control).Tag;
                 job.Done = true;
-                Monitor.Pulse(job);
+                Monitor.PulseAll(job);
                 PlayAreaPanel.Controls.Clear();
             }
         }
@@ -258,7 +275,8 @@ namespace Window
             {
                 job.Result = cards;
                 job.Done = true;
-                Monitor.Pulse(job);
+                // pulse wont work if you press restart game
+                Monitor.PulseAll(job);
                 PlayAreaPanel.Controls.Clear();
             }
         }
@@ -353,6 +371,7 @@ namespace Window
 
         void SetKingdom_Click(object sender, EventArgs e)
         {
+            StartGameButton.Text = "Start";
             SetKingdomPanel.Show();
             GamePanel.Hide();
             ShowCurrentKingdomCards();
@@ -442,12 +461,6 @@ namespace Window
 
         #region Settings
 
-        void Settings_Click(object sender, EventArgs e)
-        {
-            var settingForm = new SettingsForm(gameParams.Cards, aiParams);
-            settingForm.Show();
-        }
-
         void SetPresetGame(object sender, EventArgs e)
         {
             gameParams.Cards = PresetGames.Get((Games)int.Parse((sender as Button).Tag as string));
@@ -457,12 +470,9 @@ namespace Window
 
         void SetRandomGame(object sender, EventArgs e)
         {
-            var cards = new List<Card>();
-            var rnd = new ThreadSafeRandom();
-
             // get random 10 cards
             gameParams.Cards = Enumerable.Range((int)CardType.Adventurer, 25)
-                .Select(t => ((t, r: rnd.NextDouble())))
+                .Select(t => ((t, r: new ThreadSafeRandom().NextDouble())))
                 .OrderBy(a => a.r)
                 .Take(10)
                 .Select(((int type, double) a) => Card.Get((CardType)a.type))
@@ -476,27 +486,15 @@ namespace Window
 
         void SetPrecomputedRandomGame(object sender, EventArgs e)
         {
-            DirectoryInfo dir = new DirectoryInfo("..\\..\\..\\AI\\Provincial\\data\\kingdomsTens");
-            FileInfo[] files = dir.GetFiles("kingdom_*.txt"); 
+            var list = new List<List<Card>>();
+            FileInfo[] files = new DirectoryInfo($"{directoryPath}").GetFiles($"Tens_*.txt");
 
-            var rnd = new ThreadSafeRandom();
-            int i = rnd.Next(files.Length);
-
-            try
-            {
-                gameParams.Cards = files[i].Name
-                    .Remove(files[i].Name.Length - 4)
-                    .Substring(8).Split('_')
-                    .Select(a => int.Parse(a))
-                    .Where(a => a > 7)
-                    .Select(a => Card.Get((CardType)a))
-                    .OrderBy(a => a.Price)
-                    .ThenBy(a => a.Name)
-                    .ToList();
-            }
-            catch (Exception)
-            {
-            }
+            foreach (var f in files)
+                using (var reader = f.OpenText())
+                    while (!reader.EndOfStream)
+                        list.Add(reader.ReadLine().Split(':')[0].Split('_')
+                            .Select(s => Card.Get((CardType)int.Parse(s))).ToList());
+            gameParams.Cards = list[new ThreadSafeRandom().Next(list.Count)];
 
             ShowCurrentKingdomCards();
             ShowExtensionCards();
@@ -506,7 +504,7 @@ namespace Window
         {
             using(StreamWriter writer = File.AppendText("..\\..\\..\\AI\\Provincial\\data\\weakKingdom.txt"))
             {
-                writer.WriteLine(gameParams.Cards.AddRequiredCards().OrderBy(c => c.Type).Select(c => (int)c.Type).Aggregate("kingdom", (a, b) => a + "_" + b));
+                writer.WriteLine(gameParams.Cards.OrderBy(c => c.Type).Select(c => (int)c.Type).Aggregate("kingdom", (a, b) => a + "_" + b));
             }
         }
         #endregion

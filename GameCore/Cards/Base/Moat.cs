@@ -19,7 +19,7 @@
             isAttack: false
         ) => moat = this;
 
-        public static new Moat Get() => moat ?? new Moat();
+        public static Moat Get() => moat ?? new Moat();
 
         public override bool Reaction(Player player) => true;
     }

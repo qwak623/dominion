@@ -19,7 +19,7 @@
             isAttack: true
         ) => witch = this;
 
-        public static new Witch Get() => witch ?? new Witch();
+        public static Witch Get() => witch ?? new Witch();
 
         public override Card RequiredCards => GeneralCards.Curse.Get();
 

@@ -1,0 +1,202 @@
+evolution: NamedGames
+kingdom: random
+kingdom 0: kingdom 10 12 14 16 17 27 29 30 31 32
+Generation 0: elapsed time 17,14s
+Generation 1: Referencer 908, Leader 9498, Ratio 8590
+Generation 1: elapsed time 12,81s
+Generation 2: Referencer 4174, Leader 6133, Ratio 1959
+Generation 2: elapsed time 12,23s
+Generation 3: Referencer 4756, Leader 5871, Ratio 1115
+Generation 3: elapsed time 13,59s
+Generation 4: Referencer 3857, Leader 6334, Ratio 2477
+Generation 4: elapsed time 13,60s
+Generation 5: Referencer 6330, Leader 3852, Ratio -2478
+Generation 5: elapsed time 15,70s
+Generation 6: Referencer 5386, Leader 5045, Ratio -341
+Generation 6: elapsed time 13,09s
+Generation 7: Referencer 5459, Leader 5384, Ratio -75
+Generation 7: elapsed time 12,63s
+Generation 8: Referencer 5539, Leader 5352, Ratio -187
+Generation 8: elapsed time 12,31s
+Generation 9: Referencer 5378, Leader 5416, Ratio 38
+Generation 9: elapsed time 10,21s
+Generation 10: Referencer 5437, Leader 5376, Ratio -61
+Generation 10: elapsed time 10,11s
+Generation 11: Referencer 4227, Leader 6218, Ratio 1991
+Generation 11: elapsed time 10,20s
+Generation 12: Referencer 5254, Leader 5238, Ratio -16
+Generation 12: elapsed time 9,98s
+Generation 13: Referencer 5299, Leader 5140, Ratio -159
+Generation 13: elapsed time 11,54s
+Generation 14: Referencer 5324, Leader 5162, Ratio -162
+Generation 14: elapsed time 12,65s
+Generation 15: Referencer 4436, Leader 6002, Ratio 1566
+Generation 15: elapsed time 12,26s
+Generation 16: Referencer 5253, Leader 5139, Ratio -114
+Generation 16: elapsed time 11,46s
+Generation 17: Referencer 4655, Leader 5712, Ratio 1057
+Generation 17: elapsed time 10,95s
+Generation 18: Referencer 5156, Leader 5205, Ratio 49
+Generation 18: elapsed time 12,42s
+Generation 19: Referencer 5088, Leader 5263, Ratio 175
+Generation 19: elapsed time 13,88s
+Generation 20: Referencer 4104, Leader 6206, Ratio 2102
+Generation 20: elapsed time 13,08s
+Generation 21: Referencer 5251, Leader 5097, Ratio -154
+Generation 21: elapsed time 14,16s
+Generation 22: Referencer 4615, Leader 5767, Ratio 1152
+Generation 22: elapsed time 11,39s
+Generation 23: Referencer 4380, Leader 5979, Ratio 1599
+Generation 23: elapsed time 12,69s
+Generation 24: Referencer 4879, Leader 5466, Ratio 587
+Generation 24: elapsed time 11,29s
+Generation 25: Referencer 5954, Leader 4386, Ratio -1568
+Generation 25: elapsed time 11,72s
+Generation 26: Referencer 5646, Leader 5739, Ratio 93
+Generation 26: elapsed time 14,23s
+Generation 27: Referencer 4564, Leader 6445, Ratio 1881
+Generation 27: elapsed time 15,31s
+Generation 28: Referencer 5496, Leader 5407, Ratio -89
+Generation 28: elapsed time 12,05s
+Generation 29: Referencer 3528, Leader 6802, Ratio 3274
+Generation 29: elapsed time 12,10s
+Generation 30: Referencer 5168, Leader 5228, Ratio 60
+Generation 30: elapsed time 11,14s
+Generation 31: Referencer 4894, Leader 5497, Ratio 603
+Generation 31: elapsed time 10,01s
+Generation 32: Referencer 5104, Leader 5278, Ratio 174
+Generation 32: elapsed time 10,18s
+Generation 33: Referencer 4554, Leader 5729, Ratio 1175
+Generation 33: elapsed time 9,38s
+Generation 34: Referencer 4383, Leader 5827, Ratio 1444
+Generation 34: elapsed time 9,75s
+Generation 35: Referencer 5245, Leader 5128, Ratio -117
+Generation 35: elapsed time 9,94s
+Generation 36: Referencer 5236, Leader 5133, Ratio -103
+Generation 36: elapsed time 9,82s
+Generation 37: Referencer 4295, Leader 5996, Ratio 1701
+Generation 37: elapsed time 9,88s
+Generation 38: Referencer 5203, Leader 5234, Ratio 31
+Generation 38: elapsed time 8,91s
+Generation 39: Referencer 5271, Leader 5222, Ratio -49
+Generation 39: elapsed time 9,86s
+Generation 40: Referencer 5113, Leader 5351, Ratio 238
+Generation 40: elapsed time 9,77s
+Generation 41: Referencer 5188, Leader 5262, Ratio 74
+Generation 41: elapsed time 9,72s
+Generation 42: Referencer 5271, Leader 5211, Ratio -60
+Generation 42: elapsed time 9,81s
+Generation 43: Referencer 5268, Leader 5173, Ratio -95
+Generation 43: elapsed time 10,65s
+Generation 44: Referencer 5075, Leader 5379, Ratio 304
+Generation 44: elapsed time 9,13s
+Generation 45: Referencer 5217, Leader 5242, Ratio 25
+Generation 45: elapsed time 8,75s
+Generation 46: Referencer 4905, Leader 5473, Ratio 568
+Generation 46: elapsed time 9,58s
+Generation 47: Referencer 5385, Leader 5460, Ratio 75
+Generation 47: elapsed time 9,27s
+Generation 48: Referencer 5443, Leader 5440, Ratio -3
+Generation 48: elapsed time 10,23s
+Generation 49: Referencer 5380, Leader 5527, Ratio 147
+Generation 49: elapsed time 9,89s
+Generation 50: Referencer 5687, Leader 5263, Ratio -424
+Generation 50: elapsed time 9,04s
+Generation 51: Referencer 5338, Leader 5637, Ratio 299
+Generation 51: elapsed time 10,48s
+Generation 52: Referencer 5479, Leader 5463, Ratio -16
+Generation 52: elapsed time 9,86s
+Generation 53: Referencer 5487, Leader 5418, Ratio -69
+Generation 53: elapsed time 9,31s
+Generation 54: Referencer 5432, Leader 5469, Ratio 37
+Generation 54: elapsed time 10,75s
+Generation 55: Referencer 5452, Leader 5377, Ratio -75
+Generation 55: elapsed time 11,88s
+Generation 56: Referencer 5338, Leader 5394, Ratio 56
+Generation 56: elapsed time 10,72s
+Generation 57: Referencer 5449, Leader 5381, Ratio -68
+Generation 57: elapsed time 9,38s
+Generation 58: Referencer 5349, Leader 5452, Ratio 103
+Generation 58: elapsed time 10,32s
+Generation 59: Referencer 5079, Leader 5597, Ratio 518
+Generation 59: elapsed time 10,21s
+Generation 60: Referencer 5339, Leader 5282, Ratio -57
+Generation 60: elapsed time 9,94s
+Generation 61: Referencer 5466, Leader 5184, Ratio -282
+Generation 61: elapsed time 11,30s
+Generation 62: Referencer 5618, Leader 5204, Ratio -414
+Generation 62: elapsed time 9,67s
+Generation 63: Referencer 5048, Leader 5613, Ratio 565
+Generation 63: elapsed time 9,81s
+Generation 64: Referencer 5292, Leader 5361, Ratio 69
+Generation 64: elapsed time 9,79s
+Generation 65: Referencer 5325, Leader 5305, Ratio -20
+Generation 65: elapsed time 12,48s
+Generation 66: Referencer 4956, Leader 5810, Ratio 854
+Generation 66: elapsed time 10,71s
+Generation 67: Referencer 5713, Leader 5727, Ratio 14
+Generation 67: elapsed time 10,12s
+Generation 68: Referencer 5812, Leader 4902, Ratio -910
+Generation 68: elapsed time 10,32s
+Generation 69: Referencer 4915, Leader 5773, Ratio 858
+Generation 69: elapsed time 10,08s
+Generation 70: Referencer 5741, Leader 5733, Ratio -8
+Generation 70: elapsed time 10,01s
+Generation 71: Referencer 5753, Leader 5693, Ratio -60
+Generation 71: elapsed time 9,83s
+Generation 72: Referencer 5639, Leader 5779, Ratio 140
+Generation 72: elapsed time 11,00s
+Generation 73: Referencer 5663, Leader 4680, Ratio -983
+Generation 73: elapsed time 9,72s
+Generation 74: Referencer 4688, Leader 5684, Ratio 996
+Generation 74: elapsed time 10,75s
+Generation 75: Referencer 5644, Leader 5777, Ratio 133
+Generation 75: elapsed time 9,72s
+Generation 76: Referencer 5550, Leader 5813, Ratio 263
+Generation 76: elapsed time 9,33s
+Generation 77: Referencer 5681, Leader 5598, Ratio -83
+Generation 77: elapsed time 10,64s
+Generation 78: Referencer 5512, Leader 5691, Ratio 179
+Generation 78: elapsed time 10,44s
+Generation 79: Referencer 5352, Leader 5269, Ratio -83
+Generation 79: elapsed time 10,13s
+Generation 80: Referencer 5358, Leader 5404, Ratio 46
+Generation 80: elapsed time 9,57s
+Generation 81: Referencer 5222, Leader 5624, Ratio 402
+Generation 81: elapsed time 10,09s
+Generation 82: Referencer 5739, Leader 5779, Ratio 40
+Generation 82: elapsed time 10,00s
+Generation 83: Referencer 5870, Leader 5639, Ratio -231
+Generation 83: elapsed time 9,98s
+Generation 84: Referencer 5712, Leader 5914, Ratio 202
+Generation 84: elapsed time 9,76s
+Generation 85: Referencer 5707, Leader 5127, Ratio -580
+Generation 85: elapsed time 11,27s
+Generation 86: Referencer 5073, Leader 5564, Ratio 491
+Generation 86: elapsed time 10,27s
+Generation 87: Referencer 5236, Leader 5501, Ratio 265
+Generation 87: elapsed time 9,91s
+Generation 88: Referencer 5648, Leader 5703, Ratio 55
+Generation 88: elapsed time 9,47s
+Generation 89: Referencer 5584, Leader 5668, Ratio 84
+Generation 89: elapsed time 11,43s
+Generation 90: Referencer 5632, Leader 5569, Ratio -63
+Generation 90: elapsed time 9,66s
+Generation 91: Referencer 5706, Leader 5525, Ratio -181
+Generation 91: elapsed time 11,17s
+Generation 92: Referencer 5132, Leader 5263, Ratio 131
+Generation 92: elapsed time 9,31s
+Generation 93: Referencer 5186, Leader 5158, Ratio -28
+Generation 93: elapsed time 10,29s
+Generation 94: Referencer 5225, Leader 5153, Ratio -72
+Generation 94: elapsed time 10,52s
+Generation 95: Referencer 5127, Leader 5124, Ratio -3
+Generation 95: elapsed time 11,29s
+Generation 96: Referencer 5150, Leader 5227, Ratio 77
+Generation 96: elapsed time 9,90s
+Generation 97: Referencer 5134, Leader 5244, Ratio 110
+Generation 97: elapsed time 9,98s
+Generation 98: Referencer 5164, Leader 5209, Ratio 45
+Generation 98: elapsed time 10,94s
+Generation 99: Referencer 4667, Leader 5737, Ratio 1070
+Generation 99: elapsed time 11,25s

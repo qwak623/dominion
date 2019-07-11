@@ -9,6 +9,10 @@ using System.Threading.Tasks;
 
 namespace GameCore.Cards
 {
+    /// <summary>
+    /// Contains all cards for game.
+    /// For each game there should be unique instance.
+    /// </summary>
     public class Kingdom : IEnumerable<Pile>
     {
         public int EmptyPiles;
@@ -24,6 +28,12 @@ namespace GameCore.Cards
             Reset(players);
         }
 
+        /// <summary>
+        /// Returns new instance of KingdomWrapper with applied filters.
+        /// </summary>
+        /// <param name="price"></param>
+        /// <param name="onlyTreasures"></param>
+        /// <returns></returns>
         public KingdomWrapper GetWrapper (int price, bool onlyTreasures = false)
         {
             var w = new KingdomWrapper();
@@ -33,6 +43,11 @@ namespace GameCore.Cards
             return w;
         }
 
+        /// <summary>
+        /// Returns pile with specified card (using dictionary).
+        /// </summary>
+        /// <param name="type"></param>
+        /// <returns></returns>
         public Pile GetPile(CardType type)
         {
             if (cardTypeToIndex.TryGetValue(type, out int index)) 
@@ -69,7 +84,7 @@ namespace GameCore.Cards
                     count = 40;
                 else if (card.Type == CardType.Gold)
                     count = 30;
-                piles[i] = new Pile(card.Get(), count);
+                piles[i] = new Pile(card, count);
             }
         }
     }

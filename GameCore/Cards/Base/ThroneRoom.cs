@@ -22,7 +22,7 @@ namespace GameCore.Cards.Base
             message: "You may play an Action card from your hand twice."
         ) => throneRoom = this;
 
-        public static new ThroneRoom Get() => throneRoom ?? new ThroneRoom();
+        public static ThroneRoom Get() => throneRoom ?? new ThroneRoom();
 
         protected override void ActionEffect(Player player)
         {
@@ -36,7 +36,7 @@ namespace GameCore.Cards.Base
                 card.WhenPlayAction(player);
                 if (card.IsAttack)
                     foreach (var defender in player.Game.Players.Where(p => p != player))
-                        defender.DealAttack(card.Attack, player, card);
+                        defender.DealAttack(player, card);
             }
         }
     }

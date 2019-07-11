@@ -22,7 +22,7 @@ namespace GameCore.Cards.Base
             isAttack: true
         ) => bureaucrat = this;
 
-        public static new Bureaucrat Get() => bureaucrat ?? new Bureaucrat();
+        public static Bureaucrat Get() => bureaucrat ?? new Bureaucrat();
 
         protected override void ActionEffect(Player player) => player.GainToDrawPile(CardType.Silver);
 

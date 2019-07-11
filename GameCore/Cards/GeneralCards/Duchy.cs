@@ -15,6 +15,6 @@
             isTreasure: false
         ) => duchy = this;
 
-        public static new Duchy Get() => duchy ?? new Duchy();
+        public static Duchy Get() => duchy ?? new Duchy();
     }
 }

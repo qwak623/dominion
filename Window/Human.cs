@@ -7,6 +7,14 @@ using System.Threading;
 
 namespace GameCore
 {
+    /// <summary>
+    /// Implements AI interface.
+    /// When decision is required calls action given by user interface.
+    /// Those method are invoked in to event loop.
+    /// Then monitor.wait is called and game thread is waiting until job is done.
+    /// Job is done when user clicks on button, that will complete the job 
+    /// and calls monitor.pulse and game continues.
+    /// </summary>
     public class Human : User
     {
         Action<IEnumerable<Card>, PlayerState, Kingdom, Phase, Card> playCard;
@@ -15,8 +23,11 @@ namespace GameCore
         Action<PlayerState, Kingdom, Phase, Card, string, string> alternativeChoice;
         Job job;
         string name;
+        CancellationTokenSource tokenSource;
 
-        public override string GetName() => name; 
+        public override string GetName() => name;
+
+        public override void SetCanCelationTokenSource(CancellationTokenSource tokenSource) => this.tokenSource = tokenSource;
 
         public Human(Action<IEnumerable<Card>, PlayerState, Kingdom, Phase, Card> playCard,
                      Action<IEnumerable<Card>, PlayerState, Kingdom, Phase> selectCartToGain,
@@ -40,6 +51,8 @@ namespace GameCore
                 playCard(cards, ps, k, phase, card);
                 while (!job.Done)
                     Monitor.Wait(job);
+                if (tokenSource != null && tokenSource.Token.IsCancellationRequested)
+                    throw new OperationCanceledException();
                 return job.Result as Card;
             }
         }
@@ -52,6 +65,8 @@ namespace GameCore
                 selectCartToGain(wrapper.AvailableCards, ps, k, phase);
                 while (!job.Done)
                     Monitor.Wait(job);
+                if (tokenSource != null && tokenSource.Token.IsCancellationRequested)
+                    throw new OperationCanceledException();
                 return job.Result as Card;
             }
         }
@@ -64,6 +79,8 @@ namespace GameCore
                 choice(cards, ps, k, min, max, phase, card);
                 while (!job.Done)
                     Monitor.Wait(job);
+                if (tokenSource != null && tokenSource.Token.IsCancellationRequested)
+                    throw new OperationCanceledException();
                 return job.Result as IEnumerable<Card>;
             }
         }
@@ -76,6 +93,8 @@ namespace GameCore
                 alternativeChoice(ps, k, phase, card, yup, nay);
                 while (!job.Done)
                     Monitor.Wait(job);
+                if (tokenSource != null && tokenSource.Token.IsCancellationRequested)
+                    throw new OperationCanceledException();
                 return (bool)job.Result;
             }
         }

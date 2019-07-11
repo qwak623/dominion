@@ -22,7 +22,7 @@ namespace GameCore.Cards.Base
             message: "Discard any number of cards, then draw that many."
         ) => cellar = this;
 
-        public static new Cellar Get() => cellar ?? new Cellar();
+        public static Cellar Get() => cellar ?? new Cellar();
 
         protected override void ActionEffect(Player player)
         {

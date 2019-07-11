@@ -1,4 +1,5 @@
 ﻿using AI.Evolution;
+using AI.Model;
 using AI.Provincial;
 using GameCore;
 using GameCore.Cards;
@@ -6,7 +7,6 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Threading;
 using Utils;
 using static System.Console;
 
@@ -21,13 +21,13 @@ namespace Eva
         {
             // params
             EvolutionType et = EvolutionType.Tens;
-            string folder = "kingdomsTens";
             int startIndex = 0, count = 1, parallelDegreeExt = -1, parallelDegreeInt = -1;
-            bool skip = true;
 
             var rnd = new ThreadSafeRandom();
             char sep = Path.DirectorySeparatorChar;
-            string path = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdomsFives{sep}fives.txt";
+            string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms{sep}";
+            BuyAgendaManager manager = new Tens(directoryPath, "TensProgress_");
+
             IEnumerator<string> kingdoms = null;
 
             // params handling
@@ -44,10 +44,11 @@ namespace Eva
                         {
                             case 'd':
                                 et = EvolutionType.Tens;
+                                manager = new Tens(directoryPath);
                                 break;
                             case 'f':
                                 et = EvolutionType.Fives;
-                                folder = "kingdomsFives";
+                                manager = new Fives(directoryPath);
                                 break;
                             case 'c':
                                 count = int.Parse(args[++i]);
@@ -61,9 +62,6 @@ namespace Eva
                                 break;
                             case 'n':
                                 et = EvolutionType.NamedGames;
-                                break;
-                            case 'r':
-                                skip = false;
                                 break;
                             default:
                                 break;
@@ -80,7 +78,7 @@ namespace Eva
 
             if (et == EvolutionType.Fives)
             {
-                kingdoms = File.ReadAllLines(path).Skip(startIndex).Take(count).GetEnumerator();
+                kingdoms = File.ReadAllLines($"{directoryPath}{sep}fives.txt").Skip(startIndex).Take(count).GetEnumerator();
                 WriteLine($"count: {count}");
                 WriteLine($"start index: {startIndex}");
             }
@@ -91,7 +89,7 @@ namespace Eva
 
             for (int i = 0; i < count; i++)
             {
-                try
+            //    try
                 {
                     switch (et)
                     {
@@ -106,23 +104,28 @@ namespace Eva
                                     .OrderBy(a => a.r)
                                     .Take(10)
                                     .Select(((int type, double) a) => Card.Get((CardType)a.type))
-                                    .AddRequiredCards();
+                                    .ToList();
 
                                 var kingdomName = cards.OrderBy(p => p.Type).Select(p => (int)p.Type).Aggregate("kingdom", (a, b) => a + " " + b);
                                 WriteLine($"kingdom {i}: {kingdomName}");
+                                if (manager.Load(cards) != null)
+                                {
+                                    WriteLine($"Skipping kingdom.");
+                                    continue;
+                                }
+
                                 var evolution = new Evolution(new Params
                                 {
                                     Kingdom = cards,
                                     Evaluator = new ProvincialEvaluator(),
-                                    Folder = folder,
-                                    Skip = skip,
                                     ParallelDegreeExt = parallelDegreeExt,
                                     ParallelDegreeInt = parallelDegreeInt,
                                     LeaderCount = 10,
                                     PoolCount = 50,
                                     Generations = 50,
                                 }, new Logger());
-                                evolution.Run();
+                                var agenda = evolution.Run();
+                                manager.Save(cards, agenda);
                             }
                             break;
                         case EvolutionType.Fives:
@@ -131,25 +134,29 @@ namespace Eva
                                 kingdoms.MoveNext();
 
                                 cards = kingdoms.Current.Split(new char[] { }, StringSplitOptions.RemoveEmptyEntries)
-                                    .Select(a => Card.Get((CardType)int.Parse(a)))
-                                    .AddRequiredCards();
-
+                                    .Select(a => Card.Get((CardType)int.Parse(a))).ToList();
 
                                 var kingdomName = cards.OrderBy(p => p.Type).Select(p => (int)p.Type).Aggregate("kingdom", (a, b) => a + " " + b);
                                 WriteLine($"kingdom {i}: {kingdomName}");
+
+                                if (manager.Load(cards) != null)
+                                {
+                                    WriteLine("skipping");
+                                    continue;
+                                }
+
                                 var evolution = new Evolution(new Params
                                 {
                                     Kingdom = cards,
                                     Evaluator = new ProvincialEvaluator(),
-                                    Folder = folder,
-                                    Skip = skip,
                                     ParallelDegreeExt = parallelDegreeExt,
                                     ParallelDegreeInt = parallelDegreeInt,
                                     LeaderCount = 10,
                                     PoolCount = 50,
                                     Generations = 50,
                                 }, new Logger());
-                                evolution.Run();
+                                var agenda = evolution.Run();
+                                manager.Save(cards, agenda);
                             }
                             break;
                         case EvolutionType.NamedGames:
@@ -157,13 +164,15 @@ namespace Eva
                                 //cards = PresetGames.Get(Games.FirstGame).AddRequiredCards();
                                 List<List<Card>> games = new List<List<Card>>
                                 {
-                                    PresetGames.Get(Games.BigMoney),
-                                    PresetGames.Get(Games.Interaction),
-                                    PresetGames.Get(Games.FirstGame),
-                                    PresetGames.Get(Games.SizeDistortion),
-                                    PresetGames.Get(Games.ThrashHeap),
-                                    PresetGames.Get(Games.VillageSquare),
+                                    //PresetGames.Get(Games.BigMoney),
+                                    //PresetGames.Get(Games.Interaction),
+                                    //PresetGames.Get(Games.FirstGame),
+                                    //PresetGames.Get(Games.SizeDistortion),
+                                    //PresetGames.Get(Games.ThrashHeap),
+                                    //PresetGames.Get(Games.VillageSquare),
                                 };
+
+                                games.Add(new List<int>{1, 2 ,3}.Select())
 
                                 games.ForEach(cards =>
                                 {
@@ -171,15 +180,14 @@ namespace Eva
                                     WriteLine($"kingdom {i}: {kingdomName}");
                                     var evolution = new Evolution(new Params
                                     {
-                                        Kingdom = cards.AddRequiredCards(),
+                                        Kingdom = cards,
                                         Evaluator = new ProvincialEvaluator(),
-                                        Folder = folder,
-                                        Skip = skip,
                                         LeaderCount = 10,
                                         PoolCount = 50,
-                                        Generations = 50,
+                                        Generations = 100,
                                     }, new Logger());
-                                    evolution.Run();
+                                    var agenda = evolution.Run();
+                                    manager.Save(cards, agenda);
                                 });
                             }
                             break;
@@ -187,10 +195,10 @@ namespace Eva
                             break;
                     }
                 }
-                catch (Exception e)
-                {
-                    WriteLine(e.Message);
-                }
+                //catch (Exception e)
+                //{
+                //    WriteLine(e.Message);
+                //}
             }
             ReadLine();
         }

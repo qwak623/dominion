@@ -15,6 +15,6 @@
             isTreasure: true
         ) => gold = this;
 
-        public static new Gold Get() => gold ?? new Gold();
+        public static Gold Get() => gold ?? new Gold();
     }
 }

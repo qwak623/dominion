@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace GameCore.Cards.Base
 {
@@ -22,10 +23,12 @@ namespace GameCore.Cards.Base
             message: "You may skip any action card you choose to."
         ) => library = this;
 
-        public static new Library Get() => library ?? new Library();
+        public static Library Get() => library ?? new Library();
 
         protected override void ActionEffect(Player player)
         {
+            var cardsAside = new List<Card>();
+
             while (player.ps.Hand.Count < 7)
             {
                 var card = player.Show(1).SingleOrDefault();
@@ -33,13 +36,15 @@ namespace GameCore.Cards.Base
                     break;
 
                 if (card.IsAction && player.User.LibrarySkip(player.ps, player.Game.Kingdom, card))
-                    player.ps.PlayedCards.Add(card);
+                    cardsAside.Add(card);
                 else
                 {
                     player.Game.Logger?.Log($"{Name} draws {card.Name}");
                     player.ps.Hand.Add(card);
                 }
             }
+
+            cardsAside.ForEach(c => player.ps.DiscardPile.Add(c));
         }
     }
 }

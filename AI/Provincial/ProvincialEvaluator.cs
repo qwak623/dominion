@@ -1,4 +1,5 @@
 ﻿using AI.Evolution;
+using AI.Model;
 using GameCore;
 using GameCore.Cards;
 using System;
@@ -29,8 +30,10 @@ namespace AI.Provincial
                     var task = game.Play();
                     var result = task.Result;
 
-                    wins += result.Score[0].CompareTo(result.Score[1]);
+                    //wins += result.Score[0].CompareTo(result.Score[1]);
                     // todo funguje jen u dvou hracu zatim
+                    wins += result.Compare2Players();
+
 
                     if (gameIndex >= minGames && gameIndex % 200 == 0)
                     {

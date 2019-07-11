@@ -15,6 +15,6 @@
             isTreasure: false
         ) => estate = this;
 
-        public static new Estate Get() => estate ?? new Estate();
+        public static Estate Get() => estate ?? new Estate();
     }
 }

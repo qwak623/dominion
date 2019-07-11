@@ -19,6 +19,6 @@
             isAttack: false
         ) => market = this;
 
-        public static new Market Get() => market ?? new Market();
+        public static Market Get() => market ?? new Market();
     }
 }

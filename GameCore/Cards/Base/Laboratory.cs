@@ -19,6 +19,6 @@
             isAttack: false
         ) => laboratory = this;
 
-        public static new Laboratory Get() => laboratory ?? new Laboratory();
+        public static Laboratory Get() => laboratory ?? new Laboratory();
     }
 }

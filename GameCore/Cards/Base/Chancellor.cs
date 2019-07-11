@@ -20,7 +20,7 @@
             message: "You may immediately put your deck into your discard pile."
         ) => chancellor = this;
 
-        public static new Chancellor Get() => chancellor ?? new Chancellor();
+        public static Chancellor Get() => chancellor ?? new Chancellor();
 
         protected override void ActionEffect(Player player)
         { 

@@ -53,6 +53,10 @@ namespace GameCore.Cards
             IsTreasure = isTreasure;
         }
 
+        /// <summary>
+        /// Special action card effect including adding actions etc.
+        /// </summary>
+        /// <param name="player"></param>
         public void WhenPlayAction(Player player)
         {
             player.ps.Actions += AddActions;
@@ -64,6 +68,12 @@ namespace GameCore.Cards
             ActionEffect(player);
         }
 
+        /// <summary>
+        /// Template method with special card effect.
+        /// Method is called in WhenPlayAction after adding actions, coins, buys and 
+        /// drawing cards so theese effect shouldn be implemented here.
+        /// </summary>
+        /// <param name="player"></param>
         protected virtual void ActionEffect(Player player) { }
 
         public void WhenPlayTreasure(Player player)
@@ -85,17 +95,35 @@ namespace GameCore.Cards
         /// <returns></returns>
         public virtual bool Reaction(Player player) => false;
 
+        /// <summary>
+        /// Returns number of victory points.
+        /// Correct result appears only at the end of the game.
+        /// </summary>
+        /// <param name="player"></param>
+        /// <returns></returns>
         public virtual int CountPoints(Player player) => VictoryPoints;
 
+        /// <summary>
+        /// Attack effect.
+        /// </summary>
+        /// <param name="defender"></param>
+        /// <param name="attacker"></param>
         public virtual void Attack(Player defender, Player attacker) { }
 
+        /// <summary>
+        /// Some cards requires other cards, when they are in kingdom. (Witch requires Curse etc.)
+        /// Update needed for some cards in extensions.
+        /// </summary>
         public virtual Card RequiredCards => null;
 
-        public Card Get() => this;
-
+        /// <summary>
+        /// Returns instance of specified card type.
+        /// </summary>
+        /// <param name="cardType"></param>
+        /// <returns></returns>
         public static Card Get(CardType cardType)
         {
-            // TODO vymyslet nejaky hezci zpusob
+            // TODO vymyslet nejaky hezci zpusob, ale pokud nechci pouzivat reflection asi zadny nebude
             switch (cardType)
             {
                 case CardType.NotDefined:

@@ -1,4 +1,4 @@
-﻿using AI.Evolution;
+﻿using AI.Model;
 using GameCore;
 using GameCore.Cards;
 using GameCore.Cards.GeneralCards;
@@ -46,8 +46,6 @@ namespace AI.Provincial
 
         public override Card SelectCardToGain(KingdomWrapper wrapper, PlayerState ps, Kingdom k, Phase phase)
         {
-            // todo colonies
-
             var provinces = k.GetPile(CardType.Province);
             if (buyAgenda.Provinces > provinces.Count && wrapper.GetCard(CardType.Province) != null)
                 return Province.Get();
@@ -174,7 +172,7 @@ namespace AI.Provincial
         }
 
         public override Card MineTrash(PlayerState ps, Kingdom k)
-        {   // todo nebude fungovat kdyz budou jine treasures
+        {   
             var c = ps.Hand.Where(a => a.Type == CardType.Copper).FirstOrDefault();
             return c ?? ps.Hand.Where(a => a.Type == CardType.Silver).FirstOrDefault();
         }
@@ -182,8 +180,6 @@ namespace AI.Provincial
         public override Card RemodelTrash(PlayerState ps, Kingdom k)
         {
             var trash = ps.Hand.Where(c => c.Type == CardType.Curse);
-
-            // TODO tady se zbytecne delaji vsechny enumeratory
 
             // at the end it will transform gold to province
             var provinces = k.GetPile(CardType.Province);

@@ -10,7 +10,7 @@ namespace Utils
         public ThreadSafeRandom()
         {
             //_local = _global;
-            //return; // todo smazat
+            //return; // zdeterministicteni
 
             if (_local == null)
             {
@@ -27,7 +27,9 @@ namespace Utils
 
         public int Next() => _local.Next();
 
-        public int Next(int max) => (int)((uint)_local.Next()) % max;
+        public int Next(int n) => _local.Next(n);
+
+        public int NextSign() => _local.Next(2) * 2 - 1;
 
         public double NextDouble() => _local.NextDouble();
     }

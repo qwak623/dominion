@@ -19,6 +19,6 @@
             isAttack: false
         ) => woodcutter = this;
 
-        public static new Woodcutter Get() => woodcutter ?? new Woodcutter();
+        public static Woodcutter Get() => woodcutter ?? new Woodcutter();
     }
 }

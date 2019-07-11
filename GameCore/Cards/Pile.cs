@@ -27,7 +27,7 @@ namespace GameCore.Cards
         {
             cards = new Stack<Card>();
             for (int i = 0; i < count; i++)
-                cards.Push(card.Get());
+                cards.Push(card);
             top = cards.Peek();
         }
 

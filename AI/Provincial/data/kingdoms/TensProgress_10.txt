@@ -1,0 +1,2 @@
+firstGame:9;5;3;Province (6) 5,Gold (3) 6,Gold (3) 100,Silver (2) 10,Remodel (24) 7,Moat (22) 5,Woodcutter (31) 7,Smithy (25) 8,Gold (3) 5,Estate (4) 4,Cellar (10) 9,Woodcutter (31) 11,Duchy (5) 8
+sizeDistortion:12;11;8;Workshop (32) 2,Gardens (14) 99,Gardens (14) 8,Province (6) 6,Gold (3) 6,Silver (2) 2,Silver (2) 10,Witch (30) 6,Feast (12) 4,Silver (2) 3,Cellar (10) 4,Copper (1) 8,Cellar (10) 8,Gardens (14) 1,Silver (2) 5

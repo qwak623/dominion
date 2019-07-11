@@ -23,7 +23,7 @@ namespace GameCore.Cards.Base
             message: "Trash a treasure, gain a treasure to your hand costing up to $3 more."
         ) => mine = this;
 
-        public static new Mine Get() => mine ?? new Mine();
+        public static Mine Get() => mine ?? new Mine();
 
         protected override void ActionEffect(Player p)
         {

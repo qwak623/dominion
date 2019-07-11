@@ -1,11 +1,18 @@
 ﻿using GameCore.Cards;
 using System.Collections.Generic;
+using System.Threading;
 
 namespace GameCore
 {
+    /// <summary>
+    /// Interface for AI.
+    /// Every card, that requires decision has method here for easier implementation.
+    /// </summary>
     public abstract class User
     {
         public abstract string GetName();
+
+        public virtual void SetCanCelationTokenSource(CancellationTokenSource tokenSource) { }
 
         public abstract Card PlayCard(IEnumerable<Card> cards, PlayerState ps, Kingdom k, Phase phase, Card card = null);
 

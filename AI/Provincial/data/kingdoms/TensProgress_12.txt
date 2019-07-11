@@ -1,0 +1,1 @@
+trasheap:11;5;3;Province (6) 10,Gold (3) 6,Market (19) 9,Silver (2) 10,Festival (13) 3,Mine (21) 5,Duchy (5) 4,Chapel (16) 1,Market (19) 8,Festival (13) 11,Village (29) 10,Gold (3) 102,Village (29) 4,Feast (12) 2

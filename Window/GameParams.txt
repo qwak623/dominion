@@ -1,11 +1,11 @@
 Provincial
-Cellar
 Chancellor
 Village
-Workshop
 Feast
-Remodel
-Festival
+Gardens
+Spy
+Thief
+Laboratory
 Library
-Market
 Mine
+Adventurer

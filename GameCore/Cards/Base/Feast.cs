@@ -21,24 +21,16 @@ namespace GameCore.Cards.Base
             isAttack: false
         ) => feast = this;
 
-        public static new Feast Get() => feast ?? new Feast();
+        public static Feast Get() => feast ?? new Feast();
 
         protected override void ActionEffect(Player player)
         {
-            // bylo by hezke zjistit jestli se mi vůbec vyplati hrat, kdyz neni karta co bych chtel
-            try
-            {
-                player.ps.PlayedCards.Remove(this);
-                player.Game.Trash.Add(this);
-                player.Game.Logger?.Log($"{player.Name} trashes {Name}");
-                var card = player.User.SelectCardToGain(player.Game.Kingdom.GetWrapper(5), player.ps, player.Game.Kingdom, Phase.Gain);
-                if (card != null)
-                    player.Gain(card.Type);
-            }
-            catch (System.Exception e)
-            {
-                throw e;
-            }
+            player.ps.PlayedCards.Remove(this);
+            player.Game.Trash.Add(this);
+            player.Game.Logger?.Log($"{player.Name} trashes {Name}");
+            var card = player.User.SelectCardToGain(player.Game.Kingdom.GetWrapper(5), player.ps, player.Game.Kingdom, Phase.Gain);
+            if (card != null)
+                player.Gain(card.Type);
         }
     }
 }

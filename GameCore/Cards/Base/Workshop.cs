@@ -21,7 +21,7 @@ namespace GameCore.Cards.Base
             isAttack: false
         ) => workshop = this;
 
-        public static new Workshop Get() => workshop ?? new Workshop();
+        public static Workshop Get() => workshop ?? new Workshop();
 
         protected override void ActionEffect(Player p)
         {

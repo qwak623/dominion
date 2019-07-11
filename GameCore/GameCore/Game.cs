@@ -1,6 +1,7 @@
 ﻿using GameCore.Cards;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 using System.Threading.Tasks;
 using Utils;
 
@@ -8,8 +9,6 @@ namespace GameCore
 {
     public class Game
     {
-        public const int maxRounds = 50;
-
         User[] users;
         public List<Player> Players;
         public Kingdom Kingdom;
@@ -20,15 +19,30 @@ namespace GameCore
 
         const int drawCount = 5;
 
-        public Game (User[] users, Kingdom kingdom, ILogger logger = null)
+        /// <summary>
+        /// </summary>
+        /// <param name="users"></param>
+        /// <param name="kingdom">Kingdom has to be unique instance for each game.</param>
+        /// <param name="logger"></param>
+        /// <param name="tokenSource"></param>
+        public Game (User[] users, Kingdom kingdom, ILogger logger = null, CancellationTokenSource tokenSource = null)
         {
+            foreach (var user in users)
+                user.SetCanCelationTokenSource(tokenSource);
             this.Logger = logger;
             Kingdom = kingdom;
             this.users = users;
             Trash = new List<Card>();
         }
 
-        public Task<GameResults> Play()
+        /// <summary>
+        /// Main game loop is implemented here.
+        /// Game is calling player methods. 
+        /// </summary>
+        /// <returns>
+        /// Returns Task with results.
+        /// </returns>
+        public Task<GameResults> Play(int maxRounds = 50)
         {
             return Task.Run(() =>
             {
@@ -42,14 +56,14 @@ namespace GameCore
                 Players.ForEach(player => player.Draw(drawCount));
 
                 // player index
-                int i = 0, round = 0;
+                int i = 0, turn = 0;
 
                 // one turn of one player
                 while (true)
                 {
                     Logger?.Log("\n");
                     if (i == 0)
-                        Logger?.Log($"Round {round}:");
+                        Logger?.Log($"Round {turn}:");
                     Logger?.Log($"Action phase");
                     Logger?.Log("Hand: " + string.Join(", ", Players[i].ps.Hand.Select(c => c.Name)));
 
@@ -74,7 +88,7 @@ namespace GameCore
                     do
                         card = Players[i].Buy();
                     while (card != null);
-
+                    
                     // cleanup phase
                     Players[i].Cleanup();
 
@@ -87,10 +101,13 @@ namespace GameCore
                         Logger?.Log("\r\n\tResults:");
                         foreach (Player player in Players.OrderBy(p => p.VictoryPoints))
                             Logger?.Log($"{player.Name} has {player.VictoryPoints}.");
+
+                        int playerIndex = 0;
                         return new GameResults
                         {
                             Players = Players,
-                            Score = Players.Select(p => p.VictoryPoints).ToList()
+                            Score = Players.Select(p => p.VictoryPoints).ToList(),
+                            Turns = Players.Select(p => playerIndex++ <= i ? turn + 1 : turn).ToList()
                         };
                     }
 
@@ -99,8 +116,8 @@ namespace GameCore
 
                     // stopping too long games
                     if (i == 0)
-                        round++;
-                    if (round >= maxRounds)
+                        turn++;
+                    if (turn >= maxRounds)
                     {
                         Logger?.Log("\r\nGame was terminated, number of rounds exceeded 50.");
                         foreach (Player player in Players.OrderBy(p => p.VictoryPoints))
@@ -108,14 +125,14 @@ namespace GameCore
                         return new GameResults
                         {
                             Players = Players,
-                            Score = new List<int> { 0, 0 }
+                            Score = new List<int> { 0, 0 },
+                            Turns = new List<int> { 0, 0 }
                         };
                     }
                 }
             });
         }
 
-        // todo pridat kolonie
         private bool isGameEnd() => Kingdom.GetPile(CardType.Province).Empty || Kingdom.EmptyPiles >= 3;
     }
 }

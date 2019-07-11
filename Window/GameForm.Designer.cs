@@ -33,8 +33,7 @@
             this.SetKingdom = new System.Windows.Forms.Button();
             this.Header = new System.Windows.Forms.Panel();
             this.markButton = new System.Windows.Forms.Button();
-            this.Settings = new System.Windows.Forms.Button();
-            this.StartGame = new System.Windows.Forms.Button();
+            this.StartGameButton = new System.Windows.Forms.Button();
             this.GamePanel = new System.Windows.Forms.Panel();
             this.PhasePanel = new System.Windows.Forms.Panel();
             this.BuyLabel = new System.Windows.Forms.Label();
@@ -110,8 +109,7 @@
             // 
             this.Header.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.Header.Controls.Add(this.markButton);
-            this.Header.Controls.Add(this.Settings);
-            this.Header.Controls.Add(this.StartGame);
+            this.Header.Controls.Add(this.StartGameButton);
             this.Header.Controls.Add(this.SetKingdom);
             this.Header.Location = new System.Drawing.Point(0, 0);
             this.Header.Name = "Header";
@@ -128,25 +126,15 @@
             this.markButton.UseVisualStyleBackColor = true;
             this.markButton.Click += new System.EventHandler(this.MarkKingdom);
             // 
-            // Settings
+            // StartGameButton
             // 
-            this.Settings.Location = new System.Drawing.Point(415, 3);
-            this.Settings.Name = "Settings";
-            this.Settings.Size = new System.Drawing.Size(200, 30);
-            this.Settings.TabIndex = 3;
-            this.Settings.Text = "Settings";
-            this.Settings.UseVisualStyleBackColor = true;
-            this.Settings.Click += new System.EventHandler(this.Settings_Click);
-            // 
-            // StartGame
-            // 
-            this.StartGame.Location = new System.Drawing.Point(3, 3);
-            this.StartGame.Name = "StartGame";
-            this.StartGame.Size = new System.Drawing.Size(200, 30);
-            this.StartGame.TabIndex = 1;
-            this.StartGame.Text = "Start";
-            this.StartGame.UseVisualStyleBackColor = true;
-            this.StartGame.Click += new System.EventHandler(this.StartGame_Click);
+            this.StartGameButton.Location = new System.Drawing.Point(3, 3);
+            this.StartGameButton.Name = "StartGameButton";
+            this.StartGameButton.Size = new System.Drawing.Size(200, 30);
+            this.StartGameButton.TabIndex = 1;
+            this.StartGameButton.Text = "Start";
+            this.StartGameButton.UseVisualStyleBackColor = true;
+            this.StartGameButton.Click += new System.EventHandler(this.StartGame_Click);
             // 
             // GamePanel
             // 
@@ -489,7 +477,7 @@
         private System.Windows.Forms.Label KingdomLabel;
         private System.Windows.Forms.Button SetKingdom;
         private System.Windows.Forms.Panel Header;
-        private System.Windows.Forms.Button StartGame;
+        private System.Windows.Forms.Button StartGameButton;
         private System.Windows.Forms.Panel GamePanel;
         private System.Windows.Forms.Label PlayAreaLabel;
         private System.Windows.Forms.Label CoinLabel;
@@ -502,7 +490,6 @@
         private System.Windows.Forms.Label LogLabel;
         private System.Windows.Forms.TextBox LogTextBox;
         private System.Windows.Forms.Panel PhasePanel;
-        private System.Windows.Forms.Button Settings;
         private System.Windows.Forms.Panel CurrentKingdomPanel;
         private System.Windows.Forms.Label CurrentKingdomLabel;
         private System.Windows.Forms.Panel ExtensionsCardsPanel;

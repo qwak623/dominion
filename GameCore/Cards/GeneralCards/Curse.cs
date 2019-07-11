@@ -16,6 +16,6 @@
             isTreasure: false
         ) => curse = this;
 
-        public static new Curse Get() => curse ?? new Curse();
+        public static Curse Get() => curse ?? new Curse();
     }
 }

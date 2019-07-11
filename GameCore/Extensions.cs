@@ -20,10 +20,16 @@ namespace GameCore
             }
         }
 
+        /// <summary>
+        /// Returns prepared piles for new game based on kingdomCards and player count.
+        /// </summary>
+        /// <param name="cards"></param>
+        /// <param name="players"></param>
+        /// <returns></returns>
         public static Kingdom GetKingdom(this List<Card> cards, int players)
         {
             // this should be correct, since list of cards wont change at this point
-            return new Kingdom(cards.Select(c => new Pile(c)).ToList(), players);
+            return new Kingdom(cards.AddRequiredCards().Select(c => new Pile(c)).ToList(), players);
         }
 
         public static List<Card> AddRequiredCards(this IEnumerable<Card> cards)

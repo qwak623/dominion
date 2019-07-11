@@ -15,6 +15,6 @@
             isTreasure: true
         ) => silver = this;
 
-        public static new Silver Get() => silver ?? new Silver();
+        public static Silver Get() => silver ?? new Silver();
     }
 }

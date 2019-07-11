@@ -21,7 +21,7 @@ namespace GameCore.Cards.Base
             isAttack: false
         ) => moneylender = this;
 
-        public static new Moneylender Get() => moneylender ?? new Moneylender();
+        public static Moneylender Get() => moneylender ?? new Moneylender();
 
         protected override void ActionEffect(Player player)
         {

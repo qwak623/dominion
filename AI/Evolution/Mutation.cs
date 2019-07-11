@@ -1,4 +1,5 @@
-﻿using GameCore.Cards;
+﻿using AI.Model;
+using GameCore.Cards;
 using System;
 using System.Collections.Generic;
 using Utils;
@@ -31,15 +32,21 @@ namespace AI.Evolution
         public override void Mutate(BuyAgenda agenda, List<Card> kingdom)
         {
             int i = rnd.Next(agenda.BuyMenu.Count);
-            
+
             var tuple = agenda.BuyMenu[i];
-            tuple.Number += Math.Sign(rnd.Next());
+
+            tuple.Number += rnd.NextSign();
 
             // if number = 0 card is never bought anyway
             if (tuple.Number == 0)
+            {
                 agenda.BuyMenu.RemoveAt(i);
+                return;
+            }
 
             agenda.BuyMenu[i] = tuple;
+
+
         }
     }
 
@@ -60,18 +67,18 @@ namespace AI.Evolution
     {
         public override void Mutate(BuyAgenda agenda, List<Card> kingdom)
         {
-            int i = rnd.Next(3); // TODO zjistovani jestli jsou kolonie ve hre
+            int i = rnd.Next(3);
 
             switch (i)
             {
                 case 0:
-                    agenda.Estates += Math.Sign(rnd.Next());
+                    agenda.Estates += rnd.NextSign();
                     break;
                 case 1:
-                    agenda.Duchies += Math.Sign(rnd.Next());
+                    agenda.Duchies += rnd.NextSign();
                     break;
                 case 2:
-                    agenda.Provinces += Math.Sign(rnd.Next());
+                    agenda.Provinces += rnd.NextSign();
                     break;
                 default:
                     break;
@@ -94,6 +101,9 @@ namespace AI.Evolution
     {
         public override void Mutate(BuyAgenda agenda, List<Card> kingdom)
         {
+            if (agenda.BuyMenu.Count == 1)
+                return;
+
             int i = rnd.Next(agenda.BuyMenu.Count);
 
             agenda.BuyMenu.RemoveAt(i);
