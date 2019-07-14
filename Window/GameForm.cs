@@ -59,7 +59,7 @@ namespace Window
 
                 // todo fives or tens (type of inteligence)
                 //var managerTens = new Tens(directoryPath);
-                var managerFives = new Fives(directoryPath);
+                var managerFives = new CachedManager(directoryPath, 5, "Fives_");
                 //  var ai = new ProvincialAI(managerTens.LoadBest(gameParams.Cards), "Tens");
 
                 var ai = new ProvincialAI(managerFives.LoadBest(gameParams.Cards), "Fives");
@@ -492,8 +492,7 @@ namespace Window
             foreach (var f in files)
                 using (var reader = f.OpenText())
                     while (!reader.EndOfStream)
-                        list.Add(reader.ReadLine().Split(':')[0].Split('_')
-                            .Select(s => Card.Get((CardType)int.Parse(s))).ToList());
+                        list.Add(reader.ReadLine().Split(':')[0].ToCardList());
             gameParams.Cards = list[new ThreadSafeRandom().Next(list.Count)];
 
             ShowCurrentKingdomCards();

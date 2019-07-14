@@ -46,8 +46,9 @@
     <Compile Include="Evolution\Params.cs" />
     <Compile Include="Model\BuyAgenda.cs" />
     <Compile Include="Model\BuyAgendaManager.cs" />
-    <Compile Include="Model\Fives.cs" />
-    <Compile Include="Model\Tens.cs" />
+    <Compile Include="Model\BuyAgendaTournament.cs" />
+    <Compile Include="Model\CachedManager.cs" />
+    <Compile Include="Model\SimpleManager.cs" />
     <Compile Include="Provincial\Data.cs" />
     <Compile Include="Provincial\PlayAgenda.cs" />
     <Compile Include="Provincial\PlayerInfo.cs" />

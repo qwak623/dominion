@@ -48,7 +48,7 @@ namespace AI.Evolution
                 // todo smazat pak
                 if (referenceAgenda != null)
                     ComputeFitness(leaders[0], gen);
-                referenceAgenda = leaders[0];
+                //referenceAgenda = leaders[0];
 
                 logger?.Log($"Generation {gen}: elapsed time {elapsed.TotalSeconds.ToString("0.00")}s");
             }
@@ -142,7 +142,9 @@ namespace AI.Evolution
 
             //if (result[1] > result[0])
             //   buyAgenda.Save(par.Kingdom, $"gen_{generation}({result[0]}, {result[1]})");
-            logger?.Log($"Generation {generation}: Referencer {result[0]}, Leader {result[1]}, Ratio {result[2]}");
+            //logger?.Log($"{generation}: Referencer {result[0]}, Leader {result[1]}, Ratio {result[2]}");
+            logger?.Log($"{generation} {result[0]} {result[1]} {result[2]}");
+
         }
 
         bool IsSimilarToAny(BuyAgenda agenda, int count)

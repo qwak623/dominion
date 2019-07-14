@@ -18,25 +18,33 @@ namespace AI.Model
         public int Estates { get; set; }
         public bool Loaded { get; set; }
 
-        public static BuyAgenda FromString(string str) // TODO internal pak
+        public static BuyAgenda FromString(string str)
         {
             var line = str.Split(':');
 
-            var agendaArray = line[1].Split(';');
-
-            var agenda = new BuyAgenda(line[0]);
-            agenda.Loaded = true;
-            agenda.Provinces = int.Parse(agendaArray[0]);
-            agenda.Duchies = int.Parse(agendaArray[1]);
-            agenda.Estates = int.Parse(agendaArray[2]);
-
-            foreach (var item in agendaArray[3].Split(',').Select(i => i.Split()))
+            try
             {
-                Enum.TryParse(item[0], out CardType type);
-                agenda.BuyMenu.Add((type, int.Parse(item[2])));
-            }
 
-            return agenda;
+                var agendaArray = line[1].Split(';');
+
+                var agenda = new BuyAgenda(line[0]);
+                agenda.Loaded = true;
+                agenda.Provinces = int.Parse(agendaArray[0]);
+                agenda.Duchies = int.Parse(agendaArray[1]);
+                agenda.Estates = int.Parse(agendaArray[2]);
+
+                foreach (var item in agendaArray[3].Split(',').Select(i => i.Split()))
+                {
+                    Enum.TryParse(item[0], out CardType type);
+                    agenda.BuyMenu.Add((type, int.Parse(item[2])));
+                }
+
+                return agenda;
+            }
+            catch (Exception e)
+            {
+                return null;
+            }
         }
 
         public string ToString(string id)
@@ -47,12 +55,12 @@ namespace AI.Model
 
         public BuyAgenda Clone()
         {
-            return new BuyAgenda(this.Id)
+            return new BuyAgenda(Id)
             {
                 Provinces = this.Provinces,
                 Duchies = this.Duchies,
                 Estates = this.Estates,
-                BuyMenu = BuyMenu.ToList()
+                BuyMenu = this.BuyMenu.ToList()
             };
         }
 
@@ -63,7 +71,6 @@ namespace AI.Model
 
             var rnd = new ThreadSafeRandom();
 
-            // i dont really care if the possitive mod is correct, i just need the number between 1 and 10
             var randomKingdom = k.Where(c => c.Type != CardType.Curse || c.Type != CardType.Copper)
                 .OrderBy(c => rnd.Next())
                 .Take(9)

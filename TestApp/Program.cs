@@ -26,10 +26,10 @@ namespace TestApp
             List<Card> cards = PresetGames.Get(Games.BigMoney);
 
             string first = "Tens";
-            var firstAgenda = new Tens(directoryPath).LoadBest(cards);
+            var firstAgenda = new SimpleManager(directoryPath, "Tens_").LoadBest(cards);
             User getFirst() => new ProvincialAI(firstAgenda, first);
             string second = "Fives";
-            var secondAgenda = new Fives(directoryPath).LoadBest(cards);
+            var secondAgenda = new CachedManager(directoryPath, 5, "Fives_").LoadBest(cards);
             User getSecond() => new ProvincialAI(secondAgenda, second);
 
             Game game = new Game(new User[] { getFirst(), getSecond() }, cards.GetKingdom(2), new MyLogger());

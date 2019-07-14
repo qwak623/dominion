@@ -1,4 +1,5 @@
 ﻿using AI.Model;
+using GameCore;
 using GameCore.Cards;
 using System;
 using System.Collections.Generic;
@@ -19,7 +20,7 @@ namespace BestCards
             var rnd = new ThreadSafeRandom();
             char sep = Path.DirectorySeparatorChar;
             string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms{sep}";
-            var managerFives = new Fives(directoryPath);
+            var managerFives = new CachedManager(directoryPath, 5, "Fives_");
             foreach (var cardType in Enumerable.Range((int)CardType.Adventurer, 25))
                 tuples[cardType - 8] = new Tuple { CardType = (CardType)cardType };
 
@@ -39,7 +40,7 @@ namespace BestCards
                     .ThenBy(a => a.Name)
                     .ToList();
 
-                var bestCards = managerFives.LoadBest(cards).Id.Split('_').Select(c => Card.Get((CardType)int.Parse(c))).ToList();
+                var bestCards = managerFives.LoadBest(cards).Id.ToCardList();
 
                 foreach (var card in cards)
                     tuples[(int)card.Type - 8].TotalGames++;

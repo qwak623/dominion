@@ -51,7 +51,6 @@ namespace AI.Evolution
             for (int i = 0; i < mutations.Count; number -= mutations[i++].Probability)
                 if (number < mutations[i].Probability)
                     return mutations[i].Mutation;
-
             return null;
         }
     }

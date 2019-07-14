@@ -1,202 +1,98 @@
-evolution: NamedGames
-kingdom: random
-kingdom 0: kingdom 12 13 16 19 21 23 24 29 31 32
-Generation 0: elapsed time 17,60s
-Generation 1: Referencer 2577, Leader 8481, Ratio 5904
-Generation 1: elapsed time 15,66s
-Generation 2: Referencer 4744, Leader 6413, Ratio 1669
-Generation 2: elapsed time 16,41s
-Generation 3: Referencer 7876, Leader 2765, Ratio -5111
-Generation 3: elapsed time 15,38s
-Generation 4: Referencer 5313, Leader 5262, Ratio -51
-Generation 4: elapsed time 16,90s
-Generation 5: Referencer 22, Leader 9985, Ratio 9963
-Generation 5: elapsed time 17,53s
-Generation 6: Referencer 2835, Leader 7494, Ratio 4659
-Generation 6: elapsed time 18,27s
-Generation 7: Referencer 3282, Leader 7259, Ratio 3977
-Generation 7: elapsed time 18,13s
-Generation 8: Referencer 4223, Leader 6504, Ratio 2281
-Generation 8: elapsed time 17,19s
-Generation 9: Referencer 5141, Leader 5796, Ratio 655
-Generation 9: elapsed time 16,33s
-Generation 10: Referencer 5501, Leader 5375, Ratio -126
-Generation 10: elapsed time 14,40s
-Generation 11: Referencer 5090, Leader 5809, Ratio 719
-Generation 11: elapsed time 14,01s
-Generation 12: Referencer 4998, Leader 5853, Ratio 855
-Generation 12: elapsed time 14,31s
-Generation 13: Referencer 5439, Leader 5474, Ratio 35
-Generation 13: elapsed time 12,82s
-Generation 14: Referencer 5369, Leader 5190, Ratio -179
-Generation 14: elapsed time 12,98s
-Generation 15: Referencer 4464, Leader 6053, Ratio 1589
-Generation 15: elapsed time 11,52s
-Generation 16: Referencer 5473, Leader 5509, Ratio 36
-Generation 16: elapsed time 12,14s
-Generation 17: Referencer 4659, Leader 5847, Ratio 1188
-Generation 17: elapsed time 9,41s
-Generation 18: Referencer 5267, Leader 5253, Ratio -14
-Generation 18: elapsed time 9,58s
-Generation 19: Referencer 4844, Leader 5801, Ratio 957
-Generation 19: elapsed time 8,59s
-Generation 20: Referencer 5326, Leader 5337, Ratio 11
-Generation 20: elapsed time 8,23s
-Generation 21: Referencer 3740, Leader 6833, Ratio 3093
-Generation 21: elapsed time 8,68s
-Generation 22: Referencer 5402, Leader 5261, Ratio -141
-Generation 22: elapsed time 7,74s
-Generation 23: Referencer 4112, Leader 6393, Ratio 2281
-Generation 23: elapsed time 9,13s
-Generation 24: Referencer 5193, Leader 5349, Ratio 156
-Generation 24: elapsed time 8,35s
-Generation 25: Referencer 5408, Leader 5101, Ratio -307
-Generation 25: elapsed time 8,25s
-Generation 26: Referencer 5481, Leader 5585, Ratio 104
-Generation 26: elapsed time 7,72s
-Generation 27: Referencer 3712, Leader 6677, Ratio 2965
-Generation 27: elapsed time 9,34s
-Generation 28: Referencer 5147, Leader 5389, Ratio 242
-Generation 28: elapsed time 7,91s
-Generation 29: Referencer 5277, Leader 5260, Ratio -17
-Generation 29: elapsed time 8,25s
-Generation 30: Referencer 5304, Leader 5239, Ratio -65
-Generation 30: elapsed time 8,00s
-Generation 31: Referencer 4829, Leader 5701, Ratio 872
-Generation 31: elapsed time 8,35s
-Generation 32: Referencer 5313, Leader 5287, Ratio -26
-Generation 32: elapsed time 8,05s
-Generation 33: Referencer 5172, Leader 5346, Ratio 174
-Generation 33: elapsed time 8,15s
-Generation 34: Referencer 5356, Leader 5128, Ratio -228
-Generation 34: elapsed time 8,18s
-Generation 35: Referencer 5338, Leader 5199, Ratio -139
-Generation 35: elapsed time 7,73s
-Generation 36: Referencer 5100, Leader 5450, Ratio 350
-Generation 36: elapsed time 7,65s
-Generation 37: Referencer 5338, Leader 5185, Ratio -153
-Generation 37: elapsed time 7,98s
-Generation 38: Referencer 5204, Leader 5280, Ratio 76
-Generation 38: elapsed time 7,66s
-Generation 39: Referencer 4956, Leader 5580, Ratio 624
-Generation 39: elapsed time 8,26s
-Generation 40: Referencer 5246, Leader 5267, Ratio 21
-Generation 40: elapsed time 7,83s
-Generation 41: Referencer 4777, Leader 5735, Ratio 958
-Generation 41: elapsed time 8,01s
-Generation 42: Referencer 5421, Leader 5115, Ratio -306
-Generation 42: elapsed time 7,82s
-Generation 43: Referencer 5019, Leader 5478, Ratio 459
-Generation 43: elapsed time 8,42s
-Generation 44: Referencer 5247, Leader 5215, Ratio -32
-Generation 44: elapsed time 8,71s
-Generation 45: Referencer 5137, Leader 5417, Ratio 280
-Generation 45: elapsed time 8,95s
-Generation 46: Referencer 4771, Leader 5794, Ratio 1023
-Generation 46: elapsed time 8,16s
-Generation 47: Referencer 5197, Leader 5295, Ratio 98
-Generation 47: elapsed time 7,06s
-Generation 48: Referencer 4714, Leader 5736, Ratio 1022
-Generation 48: elapsed time 7,70s
-Generation 49: Referencer 5173, Leader 5378, Ratio 205
-Generation 49: elapsed time 7,38s
-Generation 50: Referencer 4856, Leader 5591, Ratio 735
-Generation 50: elapsed time 7,14s
-Generation 51: Referencer 4918, Leader 5505, Ratio 587
-Generation 51: elapsed time 8,71s
-Generation 52: Referencer 5278, Leader 5256, Ratio -22
-Generation 52: elapsed time 7,05s
-Generation 53: Referencer 5572, Leader 4860, Ratio -712
-Generation 53: elapsed time 8,12s
-Generation 54: Referencer 4661, Leader 5738, Ratio 1077
-Generation 54: elapsed time 8,06s
-Generation 55: Referencer 5133, Leader 5292, Ratio 159
-Generation 55: elapsed time 7,77s
-Generation 56: Referencer 5040, Leader 5397, Ratio 357
-Generation 56: elapsed time 7,30s
-Generation 57: Referencer 5272, Leader 5194, Ratio -78
-Generation 57: elapsed time 7,89s
-Generation 58: Referencer 3992, Leader 6367, Ratio 2375
-Generation 58: elapsed time 7,70s
-Generation 59: Referencer 5216, Leader 5192, Ratio -24
-Generation 59: elapsed time 7,73s
-Generation 60: Referencer 5215, Leader 5213, Ratio -2
-Generation 60: elapsed time 8,38s
-Generation 61: Referencer 5186, Leader 5210, Ratio 24
-Generation 61: elapsed time 8,00s
-Generation 62: Referencer 5104, Leader 5367, Ratio 263
-Generation 62: elapsed time 8,50s
-Generation 63: Referencer 5205, Leader 5269, Ratio 64
-Generation 63: elapsed time 8,23s
-Generation 64: Referencer 5305, Leader 5153, Ratio -152
-Generation 64: elapsed time 8,06s
-Generation 65: Referencer 5166, Leader 5289, Ratio 123
-Generation 65: elapsed time 8,62s
-Generation 66: Referencer 5144, Leader 5345, Ratio 201
-Generation 66: elapsed time 8,60s
-Generation 67: Referencer 5418, Leader 5064, Ratio -354
-Generation 67: elapsed time 8,24s
-Generation 68: Referencer 5096, Leader 5352, Ratio 256
-Generation 68: elapsed time 8,12s
-Generation 69: Referencer 5310, Leader 5219, Ratio -91
-Generation 69: elapsed time 9,17s
-Generation 70: Referencer 5239, Leader 5224, Ratio -15
-Generation 70: elapsed time 8,06s
-Generation 71: Referencer 5136, Leader 5327, Ratio 191
-Generation 71: elapsed time 9,35s
-Generation 72: Referencer 5175, Leader 5309, Ratio 134
-Generation 72: elapsed time 12,47s
-Generation 73: Referencer 5283, Leader 5176, Ratio -107
-Generation 73: elapsed time 11,38s
-Generation 74: Referencer 5264, Leader 5225, Ratio -39
-Generation 74: elapsed time 11,65s
-Generation 75: Referencer 5360, Leader 5137, Ratio -223
-Generation 75: elapsed time 11,44s
-Generation 76: Referencer 5300, Leader 5169, Ratio -131
-Generation 76: elapsed time 13,25s
-Generation 77: Referencer 5156, Leader 5329, Ratio 173
-Generation 77: elapsed time 10,78s
-Generation 78: Referencer 5290, Leader 5160, Ratio -130
-Generation 78: elapsed time 11,37s
-Generation 79: Referencer 5141, Leader 5295, Ratio 154
-Generation 79: elapsed time 10,59s
-Generation 80: Referencer 5210, Leader 5262, Ratio 52
-Generation 80: elapsed time 12,56s
-Generation 81: Referencer 5251, Leader 5245, Ratio -6
-Generation 81: elapsed time 12,10s
-Generation 82: Referencer 5288, Leader 5180, Ratio -108
-Generation 82: elapsed time 13,05s
-Generation 83: Referencer 5316, Leader 5158, Ratio -158
-Generation 83: elapsed time 12,14s
-Generation 84: Referencer 5187, Leader 5305, Ratio 118
-Generation 84: elapsed time 10,88s
-Generation 85: Referencer 5172, Leader 5289, Ratio 117
-Generation 85: elapsed time 11,54s
-Generation 86: Referencer 5205, Leader 5272, Ratio 67
-Generation 86: elapsed time 13,47s
-Generation 87: Referencer 5178, Leader 5266, Ratio 88
-Generation 87: elapsed time 12,34s
-Generation 88: Referencer 5275, Leader 5195, Ratio -80
-Generation 88: elapsed time 11,21s
-Generation 89: Referencer 5239, Leader 5261, Ratio 22
-Generation 89: elapsed time 11,61s
-Generation 90: Referencer 5211, Leader 5249, Ratio 38
-Generation 90: elapsed time 10,85s
-Generation 91: Referencer 5249, Leader 5227, Ratio -22
-Generation 91: elapsed time 12,07s
-Generation 92: Referencer 5208, Leader 5301, Ratio 93
-Generation 92: elapsed time 11,01s
-Generation 93: Referencer 5282, Leader 5183, Ratio -99
-Generation 93: elapsed time 11,64s
-Generation 94: Referencer 5229, Leader 5247, Ratio 18
-Generation 94: elapsed time 11,10s
-Generation 95: Referencer 5142, Leader 5315, Ratio 173
-Generation 95: elapsed time 11,61s
-Generation 96: Referencer 5253, Leader 5207, Ratio -46
-Generation 96: elapsed time 11,90s
-Generation 97: Referencer 5240, Leader 5273, Ratio 33
-Generation 97: elapsed time 11,50s
-Generation 98: Referencer 5140, Leader 5349, Ratio 209
-Generation 98: elapsed time 8,10s
-Generation 99: Referencer 5226, Leader 5212, Ratio -14
-Generation 99: elapsed time 8,92s
+1 2577 8481 5904
+2 4744 6413 1669
+3 7876 2765 -5111
+4 5313 5262 -51
+5 22 9985 9963
+6 2835 7494 4659
+7 3282 7259 3977
+8 4223 6504 2281
+9 5141 5796 655
+10 5501 5375 -126
+11 5090 5809 719
+12 4998 5853 855
+13 5439 5474 35
+14 5369 5190 -179
+15 4464 6053 1589
+16 5473 5509 36
+17 4659 5847 1188
+18 5267 5253 -14
+19 4844 5801 957
+20 5326 5337 11
+21 3740 6833 3093
+22 5402 5261 -141
+23 4112 6393 2281
+24 5193 5349 156
+25 5408 5101 -307
+26 5481 5585 104
+27 3712 6677 2965
+28 5147 5389 242
+29 5277 5260 -17
+30 5304 5239 -65
+31 4829 5701 872
+32 5313 5287 -26
+33 5172 5346 174
+34 5356 5128 -228
+35 5338 5199 -139
+36 5100 5450 350
+37 5338 5185 -153
+38 5204 5280 76
+39 4956 5580 624
+40 5246 5267 21
+41 4777 5735 958
+42 5421 5115 -306
+43 5019 5478 459
+44 5247 5215 -32
+45 5137 5417 280
+46 4771 5794 1023
+47 5197 5295 98
+48 4714 5736 1022
+49 5173 5378 205
+50 4856 5591 735
+51 4918 5505 587
+52 5278 5256 -22
+53 5572 4860 -712
+54 4661 5738 1077
+55 5133 5292 159
+56 5040 5397 357
+57 5272 5194 -78
+58 3992 6367 2375
+59 5216 5192 -24
+60 5215 5213 -2
+61 5186 5210 24
+62 5104 5367 263
+63 5205 5269 64
+64 5305 5153 -152
+65 5166 5289 123
+66 5144 5345 201
+67 5418 5064 -354
+68 5096 5352 256
+69 5310 5219 -91
+70 5239 5224 -15
+71 5136 5327 191
+72 5175 5309 134
+73 5283 5176 -107
+74 5264 5225 -39
+75 5360 5137 -223
+76 5300 5169 -131
+77 5156 5329 173
+78 5290 5160 -130
+79 5141 5295 154
+80 5210 5262 52
+81 5251 5245 -6
+82 5288 5180 -108
+83 5316 5158 -158
+84 5187 5305 118
+85 5172 5289 117
+86 5205 5272 67
+87 5178 5266 88
+88 5275 5195 -80
+89 5239 5261 22
+90 5211 5249 38
+91 5249 5227 -22
+92 5208 5301 93
+93 5282 5183 -99
+94 5229 5247 18
+95 5142 5315 173
+96 5253 5207 -46
+98 5140 5349 209
+99 5226 5212 -14

@@ -1,4 +1,5 @@
 ﻿using GameCore.Cards;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using Utils;
@@ -44,6 +45,16 @@ namespace GameCore
                 if (card.Type == type)
                     return true;
             return false;
+        }
+
+        public static List<Card> ToCardList(this string id)
+        {
+            return id.Split('_').Select(a => Card.Get((CardType)int.Parse(a))).ToList();
+        }
+
+        public static string ToId(this IEnumerable<Card> cardList)
+        {
+            return cardList.OrderBy(p => p.Type).Select(p => ((int)p.Type).ToString()).Aggregate((a, b) => a + "_" + b);
         }
     }
 }

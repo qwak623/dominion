@@ -26,7 +26,8 @@ namespace Eva
             var rnd = new ThreadSafeRandom();
             char sep = Path.DirectorySeparatorChar;
             string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms{sep}";
-            BuyAgendaManager manager = new Tens(directoryPath, "TensProgress_");
+            string subsetFile = null;
+            BuyAgendaManager manager = new SimpleManager(directoryPath, "TensProgress_");
 
             IEnumerator<string> kingdoms = null;
 
@@ -42,16 +43,27 @@ namespace Eva
                     {
                         switch (args[i][j])
                         {
-                            case 'd':
-                                et = EvolutionType.Tens;
-                                manager = new Tens(directoryPath);
-                                break;
-                            case 'f':
-                                et = EvolutionType.Fives;
-                                manager = new Fives(directoryPath);
-                                break;
                             case 'c':
                                 count = int.Parse(args[++i]);
+                                break;
+                            case 'd':
+                                et = EvolutionType.Tens;
+                                manager = new SimpleManager(directoryPath, "Tens_");
+                                break;
+                            case 'f':
+                                et = EvolutionType.Subsets;
+                                //manager = new CachedManager(directoryPath, 5, "Fives_");
+                                manager = new SimpleManager(directoryPath, "Fives_");
+                                subsetFile = "fives";
+                                break;
+                            case 'h':
+                                et = EvolutionType.Subsets;
+                                //manager = new CachedManager(directoryPath, 3, "Threes_");
+                                manager = new SimpleManager(directoryPath, "Threes_");
+                                subsetFile = "threes";
+                                break;
+                            case 'n':
+                                et = EvolutionType.NamedGames;
                                 break;
                             case 's':
                                 startIndex = int.Parse(args[++i]);
@@ -59,9 +71,6 @@ namespace Eva
                             case 't':
                                 parallelDegreeExt = 1;
                                 parallelDegreeInt = int.Parse(args[++i]);
-                                break;
-                            case 'n':
-                                et = EvolutionType.NamedGames;
                                 break;
                             default:
                                 break;
@@ -76,12 +85,13 @@ namespace Eva
 
             WriteLine($"evolution: {et.ToString()}");
 
-            if (et == EvolutionType.Fives)
+            if (et == EvolutionType.Subsets)
             {
-                kingdoms = File.ReadAllLines($"{directoryPath}{sep}fives.txt").Skip(startIndex).Take(count).GetEnumerator();
+                kingdoms = File.ReadAllLines($"{directoryPath}{sep}{subsetFile}.txt").Skip(startIndex).Take(count).GetEnumerator();
                 WriteLine($"count: {count}");
                 WriteLine($"start index: {startIndex}");
             }
+            
             else
             {
                 WriteLine($"kingdom: random");
@@ -128,7 +138,7 @@ namespace Eva
                                 manager.Save(cards, agenda);
                             }
                             break;
-                        case EvolutionType.Fives:
+                        case EvolutionType.Subsets:
                             {
                                 List<Card> cards = null;
                                 kingdoms.MoveNext();
@@ -162,32 +172,32 @@ namespace Eva
                         case EvolutionType.NamedGames:
                             {
                                 //cards = PresetGames.Get(Games.FirstGame).AddRequiredCards();
-                                List<List<Card>> games = new List<List<Card>>
+                                List<(List<Card> Cards, string Name)> games = new List<(List<Card>, string)>
                                 {
                                     //PresetGames.Get(Games.BigMoney),
                                     //PresetGames.Get(Games.Interaction),
-                                    //PresetGames.Get(Games.FirstGame),
-                                    //PresetGames.Get(Games.SizeDistortion),
-                                    //PresetGames.Get(Games.ThrashHeap),
+                                    //(PresetGames.Get(Games.FirstGame), "firstGame"),
+                                    //(PresetGames.Get(Games.SizeDistortion), "sizeDistortion"),
+                                    //(PresetGames.Get(Games.ThrashHeap), "trasheap"),
                                     //PresetGames.Get(Games.VillageSquare),
+                                    ((new int[]{ 9, 12, 15, 18, 22, 24, 27, 28, 31, 32}.Select(c => Card.Get((CardType)c)).ToList()), "badCards")
+                                    //(new List<Card>{Card.Get(CardType.Curse)}, "bigMoney")
                                 };
 
-                                games.Add(new List<int>{1, 2 ,3}.Select())
-
-                                games.ForEach(cards =>
+                                games.ForEach(item =>
                                 {
-                                    var kingdomName = cards.OrderBy(p => p.Type).Select(p => (int)p.Type).Aggregate("kingdom", (a, b) => a + " " + b);
-                                    WriteLine($"kingdom {i}: {kingdomName}");
+                                    var kingdomName = item.Cards.OrderBy(p => p.Type).Select(p => (int)p.Type).Aggregate("kingdom", (a, b) => a + " " + b);
+                                    WriteLine($"kingdom {i}: {item.Name} {kingdomName}");
                                     var evolution = new Evolution(new Params
                                     {
-                                        Kingdom = cards,
+                                        Kingdom = item.Cards,
                                         Evaluator = new ProvincialEvaluator(),
                                         LeaderCount = 10,
                                         PoolCount = 50,
                                         Generations = 100,
-                                    }, new Logger());
+                                    }, new Logger(), manager.First(a => a.Id == "bigMoney"));
                                     var agenda = evolution.Run();
-                                    manager.Save(cards, agenda);
+                                    manager.Save(item.Cards, agenda);
                                 });
                             }
                             break;
@@ -203,7 +213,7 @@ namespace Eva
             ReadLine();
         }
 
-        enum EvolutionType { Tens, Fives, NamedGames }
+        enum EvolutionType { Tens, Subsets, NamedGames }
 
         class Logger : ILogger
         {

@@ -1,0 +1,2 @@
+9_12_15_18_22_24_27_28_31_32:7;5;4;Province (6) 5,Gold (3) 8,Gold (3) 99,Gold (3) 4,Silver (2) 11,Thief (27) 6,Moat (22) 3,Remodel (24) 7,Silver (2) 3,Library (18) 5,Remodel (24) 4,Bureaucrat (9) 6
+badCards:5;5;3;Province (6) 6,Gold (3) 99,Library (18) 7,Silver (2) 9,Woodcutter (31) 4,Bureaucrat (9) 1,Workshop (32) 8,Gold (3) 7,Library (18) 2,Workshop (32) 4,Thief (27) 13,Duchy (5) 10,ThroneRoom (28) 3,Feast (12) 6,Thief (27) 4,Bureaucrat (9) 3

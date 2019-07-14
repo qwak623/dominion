@@ -31,9 +31,7 @@ namespace AI.Provincial
                     var result = task.Result;
 
                     //wins += result.Score[0].CompareTo(result.Score[1]);
-                    // todo funguje jen u dvou hracu zatim
                     wins += result.Compare2Players();
-
 
                     if (gameIndex >= minGames && gameIndex % 200 == 0)
                     {

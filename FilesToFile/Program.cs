@@ -1,13 +1,17 @@
 ﻿using AI.Evolution;
 using AI.Model;
 using AI.Provincial;
+using GameCore;
 using GameCore.Cards;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Utils;
+using static System.Console;
 
 namespace FilesToFile
 {
@@ -21,43 +25,62 @@ namespace FilesToFile
 
         static void Main(string[] args)
         {
+            var manager = new SimpleManager(directoryPath, "Fives_");
+            var dict = new Dictionary<string, BuyAgenda>();
+            List<BuyAgenda> list = new List<BuyAgenda>();
+            int i = 0, k = 0;
+            foreach (var item in manager)
+                list.Add(item);
+
+            // odecteni uz existujicich veci
+            //var list2 = list.Select(s => s.Id).ToList();
+            //var writer = new StreamWriter($"{directoryPath}newFives.txt"); 
+
+            //foreach (string line in File.ReadLines($"{directoryPath}fives.txt"))
+            //{
+            //    if (!list2.Contains(line.Replace(' ', '_')))
+            //    {
+            //        writer.WriteLine(line);
+            //        i++;
+            //    }
+            //}
+            //writer.Close();
+
+            // turnaj stejnych inteligenci
+            //foreach (var item in list.OrderBy(a => a.Id))
+            //{
+            //    if (item == null)
+            //        continue;
+            //    var cards = item.Id.ToCardList();
+            //    if (!dict.ContainsKey(item.Id))
+            //        dict[item.Id] = item;
+            //    else
+            //    {
+            //        WriteLine(item.Id);
+            //        var agendas = new List<BuyAgendaTournament.Tuple>
+            //        {
+            //            new BuyAgendaTournament.Tuple{ Agenda = dict[item.Id], Cards = cards },
+            //            new BuyAgendaTournament.Tuple{ Agenda = item, Cards = cards }
+            //        };
+            //        agendas.Tournament(cards, 50);
+            //        if (agendas[0].Wins < agendas[1].Wins)
+            //            dict[item.Id] = item;
+            //        WriteLine(agendas[0].Wins - agendas[1].Wins);
+            //        i++;
+            //    }
+            //    k++;
+            //}
+
+            // ukladani zpetne
+            //foreach (var item in dict)
+            //    manager.Save(item.Key.ToCardList(), item.Value);
+
+            WriteLine(i);
+            ReadLine();
             // loading files
 
             //    DirectoryInfo dir = new DirectoryInfo($"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdomsTens");
             //    FileInfo[] files = dir.GetFiles("kingdom_*.txt");
-
-            var list = new List<BuyAgenda>();
-
-            var man = new Fives(directoryPath);
-
-            int i = 0, c = 0;
-            foreach (var item in man)
-            {
-                if (Card.Get(item.BuyMenu[0].Card).Price == 2)
-                {
-                    c++;
-
-                    var cards = item.Id.Split('_').Select(a => Card.Get((CardType)int.Parse(a))).ToList();
-                    var kingdomName = cards.OrderBy(p => p.Type).Select(p => ((int)p.Type).ToString()).Aggregate((a, b) => a + " " + b);
-                    Console.WriteLine($"{kingdomName}");
-                
-                    //    var evolution = new Evolution(new Params
-                //    {
-                //        Kingdom = cards,
-                //        Evaluator = new ProvincialEvaluator(),
-                //        LeaderCount = 10,
-                //        PoolCount = 50,
-                //        Generations = 50,
-                //    });
-                //    var agenda = evolution.Run();
-                //    list.Add(agenda);
-                }
-                //else
-                //    list.Add(item);
-                i++;
-            }
-            Console.WriteLine(c);
-            Console.WriteLine(i);
 
             //DirectoryInfo dir = new DirectoryInfo($"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms");
             //FileInfo[] files = dir.GetFiles("Fives_*.txt");
@@ -112,8 +135,6 @@ namespace FilesToFile
             //    if (agenda.ToString(item.Key) != item.Value)
             //        Console.WriteLine(item.Key);
             //}
-
-            Console.ReadLine();
         }
     }
 }

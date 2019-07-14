@@ -11,13 +11,13 @@ using Utils;
 
 namespace AI.Model
 {
-    public class Tens : BuyAgendaManager
+    public class SimpleManager : BuyAgendaManager
     {
         string directoryPath;
         string prefix;
         object _lock = new object();
 
-        public Tens(string directoryPath, string prefix = "Tens_")
+        public SimpleManager(string directoryPath, string prefix)
         {
             this.directoryPath = directoryPath;
             this.prefix = prefix;
@@ -28,16 +28,16 @@ namespace AI.Model
         /// </summary>
         /// <param name="cards"></param>
         /// <returns></returns>
-        public override BuyAgenda Load(IEnumerable<int> cards)
+        public override BuyAgenda Load(IEnumerable<Card> cards)
         {
-            cards = cards.OrderBy(c => c).ToList();
-            var id = cards.OrderBy(p => p).Select(p => p.ToString()).Aggregate((a, b) => a + "_" + b);
+            var id = cards.ToId();
+            int i = (int)cards.OrderBy(c => c.Type).First().Type;
 
-            lock(_lock)
+            lock (_lock)
             {
                 try
                 {
-                    using (var reader = new StreamReader($"{directoryPath}{prefix}{cards.First()}.txt"))
+                    using (var reader = new StreamReader($"{directoryPath}{prefix}{i}.txt"))
                     {
                         while (!reader.EndOfStream)
                         {
@@ -57,29 +57,30 @@ namespace AI.Model
 
         public override BuyAgenda LoadBest(List<Card> cards, ILogger logger = null) => Load(cards);
 
-        public override void Save(IEnumerable<int> cards, BuyAgenda agenda)
+        public override void Save(IEnumerable<Card> cards, BuyAgenda agenda)
         {
-            var id = cards.OrderBy(p => p).Select(p => p.ToString()).Aggregate((a, b) => a + "_" + b);
-            int i = cards.OrderBy(p => p).First();
+            var id = cards.ToId();
+            int i = cards.OrderBy(p => p.Type).Select(p => (int)p.Type).First();
 
-            if (Load(cards) == null)
+            // todo odkomentovat pred odevzdanim
+            //if (Load(cards) == null)
                 lock (_lock)
                     using (var writer = File.AppendText($"{directoryPath}{prefix}{i}.txt"))
                         writer.WriteLine(agenda.ToString(id));
-            else
-            {
-                var dict = new Dictionary<string, string>();
-                lock (_lock)
-                {
-                    if (File.Exists($"{directoryPath}{prefix}{i}.txt"))
-                        foreach (var line in File.ReadAllLines($"{directoryPath}{prefix}{i}.txt").Select(l => l.Split(':')))
-                            dict.Add(line[0], $"{line[0]}:{line[1]}");
-                    dict[id] = agenda.ToString(id);
-                    using (var writer = new StreamWriter($"{directoryPath}{prefix}{i}.txt"))
-                        foreach (var a in dict.OrderBy(d => d.Key))
-                            writer.WriteLine(a.Value);
-                }
-            }
+            //else
+            //{
+            //    var dict = new Dictionary<string, string>();
+            //    lock (_lock)
+            //    {
+            //        if (File.Exists($"{directoryPath}{prefix}{i}.txt"))
+            //            foreach (var line in File.ReadAllLines($"{directoryPath}{prefix}{i}.txt").Select(l => l.Split(':')))
+            //                dict[line[0]] = $"{line[0]}:{line[1]}";
+            //        dict[id] = agenda.ToString(id);
+            //        using (var writer = new StreamWriter($"{directoryPath}{prefix}{i}.txt"))
+            //            foreach (var a in dict.OrderBy(d => d.Key))
+            //                writer.WriteLine(a.Value);
+            //    }
+            //}
         }
 
         public List<Card> RandomKingdom()
@@ -91,8 +92,7 @@ namespace AI.Model
                 foreach (var f in files)
                     using (var reader = f.OpenText())
                         while (!reader.EndOfStream)
-                            list.Add(reader.ReadLine().Split(':')[0].Split('_')
-                                .Select(s => Card.Get((CardType)int.Parse(s))).ToList());
+                            list.Add(reader.ReadLine().Split(':')[0].ToCardList());
             return list[new ThreadSafeRandom().Next(list.Count)];
         }
 

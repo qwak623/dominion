@@ -58,6 +58,10 @@
       <Project>{F3219F54-DDEE-42AF-A417-7E9670953046}</Project>
       <Name>GameCore</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Utils\Utils.csproj">
+      <Project>{6EB4025F-2A8D-4185-B526-0CD33D367BE4}</Project>
+      <Name>Utils</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

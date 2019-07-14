@@ -1,2 +1,4 @@
+10_12_14_16_17_27_29_30_31_32:4;2;6;Silver (2) 6,Duchy (5) 9,Gardens (14) 8,Duchy (5) 3,Estate (4) 8,Estate (4) 8,Gold (3) 100,Feast (12) 9,Witch (30) 3,Cellar (10) 3
+10_19_20_21_22_24_25_29_31_32:7;5;3;Province (6) 7,Gold (3) 4,Silver (2) 7,Silver (2) 5,Market (19) 2,Market (19) 2,Moat (22) 4,Market (19) 6,Gold (3) 100,Woodcutter (31) 6,Smithy (25) 2
 firstGame:9;5;3;Province (6) 5,Gold (3) 6,Gold (3) 100,Silver (2) 10,Remodel (24) 7,Moat (22) 5,Woodcutter (31) 7,Smithy (25) 8,Gold (3) 5,Estate (4) 4,Cellar (10) 9,Woodcutter (31) 11,Duchy (5) 8
 sizeDistortion:12;11;8;Workshop (32) 2,Gardens (14) 99,Gardens (14) 8,Province (6) 6,Gold (3) 6,Silver (2) 2,Silver (2) 10,Witch (30) 6,Feast (12) 4,Silver (2) 3,Cellar (10) 4,Copper (1) 8,Cellar (10) 8,Gardens (14) 1,Silver (2) 5

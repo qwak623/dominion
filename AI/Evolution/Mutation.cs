@@ -1,6 +1,5 @@
 ﻿using AI.Model;
 using GameCore.Cards;
-using System;
 using System.Collections.Generic;
 using Utils;
 
@@ -45,8 +44,6 @@ namespace AI.Evolution
             }
 
             agenda.BuyMenu[i] = tuple;
-
-
         }
     }
 
