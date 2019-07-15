@@ -47,7 +47,7 @@ namespace AI.Model
                 lock (locks[i])
                     return BuyAgenda.FromString(files[i][id]);
             }
-            catch
+            catch (Exception e)
             {
                 return null;
             }
@@ -95,6 +95,13 @@ namespace AI.Model
             }
         }
 
+        /// <summary>
+        /// Loads all possible agendas wich fits to specified kingdom.
+        /// Then the best one is selected.
+        /// </summary>
+        /// <param name="k"></param>
+        /// <param name="logger"></param>
+        /// <returns></returns>
         public override BuyAgenda LoadBest(List<Card> k, ILogger logger = null)
         {
             k = k.OrderBy(c => c.Type).ToList();
@@ -110,7 +117,7 @@ namespace AI.Model
 
                 var agenda = Load(cards);
                 if (agenda != null)
-                    agendas.Add(new BuyAgendaTournament.Tuple { Agenda = agenda, Wins = 0, Cards = cards });
+                    agendas.Add(new BuyAgendaTournament.Tuple { Agenda = agenda, Wins = 0, Id = cards.ToId() });
             }
 
             //agendas.Add(new Tuple { Agenda = new Tens(directoryPath).Load(k), Wins = 0, Cards = k });

@@ -11,7 +11,7 @@ namespace AI.Model
     {
         private BuyAgenda(string id) => Id = id;
 
-        public string Id { get; private set; }
+        public string Id { get; set; }
         public List<(CardType Card, int Number)> BuyMenu { get; set; } = new List<(CardType, int)>();
         public int Provinces { get; set; }
         public int Duchies { get; set; }
@@ -24,7 +24,6 @@ namespace AI.Model
 
             try
             {
-
                 var agendaArray = line[1].Split(';');
 
                 var agenda = new BuyAgenda(line[0]);

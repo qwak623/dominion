@@ -17,6 +17,14 @@ namespace AI.Evolution
         readonly ILogger logger;
         readonly ThreadSafeRandom rnd = new ThreadSafeRandom();
 
+        /// <summary>
+        /// </summary>
+        /// <param name="par"></param>
+        /// <param name="logger"></param>
+        /// <param name="referenceAgenda">
+        ///     If reference agenda is not null, best idividual will be confronted with referenceAgenda after each evaluation
+        ///     and the results will be logged using logger.
+        /// </param>
         public Evolution(Params par, ILogger logger = null, BuyAgenda referenceAgenda = null)
         {
             this.par = par;
@@ -24,6 +32,11 @@ namespace AI.Evolution
             this.referenceAgenda = referenceAgenda;
         }
 
+        /// <summary>
+        /// </summary>
+        /// <returns> 
+        /// Returns evolved BuyAgenda. This individual is not saved in this method.
+        /// </returns>
         public BuyAgenda Run()
         {
             SetUp();
@@ -45,7 +58,6 @@ namespace AI.Evolution
                 sw.Stop();
                 var elapsed = sw.Elapsed;
 
-                // todo smazat pak
                 if (referenceAgenda != null)
                     ComputeFitness(leaders[0], gen);
                 //referenceAgenda = leaders[0];
@@ -73,6 +85,9 @@ namespace AI.Evolution
                 pool[i].Fitness = par.Evaluator.Evaluate(pool[i].Agenda, leaders, par.Kingdom, par.MinGames, par.MaxGames, par.ParallelDegreeInt));
         }
 
+        /// <summary>
+        /// Trying to find best but not resebling agendas for new leaders using levenstein distance.
+        /// </summary>
         void SetNewLeaders()
         {
             // comparing fitness and individual length
@@ -81,17 +96,24 @@ namespace AI.Evolution
             for (int i = 0; i < leaders.Length;)
             {
                 if (IsSimilarToAny(pool[j].Agenda, i))
+                {
                     if (j > pool.Length)
                         leaders[i++] = BuyAgenda.CreateRandom(par.Kingdom.AddRequiredCards());
                     else
                         j++;
+                    continue;
+                }
                 leaders[i++] = pool[j++].Agenda;
             }
         }
 
+        /// <summary>
+        /// Leaders are added also to pool unchanged.
+        /// Rest is filled with mutated leaders.
+        /// </summary>
         void GenerateNewPool()
         {
-            // first five members without changes
+            // first leadersSize members without changes
             for (int i = 0; i < leaders.Length; i++)
                 pool[i] = (leaders[i], 0);
 
@@ -109,6 +131,11 @@ namespace AI.Evolution
             }
         }
 
+        /// <summary>
+        /// This method compares the leader and referencer.
+        /// </summary>
+        /// <param name="buyAgenda"></param>
+        /// <param name="generation"></param>
         void ComputeFitness(BuyAgenda buyAgenda, int generation)
         {
             User getFirst() => new ProvincialAI(referenceAgenda, "Referencer");
@@ -151,8 +178,8 @@ namespace AI.Evolution
         {
             int aggDistance = 0;
             for (int i = 0; i < count; i++)
-                aggDistance += agenda.BuyMenu.CalcLevenshteinDistance(leaders[i].BuyMenu);
-            if (aggDistance < count * 1.5f - 1)
+                aggDistance += agenda.BuyMenu.CalcLevensteinDistance(leaders[i].BuyMenu);
+            if (aggDistance > count * 1.5f - 1)
                 return false;
             return true;
         }

@@ -19,6 +19,15 @@ namespace AI.Model
             logger?.Log("");
         }
 
+        /// <summary>
+        /// For each couple of agendas runs specified number of games tvice.
+        /// Each couple combination is played so that both players 
+        /// start the same number of games.
+        /// Games are played in parallel.
+        /// </summary>
+        /// <param name="agendas"></param>
+        /// <param name="k"></param>
+        /// <param name="games"></param>
         public static void Tournament(this List<Tuple> agendas, List<Card> k, int games)
         {
             agendas.ForEach(a => a.Wins = 0);
@@ -57,15 +66,9 @@ namespace AI.Model
         {
             public BuyAgenda Agenda;
             public int Wins;
-            public List<Card> Cards;
+            public string Id;
 
-            public override string ToString()
-            {
-                return Wins + ": " + Cards
-                    .OrderBy(i => i.Type)
-                    .Select(c => $"{c.Type}({(int)c.Type})")
-                    .Aggregate((a, b) => $"{a}, {b}");
-            }
+            public override string ToString() => Wins + ": " + Id; 
         }
     }
 }

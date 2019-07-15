@@ -27,7 +27,6 @@ namespace AI.Evolution
 
         public MutationSelector()
         {
-            // todo neco s mutation probability takto je to asi blbost...
             mutations.Add((new RemoveCardMutation(), 0.02));
             mutations.Add((new AddCardMutation(), 0.04));
             mutations.Add((new ReplaceSupplyCardMutation(), 0.04));

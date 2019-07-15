@@ -1,2 +1,4 @@
 16_17_18_20_21_23_24_26_28_31:12;5;3;Province (6) 9,Gold (3) 100,Laboratory (17) 8,Militia (20) 11,Silver (2) 10,Library (18) 3,Militia (20) 7,Remodel (24) 5,ThroneRoom (28) 1,Militia (20) 6,Woodcutter (31) 5,Spy (26) 4,Mine (21) 3
 16_17_19_21_22_25_26_28_29_30:5;5;2;Gold (3) 1,Province (6) 10,Smithy (25) 1,Gold (3) 98,Silver (2) 11,Silver (2) 8,Moat (22) 1,ThroneRoom (28) 10,Copper (1) 1,Spy (26) 8,Estate (4) 12
+16_17_18_19_20_21_22_24_28_29:6;5;3;Province (6) 4,Gold (3) 101,Market (19) 4,Moat (22) 1,Market (19) 10,Library (18) 11,Silver (2) 7,Silver (2) 12,Remodel (24) 8
+16_19_20_21_23_25_26_28_29_30:3;6;3;Witch (30) 3,Duchy (5) 6,Silver (2) 5,Gold (3) 99,Silver (2) 9,Gold (3) 10,Village (29) 4,Gold (3) 9,Militia (20) 9

@@ -42,4 +42,5 @@ namespace Window
     }
 
     public enum AIType { Provincial }
+    //ublic enum AIType { Tens, Fives, Threes }
 }

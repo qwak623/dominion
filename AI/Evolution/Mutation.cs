@@ -10,6 +10,11 @@ namespace AI.Evolution
     {
         protected ThreadSafeRandom rnd = new ThreadSafeRandom();
 
+        /// <summary>
+        /// Mutation changes agenda in parameter based on kingdom kards and it does not create new buyAgenda.
+        /// </summary>
+        /// <param name="agenda"></param>
+        /// <param name="kingdom"></param>
         public abstract void Mutate(BuyAgenda agenda, List<Card> kingdom);
     }
 
@@ -17,6 +22,9 @@ namespace AI.Evolution
     {
         public override void Mutate(BuyAgenda agenda, List<Card> kingdom)
         {
+            if (agenda.BuyMenu.Count == 0)
+                return;
+
             int i = rnd.Next(agenda.BuyMenu.Count);
             int j = rnd.Next(kingdom.Count); 
 
@@ -30,6 +38,9 @@ namespace AI.Evolution
     {
         public override void Mutate(BuyAgenda agenda, List<Card> kingdom)
         {
+            if (agenda.BuyMenu.Count == 0)
+                return;
+
             int i = rnd.Next(agenda.BuyMenu.Count);
 
             var tuple = agenda.BuyMenu[i];
@@ -51,6 +62,9 @@ namespace AI.Evolution
     {
         public override void Mutate(BuyAgenda agenda, List<Card> kingdom)
         {
+            if (agenda.BuyMenu.Count == 0)
+                return;
+
             int i = rnd.Next(agenda.BuyMenu.Count);
             int j = rnd.Next(agenda.BuyMenu.Count);
 
@@ -87,6 +101,9 @@ namespace AI.Evolution
     {
         public override void Mutate(BuyAgenda agenda, List<Card> kingdom)
         {
+            if (agenda.BuyMenu.Count == 0)
+                return;
+
             int i = rnd.Next(agenda.BuyMenu.Count);
             int j = rnd.Next(kingdom.Count);
 
@@ -98,7 +115,7 @@ namespace AI.Evolution
     {
         public override void Mutate(BuyAgenda agenda, List<Card> kingdom)
         {
-            if (agenda.BuyMenu.Count == 1)
+            if (agenda.BuyMenu.Count <= 1)
                 return;
 
             int i = rnd.Next(agenda.BuyMenu.Count);

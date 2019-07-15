@@ -11,7 +11,7 @@ namespace AI.Provincial
         public static float Score(this Card card, IEnumerable<Card> hand, PlayerState ps, Phase phase)
         {
             float result = 0;
-            if (card.AddActions >= 1 && ps.Actions == 1)
+            if (phase == Phase.Action && card.AddActions >= 1 && ps.Actions == 1)
                 result += 100;
             switch (phase)
             {

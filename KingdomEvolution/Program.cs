@@ -27,7 +27,8 @@ namespace Eva
             char sep = Path.DirectorySeparatorChar;
             string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms{sep}";
             string subsetFile = null;
-            BuyAgendaManager manager = new SimpleManager(directoryPath, "TensProgress_");
+            string filePrefix = ""; // TODO smazat
+            BuyAgendaManager manager = new SimpleManager(directoryPath, "TenssProgress_");
 
             IEnumerator<string> kingdoms = null;
 
@@ -48,19 +49,22 @@ namespace Eva
                                 break;
                             case 'd':
                                 et = EvolutionType.Tens;
-                                manager = new SimpleManager(directoryPath, "Tens_");
+                                manager = new SimpleManager(directoryPath, "Tenss_" + filePrefix);
                                 break;
                             case 'f':
                                 et = EvolutionType.Subsets;
                                 //manager = new CachedManager(directoryPath, 5, "Fives_");
-                                manager = new SimpleManager(directoryPath, "Fives_");
+                                manager = new SimpleManager(directoryPath, "Fivess_" + filePrefix);
                                 subsetFile = "fives";
                                 break;
                             case 'h':
                                 et = EvolutionType.Subsets;
                                 //manager = new CachedManager(directoryPath, 3, "Threes_");
-                                manager = new SimpleManager(directoryPath, "Threes_");
+                                manager = new SimpleManager(directoryPath, "Threess_" + filePrefix);
                                 subsetFile = "threes";
+                                break;
+                            case 'p':
+                                filePrefix = args[++i];
                                 break;
                             case 'n':
                                 et = EvolutionType.NamedGames;
@@ -174,12 +178,12 @@ namespace Eva
                                 //cards = PresetGames.Get(Games.FirstGame).AddRequiredCards();
                                 List<(List<Card> Cards, string Name)> games = new List<(List<Card>, string)>
                                 {
-                                    //PresetGames.Get(Games.BigMoney),
-                                    //PresetGames.Get(Games.Interaction),
-                                    //(PresetGames.Get(Games.FirstGame), "firstGame"),
-                                    //(PresetGames.Get(Games.SizeDistortion), "sizeDistortion"),
-                                    //(PresetGames.Get(Games.ThrashHeap), "trasheap"),
-                                    //PresetGames.Get(Games.VillageSquare),
+                                    //(PresetGames.Get(Games.BigMoney), "bigMoneyGame"),
+                                    //(PresetGames.Get(Games.Interaction), "interaction"),
+                                    (PresetGames.Get(Games.FirstGame), "firstGame"),
+                                    (PresetGames.Get(Games.SizeDistortion), "sizeDistortion"),
+                                    (PresetGames.Get(Games.ThrashHeap), "trasheap"),
+                                    //(PresetGames.Get(Games.VillageSquare), "village"),
                                     ((new int[]{ 9, 12, 15, 18, 22, 24, 27, 28, 31, 32}.Select(c => Card.Get((CardType)c)).ToList()), "badCards")
                                     //(new List<Card>{Card.Get(CardType.Curse)}, "bigMoney")
                                 };
@@ -195,7 +199,7 @@ namespace Eva
                                         LeaderCount = 10,
                                         PoolCount = 50,
                                         Generations = 100,
-                                    }, new Logger(), manager.First(a => a.Id == "bigMoney"));
+                                    }, new Logger()); //manager.First(a => a.Id == item.Name));
                                     var agenda = evolution.Run();
                                     manager.Save(item.Cards, agenda);
                                 });

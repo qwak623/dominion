@@ -34,7 +34,7 @@ namespace Window
 
         #region Game 
 
-        void StartGame_Click(object sender, EventArgs e)
+        void StartButton_Click(object sender, EventArgs e)
         {
             GamePanel.Show();
             SetKingdomPanel.Hide();

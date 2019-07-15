@@ -134,7 +134,7 @@
             this.StartGameButton.TabIndex = 1;
             this.StartGameButton.Text = "Start";
             this.StartGameButton.UseVisualStyleBackColor = true;
-            this.StartGameButton.Click += new System.EventHandler(this.StartGame_Click);
+            this.StartGameButton.Click += new System.EventHandler(this.StartButton_Click);
             // 
             // GamePanel
             // 

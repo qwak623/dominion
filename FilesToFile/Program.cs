@@ -32,19 +32,22 @@ namespace FilesToFile
             foreach (var item in manager)
                 list.Add(item);
 
-            // odecteni uz existujicich veci
-            //var list2 = list.Select(s => s.Id).ToList();
-            //var writer = new StreamWriter($"{directoryPath}newFives.txt"); 
-
-            //foreach (string line in File.ReadLines($"{directoryPath}fives.txt"))
+            //using (var writer = new StreamWriter($"{directoryPath}badFives.txt"))
             //{
-            //    if (!list2.Contains(line.Replace(' ', '_')))
+            //    foreach (var item in list)
             //    {
-            //        writer.WriteLine(line);
-            //        i++;
+            //        if (item.Provinces < 2 ||
+            //            item.Duchies < 1 ||
+            //            item.Estates < 0 ||
+            //            item.BuyMenu.Count < 3 //||
+            //                                   //item.BuyMenu.Select(m => m.Card).Contains(CardType.Estate)
+            //            )
+            //        {
+            //            i++;
+            //            writer.WriteLine(item.Id);
+            //        }
             //    }
             //}
-            //writer.Close();
 
             // turnaj stejnych inteligenci
             //foreach (var item in list.OrderBy(a => a.Id))
