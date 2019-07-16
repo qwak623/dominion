@@ -1,0 +1,1 @@
+19_20_21:5;5;4;Province (6) 4,Province (6) 6,Gold (3) 99,Market (19) 6,Duchy (5) 8,Militia (20) 4,Silver (2) 9,Militia (20) 8,Duchy (5) 4,Mine (21) 8,Militia (20) 3

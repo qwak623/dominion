@@ -1,0 +1,13 @@
+16_17_31:10;5;2;Gold (3) 4,Laboratory (17) 5,Chapel (16) 1,Silver (2) 11,Province (6) 7,Woodcutter (31) 7,Copper (1) 1,Gold (3) 100,Silver (2) 2,Estate (4) 5,Chapel (16) 4,Chapel (16) 6,Duchy (5) 2,Chapel (16) 4
+16_18_31:6;6;3;Gold (3) 2,Library (18) 1,Province (6) 9,Gold (3) 101,Silver (2) 9,Copper (1) 8,Woodcutter (31) 8,Silver (2) 8,Woodcutter (31) 9,Chapel (16) 2,Chapel (16) 1,Duchy (5) 7
+16_19_31:12;5;4;Gold (3) 99,Silver (2) 6,Silver (2) 9,Duchy (5) 4,Market (19) 4,Woodcutter (31) 6,Duchy (5) 5,Chapel (16) 1,Province (6) 2,Silver (2) 4,Copper (1) 1,Copper (1) 7,Estate (4) 4
+16_20_31:8;8;7;Province (6) 3,Gold (3) 99,Militia (20) 7,Duchy (5) 9,Province (6) 8,Gold (3) 3,Silver (2) 8,Chapel (16) 1,Silver (2) 11,Woodcutter (31) 1
+16_21_31:6;5;4;Silver (2) 3,Chapel (16) 1,Province (6) 8,Gold (3) 101,Silver (2) 7,Woodcutter (31) 8,Gold (3) 3,Province (6) 9,Province (6) 4,Mine (21) 8
+16_22_31:8;6;3;Province (6) 7,Gold (3) 6,Silver (2) 13,Woodcutter (31) 4,Duchy (5) 10,Woodcutter (31) 1,Silver (2) 3,Gold (3) 102,Moat (22) 8,Moat (22) 5,Copper (1) 7,Province (6) 3,Chapel (16) 5
+16_23_31:8;5;3;Province (6) 7,Gold (3) 97,Silver (2) 10,Woodcutter (31) 3,Province (6) 1,Duchy (5) 9,Chapel (16) 6,Moneylender (23) 3,Chapel (16) 6,Estate (4) 6,Duchy (5) 3,Silver (2) 2,Copper (1) 10
+16_24_31:6;5;4;Province (6) 11,Gold (3) 101,Gold (3) 6,Silver (2) 10,Silver (2) 9,Chapel (16) 11,Gold (3) 6,Copper (1) 3,Province (6) 4,Remodel (24) 1,Duchy (5) 2,Gold (3) 3,Province (6) 9
+16_25_31:8;5;3;Province (6) 2,Gold (3) 97,Smithy (25) 1,Silver (2) 10,Copper (1) 5,Duchy (5) 3,Gold (3) 8,Chapel (16) 2,Smithy (25) 8,Estate (4) 9,Silver (2) 11,Duchy (5) 3
+16_26_31:6;5;2;Province (6) 9,Province (6) 98,Gold (3) 10,Silver (2) 12,Silver (2) 3,Duchy (5) 6,Spy (26) 6,Woodcutter (31) 8,Chapel (16) 1,Copper (1) 9,Woodcutter (31) 6,Chapel (16) 11,Spy (26) 3
+16_27_31:10;5;4;Gold (3) 9,Silver (2) 5,Gold (3) 100,Province (6) 9,Silver (2) 11,Duchy (5) 2,Chapel (16) 7,Estate (4) 2,Woodcutter (31) 3,Copper (1) 6,Duchy (5) 2,Copper (1) 9,Estate (4) 7
+16_28_31:11;5;3;Gold (3) 8,Silver (2) 12,Chapel (16) 1,Copper (1) 3,Estate (4) 3,Estate (4) 12,Silver (2) 10,Woodcutter (31) 3,Gold (3) 9,Province (6) 4,Woodcutter (31) 5,Province (6) 3,ThroneRoom (28) 1,Woodcutter (31) 5,Duchy (5) 6,Silver (2) 11
+16_29_31:7;5;4;Province (6) 7,Gold (3) 8,Silver (2) 14,Chapel (16) 7,Copper (1) 7,Copper (1) 4,Village (29) 5,Woodcutter (31) 4,Silver (2) 9,Silver (2) 6,Village (29) 5,Estate (4) 4,Gold (3) 98,Estate (4) 11,Copper (1) 4,Duchy (5) 7

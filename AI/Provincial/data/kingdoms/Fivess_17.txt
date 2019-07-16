@@ -1,0 +1,208 @@
+17_18_22_25_29:8;5;2;Province (6) 6,Gold (3) 6,Library (18) 2,Gold (3) 100,Silver (2) 11,Laboratory (17) 7,Silver (2) 7,Smithy (25) 6,Laboratory (17) 6,Province (6) 7
+17_23_27_28_29:6;5;4;Laboratory (17) 2,Province (6) 5,Gold (3) 99,Silver (2) 10,Laboratory (17) 9,ThroneRoom (28) 11,Gold (3) 3,Moneylender (23) 2,Moneylender (23) 8,Gold (3) 4,Village (29) 3,Duchy (5) 5
+17_20_22_24_30:9;7;6;Gold (3) 6,Witch (30) 2,Silver (2) 1,Silver (2) 10,Laboratory (17) 8,Remodel (24) 6,Gold (3) 1,Witch (30) 8,Duchy (5) 10,Gold (3) 99,Silver (2) 7
+17_18_22_25_30:8;7;7;Province (6) 11,Gold (3) 100,Witch (30) 2,Silver (2) 3,Silver (2) 11,Silver (2) 4,Laboratory (17) 4,Library (18) 4,Copper (1) 9,Moat (22) 9,Silver (2) 11
+17_23_27_28_30:9;7;6;Witch (30) 2,Gold (3) 98,Silver (2) 7,Silver (2) 10,Silver (2) 11,ThroneRoom (28) 6,Silver (2) 7,Gold (3) 6,Duchy (5) 11,Gold (3) 7,Thief (27) 9
+17_20_22_24_31:8;5;3;Silver (2) 1,Province (6) 6,Gold (3) 98,Laboratory (17) 12,Militia (20) 3,Silver (2) 7,Moat (22) 2,Woodcutter (31) 10,Moat (22) 13,Remodel (24) 8
+17_18_22_25_31:5;5;3;Province (6) 4,Gold (3) 6,Province (6) 5,Laboratory (17) 9,Silver (2) 11,Moat (22) 8,Estate (4) 4,Copper (1) 9,Smithy (25) 10,Estate (4) 7
+17_23_27_28_31:8;5;3;Province (6) 4,Gold (3) 101,Laboratory (17) 6,Silver (2) 9,Province (6) 2,Laboratory (17) 8,Silver (2) 9,Laboratory (17) 10,Woodcutter (31) 3,Woodcutter (31) 4,Province (6) 3,Duchy (5) 8
+17_20_22_24_32:6;5;4;Laboratory (17) 1,Moat (22) 1,Province (6) 8,Province (6) 9,Gold (3) 100,Laboratory (17) 6,Silver (2) 1,Duchy (5) 9,Militia (20) 11,Silver (2) 8,Workshop (32) 11,Duchy (5) 2,Moat (22) 5,Estate (4) 7,Laboratory (17) 5,Province (6) 2,Silver (2) 7
+17_18_22_25_32:9;5;3;Province (6) 5,Gold (3) 6,Laboratory (17) 6,Silver (2) 10,Moat (22) 3,Laboratory (17) 3,Copper (1) 98,Silver (2) 11,Estate (4) 7,Workshop (32) 11,Laboratory (17) 3,Copper (1) 6,Duchy (5) 9,Library (18) 4
+17_23_27_28_32:10;5;4;Gold (3) 4,Province (6) 7,Laboratory (17) 11,Duchy (5) 3,Silver (2) 11,Gold (3) 97,Gold (3) 5,Moneylender (23) 8,ThroneRoom (28) 10,Copper (1) 2,Thief (27) 10,Silver (2) 13,Copper (1) 2,Estate (4) 9
+17_18_22_26_27:7;5;3;Province (6) 4,Gold (3) 10,Silver (2) 11,Library (18) 102,Gold (3) 6,Province (6) 6,Moat (22) 5,Estate (4) 4,Copper (1) 4,Copper (1) 12
+17_20_22_25_26:10;5;3;Gold (3) 8,Gold (3) 6,Laboratory (17) 7,Province (6) 11,Militia (20) 2,Spy (26) 4,Silver (2) 10,Gold (3) 6,Duchy (5) 7,Smithy (25) 7
+17_23_27_29_30:10;7;-1;Gold (3) 5,Province (6) 7,Gold (3) 5,Witch (30) 9,Silver (2) 9,Duchy (5) 9,Laboratory (17) 5,Gold (3) 100,Witch (30) 7,Laboratory (17) 7,Silver (2) 6
+17_18_22_26_28:5;5;3;Province (6) 10,Silver (2) 1,Gold (3) 100,Laboratory (17) 6,Duchy (5) 9,Silver (2) 5,Gold (3) 4,Moat (22) 11,ThroneRoom (28) 7,Spy (26) 2
+17_20_22_25_27:12;5;3;Gold (3) 3,Gold (3) 4,Laboratory (17) 5,Province (6) 8,Militia (20) 2,Silver (2) 9,Silver (2) 9,Duchy (5) 5,Thief (27) 6,Silver (2) 7,Silver (2) 1,Silver (2) 6,Gold (3) 101
+17_23_27_29_31:6;5;3;Province (6) 7,Laboratory (17) 1,Gold (3) 101,Laboratory (17) 4,Silver (2) 8,Duchy (5) 8,Thief (27) 8,Woodcutter (31) 10,Duchy (5) 9,Duchy (5) 8,Silver (2) 2,Silver (2) 7
+17_18_22_26_29:10;5;3;Gold (3) 104,Laboratory (17) 5,Silver (2) 11,Silver (2) 6,Silver (2) 1,Moat (22) 7,Library (18) 6,Province (6) 4,Library (18) 1,Village (29) 5
+17_20_22_25_28:10;5;4;Militia (20) 1,Province (6) 8,Gold (3) 99,Laboratory (17) 7,Duchy (5) 9,Silver (2) 6,Smithy (25) 10,Silver (2) 11,Moat (22) 6,ThroneRoom (28) 5,Copper (1) 8,Silver (2) 6
+17_23_27_29_32:9;5;3;Gold (3) 4,Laboratory (17) 6,Silver (2) 9,Workshop (32) 1,Workshop (32) 6,Duchy (5) 8,Village (29) 8,Silver (2) 10,Workshop (32) 1,Gold (3) 99,Moneylender (23) 5
+17_18_22_26_30:11;7;6;Gold (3) 97,Gold (3) 3,Witch (30) 9,Province (6) 6,Gold (3) 1,Silver (2) 2,Duchy (5) 8,Witch (30) 7,Silver (2) 11,Province (6) 6,Copper (1) 11,Silver (2) 1,Curse (7) 2,Estate (4) 3
+17_20_22_25_29:9;5;3;Province (6) 9,Gold (3) 98,Laboratory (17) 8,Province (6) 3,Militia (20) 1,Gold (3) 2,Silver (2) 12,Province (6) 4,Laboratory (17) 7,Smithy (25) 1,Moat (22) 5,Estate (4) 6
+17_23_27_30_31:12;7;6;Gold (3) 5,Witch (30) 2,Silver (2) 12,Moneylender (23) 3,Province (6) 4,Woodcutter (31) 6,Witch (30) 3,Gold (3) 100
+17_18_22_26_31:5;5;3;Province (6) 9,Gold (3) 99,Library (18) 2,Silver (2) 5,Duchy (5) 2,Laboratory (17) 6,Silver (2) 13,Gold (3) 2,Woodcutter (31) 6
+17_18_22_26_32:10;5;3;Province (6) 5,Gold (3) 5,Library (18) 2,Gold (3) 98,Silver (2) 11,Copper (1) 2,Laboratory (17) 6,Duchy (5) 3,Copper (1) 3,Gold (3) 7,Spy (26) 7
+17_20_22_25_30:8;-1;1;Province (6) 4,Gold (3) 4,Witch (30) 2,Silver (2) 7,Duchy (5) 8,Smithy (25) 3,Smithy (25) 8,Gold (3) 8,Silver (2) 11
+17_23_27_30_32:8;7;7;Province (6) 8,Gold (3) 102,Witch (30) 2,Silver (2) 2,Silver (2) 9,Witch (30) 5,Laboratory (17) 7,Laboratory (17) 8
+17_20_22_25_31:5;5;3;Province (6) 9,Gold (3) 99,Silver (2) 9,Silver (2) 7,Gold (3) 8,Laboratory (17) 6,Moat (22) 6,Gold (3) 6,Estate (4) 6,Gold (3) 7,Laboratory (17) 10,Copper (1) 5,Silver (2) 2
+17_18_22_27_28:10;5;3;Province (6) 9,Gold (3) 100,Laboratory (17) 11,Silver (2) 8,Thief (27) 5,Library (18) 4,Library (18) 7,Moat (22) 5,Thief (27) 12,Gold (3) 7
+17_23_27_31_32:10;5;3;Gold (3) 99,Laboratory (17) 6,Silver (2) 12,Woodcutter (31) 5,Province (6) 9,Thief (27) 4,Workshop (32) 4,Moneylender (23) 5,Silver (2) 10,Laboratory (17) 3,Moneylender (23) 9,Gold (3) 2,Woodcutter (31) 5
+17_18_22_27_29:8;5;3;Silver (2) 1,Moat (22) 1,Province (6) 9,Gold (3) 100,Province (6) 2,Laboratory (17) 8,Silver (2) 9,Thief (27) 1,Library (18) 4,Village (29) 9
+17_23_28_29_30:9;8;7;Gold (3) 5,Gold (3) 99,Province (6) 6,Witch (30) 8,Duchy (5) 10,Gold (3) 1,Silver (2) 8,Copper (1) 2,Province (6) 6,Silver (2) 11,Laboratory (17) 4,Estate (4) 1,ThroneRoom (28) 9
+17_20_22_25_32:5;5;3;Province (6) 5,Gold (3) 99,Province (6) 4,Gold (3) 4,Laboratory (17) 6,Gold (3) 7,Militia (20) 2,Silver (2) 9,Militia (20) 13,Smithy (25) 9,Gold (3) 11
+17_18_22_27_30:10;8;7;Gold (3) 5,Province (6) 7,Witch (30) 2,Silver (2) 6,Library (18) 4,Library (18) 6,Laboratory (17) 5,Gold (3) 99,Silver (2) 8,Thief (27) 3,Copper (1) 4,Laboratory (17) 8,Curse (7) 10
+17_23_28_29_31:9;5;3;Gold (3) 95,Laboratory (17) 10,Woodcutter (31) 1,Silver (2) 4,Woodcutter (31) 4,Laboratory (17) 10,Village (29) 5,Gold (3) 8
+17_20_22_26_27:7;5;3;Province (6) 9,Gold (3) 8,Laboratory (17) 9,Militia (20) 2,Silver (2) 2,Duchy (5) 4,Duchy (5) 8,Moat (22) 1,Gold (3) 99,Silver (2) 11,Copper (1) 4,Spy (26) 6,Thief (27) 6
+17_18_22_27_31:6;6;3;Gold (3) 2,Province (6) 2,Gold (3) 99,Laboratory (17) 8,Silver (2) 10,Duchy (5) 10,Moat (22) 2,Woodcutter (31) 5,Province (6) 1,Thief (27) 6,Gold (3) 11
+17_23_28_29_32:8;5;4;Gold (3) 1,Province (6) 9,Gold (3) 97,Laboratory (17) 9,Silver (2) 8,ThroneRoom (28) 3,Silver (2) 7,Moneylender (23) 6,Copper (1) 9,Copper (1) 9,Estate (4) 9
+17_18_22_27_32:5;5;3;Province (6) 10,Gold (3) 100,Laboratory (17) 6,Silver (2) 3,Silver (2) 10,Gold (3) 7,Moat (22) 2,Library (18) 6,Province (6) 6,Silver (2) 12
+17_23_28_30_31:10;6;5;Witch (30) 2,Gold (3) 101,Province (6) 4,Silver (2) 12,Silver (2) 2,Laboratory (17) 7,ThroneRoom (28) 4,Duchy (5) 6,Woodcutter (31) 6,Gold (3) 3,Gold (3) 7
+17_20_22_26_28:7;5;3;Province (6) 6,Gold (3) 7,Laboratory (17) 10,Gold (3) 6,Duchy (5) 4,Militia (20) 10,Gold (3) 5,Silver (2) 8,Spy (26) 7,Silver (2) 4
+17_18_22_28_29:10;5;3;Silver (2) 1,Gold (3) 97,Laboratory (17) 3,Silver (2) 7,Moat (22) 7,Laboratory (17) 7,Copper (1) 9,ThroneRoom (28) 9,Province (6) 7,Duchy (5) 7,Duchy (5) 6,Estate (4) 5
+17_23_28_30_32:11;6;5;Gold (3) 4,Witch (30) 2,Province (6) 3,Copper (1) 1,Silver (2) 8,Duchy (5) 8,Witch (30) 7,Estate (4) 4,Copper (1) 8,Silver (2) 10,Copper (1) 6,Curse (7) 1,Moneylender (23) 3,Province (6) 2,Witch (30) 7,Duchy (5) 99,Moneylender (23) 1
+17_20_22_26_29:10;5;4;Gold (3) 98,Militia (20) 2,Province (6) 6,Gold (3) 8,Laboratory (17) 5,Silver (2) 11,Silver (2) 9,Militia (20) 6,Spy (26) 4,Village (29) 5,Duchy (5) 1,Moat (22) 1
+17_18_22_28_30:8;8;7;Province (6) 9,Gold (3) 7,Witch (30) 11,Silver (2) 10,Copper (1) 10,Curse (7) 3,Library (18) 6,Library (18) 6,Library (18) 8,Silver (2) 11,Laboratory (17) 3,Estate (4) 7
+17_23_28_31_32:5;5;3;Province (6) 5,Gold (3) 11,Laboratory (17) 5,Gold (3) 99,Gold (3) 6,Province (6) 8,Silver (2) 11,Gold (3) 2,Duchy (5) 3,Laboratory (17) 3,Province (6) 7
+17_18_22_28_31:5;5;3;Province (6) 8,Gold (3) 100,Province (6) 10,Laboratory (17) 6,Duchy (5) 2,Gold (3) 2,Silver (2) 9,Woodcutter (31) 2,Silver (2) 4,Moat (22) 5,Copper (1) 2,Moat (22) 8,ThroneRoom (28) 4,Estate (4) 10,Gold (3) 2
+17_20_22_26_30:11;7;6;Gold (3) 100,Gold (3) 10,Witch (30) 2,Province (6) 9,Silver (2) 5,Silver (2) 10,Laboratory (17) 4,Witch (30) 3,Spy (26) 3,Militia (20) 7,Silver (2) 2,Duchy (5) 8
+17_23_29_30_31:8;8;7;Province (6) 10,Gold (3) 6,Witch (30) 8,Silver (2) 10,Gold (3) 9,Witch (30) 6,Silver (2) 3,Laboratory (17) 1,Silver (2) 1,Woodcutter (31) 10,Duchy (5) 9,Village (29) 5,Duchy (5) 7
+17_18_22_28_32:6;5;3;Province (6) 5,Gold (3) 99,Laboratory (17) 9,Silver (2) 5,Moat (22) 2,Estate (4) 1,Duchy (5) 3,Library (18) 2,Copper (1) 3,Workshop (32) 6,Laboratory (17) 2,Silver (2) 8
+17_20_22_26_31:6;5;3;Province (6) 8,Gold (3) 99,Laboratory (17) 8,Militia (20) 2,Gold (3) 6,Laboratory (17) 5,Spy (26) 3,Silver (2) 3,Gold (3) 3,Militia (20) 5
+17_18_22_29_30:0;3;0;Province (6) 2,Witch (30) 2,Duchy (5) 8,Silver (2) 6,Estate (4) 7,Silver (2) 11,Gold (3) 2,Witch (30) 9,Silver (2) 12,Library (18) 7,Moat (22) 10,Library (18) 1
+17_23_29_30_32:11;6;5;Gold (3) 98,Witch (30) 2,Silver (2) 3,Province (6) 3,Province (6) 8,Silver (2) 10,Workshop (32) 2,Witch (30) 1,Duchy (5) 9,Laboratory (17) 2,Province (6) 8,Duchy (5) 5,Moneylender (23) 6,Workshop (32) 7
+17_18_22_29_31:6;5;3;Province (6) 10,Province (6) 6,Gold (3) 99,Province (6) 6,Gold (3) 5,Laboratory (17) 8,Silver (2) 4,Library (18) 6,Moat (22) 1,Province (6) 3,Duchy (5) 7,Silver (2) 8,Province (6) 9,Copper (1) 3
+17_23_29_31_32:8;5;3;Province (6) 5,Gold (3) 101,Laboratory (17) 5,Silver (2) 12,Woodcutter (31) 4,Gold (3) 9,Copper (1) 7,Duchy (5) 10,Estate (4) 4,Village (29) 6,Silver (2) 6,Copper (1) 3
+17_20_22_26_32:7;5;3;Gold (3) 2,Province (6) 4,Province (6) 7,Province (6) 8,Gold (3) 99,Laboratory (17) 11,Militia (20) 2,Spy (26) 7,Silver (2) 6,Silver (2) 4,Duchy (5) 8,Laboratory (17) 10,Duchy (5) 5
+17_18_22_29_32:5;5;3;Province (6) 5,Gold (3) 99,Gold (3) 3,Laboratory (17) 7,Silver (2) 11,Laboratory (17) 7,Village (29) 4,Library (18) 2,Moat (22) 3,Silver (2) 9,Gold (3) 4,Estate (4) 5
+17_23_30_31_32:7;7;6;Province (6) 8,Gold (3) 97,Witch (30) 9,Silver (2) 4,Duchy (5) 4,Silver (2) 12,Copper (1) 6,Laboratory (17) 7,Estate (4) 9,Province (6) 2
+17_20_22_27_28:5;5;4;Laboratory (17) 6,Province (6) 7,Laboratory (17) 8,Gold (3) 11,Militia (20) 2,Gold (3) 7,Silver (2) 9,Militia (20) 5,Duchy (5) 6,Gold (3) 5,Province (6) 99,Silver (2) 9,ThroneRoom (28) 9
+17_18_22_30_31:10;7;6;Province (6) 5,Province (6) 10,Gold (3) 99,Witch (30) 3,Silver (2) 9,Copper (1) 5,Gold (3) 9,Estate (4) 7,Woodcutter (31) 5,Moat (22) 3,Gold (3) 11,Duchy (5) 5
+17_24_25_26_27:8;5;3;Province (6) 8,Remodel (24) 1,Gold (3) 8,Laboratory (17) 6,Gold (3) 98,Province (6) 6,Silver (2) 13,Remodel (24) 8,Thief (27) 6,Spy (26) 6,Silver (2) 7,Smithy (25) 5,Province (6) 10,Spy (26) 6,Remodel (24) 8
+17_18_22_30_32:7;7;7;Province (6) 5,Gold (3) 9,Province (6) 6,Gold (3) 100,Witch (30) 7,Silver (2) 11,Gold (3) 8,Witch (30) 4,Workshop (32) 6,Workshop (32) 4,Silver (2) 6,Workshop (32) 9
+17_20_22_27_29:15;5;3;Province (6) 2,Gold (3) 5,Laboratory (17) 6,Duchy (5) 6,Militia (20) 3,Gold (3) 7,Silver (2) 12,Laboratory (17) 8,Thief (27) 99,Village (29) 8
+17_24_25_26_28:6;5;4;Province (6) 4,Smithy (25) 1,Gold (3) 6,Silver (2) 9,Gold (3) 100,Province (6) 6,Silver (2) 8,Smithy (25) 6,Laboratory (17) 4,Silver (2) 6,Gold (3) 9,Smithy (25) 8,Remodel (24) 4,Spy (26) 4
+17_18_22_31_32:7;5;3;Province (6) 7,Gold (3) 6,Library (18) 2,Silver (2) 10,Woodcutter (31) 11,Gold (3) 98,Library (18) 9,Duchy (5) 7
+17_24_25_26_29:7;5;3;Smithy (25) 1,Province (6) 8,Gold (3) 99,Silver (2) 8,Spy (26) 3,Remodel (24) 4,Duchy (5) 6,Gold (3) 9,Smithy (25) 4,Laboratory (17) 2,Spy (26) 6
+17_20_22_27_30:6;4;-5;Witch (30) 2,Province (6) 8,Province (6) 99,Gold (3) 8,Silver (2) 10,Duchy (5) 3,Laboratory (17) 5,Province (6) 9,Militia (20) 6,Silver (2) 4,Duchy (5) 5
+17_18_23_24_25:12;5;3;Gold (3) 99,Province (6) 3,Smithy (25) 1,Silver (2) 4,Laboratory (17) 8,Duchy (5) 3,Silver (2) 5,Silver (2) 10,Library (18) 8,Moneylender (23) 4,Duchy (5) 11,Remodel (24) 2,Silver (2) 4,Smithy (25) 11,Silver (2) 5,Duchy (5) 4
+17_24_25_26_30:-1;4;-4;Province (6) 3,Province (6) 4,Witch (30) 2,Gold (3) 1,Duchy (5) 6,Copper (1) 1,Silver (2) 6,Estate (4) 9,Silver (2) 11
+17_18_23_24_26:7;5;3;Province (6) 3,Gold (3) 100,Library (18) 11,Silver (2) 1,Duchy (5) 6,Silver (2) 9,Spy (26) 1,Laboratory (17) 5,Copper (1) 2,Moneylender (23) 2,Laboratory (17) 2,Moneylender (23) 7,Duchy (5) 6,Estate (4) 4,Estate (4) 8,Remodel (24) 7
+17_20_22_27_31:6;6;3;Gold (3) 2,Province (6) 5,Gold (3) 10,Laboratory (17) 6,Militia (20) 8,Duchy (5) 3,Duchy (5) 8,Laboratory (17) 99,Gold (3) 3,Silver (2) 11,Gold (3) 2,Silver (2) 8
+17_24_25_26_31:14;5;3;Smithy (25) 1,Gold (3) 101,Gold (3) 4,Silver (2) 9,Remodel (24) 3,Province (6) 5,Spy (26) 6,Woodcutter (31) 7,Silver (2) 4
+17_18_23_24_27:5;5;-4;Province (6) 4,Gold (3) 99,Library (18) 3,Gold (3) 3,Silver (2) 10,Remodel (24) 9,Silver (2) 1,Copper (1) 12,Gold (3) 8,Gold (3) 8
+17_20_22_27_32:10;5;3;Province (6) 3,Gold (3) 98,Laboratory (17) 6,Militia (20) 2,Silver (2) 3,Silver (2) 5,Moat (22) 1,Silver (2) 1,Copper (1) 8,Silver (2) 10,Militia (20) 9,Gold (3) 3,Moat (22) 4,Thief (27) 8
+17_24_25_26_32:6;5;3;Province (6) 5,Gold (3) 9,Laboratory (17) 7,Duchy (5) 1,Gold (3) 102,Laboratory (17) 8,Silver (2) 12,Workshop (32) 3,Spy (26) 2,Workshop (32) 5,Remodel (24) 2
+17_18_23_24_28:11;5;3;Gold (3) 5,Province (6) 7,Province (6) 7,Library (18) 2,Gold (3) 99,Silver (2) 11,Silver (2) 6,ThroneRoom (28) 5,Copper (1) 3,Estate (4) 2,Silver (2) 10,Duchy (5) 4,Laboratory (17) 10,Duchy (5) 10
+17_24_25_27_28:7;6;2;Gold (3) 2,Province (6) 6,Smithy (25) 1,Gold (3) 99,Laboratory (17) 5,Silver (2) 10,Gold (3) 4,Smithy (25) 6,Remodel (24) 4,Silver (2) 3,Province (6) 3,ThroneRoom (28) 8
+17_18_23_24_29:5;5;3;Province (6) 6,Gold (3) 6,Gold (3) 6,Province (6) 4,Library (18) 2,Silver (2) 6,Library (18) 7,Village (29) 8,Silver (2) 11,Duchy (5) 9,Village (29) 8,Moneylender (23) 5,Library (18) 99
+17_20_22_28_29:14;5;4;Gold (3) 6,Laboratory (17) 8,Militia (20) 2,Silver (2) 11,Moat (22) 2,ThroneRoom (28) 2,Estate (4) 7,Silver (2) 5,Militia (20) 6,Province (6) 6
+17_18_23_24_30:10;7;6;Province (6) 6,Gold (3) 8,Gold (3) 98,Witch (30) 2,Province (6) 3,Silver (2) 9,Duchy (5) 3,Province (6) 3,Library (18) 12
+17_24_25_27_29:5;5;5;Province (6) 9,Gold (3) 6,Province (6) 101,Gold (3) 1,Laboratory (17) 12,Silver (2) 7,Silver (2) 2,Remodel (24) 6,Gold (3) 2,Village (29) 8,Smithy (25) 13
+17_20_22_28_30:10;7;6;Gold (3) 5,Province (6) 7,Gold (3) 102,Witch (30) 2,Silver (2) 8,Silver (2) 5,Laboratory (17) 5,Duchy (5) 8,Militia (20) 6,ThroneRoom (28) 5,Militia (20) 7
+17_18_23_24_31:12;5;3;Gold (3) 99,Library (18) 2,Silver (2) 8,Laboratory (17) 3,Silver (2) 6,Duchy (5) 5,Moneylender (23) 2,Gold (3) 7,Library (18) 10,Silver (2) 5,Province (6) 7,Duchy (5) 7
+17_18_23_24_32:13;5;3;Gold (3) 98,Library (18) 2,Silver (2) 3,Silver (2) 10,Duchy (5) 9,Library (18) 1,Gold (3) 3,Workshop (32) 5,Gold (3) 3,Duchy (5) 6,Laboratory (17) 9
+17_20_22_28_31:10;5;4;Province (6) 4,Gold (3) 101,Laboratory (17) 3,Laboratory (17) 9,Militia (20) 8,Duchy (5) 6,Duchy (5) 5,Duchy (5) 5,Silver (2) 9,Duchy (5) 9
+17_24_25_27_30:7;7;6;Witch (30) 2,Province (6) 2,Gold (3) 102,Silver (2) 9,Duchy (5) 6,Gold (3) 3,Silver (2) 4,Duchy (5) 9,Witch (30) 8,Gold (3) 5,Province (6) 4,Smithy (25) 7,Thief (27) 2,Laboratory (17) 9,Gold (3) 9
+17_18_23_25_26:5;5;3;Smithy (25) 1,Province (6) 7,Gold (3) 99,Silver (2) 10,Gold (3) 5,Laboratory (17) 6,Duchy (5) 2,Spy (26) 9,Laboratory (17) 11,Smithy (25) 5,Library (18) 10
+17_20_22_28_32:12;5;3;Gold (3) 8,Laboratory (17) 5,Militia (20) 2,Duchy (5) 8,Laboratory (17) 7,Silver (2) 10,Duchy (5) 5,ThroneRoom (28) 6,Province (6) 4,Province (6) 96,Moat (22) 3,Moat (22) 7,Laboratory (17) 7,Province (6) 2,Gold (3) 3
+17_24_25_27_31:9;5;3;Province (6) 5,Province (6) 8,Gold (3) 3,Gold (3) 3,Smithy (25) 1,Silver (2) 10,Copper (1) 9,Smithy (25) 7,Woodcutter (31) 4,Copper (1) 6,Woodcutter (31) 5,Gold (3) 9,Smithy (25) 2,Laboratory (17) 9,Laboratory (17) 8
+17_18_23_25_27:6;5;3;Province (6) 5,Gold (3) 97,Smithy (25) 1,Silver (2) 6,Silver (2) 4,Silver (2) 9,Smithy (25) 5,Gold (3) 4,Moneylender (23) 5,Thief (27) 4,Silver (2) 7,Gold (3) 13,Province (6) 2,Silver (2) 7
+17_20_22_29_30:9;7;6;Gold (3) 8,Witch (30) 2,Gold (3) 7,Gold (3) 98,Silver (2) 10,Silver (2) 8,Village (29) 3,Duchy (5) 8,Laboratory (17) 4,Militia (20) 5,Witch (30) 5,Province (6) 4,Silver (2) 5,Province (6) 9
+17_18_23_25_28:9;5;3;Gold (3) 8,Gold (3) 9,Gold (3) 101,Library (18) 9,Silver (2) 4,Silver (2) 10,Silver (2) 7,Gold (3) 10,Smithy (25) 7,Laboratory (17) 3,ThroneRoom (28) 7
+17_24_25_27_32:5;5;3;Province (6) 4,Gold (3) 5,Silver (2) 2,Gold (3) 100,Laboratory (17) 5,Smithy (25) 4,Province (6) 2,Silver (2) 13,Laboratory (17) 3,Duchy (5) 9,Thief (27) 1,Smithy (25) 5
+17_20_22_29_31:10;5;3;Gold (3) 100,Gold (3) 9,Laboratory (17) 9,Silver (2) 9,Silver (2) 10,Silver (2) 6,Duchy (5) 10,Moat (22) 2,Province (6) 1,Laboratory (17) 7,Woodcutter (31) 9,Moat (22) 7,Silver (2) 6,Village (29) 10,Village (29) 7
+17_18_23_25_29:5;5;3;Library (18) 1,Province (6) 6,Gold (3) 7,Silver (2) 5,Silver (2) 8,Gold (3) 98,Village (29) 4,Library (18) 2,Laboratory (17) 9,Gold (3) 6
+17_24_25_28_29:11;5;4;Gold (3) 5,Laboratory (17) 9,Laboratory (17) 9,Province (6) 1,Silver (2) 2,Smithy (25) 10,Silver (2) 8,Copper (1) 6,Smithy (25) 4,Laboratory (17) 9,Village (29) 2,Copper (1) 5,ThroneRoom (28) 2
+17_20_22_29_32:7;5;3;Province (6) 8,Gold (3) 99,Laboratory (17) 6,Militia (20) 2,Silver (2) 10,Laboratory (17) 2,Moat (22) 6,Province (6) 5,Duchy (5) 6,Estate (4) 8,Workshop (32) 6,Village (29) 9
+17_18_23_25_30:4;3;5;Province (6) 4,Witch (30) 2,Duchy (5) 98,Duchy (5) 5,Silver (2) 6,Estate (4) 12,Smithy (25) 4,Duchy (5) 7,Laboratory (17) 9,Moneylender (23) 3,Estate (4) 6,Library (18) 7,Smithy (25) 1,Silver (2) 9,Estate (4) 4
+17_18_23_25_31:7;5;2;Province (6) 6,Gold (3) 5,Gold (3) 98,Library (18) 2,Silver (2) 5,Silver (2) 12,Gold (3) 5,Laboratory (17) 3,Duchy (5) 10,Smithy (25) 9,Moneylender (23) 10
+17_20_22_30_31:6;6;5;Witch (30) 2,Province (6) 3,Gold (3) 4,Silver (2) 6,Duchy (5) 3,Duchy (5) 99,Duchy (5) 7,Silver (2) 11,Laboratory (17) 7,Woodcutter (31) 3,Militia (20) 3,Laboratory (17) 5
+17_24_25_28_30:9;7;6;Gold (3) 99,Province (6) 7,Province (6) 7,Witch (30) 2,Silver (2) 5,Duchy (5) 5,Silver (2) 10,Remodel (24) 9
+17_18_23_25_32:9;5;3;Province (6) 4,Gold (3) 9,Library (18) 3,Silver (2) 11,Gold (3) 98,Silver (2) 7,Duchy (5) 5,Library (18) 5,Moneylender (23) 4,Smithy (25) 10,Laboratory (17) 3,Smithy (25) 7,Province (6) 6,Workshop (32) 7
+17_20_22_30_32:9;8;7;Province (6) 10,Gold (3) 9,Witch (30) 2,Gold (3) 3,Silver (2) 3,Silver (2) 9,Copper (1) 7,Moat (22) 10,Duchy (5) 2,Estate (4) 6,Curse (7) 4,Province (6) 10,Militia (20) 6,Duchy (5) 6
+17_24_25_28_31:8;5;3;Gold (3) 2,Province (6) 8,Gold (3) 97,Smithy (25) 1,Silver (2) 10,Laboratory (17) 10,Woodcutter (31) 2,Province (6) 5,Duchy (5) 5,Silver (2) 10,Duchy (5) 5,Gold (3) 2,Laboratory (17) 7
+17_18_23_26_27:5;5;3;Library (18) 1,Province (6) 9,Gold (3) 6,Gold (3) 5,Silver (2) 9,Thief (27) 5,Moneylender (23) 7,Silver (2) 5,Gold (3) 101,Spy (26) 4
+17_20_22_31_32:5;5;3;Province (6) 7,Province (6) 9,Gold (3) 101,Laboratory (17) 6,Laboratory (17) 1,Militia (20) 3,Silver (2) 6,Workshop (32) 8,Province (6) 4,Silver (2) 6
+17_24_25_28_32:7;5;3;Gold (3) 2,Smithy (25) 1,Province (6) 2,Gold (3) 99,Laboratory (17) 6,Silver (2) 10,Copper (1) 5,Silver (2) 7,Smithy (25) 6,Smithy (25) 10,Workshop (32) 6,Estate (4) 8,Estate (4) 2
+17_18_23_26_28:6;5;3;Library (18) 1,Province (6) 9,Gold (3) 98,Silver (2) 8,Laboratory (17) 2,Silver (2) 1,Spy (26) 8,Moneylender (23) 6,Silver (2) 7,Gold (3) 9,Library (18) 10,Gold (3) 3,Gold (3) 5
+17_18_23_26_29:5;4;3;Province (6) 3,Gold (3) 7,Library (18) 1,Gold (3) 5,Silver (2) 2,Library (18) 3,Silver (2) 10
+17_20_23_24_25:8;-2;5;Gold (3) 1,Province (6) 6,Gold (3) 4,Laboratory (17) 6,Militia (20) 3,Silver (2) 12,Copper (1) 9,Estate (4) 3,Duchy (5) 6,Province (6) 6,Province (6) 8,Gold (3) 100,Copper (1) 10
+17_24_25_29_30:9;8;7;Gold (3) 100,Witch (30) 9,Silver (2) 11,Laboratory (17) 9,Remodel (24) 9,Remodel (24) 4,Silver (2) 7
+17_18_23_26_30:9;8;7;Gold (3) 9,Witch (30) 2,Gold (3) 6,Silver (2) 10,Copper (1) 10,Duchy (5) 10,Estate (4) 10,Silver (2) 5,Estate (4) 7,Witch (30) 10,Moneylender (23) 5,Copper (1) 4,Gold (3) 96
+17_24_25_29_31:6;5;3;Gold (3) 1,Province (6) 4,Gold (3) 4,Laboratory (17) 6,Silver (2) 11,Village (29) 8,Copper (1) 98,Village (29) 4,Duchy (5) 3,Copper (1) 2,Remodel (24) 8,Smithy (25) 10,Copper (1) 6
+17_18_23_26_31:8;5;3;Gold (3) 2,Province (6) 4,Gold (3) 102,Laboratory (17) 11,Woodcutter (31) 1,Silver (2) 6,Library (18) 8,Moneylender (23) 7,Duchy (5) 6,Duchy (5) 3,Spy (26) 7
+17_20_23_24_26:6;5;3;Laboratory (17) 6,Province (6) 9,Gold (3) 3,Gold (3) 99,Militia (20) 2,Spy (26) 8,Silver (2) 2,Silver (2) 10,Duchy (5) 4,Silver (2) 11
+17_18_23_26_32:6;5;3;Province (6) 5,Gold (3) 98,Library (18) 2,Silver (2) 11,Duchy (5) 6,Moneylender (23) 7,Silver (2) 4,Library (18) 5,Library (18) 5,Gold (3) 1,Moneylender (23) 5,Workshop (32) 7
+17_24_25_29_32:6;5;3;Province (6) 10,Gold (3) 99,Smithy (25) 1,Silver (2) 9,Remodel (24) 1,Laboratory (17) 9,Silver (2) 10,Duchy (5) 4,Village (29) 3,Smithy (25) 6,Province (6) 8,Gold (3) 3,Village (29) 5,Village (29) 10
+17_20_23_24_27:5;5;4;Province (6) 3,Gold (3) 5,Laboratory (17) 6,Militia (20) 2,Gold (3) 3,Silver (2) 9,Laboratory (17) 2,Gold (3) 99,Remodel (24) 2,Militia (20) 7,Remodel (24) 2,Duchy (5) 4,Remodel (24) 2
+17_18_23_27_28:7;5;3;Province (6) 9,Gold (3) 6,Library (18) 2,Silver (2) 9,Silver (2) 8,Duchy (5) 5,ThroneRoom (28) 100,ThroneRoom (28) 7,Silver (2) 11,Thief (27) 11,Moneylender (23) 5,Duchy (5) 8,Thief (27) 8
+17_18_23_27_29:5;5;3;Library (18) 1,Province (6) 7,Gold (3) 7,Silver (2) 11,Silver (2) 4,Duchy (5) 2,Silver (2) 10,Village (29) 6
+17_20_23_24_28:6;5;5;Province (6) 8,Gold (3) 6,Laboratory (17) 10,Laboratory (17) 9,Duchy (5) 8,Militia (20) 9,Province (6) 6,Silver (2) 6,ThroneRoom (28) 3,Gold (3) 100,Moneylender (23) 6,Silver (2) 2
+17_24_25_30_31:6;5;4;Province (6) 4,Witch (30) 2,Gold (3) 99,Silver (2) 9,Smithy (25) 3,Province (6) 4,Remodel (24) 9,Smithy (25) 5,Witch (30) 7,Laboratory (17) 5,Province (6) 7,Smithy (25) 7
+17_18_23_27_30:6;6;6;Witch (30) 2,Province (6) 10,Gold (3) 96,Laboratory (17) 4,Silver (2) 10,Moneylender (23) 8,Thief (27) 9,Province (6) 7,Witch (30) 11,Thief (27) 8
+17_20_23_24_29:6;6;3;Gold (3) 2,Province (6) 4,Gold (3) 97,Laboratory (17) 11,Militia (20) 2,Silver (2) 9,Duchy (5) 5,Militia (20) 6,Moneylender (23) 2,Remodel (24) 6,Village (29) 8
+17_24_25_30_32:5;5;-3;Province (6) 6,Gold (3) 101,Witch (30) 3,Silver (2) 12,Duchy (5) 5,Laboratory (17) 7,Copper (1) 8,Province (6) 1,Workshop (32) 4,Gold (3) 10,Duchy (5) 5
+17_18_23_27_31:7;6;3;Gold (3) 2,Province (6) 12,Gold (3) 100,Library (18) 7,Silver (2) 9,Library (18) 6,Thief (27) 5,Woodcutter (31) 7,Silver (2) 10
+17_20_23_24_30:11;0;2;Witch (30) 2,Gold (3) 7,Silver (2) 6,Duchy (5) 7,Duchy (5) 5,Silver (2) 10,Duchy (5) 1
+17_18_23_27_32:7;5;3;Province (6) 7,Gold (3) 9,Province (6) 11,Province (6) 6,Library (18) 2,Silver (2) 11,Gold (3) 98,Silver (2) 9
+17_24_25_31_32:6;5;-3;Province (6) 8,Gold (3) 11,Laboratory (17) 12,Silver (2) 14,Silver (2) 2,Remodel (24) 6,Remodel (24) 2,Gold (3) 98,Workshop (32) 10,Duchy (5) 10,Workshop (32) 4,Smithy (25) 5
+17_18_23_28_29:8;5;2;Province (6) 10,Gold (3) 11,Library (18) 2,Silver (2) 10,Laboratory (17) 10,Duchy (5) 6,Moneylender (23) 9,Village (29) 2,ThroneRoom (28) 5,Gold (3) 99
+17_20_23_24_31:6;6;3;Militia (20) 3,Province (6) 9,Gold (3) 99,Laboratory (17) 4,Duchy (5) 8,Silver (2) 13,Woodcutter (31) 9,Copper (1) 5,Estate (4) 11,Copper (1) 4,Laboratory (17) 9,Gold (3) 2,Laboratory (17) 7,Militia (20) 1,Estate (4) 6
+17_24_26_27_28:8;5;3;Province (6) 10,Gold (3) 99,Laboratory (17) 7,Silver (2) 13,Province (6) 1,Thief (27) 2,Spy (26) 7,Silver (2) 2,Laboratory (17) 7,Duchy (5) 10,Duchy (5) 6
+17_18_23_28_30:7;6;-2;Province (6) 11,Gold (3) 101,Witch (30) 2,Province (6) 9,Silver (2) 6,Duchy (5) 9,Copper (1) 2,Estate (4) 8,Duchy (5) 3,Moneylender (23) 9
+17_20_23_24_32:6;5;3;Province (6) 7,Gold (3) 8,Laboratory (17) 5,Militia (20) 3,Gold (3) 98,Province (6) 6,Silver (2) 8,Gold (3) 8,Silver (2) 7,Workshop (32) 6,Moneylender (23) 9,Province (6) 7
+17_18_23_28_31:6;5;3;Province (6) 9,Gold (3) 101,Library (18) 2,Silver (2) 10,Laboratory (17) 10,Duchy (5) 6,ThroneRoom (28) 6,Silver (2) 3,ThroneRoom (28) 1,Laboratory (17) 2,Silver (2) 5,Moneylender (23) 5
+17_24_26_27_29:5;5;3;Province (6) 11,Gold (3) 99,Province (6) 5,Laboratory (17) 6,Province (6) 9,Province (6) 9,Silver (2) 7,Thief (27) 4
+17_18_23_28_32:11;5;3;Province (6) 3,Gold (3) 99,Library (18) 10,Silver (2) 4,Silver (2) 5,Moneylender (23) 2,Duchy (5) 2,ThroneRoom (28) 3,Moneylender (23) 6,Silver (2) 7,Copper (1) 7,Estate (4) 4,Estate (4) 8,Silver (2) 5,Silver (2) 8,Copper (1) 7
+17_20_23_25_26:5;5;3;Province (6) 6,Gold (3) 101,Province (6) 7,Laboratory (17) 9,Militia (20) 2,Spy (26) 1,Laboratory (17) 5,Gold (3) 7,Silver (2) 10,Moneylender (23) 7,Moneylender (23) 8,Silver (2) 2,Duchy (5) 9,Spy (26) 2,Smithy (25) 9,Gold (3) 1,Militia (20) 8
+17_24_26_27_30:10;7;6;Gold (3) 97,Witch (30) 2,Province (6) 2,Silver (2) 11,Province (6) 11,Laboratory (17) 4,Gold (3) 5,Remodel (24) 2,Remodel (24) 5,Silver (2) 3
+17_18_23_29_30:8;7;7;Province (6) 9,Gold (3) 3,Gold (3) 100,Witch (30) 2,Silver (2) 8,Silver (2) 2,Village (29) 1,Laboratory (17) 6,Silver (2) 6,Silver (2) 2
+17_20_23_25_27:5;5;4;Province (6) 8,Gold (3) 99,Laboratory (17) 9,Duchy (5) 4,Militia (20) 7,Gold (3) 10,Silver (2) 9,Laboratory (17) 2
+17_18_23_29_31:7;5;3;Province (6) 10,Gold (3) 7,Library (18) 3,Gold (3) 98,Silver (2) 7,Laboratory (17) 6,Duchy (5) 8,Moneylender (23) 6,Silver (2) 5,Laboratory (17) 2,Woodcutter (31) 6,Silver (2) 9
+17_24_26_27_31:8;5;3;Province (6) 2,Gold (3) 8,Laboratory (17) 6,Laboratory (17) 7,Silver (2) 10,Spy (26) 4,Woodcutter (31) 9,Gold (3) 5,Remodel (24) 10,Spy (26) 5,Spy (26) 5
+17_20_23_25_28:6;5;3;Province (6) 3,Province (6) 10,Gold (3) 6,Laboratory (17) 6,Militia (20) 2,Silver (2) 5,Silver (2) 8,Moneylender (23) 6,Gold (3) 3,ThroneRoom (28) 10,Militia (20) 7,Silver (2) 10,Smithy (25) 100,Silver (2) 9,Gold (3) 3
+17_18_23_29_32:6;5;3;Province (6) 6,Province (6) 5,Gold (3) 99,Library (18) 1,Library (18) 1,Silver (2) 8,Library (18) 8,Silver (2) 6,Library (18) 5,Duchy (5) 3,Moneylender (23) 4,Workshop (32) 6
+17_18_23_30_31:7;7;5;Province (6) 10,Gold (3) 100,Witch (30) 10,Duchy (5) 6,Silver (2) 9,Silver (2) 1,Laboratory (17) 4,Silver (2) 9,Duchy (5) 2,Laboratory (17) 6,Gold (3) 5,Silver (2) 9,Moneylender (23) 12
+17_20_23_25_29:6;5;3;Province (6) 3,Gold (3) 101,Laboratory (17) 6,Militia (20) 2,Silver (2) 9,Silver (2) 1,Duchy (5) 9,Moneylender (23) 4,Village (29) 4
+17_24_26_27_32:0;2;-1;Province (6) 9,Gold (3) 7,Province (6) 6,Laboratory (17) 11,Silver (2) 9,Thief (27) 4,Silver (2) 97,Duchy (5) 9,Spy (26) 4
+17_18_23_30_32:9;8;7;Gold (3) 9,Witch (30) 2,Silver (2) 14,Gold (3) 3,Workshop (32) 1,Library (18) 5,Copper (1) 4,Estate (4) 6,Duchy (5) 3,Gold (3) 102,Silver (2) 1
+17_20_23_25_30:6;6;4;Province (6) 3,Witch (30) 2,Gold (3) 99,Laboratory (17) 3,Silver (2) 1,Province (6) 6,Gold (3) 7,Silver (2) 11,Duchy (5) 8,Duchy (5) 8,Smithy (25) 2
+17_18_23_31_32:10;5;3;Gold (3) 4,Gold (3) 6,Library (18) 2,Province (6) 4,Silver (2) 10,Copper (1) 2,Estate (4) 5,Estate (4) 4,Library (18) 5,Gold (3) 99,Laboratory (17) 9,Gold (3) 1
+17_20_23_25_31:7;5;3;Province (6) 4,Gold (3) 2,Gold (3) 4,Laboratory (17) 6,Militia (20) 2,Silver (2) 12,Woodcutter (31) 3,Duchy (5) 3,Laboratory (17) 9,Smithy (25) 3,Moneylender (23) 6,Silver (2) 9,Silver (2) 5,Laboratory (17) 8,Woodcutter (31) 2
+17_18_24_25_26:5;5;3;Province (6) 8,Gold (3) 100,Library (18) 2,Silver (2) 9,Laboratory (17) 8,Gold (3) 8,Laboratory (17) 11
+17_24_26_28_29:4;4;4;Laboratory (17) 4,Remodel (24) 1,Province (6) 9,Province (6) 3,Gold (3) 99,Spy (26) 9,Silver (2) 2,Spy (26) 9,Silver (2) 10,Duchy (5) 7,Silver (2) 4,Gold (3) 3,Village (29) 7
+17_18_24_25_27:6;5;3;Province (6) 6,Gold (3) 8,Gold (3) 100,Library (18) 2,Silver (2) 11,Copper (1) 2,Copper (1) 7,Remodel (24) 1,Thief (27) 6,Laboratory (17) 5
+17_20_23_25_32:5;5;3;Province (6) 4,Gold (3) 98,Laboratory (17) 10,Militia (20) 2,Duchy (5) 5,Silver (2) 9,Smithy (25) 8,Militia (20) 1,Militia (20) 3
+17_18_24_25_28:14;5;3;Smithy (25) 1,Gold (3) 8,Laboratory (17) 5,Silver (2) 11,Silver (2) 1,Silver (2) 4,Copper (1) 2,Silver (2) 11,Gold (3) 8,Estate (4) 8,Smithy (25) 6,Estate (4) 6,Gold (3) 99,ThroneRoom (28) 10,ThroneRoom (28) 3
+17_24_26_28_30:11;7;6;Gold (3) 2,Gold (3) 3,Province (6) 12,Gold (3) 98,Witch (30) 2,Silver (2) 10,Spy (26) 7,Gold (3) 10,Silver (2) 4,Gold (3) 4,ThroneRoom (28) 4,Silver (2) 2
+17_20_23_26_27:6;5;5;Province (6) 3,Gold (3) 99,Laboratory (17) 5,Militia (20) 5,Silver (2) 4,Duchy (5) 3,Spy (26) 5,Silver (2) 8,Moneylender (23) 11,Militia (20) 7
+17_18_24_25_29:7;6;3;Gold (3) 2,Smithy (25) 1,Province (6) 9,Gold (3) 11,Laboratory (17) 100,Silver (2) 11,Remodel (24) 10,Laboratory (17) 3,Remodel (24) 3
+17_24_26_28_31:5;5;4;Laboratory (17) 2,Province (6) 7,Gold (3) 99,Silver (2) 8,Spy (26) 9,Copper (1) 9,Laboratory (17) 3,Remodel (24) 11,Duchy (5) 8,Laboratory (17) 4,ThroneRoom (28) 3,ThroneRoom (28) 3,Silver (2) 9
+17_20_23_26_28:7;5;4;Province (6) 11,Gold (3) 98,Laboratory (17) 8,Militia (20) 6,Silver (2) 10,Silver (2) 2,Militia (20) 8,Laboratory (17) 7,Militia (20) 6,Duchy (5) 9,Spy (26) 7,Moneylender (23) 6
+17_18_24_25_30:9;6;5;Gold (3) 99,Province (6) 3,Witch (30) 2,Silver (2) 12,Silver (2) 6,Witch (30) 7,Remodel (24) 6,Duchy (5) 12,Gold (3) 9,Gold (3) 1,Gold (3) 5
+17_24_26_28_32:6;5;3;Province (6) 7,Gold (3) 97,Laboratory (17) 11,Province (6) 6,Duchy (5) 10,Silver (2) 8,Copper (1) 5,Silver (2) 2,Workshop (32) 6,Remodel (24) 9,Laboratory (17) 7,Estate (4) 8
+17_18_24_25_31:10;5;3;Gold (3) 1,Province (6) 1,Gold (3) 101,Smithy (25) 1,Silver (2) 2,Laboratory (17) 4,Silver (2) 4,Silver (2) 3,Remodel (24) 3,Woodcutter (31) 4,Province (6) 9,Laboratory (17) 8,Province (6) 3,Silver (2) 11
+17_20_23_26_29:5;5;4;Province (6) 5,Gold (3) 102,Laboratory (17) 9,Gold (3) 10,Militia (20) 2,Spy (26) 9,Duchy (5) 6,Moneylender (23) 3,Silver (2) 12
+17_18_24_25_32:12;5;3;Gold (3) 98,Library (18) 2,Gold (3) 9,Silver (2) 11,Silver (2) 3,Duchy (5) 7,Smithy (25) 3,Library (18) 6,Province (6) 4,Workshop (32) 7,Library (18) 4,Laboratory (17) 7,Silver (2) 6
+17_24_26_29_30:13;8;7;Witch (30) 2,Province (6) 5,Province (6) 7,Gold (3) 7,Silver (2) 10,Remodel (24) 4,Witch (30) 5,Remodel (24) 5,Gold (3) 95,Copper (1) 8,Remodel (24) 1,Laboratory (17) 4,Witch (30) 6,Curse (7) 6,Spy (26) 10
+17_20_23_26_30:9;8;7;Province (6) 8,Gold (3) 6,Witch (30) 13,Gold (3) 99,Silver (2) 10,Copper (1) 8,Curse (7) 4
+17_24_26_29_31:5;5;3;Gold (3) 2,Province (6) 9,Gold (3) 98,Laboratory (17) 11,Silver (2) 2,Gold (3) 9,Laboratory (17) 9,Woodcutter (31) 2,Spy (26) 1,Remodel (24) 5,Silver (2) 11
+17_18_24_26_27:5;5;3;Gold (3) 2,Province (6) 10,Gold (3) 99,Laboratory (17) 8,Remodel (24) 1,Spy (26) 4,Silver (2) 10,Thief (27) 7,Thief (27) 5,Silver (2) 3,Province (6) 8,Silver (2) 6
+17_24_26_29_32:7;6;3;Remodel (24) 1,Province (6) 7,Gold (3) 3,Gold (3) 98,Laboratory (17) 6,Silver (2) 2,Duchy (5) 10,Gold (3) 5,Silver (2) 8,Workshop (32) 7
+17_18_24_26_28:12;5;3;Gold (3) 99,Province (6) 8,Library (18) 5,Duchy (5) 6,Silver (2) 8,ThroneRoom (28) 2,Remodel (24) 9,Spy (26) 5,Silver (2) 4
+17_20_23_26_31:5;3;3;Province (6) 7,Gold (3) 2,Laboratory (17) 8,Duchy (5) 6,Militia (20) 4,Gold (3) 101,Silver (2) 11,Moneylender (23) 6,Militia (20) 5
+17_24_26_30_31:10;7;6;Gold (3) 3,Province (6) 5,Gold (3) 8,Witch (30) 2,Silver (2) 10,Silver (2) 2,Province (6) 1,Laboratory (17) 6,Spy (26) 3,Woodcutter (31) 1,Remodel (24) 2
+17_18_24_26_29:5;5;3;Province (6) 9,Gold (3) 10,Gold (3) 4,Library (18) 2,Silver (2) 7,Laboratory (17) 5,Spy (26) 8,Province (6) 6,Library (18) 5,Laboratory (17) 1,Laboratory (17) 2,Gold (3) 98,Remodel (24) 4
+17_24_26_30_32:1;7;7;Witch (30) 2,Duchy (5) 3,Duchy (5) 9,Silver (2) 5,Copper (1) 1,Estate (4) 8,Silver (2) 11,Remodel (24) 3,Laboratory (17) 6
+17_20_23_26_32:5;5;4;Province (6) 7,Gold (3) 99,Laboratory (17) 6,Militia (20) 2,Spy (26) 3,Silver (2) 8,Militia (20) 4,Duchy (5) 5,Moneylender (23) 1,Province (6) 2,Moneylender (23) 11,Workshop (32) 1
+17_18_24_26_30:3;2;-2;Witch (30) 2,Province (6) 9,Silver (2) 2,Gold (3) 100,Laboratory (17) 2,Duchy (5) 9,Gold (3) 12,Silver (2) 10
+17_24_26_31_32:10;5;3;Gold (3) 97,Remodel (24) 1,Laboratory (17) 2,Laboratory (17) 1,Silver (2) 6,Duchy (5) 5,Gold (3) 8,Duchy (5) 1,Duchy (5) 5,Silver (2) 12,Workshop (32) 1,Woodcutter (31) 8
+17_18_24_26_31:6;4;3;Province (6) 8,Gold (3) 8,Laboratory (17) 6,Remodel (24) 1,Library (18) 7,Spy (26) 3,Laboratory (17) 10,Silver (2) 10,Gold (3) 4,Province (6) 4
+17_20_23_27_28:10;5;3;Gold (3) 7,Gold (3) 2,Laboratory (17) 7,Province (6) 7,Gold (3) 99,Laboratory (17) 5,Militia (20) 3,Duchy (5) 8,Silver (2) 9,Duchy (5) 10,ThroneRoom (28) 2,Moneylender (23) 9,Silver (2) 9,Gold (3) 6,Province (6) 1
+17_24_27_28_29:6;5;3;Province (6) 8,Gold (3) 99,Laboratory (17) 7,Silver (2) 12,Copper (1) 5,Gold (3) 4,Village (29) 5,Estate (4) 8,Village (29) 3,Silver (2) 5,ThroneRoom (28) 4
+17_18_24_26_32:6;5;2;Province (6) 8,Gold (3) 98,Library (18) 2,Silver (2) 8,Copper (1) 5,Silver (2) 9,Province (6) 3,Copper (1) 3,Duchy (5) 9,Workshop (32) 9,Duchy (5) 10,Remodel (24) 9,Remodel (24) 7,Laboratory (17) 8,Duchy (5) 3,Copper (1) 10
+17_20_23_27_29:12;5;4;Gold (3) 9,Laboratory (17) 8,Militia (20) 3,Duchy (5) 99,Laboratory (17) 7,Province (6) 10,Silver (2) 7,Village (29) 9,Silver (2) 5,Duchy (5) 6,Gold (3) 4,Thief (27) 10
+17_18_24_27_28:6;5;3;Province (6) 7,Province (6) 5,Gold (3) 11,Province (6) 10,Laboratory (17) 7,Remodel (24) 1,Silver (2) 10,Gold (3) 100,Remodel (24) 2,Laboratory (17) 4,Silver (2) 7,Duchy (5) 7,Remodel (24) 4,Thief (27) 7
+17_24_27_28_30:7;7;6;Province (6) 3,Gold (3) 1,Gold (3) 8,Witch (30) 2,Silver (2) 10,Silver (2) 5,Thief (27) 2,Duchy (5) 7,Duchy (5) 7,Laboratory (17) 5,Silver (2) 3,Witch (30) 10,ThroneRoom (28) 1
+17_18_24_27_29:7;5;3;Silver (2) 1,Province (6) 10,Gold (3) 98,Library (18) 8,Gold (3) 6,Silver (2) 11,Thief (27) 4,Laboratory (17) 4,Village (29) 4,Province (6) 2
+17_20_23_27_30:6;6;5;Province (6) 6,Gold (3) 100,Witch (30) 2,Silver (2) 7,Duchy (5) 7,Silver (2) 3,Laboratory (17) 11,Witch (30) 12
+17_24_27_28_31:6;5;3;Province (6) 10,Gold (3) 10,Laboratory (17) 8,Silver (2) 9,Copper (1) 3,Province (6) 7,Province (6) 3,Copper (1) 1,Thief (27) 9,Province (6) 3,Duchy (5) 9,Gold (3) 99,Thief (27) 1,Woodcutter (31) 6
+17_18_24_27_30:9;7;7;Gold (3) 102,Province (6) 8,Witch (30) 2,Silver (2) 9,Silver (2) 3,Thief (27) 4,Remodel (24) 3
+17_18_24_27_31:5;5;3;Province (6) 7,Gold (3) 99,Library (18) 3,Silver (2) 4,Silver (2) 9,Remodel (24) 1,Laboratory (17) 9,Gold (3) 2,Silver (2) 6,Woodcutter (31) 12,Remodel (24) 4
+17_24_27_28_32:6;5;4;Remodel (24) 1,Province (6) 6,Gold (3) 3,Gold (3) 3,Laboratory (17) 4,Silver (2) 8,Duchy (5) 7,Remodel (24) 4,Thief (27) 6,Gold (3) 98
+17_20_23_27_31:8;5;3;Province (6) 6,Gold (3) 4,Laboratory (17) 7,Laboratory (17) 5,Militia (20) 2,Province (6) 7,Silver (2) 10,Thief (27) 4,Woodcutter (31) 1,Woodcutter (31) 1,Duchy (5) 4,Laboratory (17) 1,Thief (27) 10
+17_18_24_27_32:7;5;4;Province (6) 11,Gold (3) 6,Library (18) 1,Silver (2) 9,Workshop (32) 4,Silver (2) 10,Library (18) 3,Duchy (5) 3,Remodel (24) 8,Thief (27) 2
+17_24_27_29_30:10;7;7;Gold (3) 97,Witch (30) 2,Silver (2) 1,Silver (2) 10,Village (29) 2,Laboratory (17) 8,Gold (3) 6,Gold (3) 4,Remodel (24) 12,Province (6) 10,Duchy (5) 3,Province (6) 5
+17_18_24_28_29:5;5;3;Province (6) 7,Gold (3) 6,Library (18) 10,Duchy (5) 10,Silver (2) 12,Remodel (24) 5,Laboratory (17) 3,Village (29) 1
+17_20_23_27_32:9;5;4;Province (6) 7,Gold (3) 101,Laboratory (17) 5,Gold (3) 10,Militia (20) 10,Silver (2) 10,Duchy (5) 5,Moneylender (23) 2,Militia (20) 8,Copper (1) 9,Thief (27) 7,Moneylender (23) 7
+17_18_24_28_30:7;7;7;Province (6) 5,Gold (3) 9,Witch (30) 3,Duchy (5) 7,Duchy (5) 5,Gold (3) 98,Laboratory (17) 7,Silver (2) 12,Duchy (5) 3,Copper (1) 3,Estate (4) 4,Gold (3) 7,Duchy (5) 2,Gold (3) 9,Witch (30) 11
+17_24_27_29_31:9;5;3;Province (6) 8,Gold (3) 99,Laboratory (17) 6,Silver (2) 4,Silver (2) 10,Duchy (5) 1,Village (29) 4,Remodel (24) 8,Remodel (24) 2,Province (6) 6,Woodcutter (31) 4,Village (29) 10,Gold (3) 8
+17_18_24_28_31:7;5;3;Province (6) 13,Gold (3) 102,Library (18) 2,Silver (2) 5,Laboratory (17) 1,Silver (2) 10,Laboratory (17) 7,Gold (3) 8,ThroneRoom (28) 9,Library (18) 12,ThroneRoom (28) 5,Laboratory (17) 9
+17_20_23_28_29:8;5;4;Province (6) 4,Gold (3) 4,Laboratory (17) 6,Duchy (5) 10,Militia (20) 10,Duchy (5) 1,Gold (3) 100,Silver (2) 10,Militia (20) 13
+17_18_24_28_32:5;5;3;Province (6) 5,Gold (3) 9,Library (18) 2,Silver (2) 4,Silver (2) 12,Duchy (5) 3,Duchy (5) 1,Library (18) 8,Gold (3) 8,Gold (3) 97,Workshop (32) 4,ThroneRoom (28) 6
+17_24_27_29_32:10;5;3;Province (6) 10,Gold (3) 5,Laboratory (17) 9,Silver (2) 4,Silver (2) 7,Thief (27) 3,Silver (2) 8,Silver (2) 10,Province (6) 11,Thief (27) 8,Province (6) 4,Duchy (5) 2,Gold (3) 100,Remodel (24) 5,Village (29) 8,Workshop (32) 1
+17_18_24_29_30:2;8;8;Witch (30) 2,Silver (2) 1,Province (6) 1,Gold (3) 1,Duchy (5) 9,Silver (2) 10,Witch (30) 6,Laboratory (17) 3,Province (6) 5,Laboratory (17) 4,Remodel (24) 9,Silver (2) 8
+17_20_23_28_30:5;5;6;Province (6) 1,Witch (30) 2,Duchy (5) 10,Copper (1) 1,Silver (2) 4,Gold (3) 99,Gold (3) 7,Estate (4) 9,Duchy (5) 2,ThroneRoom (28) 3,Copper (1) 3,Province (6) 2,Curse (7) 9,Laboratory (17) 1
+17_24_27_30_31:2;8;8;Witch (30) 2,Province (6) 7,Duchy (5) 7,Gold (3) 99,Silver (2) 10,Province (6) 4,Woodcutter (31) 3,Thief (27) 2,Duchy (5) 9,Remodel (24) 1,Gold (3) 6
+17_18_24_29_31:7;5;3;Province (6) 2,Gold (3) 100,Library (18) 2,Silver (2) 7,Gold (3) 8,Gold (3) 4,Silver (2) 9,Woodcutter (31) 8,Village (29) 8,Remodel (24) 6,Woodcutter (31) 2,Silver (2) 4,Laboratory (17) 9

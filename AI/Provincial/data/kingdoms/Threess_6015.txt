@@ -1,0 +1,14 @@
+15_16_31:8;5;-4;Province (6) 6,Gold (3) 2,Gold (3) 7,Silver (2) 2,Silver (2) 10,Gold (3) 100,Duchy (5) 4,Chapel (16) 1,Province (6) 4,Duchy (5) 6
+15_17_31:11;5;3;Gold (3) 5,Laboratory (17) 5,Laboratory (17) 3,Silver (2) 11,Copper (1) 2,Estate (4) 4,Province (6) 4,Duchy (5) 10,Gold (3) 100,Province (6) 3,Laboratory (17) 2,Woodcutter (31) 4
+15_18_31:8;5;3;Province (6) 4,Gold (3) 101,Library (18) 2,Silver (2) 6,Gold (3) 7,Silver (2) 10,Library (18) 3,Silver (2) 4,Chancellor (15) 6,Duchy (5) 6,Woodcutter (31) 7
+15_19_31:12;5;4;Province (6) 2,Gold (3) 100,Market (19) 9,Woodcutter (31) 1,Duchy (5) 3,Silver (2) 9,Woodcutter (31) 1,Gold (3) 2,Gold (3) 6,Silver (2) 8,Chancellor (15) 10,Chancellor (15) 7
+15_20_31:13;6;4;Gold (3) 6,Militia (20) 4,Duchy (5) 11,Silver (2) 10,Gold (3) 99,Province (6) 9,Chancellor (15) 10,Militia (20) 4,Militia (20) 10
+15_21_31:14;7;4;Gold (3) 99,Mine (21) 8,Silver (2) 12,Province (6) 3,Silver (2) 10,Gold (3) 1,Province (6) 5,Duchy (5) 2,Copper (1) 5,Woodcutter (31) 8,Chancellor (15) 2,Estate (4) 8
+15_22_31:6;5;4;Province (6) 4,Gold (3) 8,Silver (2) 4,Silver (2) 7,Moat (22) 3,Duchy (5) 3,Chancellor (15) 10,Moat (22) 7,Copper (1) 4,Gold (3) 99,Woodcutter (31) 9,Gold (3) 4
+15_23_31:9;6;3;Gold (3) 99,Gold (3) 2,Province (6) 6,Silver (2) 7,Woodcutter (31) 10,Silver (2) 11,Province (6) 10,Moneylender (23) 10
+15_24_31:13;5;4;Gold (3) 5,Province (6) 10,Silver (2) 6,Duchy (5) 4,Remodel (24) 6,Woodcutter (31) 8,Remodel (24) 1,Chancellor (15) 6,Copper (1) 6,Province (6) 10,Remodel (24) 3,Estate (4) 6,Province (6) 8,Chancellor (15) 7,Gold (3) 97
+15_25_31:6;5;3;Province (6) 11,Smithy (25) 1,Gold (3) 98,Gold (3) 4,Gold (3) 6,Silver (2) 10,Province (6) 5,Silver (2) 9,Chancellor (15) 5,Chancellor (15) 4,Woodcutter (31) 6
+15_26_31:7;6;3;Province (6) 3,Gold (3) 7,Silver (2) 11,Duchy (5) 5,Chancellor (15) 3,Spy (26) 2,Silver (2) 8,Gold (3) 95,Woodcutter (31) 3,Gold (3) 9
+15_27_31:7;5;4;Province (6) 3,Gold (3) 98,Woodcutter (31) 1,Silver (2) 10,Silver (2) 6,Thief (27) 3,Thief (27) 2,Chancellor (15) 3,Chancellor (15) 10,Province (6) 7,Silver (2) 4
+15_28_31:7;6;4;Province (6) 10,Gold (3) 97,Silver (2) 10,Copper (1) 3,Woodcutter (31) 4,Chancellor (15) 7,Silver (2) 4,Gold (3) 6,Silver (2) 12,Silver (2) 10,Estate (4) 7
+15_29_31:8;6;4;Province (6) 4,Gold (3) 7,Silver (2) 99,Copper (1) 5,Chancellor (15) 6,Village (29) 1,Province (6) 3,Estate (4) 6

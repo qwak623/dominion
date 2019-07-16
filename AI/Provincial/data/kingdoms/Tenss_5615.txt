@@ -1,0 +1,1 @@
+15_17_18_22_23_25_29_30_31_32:3;8;8;Witch (30) 2,Province (6) 9,Duchy (5) 11,Gold (3) 4,Silver (2) 11,Province (6) 2,Library (18) 8,Gold (3) 98,Library (18) 1,Smithy (25) 3,Moneylender (23) 10,Village (29) 2,Woodcutter (31) 1

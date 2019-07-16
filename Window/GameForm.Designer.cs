@@ -30,9 +30,10 @@
         {
             this.KingdomPanel = new System.Windows.Forms.Panel();
             this.KingdomLabel = new System.Windows.Forms.Label();
-            this.SetKingdom = new System.Windows.Forms.Button();
+            this.SetKingdomButton = new System.Windows.Forms.Button();
             this.Header = new System.Windows.Forms.Panel();
-            this.markButton = new System.Windows.Forms.Button();
+            this.StopButton = new System.Windows.Forms.Button();
+            this.SettingsButton = new System.Windows.Forms.Button();
             this.StartGameButton = new System.Windows.Forms.Button();
             this.GamePanel = new System.Windows.Forms.Panel();
             this.PhasePanel = new System.Windows.Forms.Panel();
@@ -51,6 +52,13 @@
             this.ExtensionsCardsPanel = new System.Windows.Forms.Panel();
             this.ExtensionsCardsLabel = new System.Windows.Forms.Label();
             this.SetKingdomPanel = new System.Windows.Forms.Panel();
+            this.SettingsPanel = new System.Windows.Forms.Panel();
+            this.PlayerNameTextBox = new System.Windows.Forms.TextBox();
+            this.PlayerNameLabel = new System.Windows.Forms.Label();
+            this.ThreesRadio = new System.Windows.Forms.RadioButton();
+            this.FivesRadio = new System.Windows.Forms.RadioButton();
+            this.SelectAITypeLabel = new System.Windows.Forms.Label();
+            this.TensRadio = new System.Windows.Forms.RadioButton();
             this.ExtensionsPanel = new System.Windows.Forms.Panel();
             this.button8 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
@@ -70,6 +78,7 @@
             this.CurrentKingdomPanel.SuspendLayout();
             this.ExtensionsCardsPanel.SuspendLayout();
             this.SetKingdomPanel.SuspendLayout();
+            this.SettingsPanel.SuspendLayout();
             this.ExtensionsPanel.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -97,40 +106,51 @@
             // 
             // SetKingdom
             // 
-            this.SetKingdom.Location = new System.Drawing.Point(209, 3);
-            this.SetKingdom.Name = "SetKingdom";
-            this.SetKingdom.Size = new System.Drawing.Size(200, 30);
-            this.SetKingdom.TabIndex = 2;
-            this.SetKingdom.Text = "Set Kingdom";
-            this.SetKingdom.UseVisualStyleBackColor = true;
-            this.SetKingdom.Click += new System.EventHandler(this.SetKingdom_Click);
+            this.SetKingdomButton.Location = new System.Drawing.Point(239, 3);
+            this.SetKingdomButton.Name = "SetKingdom";
+            this.SetKingdomButton.Size = new System.Drawing.Size(230, 30);
+            this.SetKingdomButton.TabIndex = 2;
+            this.SetKingdomButton.Text = "Set Kingdom";
+            this.SetKingdomButton.UseVisualStyleBackColor = true;
+            this.SetKingdomButton.Click += new System.EventHandler(this.SetKingdom_Click);
             // 
             // Header
             // 
             this.Header.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.Header.Controls.Add(this.markButton);
+            this.Header.Controls.Add(this.StopButton);
+            this.Header.Controls.Add(this.SettingsButton);
             this.Header.Controls.Add(this.StartGameButton);
-            this.Header.Controls.Add(this.SetKingdom);
+            this.Header.Controls.Add(this.SetKingdomButton);
             this.Header.Location = new System.Drawing.Point(0, 0);
             this.Header.Name = "Header";
             this.Header.Size = new System.Drawing.Size(938, 37);
             this.Header.TabIndex = 2;
             // 
-            // markButton
+            // StopButton
             // 
-            this.markButton.Location = new System.Drawing.Point(621, 3);
-            this.markButton.Name = "markButton";
-            this.markButton.Size = new System.Drawing.Size(200, 30);
-            this.markButton.TabIndex = 4;
-            this.markButton.Text = " Mark kingdom";
-            this.markButton.UseVisualStyleBackColor = true;
-            this.markButton.Click += new System.EventHandler(this.MarkKingdom);
+            this.StopButton.Location = new System.Drawing.Point(711, 3);
+            this.StopButton.Name = "StopButton";
+            this.StopButton.Size = new System.Drawing.Size(224, 30);
+            this.StopButton.TabIndex = 4;
+            this.StopButton.Text = "Stop";
+            this.StopButton.UseVisualStyleBackColor = true;
+            this.StopButton.Click += new System.EventHandler(this.StopButton_Click);
+            // 
+            // SettingsButton
+            // 
+            this.SettingsButton.Location = new System.Drawing.Point(475, 3);
+            this.SettingsButton.Name = "SettingsButton";
+            this.SettingsButton.Size = new System.Drawing.Size(230, 30);
+            this.SettingsButton.TabIndex = 3;
+            this.SettingsButton.Text = "Settings";
+            this.SettingsButton.UseVisualStyleBackColor = true;
+            this.SettingsButton.Click += new System.EventHandler(this.OpenSettings);
             // 
             // StartGameButton
             // 
             this.StartGameButton.Location = new System.Drawing.Point(3, 3);
             this.StartGameButton.Name = "StartGameButton";
-            this.StartGameButton.Size = new System.Drawing.Size(200, 30);
+            this.StartGameButton.Size = new System.Drawing.Size(230, 30);
             this.StartGameButton.TabIndex = 1;
             this.StartGameButton.Text = "Start";
             this.StartGameButton.UseVisualStyleBackColor = true;
@@ -278,7 +298,7 @@
             // 
             this.CurrentKingdomPanel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.CurrentKingdomPanel.Controls.Add(this.CurrentKingdomLabel);
-            this.CurrentKingdomPanel.Location = new System.Drawing.Point(3, 4);
+            this.CurrentKingdomPanel.Location = new System.Drawing.Point(3, 5);
             this.CurrentKingdomPanel.Name = "CurrentKingdomPanel";
             this.CurrentKingdomPanel.Size = new System.Drawing.Size(196, 500);
             this.CurrentKingdomPanel.TabIndex = 4;
@@ -318,6 +338,7 @@
             // 
             // SetKingdomPanel
             // 
+            this.SetKingdomPanel.Controls.Add(this.SettingsPanel);
             this.SetKingdomPanel.Controls.Add(this.ExtensionsPanel);
             this.SetKingdomPanel.Controls.Add(this.CurrentKingdomPanel);
             this.SetKingdomPanel.Controls.Add(this.ExtensionsCardsPanel);
@@ -326,6 +347,92 @@
             this.SetKingdomPanel.Size = new System.Drawing.Size(938, 507);
             this.SetKingdomPanel.TabIndex = 4;
             this.SetKingdomPanel.Visible = false;
+            // 
+            // SettingsPanel
+            // 
+            this.SettingsPanel.Controls.Add(this.PlayerNameTextBox);
+            this.SettingsPanel.Controls.Add(this.PlayerNameLabel);
+            this.SettingsPanel.Controls.Add(this.ThreesRadio);
+            this.SettingsPanel.Controls.Add(this.FivesRadio);
+            this.SettingsPanel.Controls.Add(this.SelectAITypeLabel);
+            this.SettingsPanel.Controls.Add(this.TensRadio);
+            this.SettingsPanel.Location = new System.Drawing.Point(3, 3);
+            this.SettingsPanel.Name = "SettingsPanel";
+            this.SettingsPanel.Size = new System.Drawing.Size(938, 507);
+            this.SettingsPanel.TabIndex = 7;
+            this.SettingsPanel.Visible = false;
+            // 
+            // PlayerNameTextBox
+            // 
+            this.PlayerNameTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.PlayerNameTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.PlayerNameTextBox.Location = new System.Drawing.Point(472, 238);
+            this.PlayerNameTextBox.Name = "PlayerNameTextBox";
+            this.PlayerNameTextBox.Size = new System.Drawing.Size(214, 30);
+            this.PlayerNameTextBox.TabIndex = 8;
+            this.PlayerNameTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.PlayerNameTextBox.TextChanged += new System.EventHandler(this.PlayerNameTextBox_TextChanged);
+            // 
+            // PlayerNameLabel
+            // 
+            this.PlayerNameLabel.AutoSize = true;
+            this.PlayerNameLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.PlayerNameLabel.Location = new System.Drawing.Point(263, 243);
+            this.PlayerNameLabel.Name = "PlayerNameLabel";
+            this.PlayerNameLabel.Size = new System.Drawing.Size(127, 25);
+            this.PlayerNameLabel.TabIndex = 7;
+            this.PlayerNameLabel.Text = "Player name:";
+            // 
+            // ThreesRadio
+            // 
+            this.ThreesRadio.AutoSize = true;
+            this.ThreesRadio.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.ThreesRadio.Location = new System.Drawing.Point(762, 135);
+            this.ThreesRadio.Name = "ThreesRadio";
+            this.ThreesRadio.Size = new System.Drawing.Size(95, 29);
+            this.ThreesRadio.TabIndex = 6;
+            this.ThreesRadio.TabStop = true;
+            this.ThreesRadio.Text = "Threes";
+            this.ThreesRadio.UseVisualStyleBackColor = true;
+            this.ThreesRadio.CheckedChanged += new System.EventHandler(this.Radio_CheckedChanged);
+            // 
+            // FivesRadio
+            // 
+            this.FivesRadio.AutoSize = true;
+            this.FivesRadio.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.FivesRadio.Location = new System.Drawing.Point(532, 135);
+            this.FivesRadio.Name = "FivesRadio";
+            this.FivesRadio.Size = new System.Drawing.Size(80, 29);
+            this.FivesRadio.TabIndex = 5;
+            this.FivesRadio.TabStop = true;
+            this.FivesRadio.Text = "Fives";
+            this.FivesRadio.UseVisualStyleBackColor = true;
+            this.FivesRadio.CheckedChanged += new System.EventHandler(this.Radio_CheckedChanged);
+            // 
+            // SelectAITypeLabel
+            // 
+            this.SelectAITypeLabel.AutoSize = true;
+            this.SelectAITypeLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.SelectAITypeLabel.Location = new System.Drawing.Point(41, 137);
+            this.SelectAITypeLabel.Name = "SelectAITypeLabel";
+            this.SelectAITypeLabel.Size = new System.Drawing.Size(139, 25);
+            this.SelectAITypeLabel.TabIndex = 4;
+            this.SelectAITypeLabel.Text = "Select AI type:";
+            // 
+            // TensRadio
+            // 
+            this.TensRadio.AutoSize = true;
+            this.TensRadio.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.TensRadio.Location = new System.Drawing.Point(296, 135);
+            this.TensRadio.Name = "TensRadio";
+            this.TensRadio.Size = new System.Drawing.Size(78, 29);
+            this.TensRadio.TabIndex = 1;
+            this.TensRadio.TabStop = true;
+            this.TensRadio.Text = "Tens";
+            this.TensRadio.UseVisualStyleBackColor = true;
+            this.TensRadio.CheckedChanged += new System.EventHandler(this.Radio_CheckedChanged);
             // 
             // ExtensionsPanel
             // 
@@ -466,6 +573,8 @@
             this.CurrentKingdomPanel.ResumeLayout(false);
             this.ExtensionsCardsPanel.ResumeLayout(false);
             this.SetKingdomPanel.ResumeLayout(false);
+            this.SettingsPanel.ResumeLayout(false);
+            this.SettingsPanel.PerformLayout();
             this.ExtensionsPanel.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -475,7 +584,7 @@
 
         private System.Windows.Forms.Panel KingdomPanel;
         private System.Windows.Forms.Label KingdomLabel;
-        private System.Windows.Forms.Button SetKingdom;
+        private System.Windows.Forms.Button SetKingdomButton;
         private System.Windows.Forms.Panel Header;
         private System.Windows.Forms.Button StartGameButton;
         private System.Windows.Forms.Panel GamePanel;
@@ -505,7 +614,15 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Button markButton;
+        private System.Windows.Forms.Panel SettingsPanel;
+        private System.Windows.Forms.Button SettingsButton;
+        private System.Windows.Forms.Button StopButton;
+        private System.Windows.Forms.RadioButton ThreesRadio;
+        private System.Windows.Forms.RadioButton FivesRadio;
+        private System.Windows.Forms.Label SelectAITypeLabel;
+        private System.Windows.Forms.RadioButton TensRadio;
+        private System.Windows.Forms.Label PlayerNameLabel;
+        private System.Windows.Forms.TextBox PlayerNameTextBox;
     }
 }
 

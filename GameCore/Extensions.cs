@@ -49,7 +49,14 @@ namespace GameCore
 
         public static List<Card> ToCardList(this string id)
         {
-            return id.Split('_').Select(a => Card.Get((CardType)int.Parse(a))).ToList();
+            try
+            {
+                return id.Split('_').Select(a => Card.Get((CardType)int.Parse(a))).ToList();
+            }
+            catch
+            {
+                return null;
+            }
         }
 
         public static string ToId(this IEnumerable<Card> cardList)

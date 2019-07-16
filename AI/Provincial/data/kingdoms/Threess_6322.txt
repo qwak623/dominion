@@ -1,0 +1,5 @@
+22_23_28:6;5;4;Province (6) 6,Gold (3) 4,Silver (2) 5,Silver (2) 6,Duchy (5) 10,Moat (22) 2,Silver (2) 8,ThroneRoom (28) 8,Silver (2) 3,Estate (4) 9,Estate (4) 9,ThroneRoom (28) 9
+22_24_28:7;5;4;Province (6) 5,Gold (3) 98,Silver (2) 10,Province (6) 6,Moat (22) 10,Province (6) 6,ThroneRoom (28) 12,Silver (2) 1,Gold (3) 8,Province (6) 4,Estate (4) 9
+22_25_28:6;5;3;Province (6) 8,Gold (3) 3,Gold (3) 100,Silver (2) 3,Smithy (25) 1,Silver (2) 12,Duchy (5) 3,Moat (22) 7,Estate (4) 3,Smithy (25) 6,Province (6) 7,Copper (1) 11
+22_26_28:5;5;3;Province (6) 8,Gold (3) 97,Silver (2) 10,Duchy (5) 4,Moat (22) 2,Duchy (5) 2,ThroneRoom (28) 9,Estate (4) 6,Silver (2) 6,Estate (4) 5,Estate (4) 8,Silver (2) 9,Province (6) 2
+22_27_28:9;5;3;Gold (3) 99,Province (6) 5,Silver (2) 9,Silver (2) 6,ThroneRoom (28) 4,Silver (2) 8,Moat (22) 6,Province (6) 9,Duchy (5) 3,ThroneRoom (28) 7,Thief (27) 10,Thief (27) 5,Estate (4) 9,Silver (2) 4

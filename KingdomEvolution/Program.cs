@@ -28,7 +28,7 @@ namespace Eva
             string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms{sep}";
             string subsetFile = null;
             string filePrefix = ""; // TODO smazat
-            BuyAgendaManager manager = new SimpleManager(directoryPath, "TenssProgress_");
+            BuyAgendaManager manager = new SimpleManager(directoryPath, "TensProgress_");
 
             IEnumerator<string> kingdoms = null;
 
@@ -49,19 +49,19 @@ namespace Eva
                                 break;
                             case 'd':
                                 et = EvolutionType.Tens;
-                                manager = new SimpleManager(directoryPath, "Tenss_" + filePrefix);
+                                manager = new SimpleManager(directoryPath, "Tens_" + filePrefix);
                                 break;
                             case 'f':
                                 et = EvolutionType.Subsets;
                                 //manager = new CachedManager(directoryPath, 5, "Fives_");
-                                manager = new SimpleManager(directoryPath, "Fivess_" + filePrefix);
-                                subsetFile = "fives";
+                                manager = new SimpleManager(directoryPath, "LastFives_" + filePrefix); // TODO
+                                subsetFile = "missingFives";
                                 break;
                             case 'h':
                                 et = EvolutionType.Subsets;
                                 //manager = new CachedManager(directoryPath, 3, "Threes_");
-                                manager = new SimpleManager(directoryPath, "Threess_" + filePrefix);
-                                subsetFile = "threes";
+                                manager = new SimpleManager(directoryPath, "LastThrees_" + filePrefix); // TODO
+                                subsetFile = "missingThrees";
                                 break;
                             case 'p':
                                 filePrefix = args[++i];
@@ -199,7 +199,7 @@ namespace Eva
                                         LeaderCount = 10,
                                         PoolCount = 50,
                                         Generations = 100,
-                                    }, new Logger()); //manager.First(a => a.Id == item.Name));
+                                    }, new Logger(), manager.First(a => a.Id == item.Name));
                                     var agenda = evolution.Run();
                                     manager.Save(item.Cards, agenda);
                                 });

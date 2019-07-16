@@ -19,7 +19,8 @@ namespace GameCore.Cards.Base
             isTreasure: false,
             isAction: true,
             isReaction: false,
-            isAttack: true
+            isAttack: true,
+            message: "Return card with victory points up to draw pile, if you have any."
         ) => bureaucrat = this;
 
         public static Bureaucrat Get() => bureaucrat ?? new Bureaucrat();

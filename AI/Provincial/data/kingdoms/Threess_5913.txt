@@ -1,0 +1,14 @@
+13_30_31:9;8;7;Province (6) 5,Gold (3) 99,Witch (30) 2,Silver (2) 10,Province (6) 3,Duchy (5) 5,Copper (1) 5,Woodcutter (31) 8,Curse (7) 1,Estate (4) 4,Festival (13) 2,Festival (13) 2
+13_14_32:-1;4;1;Workshop (32) 3,Province (6) 2,Duchy (5) 9,Gardens (14) 8,Gold (3) 2,Province (6) 6,Festival (13) 7,Copper (1) 2,Festival (13) 7,Workshop (32) 7,Gold (3) 100,Estate (4) 9,Silver (2) 4,Gold (3) 9,Copper (1) 2,Festival (13) 8
+13_15_32:8;6;5;Province (6) 2,Gold (3) 7,Festival (13) 3,Festival (13) 5,Gold (3) 9,Silver (2) 2,Silver (2) 2,Chancellor (15) 11,Chancellor (15) 5,Chancellor (15) 98
+13_16_32:7;5;4;Province (6) 10,Silver (2) 1,Chapel (16) 1,Gold (3) 96,Silver (2) 11,Copper (1) 9,Festival (13) 4,Festival (13) 7,Copper (1) 8,Estate (4) 11,Duchy (5) 8,Workshop (32) 3
+13_17_32:7;5;3;Province (6) 9,Province (6) 9,Gold (3) 99,Laboratory (17) 8,Silver (2) 9,Duchy (5) 5,Festival (13) 5,Duchy (5) 7,Workshop (32) 6,Gold (3) 5
+13_18_32:6;5;3;Province (6) 8,Gold (3) 8,Library (18) 2,Festival (13) 11,Silver (2) 10,Silver (2) 12,Workshop (32) 2,Copper (1) 7,Estate (4) 6,Duchy (5) 9
+13_19_32:10;5;5;Gold (3) 100,Province (6) 7,Market (19) 11,Gold (3) 6,Festival (13) 4,Silver (2) 9,Workshop (32) 6,Silver (2) 3,Market (19) 1,Silver (2) 7,Festival (13) 8
+13_20_32:10;7;7;Gold (3) 97,Festival (13) 2,Province (6) 1,Militia (20) 5,Duchy (5) 8,Gold (3) 10,Duchy (5) 1,Silver (2) 5,Silver (2) 11
+13_21_32:8;7;5;Province (6) 12,Gold (3) 8,Mine (21) 9,Silver (2) 6,Duchy (5) 3,Gold (3) 99,Silver (2) 10,Workshop (32) 7,Copper (1) 8,Estate (4) 4
+13_22_32:7;6;3;Gold (3) 1,Province (6) 2,Province (6) 7,Gold (3) 98,Silver (2) 11,Duchy (5) 2,Silver (2) 7,Duchy (5) 10,Moat (22) 11,Silver (2) 4,Moat (22) 4,Festival (13) 11,Workshop (32) 3
+13_23_32:7;6;4;Province (6) 10,Gold (3) 96,Festival (13) 10,Gold (3) 9,Gold (3) 3,Duchy (5) 10,Silver (2) 12,Moneylender (23) 7,Duchy (5) 4,Silver (2) 10
+13_24_32:7;6;4;Province (6) 8,Gold (3) 9,Festival (13) 6,Silver (2) 11,Remodel (24) 7,Silver (2) 7,Workshop (32) 2,Remodel (24) 8,Duchy (5) 2,Province (6) 8,Silver (2) 5,Gold (3) 100
+13_25_32:6;5;3;Province (6) 5,Gold (3) 96,Gold (3) 5,Smithy (25) 1,Gold (3) 2,Silver (2) 10,Silver (2) 3,Province (6) 4,Festival (13) 8,Smithy (25) 2,Province (6) 3
+13_26_32:7;6;3;Province (6) 5,Gold (3) 100,Silver (2) 9,Silver (2) 8,Duchy (5) 8,Copper (1) 9,Province (6) 9,Spy (26) 1,Copper (1) 2,Gold (3) 5

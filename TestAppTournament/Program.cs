@@ -20,36 +20,44 @@ namespace TestApp
 
         static void Main(string[] args)
         {
-            for (int i = 0; i < 10; i++)
+            using (var writer = new StreamWriter(directoryPath + "tournamentTensVsFives.txt"))
             {
-                //var fivess = new SimpleManager(directoryPath, "Fivess_");
-                //var cards = fivess.RandomKingdom();
-                //var fives = new SimpleManager(directoryPath, "Fives_");
+                for (int i = 0; i < 1000; i++)
+                {
+                    //var fivess = new SimpleManager(directoryPath, "Fivess_");
+                    //var cards = fivess.RandomKingdom();
+                    //var fives = new SimpleManager(directoryPath, "Fives_");
 
+                    var tens = new SimpleManager(directoryPath, "Tens_");
+                    var cards = tens.RandomKingdom();
+                    var fives = new CachedManager(directoryPath, 5, "Fives_");
+                    //var threes = new CachedManager(directoryPath, 3, "Threes_");
 
-                var tens = new SimpleManager(directoryPath, "Tens_");
-                var cards = tens.RandomKingdom();
-                var fives = new CachedManager(directoryPath, 5, "Fives_");
-                //var threes = new CachedManager(directoryPath, 3, "Threes_");
+                    //cards = PresetGames.Get(Games.FirstGame);
+                    //cards = new int[] { 9, 12, 15, 18, 22, 24, 27, 28, 31, 32 }.Select(c => Card.Get((CardType)c)).ToList();
 
-                //cards = PresetGames.Get(Games.FirstGame);
-                //cards = new int[] { 9, 12, 15, 18, 22, 24, 27, 28, 31, 32 }.Select(c => Card.Get((CardType)c)).ToList();
+                    WriteLine(cards.Where(c => c.Type > CardType.Curse).Select(c => $"{c.Type}({(int)c.Type})").Aggregate((a, b) => $"{a}, {b}"));
 
-                WriteLine(cards.Where(c => c.Type > CardType.Curse).Select(c => $"{c.Type}({(int)c.Type})").Aggregate((a, b) => $"{a}, {b}"));
+                    WriteLine(fives.LoadBest(cards).Id);
 
-                WriteLine(fives.LoadBest(cards).Id);
+                    var agendas = new List<BuyAgendaTournament.Tuple>();
+                    agendas.Add(new BuyAgendaTournament.Tuple { Agenda = tens.LoadBest(cards), Id = "tens" });
+                    agendas.Add(new BuyAgendaTournament.Tuple { Agenda = fives.LoadBest(cards), Id = "fives" });
+                    //agendas.Add(new BuyAgendaTournament.Tuple { Agenda = threes.LoadBest(cards), Id = "threes" });
 
-                //var agendas = new List<BuyAgendaTournament.Tuple>();
-                //agendas.Add(new BuyAgendaTournament.Tuple { Agenda = fivess.LoadBest(cards), Id = "fivess" });
-                //agendas.Add(new BuyAgendaTournament.Tuple { Agenda = fives.LoadBest(cards), Id = "fives" });
-                //agendas.Add(new BuyAgendaTournament.Tuple { Agenda = threes.LoadBest(cards), Id = "threes" });
+                    //var manager = new SimpleManager(directoryPath, "TensProgress_");
+                    //foreach (var agenda in manager.Where(a => a.Id == "bigMoney" || a.Id == "9_12_15_18_22_24_27_28_31_32" || a.Id == "badCards"))
+                    //    agendas.Add(new BuyAgendaTournament.Tuple { Agenda = agenda });
 
-                //var manager = new SimpleManager(directoryPath, "TensProgress_");
-                //foreach (var agenda in manager.Where(a => a.Id == "bigMoney" || a.Id == "9_12_15_18_22_24_27_28_31_32" || a.Id == "badCards"))
-                //    agendas.Add(new BuyAgendaTournament.Tuple { Agenda = agenda });
+                    agendas.Tournament(cards, 5000);
 
-                //agendas.Tournament(cards, 5000);
-                //agendas.ShowResults(new MyLogger());
+                    string line = cards.Select(c => $"{c.Type}({(int)c.Type})").Aggregate((a, b) => $"{a},{b}");
+                    line = $"{line} {agendas[0].Wins} {agendas[1].Wins}";
+                    WriteLine(line);
+                    writer.WriteLine(line);
+
+                    //agendas.ShowResults(new MyLogger());
+                }
             }
 
             ReadLine();

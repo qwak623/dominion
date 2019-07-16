@@ -30,6 +30,27 @@ namespace Window
             InitializeComponent();
             MaximumSize = Size;
             MinimumSize = Size;
+            SettingsPanel.Parent = this;
+            SettingsPanel.Location = new Point(0, 36);
+
+            PlayerNameTextBox.Text = gameParams.User1Name;
+
+            switch (gameParams.AIType)
+            {
+                case AIType.Tens:
+                    TensRadio.Checked = true;
+                    break;
+                case AIType.Fives:
+                    FivesRadio.Checked = true;
+                    break;
+                case AIType.Threes:
+                    ThreesRadio.Checked = true;
+                    break;
+                default:
+                    break;
+            }
+
+            SetKingdom_Click(null, null);
         }
 
         #region Game 
@@ -38,9 +59,11 @@ namespace Window
         {
             GamePanel.Show();
             SetKingdomPanel.Hide();
+            SettingsPanel.Hide();
             LogTextBox.Text = "";
             StartGameButton.Text = "Restart";
-            SetKingdom.Enabled = false;
+            SetKingdomButton.Enabled = false;
+            SettingsButton.Enabled = false;
             PlayAreaPanel.Controls.Clear();
             PhaseLabel.Text = "Loading";
             PhaseDescription.Text = "Please wait, game will be ready as soon as possible.";
@@ -55,14 +78,38 @@ namespace Window
 
             Task.Run(() =>
             {
-                var human = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job, "Honza");
+                var human = new Human(PlayCard, GainCard, Choice, AlternativeChoice, job, gameParams.User1Name);
+                BuyAgendaManager manager = null;
 
-                // todo fives or tens (type of inteligence)
-                //var managerTens = new Tens(directoryPath);
-                var managerFives = new CachedManager(directoryPath, 5, "Fives_");
-                //  var ai = new ProvincialAI(managerTens.LoadBest(gameParams.Cards), "Tens");
+                switch (gameParams.AIType)
+                {
+                    case AIType.Tens:
+                        manager = new SimpleManager(directoryPath, "Tens_");
+                        break;
+                    case AIType.Fives:
+                        manager = new CachedManager(directoryPath, 5, "Fives_");    
+                        break;
+                    case AIType.Threes:
+                        manager = new CachedManager(directoryPath, 3, "Threes_");
+                        break;
+                    default:
+                        break;
+                }
 
-                var ai = new ProvincialAI(managerFives.LoadBest(gameParams.Cards), "Fives");
+                var agenda = manager.LoadBest(gameParams.Cards);
+                if (agenda == null)
+                {
+                    Action function = () =>
+                    {
+                        MessageBox.Show("There is no suitable opponent for this kingdom. \n Please try different cards or" +
+                          " different type of opponent.");
+                        StopButton_Click(sender, e);
+                    };
+                    this.Invoke(function);
+                    return;
+                }
+
+                var ai = new ProvincialAI(agenda, gameParams.AIType.ToString());
 
                 var source = new CancellationTokenSource();
 
@@ -71,12 +118,25 @@ namespace Window
             });
         }
 
+        private void StopButton_Click(object sender, EventArgs e)
+        {
+            StartGameButton.Text = "Start";
+            SetKingdomButton.Enabled = true;
+            SettingsButton.Enabled = true;
+
+            if (tokenSource != null)
+                tokenSource.Cancel();
+
+            SetKingdom_Click(sender, e);
+        }
+
         void EnableNextGame(Task<GameResults> results)
         {
             Action<GameResults> function = (gr) =>
             {
                 ShowKingdom(gr.Players[0].Game.Kingdom);
-                SetKingdom.Enabled = true;
+                SetKingdomButton.Enabled = true;
+                SettingsButton.Enabled = true;
             };
             this.Invoke(function, new object[] { results.Result });
         }
@@ -374,6 +434,7 @@ namespace Window
             StartGameButton.Text = "Start";
             SetKingdomPanel.Show();
             GamePanel.Hide();
+            SettingsPanel.Hide();
             ShowCurrentKingdomCards();
             ShowExtensionCards();
         }
@@ -392,7 +453,7 @@ namespace Window
                 var button = new Button()
                 {
                     Text = $"{card.Name} ${card.Price.ToString()}",
-                    Location = new Point(3 + x * dx, y += (x == 0 ? dy : 0)),
+                    Location = new Point(55 + x * dx, y += (x == 0 ? dy : 0)),
                     Tag = card,
                     Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
                     ForeColor = Color.Black,
@@ -433,7 +494,7 @@ namespace Window
                 var button = new Button()
                 {
                     Text = card.Name + " $" + card.Price.ToString(),
-                    Location = new Point(3, y += dy),
+                    Location = new Point(4, y += dy),
                     Tag = card,
                     Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
                     BackColor = card.ToBackColor(),
@@ -484,27 +545,31 @@ namespace Window
             ShowExtensionCards();
         }
 
+        private void Radio_CheckedChanged(object sender, EventArgs e)
+        {
+            Enum.TryParse((sender as RadioButton).Text, out AIType aiType);
+            gameParams.AIType = aiType;
+        }
+
+        private void PlayerNameTextBox_TextChanged(object sender, EventArgs e)
+        {
+            gameParams.User1Name = (sender as TextBox).Text;
+        }
+
         void SetPrecomputedRandomGame(object sender, EventArgs e)
         {
-            var list = new List<List<Card>>();
-            FileInfo[] files = new DirectoryInfo($"{directoryPath}").GetFiles($"Tens_*.txt");
-
-            foreach (var f in files)
-                using (var reader = f.OpenText())
-                    while (!reader.EndOfStream)
-                        list.Add(reader.ReadLine().Split(':')[0].ToCardList());
-            gameParams.Cards = list[new ThreadSafeRandom().Next(list.Count)];
+            var manager = new SimpleManager(directoryPath, "Tens_");
+            gameParams.Cards = manager.RandomKingdom();
 
             ShowCurrentKingdomCards();
             ShowExtensionCards();
         }
 
-        void MarkKingdom(object sender, EventArgs e)
+        void OpenSettings(object sender, EventArgs e)
         {
-            using(StreamWriter writer = File.AppendText("..\\..\\..\\AI\\Provincial\\data\\weakKingdom.txt"))
-            {
-                writer.WriteLine(gameParams.Cards.OrderBy(c => c.Type).Select(c => (int)c.Type).Aggregate("kingdom", (a, b) => a + "_" + b));
-            }
+            SetKingdomPanel.Hide();
+            GamePanel.Hide();
+            SettingsPanel.Show();
         }
         #endregion
     }

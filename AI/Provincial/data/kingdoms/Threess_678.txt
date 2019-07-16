@@ -1,0 +1,26 @@
+8_17_22:8;5;3;Province (6) 8,Gold (3) 101,Silver (2) 1,Laboratory (17) 9,Gold (3) 5,Laboratory (17) 12,Silver (2) 8,Moat (22) 9,Estate (4) 4,Duchy (5) 5,Moat (22) 1
+8_18_22:9;5;3;Province (6) 10,Gold (3) 8,Silver (2) 5,Duchy (5) 100,Silver (2) 9,Adventurer (8) 7,Moat (22) 9,Silver (2) 1,Library (18) 3,Moat (22) 5,Gold (3) 7,Copper (1) 9
+8_19_22:7;5;4;Province (6) 5,Gold (3) 102,Market (19) 10,Adventurer (8) 1,Silver (2) 8,Silver (2) 8,Moat (22) 7,Moat (22) 10,Duchy (5) 7,Silver (2) 1
+8_20_22:5;5;5;Province (6) 6,Gold (3) 99,Gold (3) 4,Silver (2) 5,Militia (20) 6,Militia (20) 5,Gold (3) 8,Silver (2) 7,Moat (22) 8,Estate (4) 3,Militia (20) 1,Copper (1) 8
+8_21_22:8;6;4;Mine (21) 1,Province (6) 4,Gold (3) 8,Adventurer (8) 2,Silver (2) 13,Moat (22) 4,Copper (1) 3,Silver (2) 6,Duchy (5) 9,Copper (1) 3
+8_9_23:8;7;4;Province (6) 6,Gold (3) 9,Gold (3) 6,Province (6) 9,Province (6) 4,Bureaucrat (9) 2,Silver (2) 8,Bureaucrat (9) 101,Silver (2) 10,Province (6) 7,Silver (2) 3,Bureaucrat (9) 11,Duchy (5) 8
+8_10_23:7;6;4;Province (6) 3,Gold (3) 99,Silver (2) 12,Silver (2) 7,Silver (2) 5,Adventurer (8) 4,Copper (1) 6,Moneylender (23) 3,Cellar (10) 4
+8_11_23:6;6;3;Gold (3) 2,Province (6) 10,Gold (3) 2,Province (6) 4,CouncilRoom (11) 1,Gold (3) 8,Silver (2) 7,CouncilRoom (11) 3,Silver (2) 2,Adventurer (8) 7,Province (6) 3,Duchy (5) 5,Moneylender (23) 6
+8_12_23:7;6;4;Silver (2) 1,Adventurer (8) 1,Province (6) 5,Gold (3) 100,Silver (2) 10,Feast (12) 6,Moneylender (23) 4,Gold (3) 12,Duchy (5) 7,Silver (2) 6,Moneylender (23) 11
+8_13_23:7;6;5;Gold (3) 2,Province (6) 8,Gold (3) 1,Gold (3) 6,Festival (13) 7,Festival (13) 1,Silver (2) 9,Adventurer (8) 10,Gold (3) 100,Adventurer (8) 12,Silver (2) 10,Festival (13) 1,Duchy (5) 4,Duchy (5) 9,Province (6) 4
+8_14_23:4;6;-3;Province (6) 10,Gold (3) 100,Silver (2) 4,Gardens (14) 8,Duchy (5) 7,Duchy (5) 9,Copper (1) 2,Estate (4) 10,Copper (1) 4,Silver (2) 8,Duchy (5) 6,Moneylender (23) 5
+8_15_23:6;6;3;Province (6) 3,Gold (3) 99,Gold (3) 11,Silver (2) 9,Silver (2) 4,Adventurer (8) 3,Chancellor (15) 2,Copper (1) 8,Province (6) 6,Estate (4) 5,Province (6) 1,Duchy (5) 7,Silver (2) 4,Moneylender (23) 3
+8_16_23:10;6;3;Gold (3) 4,Adventurer (8) 7,Silver (2) 5,Silver (2) 98,Chapel (16) 6,Moneylender (23) 4,Duchy (5) 6,Silver (2) 8,Province (6) 4,Silver (2) 1,Silver (2) 6,Copper (1) 1
+8_17_23:5;5;3;Province (6) 5,Gold (3) 97,Laboratory (17) 10,Gold (3) 7,Duchy (5) 6,Silver (2) 2,Silver (2) 10,Laboratory (17) 3,Silver (2) 9,Adventurer (8) 9,Moneylender (23) 8
+8_18_23:5;5;3;Province (6) 4,Gold (3) 2,Gold (3) 7,Library (18) 2,Silver (2) 13,Library (18) 8,Moneylender (23) 5,Moneylender (23) 1,Silver (2) 8,Silver (2) 99,Adventurer (8) 3,Adventurer (8) 3,Gold (3) 1,Duchy (5) 9
+8_19_23:12;6;4;Gold (3) 5,Province (6) 6,Adventurer (8) 5,Silver (2) 8,Silver (2) 10,Copper (1) 7,Duchy (5) 3,Estate (4) 3,Gold (3) 97,Moneylender (23) 8,Copper (1) 4,Estate (4) 7,Gold (3) 1,Silver (2) 7
+8_20_23:9;6;5;Gold (3) 3,Militia (20) 4,Province (6) 4,Gold (3) 100,Duchy (5) 10,Silver (2) 10,Silver (2) 9,Moneylender (23) 7,Militia (20) 4,Adventurer (8) 2
+8_21_23:9;6;4;Mine (21) 1,Gold (3) 101,Silver (2) 10,Silver (2) 7,Province (6) 8,Copper (1) 8,Adventurer (8) 5,Mine (21) 4,Gold (3) 5,Estate (4) 9
+8_22_23:8;5;3;Gold (3) 1,Province (6) 5,Gold (3) 8,Gold (3) 9,Silver (2) 4,Silver (2) 8,Silver (2) 2,Moat (22) 4,Moat (22) 3,Moat (22) 9,Copper (1) 3,Copper (1) 2,Province (6) 8,Silver (2) 4,Silver (2) 8,Copper (1) 6,Duchy (5) 9,Gold (3) 99,Moneylender (23) 4,Copper (1) 10
+8_9_24:9;6;3;Province (6) 8,Gold (3) 96,Province (6) 12,Bureaucrat (9) 1,Silver (2) 10,Remodel (24) 9,Adventurer (8) 5,Adventurer (8) 4,Remodel (24) 8,Silver (2) 8
+8_10_24:8;6;4;Province (6) 3,Gold (3) 100,Gold (3) 7,Silver (2) 11,Province (6) 1,Duchy (5) 7,Province (6) 3,Remodel (24) 6,Duchy (5) 9
+8_11_24:6;5;3;Province (6) 4,Gold (3) 98,CouncilRoom (11) 5,Silver (2) 1,Silver (2) 10,Gold (3) 4,CouncilRoom (11) 8,Remodel (24) 3,Duchy (5) 3,Copper (1) 12,Remodel (24) 7,Estate (4) 7
+8_12_24:9;6;3;Province (6) 6,Gold (3) 101,Silver (2) 2,Silver (2) 2,Province (6) 5,Silver (2) 11,Province (6) 6,Copper (1) 7,Adventurer (8) 2,Estate (4) 4
+8_13_24:7;6;4;Gold (3) 2,Province (6) 7,Adventurer (8) 1,Gold (3) 5,Adventurer (8) 8,Gold (3) 99,Province (6) 7,Festival (13) 2,Festival (13) 4,Silver (2) 7,Remodel (24) 4,Silver (2) 10,Duchy (5) 10
+8_14_24:7;5;2;Province (6) 11,Gold (3) 99,Remodel (24) 1,Silver (2) 7,Duchy (5) 6,Gardens (14) 7,Silver (2) 9,Adventurer (8) 4
+8_15_24:11;5;4;Remodel (24) 1,Gold (3) 6,Silver (2) 7,Duchy (5) 4,Silver (2) 10,Province (6) 11,Silver (2) 10,Silver (2) 8,Adventurer (8) 3,Chancellor (15) 97

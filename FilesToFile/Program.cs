@@ -25,12 +25,83 @@ namespace FilesToFile
 
         static void Main(string[] args)
         {
-            var manager = new SimpleManager(directoryPath, "Fives_");
+            DirectoryInfo dir = new DirectoryInfo($"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms");
+            FileInfo[] files = dir.GetFiles("Tenss_*.txt");
             var dict = new Dictionary<string, BuyAgenda>();
-            List<BuyAgenda> list = new List<BuyAgenda>();
-            int i = 0, k = 0;
-            foreach (var item in manager)
-                list.Add(item);
+
+            int i = 0;
+
+            i = foreachFiles(files, dict, i);
+            WriteLine("Tenss " + i);
+            i = 0;
+            //files = dir.GetFiles("Fives_*.txt");
+            //i = foreachFiles(files, dict, i);
+            //WriteLine("Fives " + i);
+
+            WriteLine(dict.Count);
+
+            var manager = new SimpleManager(directoryPath, "FinalTens_");
+            foreach (var item in dict.OrderBy(a => a.Key))
+            {
+                try
+                {
+                    manager.Save(item.Key.ToCardList(), item.Value);
+                }
+                catch
+                {
+                    WriteLine(item.Value.ToString(item.Key));
+                }
+            }
+
+            //int i = 0;
+            //var manager = new SimpleManager(directoryPath, "AFThrees_");
+            //WriteLine(manager.Count());
+            //foreach (var item in manager)
+            //    dict[item.Id] = item;
+
+            //var writer = new StreamWriter(directoryPath + "missingThrees.txt");
+
+            //foreach (var line in File.ReadAllLines(directoryPath + "threes.txt"))
+            //{
+            //    var str = line.Replace(' ', '_');
+            //    if (!dict.ContainsKey(str))
+            //    {
+            //        writer.WriteLine(str.Replace('_', ' '));
+            //        i++;
+            //    }
+            //}
+            //WriteLine(i);
+
+            //i = 0;
+            //foreach (var item in manager)
+            //{
+            //    {
+            //        if (item.Provinces < 1 ||
+            //            item.Duchies < 1 ||
+            //            item.Estates < 0 ||
+            //            item.BuyMenu.Count < 4 //||
+            //                                   //item.BuyMenu.Select(m => m.Card).Contains(CardType.Estate)
+            //            )
+            //        {
+            //            i++;
+            //            writer.WriteLine(item.Id.Replace('_', ' '));
+            //        }
+            //    }
+
+            //}
+
+            //writer.Close();
+
+            WriteLine(i);
+            ReadLine();
+
+
+            //var manager = new SimpleManager(directoryPath, "Fives_");
+            //var dict = new Dictionary<string, BuyAgenda>();
+            //List<BuyAgenda> list = new List<BuyAgenda>();
+            //int i = 0, k = 0;
+            //foreach (var item in manager)
+            //    list.Add(item);
 
             //using (var writer = new StreamWriter($"{directoryPath}badFives.txt"))
             //{
@@ -78,66 +149,48 @@ namespace FilesToFile
             //foreach (var item in dict)
             //    manager.Save(item.Key.ToCardList(), item.Value);
 
-            WriteLine(i);
-            ReadLine();
             // loading files
+        }
 
-            //    DirectoryInfo dir = new DirectoryInfo($"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdomsTens");
-            //    FileInfo[] files = dir.GetFiles("kingdom_*.txt");
+        private static int foreachFiles(FileInfo[] files, Dictionary<string, BuyAgenda> dict, int i)
+        {
+            foreach (var file in files)
+            {
+                using (var reader = file.OpenText())
+                {
+                    while (!reader.EndOfStream)
+                    {
+                        try
+                        {
+                            var line = reader.ReadLine();
+                            var agenda = BuyAgenda.FromString(line);
+                            if (dict.ContainsKey(agenda.Id))
+                            {
+                                WriteLine(agenda.Id);
+                                var cards = agenda.Id.ToCardList();
+                                var agendas = new List<BuyAgendaTournament.Tuple>
+                                    {
+                                        new BuyAgendaTournament.Tuple{ Agenda = dict[agenda.Id] },
+                                        new BuyAgendaTournament.Tuple{ Agenda = agenda }
+                                    };
+                                agendas.Tournament(cards, 50);
+                                if (agendas[0].Wins < agendas[1].Wins)
+                                    dict[agenda.Id] = agenda;
+                                WriteLine(agendas[0].Wins - agendas[1].Wins);
+                                i++;
+                            }
+                            else
+                                dict[agenda.Id] = agenda;
+                        }
+                        catch
+                        {
+                            continue;
+                        }
+                    }
+                }
+            }
 
-            //DirectoryInfo dir = new DirectoryInfo($"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms");
-            //FileInfo[] files = dir.GetFiles("Fives_*.txt");
-            //foreach (var file in files)
-            //    file.Delete();
-
-            //foreach (var agenda in list.OrderBy(l => l.Id))
-            //    man.Save(agenda.Id.Split('_').Select(a => int.Parse(a)), agenda);
-
-            //var tens = new Tens(directoryPath);
-
-            //foreach (var file in files)
-            //{
-            //    var id = file.Name
-            //            .Remove(file.Name.Length - 4)
-            //            .Substring(20).TrimStart(new char[] { '7', '_' });
-
-            //    using (var reader = new StreamReader(file.OpenRead()))
-            //    {
-            //        reader.ReadLine();
-            //        var prov = int.Parse(reader.ReadLine());
-            //        var duch = int.Parse(reader.ReadLine());
-            //        var est = int.Parse(reader.ReadLine());
-            //        var buyMenuStr = "";
-
-            //        while (!reader.EndOfStream)
-            //        {
-            //            var line = reader.ReadLine().Split();
-            //            Enum.TryParse(line[0], out CardType type);
-            //            buyMenuStr += $",{type} ({(int)type}) {int.Parse(line[1])}";
-            //        }
-
-
-            //        var agenda = BuyAgenda.FromString($"{id}:{prov};{duch};{est};{buyMenuStr.Trim(',')}");
-            //        var cards = id.Split('_').Select(c => int.Parse(c));
-
-            //        if (tens.Load(cards) != null)
-            //            x++;
-            //        else
-            //            tens.Save(cards, agenda);
-
-            //        dict.Add(id, $"{id}:{prov};{duch};{est};{buyMenuStr.Trim(',')}");
-            //    }
-            //}
-
-            //Console.WriteLine("Old agendas " + x);
-            //Console.WriteLine("All agendas " + tens.Count());
-
-            //foreach (var item in dict)
-            //{
-            //    var agenda = tens.Load(item.Key.Split('_').Select(c => int.Parse(c)));
-            //    if (agenda.ToString(item.Key) != item.Value)
-            //        Console.WriteLine(item.Key);
-            //}
+            return i;
         }
     }
 }

@@ -1,11 +1,4 @@
-Provincial
-Chancellor
-Village
-Feast
-Gardens
-Spy
-Thief
-Laboratory
-Library
-Mine
-Adventurer
+AIType=Fives
+User1Name=Honza
+User2Name=Friend
+Cards=Cellar,Moat,Village,Woodcutter,Workshop,Militia,Remodel,Smithy,Market,Mine

@@ -1,0 +1,3 @@
+18_19_20:7;5;3;Province (6) 5,Gold (3) 7,Library (18) 1,Market (19) 9,Silver (2) 8,Militia (20) 7,Library (18) 2,Gold (3) 99
+18_19_21:8;7;3;Province (6) 9,Mine (21) 1,Gold (3) 99,Silver (2) 3,Library (18) 8,Gold (3) 2,Gold (3) 8,Silver (2) 9,Copper (1) 9,Estate (4) 5,Market (19) 5,Estate (4) 2
+18_20_21:7;6;3;Mine (21) 1,Province (6) 7,Gold (3) 100,Gold (3) 10,Library (18) 2,Silver (2) 1,Silver (2) 10,Militia (20) 9,Library (18) 11,Duchy (5) 12,Mine (21) 10,Silver (2) 8,Militia (20) 7,Mine (21) 7

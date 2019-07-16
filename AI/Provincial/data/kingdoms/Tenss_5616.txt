@@ -1,0 +1,2 @@
+16_19_20_21_23_26_27_30_31_32:1;9;5;Province (6) 8,Gold (3) 5,Witch (30) 10,Duchy (5) 5,Silver (2) 8,Gold (3) 3,Woodcutter (31) 2,Copper (1) 9,Estate (4) 99,Gold (3) 7,Workshop (32) 7,Thief (27) 9,Moneylender (23) 7,Militia (20) 6
+16_17_18_19_21_23_27_29_30_32:4;4;4;Witch (30) 2,Province (6) 9,Gold (3) 4,Silver (2) 10,Duchy (5) 5,Witch (30) 3,Silver (2) 8,Chapel (16) 6,Thief (27) 8,Laboratory (17) 5,Silver (2) 2

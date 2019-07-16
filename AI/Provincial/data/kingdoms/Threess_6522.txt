@@ -1,0 +1,2 @@
+22_24_25:7;5;4;Province (6) 8,Gold (3) 98,Silver (2) 12,Duchy (5) 9,Moat (22) 7,Gold (3) 5,Moat (22) 7,Copper (1) 11,Gold (3) 2
+22_23_26:10;5;3;Gold (3) 101,Silver (2) 9,Silver (2) 11,Silver (2) 5,Gold (3) 3,Moat (22) 10,Province (6) 3,Copper (1) 10,Estate (4) 4

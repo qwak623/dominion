@@ -1,0 +1,2 @@
+27_28_30:9;7;6;Gold (3) 98,Witch (30) 2,Silver (2) 4,Silver (2) 11,Witch (30) 10,Gold (3) 2,ThroneRoom (28) 3,Silver (2) 3,Province (6) 8,Copper (1) 2,Province (6) 8,Estate (4) 2,Thief (27) 1,Curse (7) 6,Duchy (5) 6
+27_29_30:10;8;7;Witch (30) 2,Gold (3) 11,Gold (3) 99,Copper (1) 1,Silver (2) 11,Gold (3) 1,Gold (3) 3,Estate (4) 8,Curse (7) 4,Duchy (5) 6,Silver (2) 4,Province (6) 7,Village (29) 6,Village (29) 3

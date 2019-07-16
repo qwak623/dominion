@@ -1,0 +1,11 @@
+16_19_28:8;5;3;Province (6) 6,Gold (3) 98,Gold (3) 8,Gold (3) 7,Market (19) 7,Silver (2) 10,ThroneRoom (28) 11,ThroneRoom (28) 2,ThroneRoom (28) 3,Chapel (16) 1,Estate (4) 7,Province (6) 2,Estate (4) 2,Duchy (5) 4,Chapel (16) 8,Silver (2) 9,Gold (3) 2,Silver (2) 1,Province (6) 7
+16_20_28:12;6;-2;Gold (3) 9,Militia (20) 6,Gold (3) 9,Duchy (5) 9,Gold (3) 10,Province (6) 8,Province (6) 3,Silver (2) 12,Gold (3) 100,Chapel (16) 1,Copper (1) 7,Chapel (16) 10,ThroneRoom (28) 7
+16_21_28:8;5;4;Province (6) 6,Gold (3) 10,Province (6) 4,Silver (2) 4,Silver (2) 11,ThroneRoom (28) 7,Chapel (16) 6,Estate (4) 9,Silver (2) 1,Duchy (5) 2,Estate (4) 6,Gold (3) 98,Duchy (5) 8,Estate (4) 2,Chapel (16) 4,Copper (1) 7,Gold (3) 3
+16_22_28:3;3;-1;Silver (2) 1,Province (6) 7,Moat (22) 1,Gold (3) 100,Silver (2) 9,Duchy (5) 2,Copper (1) 6,Chapel (16) 7,Gold (3) 1,ThroneRoom (28) 5,Estate (4) 5
+16_23_28:11;5;3;Gold (3) 8,Silver (2) 1,Silver (2) 7,Silver (2) 9,Duchy (5) 1,ThroneRoom (28) 5,Moneylender (23) 10,Province (6) 98,Province (6) 6,Gold (3) 7,Chapel (16) 1,Estate (4) 1,Estate (4) 4,Chapel (16) 6
+16_24_28:3;3;1;Province (6) 10,Gold (3) 4,Silver (2) 7,Duchy (5) 5,Duchy (5) 6,Copper (1) 1,Estate (4) 6,Estate (4) 4,Copper (1) 6,Chapel (16) 4
+16_25_28:9;5;3;Province (6) 4,Gold (3) 6,Province (6) 8,Gold (3) 9,Province (6) 4,Silver (2) 5,Smithy (25) 3,Silver (2) 10,Chapel (16) 6,Duchy (5) 3,Duchy (5) 3,Silver (2) 2
+16_26_28:11;5;3;Province (6) 5,Gold (3) 99,Gold (3) 10,Silver (2) 11,Spy (26) 4,Province (6) 9,Silver (2) 9,Chapel (16) 1
+16_27_28:9;5;5;Province (6) 7,Gold (3) 99,Silver (2) 13,Gold (3) 8,Thief (27) 5,Silver (2) 2,Chapel (16) 1,Copper (1) 6,Gold (3) 7,ThroneRoom (28) 3,Estate (4) 10,ThroneRoom (28) 4,Duchy (5) 3,Duchy (5) 8
+16_17_29:6;3;0;Laboratory (17) 4,Province (6) 5,Gold (3) 98,Province (6) 7,Laboratory (17) 5,Silver (2) 9,Chapel (16) 2,Village (29) 4,Silver (2) 7,Village (29) 3,Duchy (5) 3
+16_18_29:7;5;3;Gold (3) 1,Province (6) 11,Gold (3) 97,Library (18) 2,Silver (2) 14,Duchy (5) 1,Silver (2) 12,Village (29) 7

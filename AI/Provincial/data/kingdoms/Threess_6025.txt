@@ -1,0 +1,4 @@
+25_26_31:7;5;3;Province (6) 9,Gold (3) 9,Smithy (25) 1,Gold (3) 97,Silver (2) 4,Silver (2) 9,Woodcutter (31) 6,Silver (2) 9,Spy (26) 5,Silver (2) 10,Duchy (5) 8,Woodcutter (31) 6,Gold (3) 9
+25_27_31:5;5;3;Smithy (25) 1,Province (6) 9,Gold (3) 5,Silver (2) 7,Gold (3) 101,Duchy (5) 7,Silver (2) 11,Province (6) 5,Silver (2) 2,Copper (1) 3,Estate (4) 13
+25_28_31:8;5;-3;Province (6) 4,Gold (3) 10,Smithy (25) 2,Gold (3) 100,Copper (1) 1,Silver (2) 2,Silver (2) 13,Estate (4) 9,Smithy (25) 4,ThroneRoom (28) 6,ThroneRoom (28) 10
+25_29_31:6;5;3;Province (6) 8,Gold (3) 101,Gold (3) 7,Smithy (25) 1,Province (6) 2,Silver (2) 9,Duchy (5) 8,Silver (2) 4,Village (29) 5,Village (29) 3

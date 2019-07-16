@@ -1,0 +1,85 @@
+11_12_13_14_15:8;5;2;CouncilRoom (11) 1,Gold (3) 11,Province (6) 7,Silver (2) 3,Gardens (14) 6,Silver (2) 3,Gold (3) 98,CouncilRoom (11) 9,Silver (2) 6,Duchy (5) 9,Chancellor (15) 10,Silver (2) 12
+11_12_13_14_16:7;5;3;Province (6) 7,Gold (3) 98,CouncilRoom (11) 9,Silver (2) 8,Gardens (14) 4,Gold (3) 7,Feast (12) 6,Duchy (5) 1,Silver (2) 8
+11_12_13_14_17:8;5;-3;CouncilRoom (11) 1,Gold (3) 5,Province (6) 9,Silver (2) 4,Gold (3) 98,Gardens (14) 9,Copper (1) 1,Estate (4) 11,Gardens (14) 3,Festival (13) 5,Feast (12) 3,CouncilRoom (11) 7
+11_12_13_14_18:12;4;4;Gold (3) 7,Gold (3) 4,CouncilRoom (11) 1,Silver (2) 7,Gold (3) 101,Gardens (14) 2,Library (18) 2,Silver (2) 11,Gardens (14) 8,Duchy (5) 9,Library (18) 5,Province (6) 7
+11_12_13_14_19:1;-2;1;Market (19) 5,Province (6) 7,Silver (2) 8,Gardens (14) 8,Duchy (5) 6,Feast (12) 7,Duchy (5) 3,Province (6) 7,Gardens (14) 5,Gardens (14) 8,CouncilRoom (11) 6,Copper (1) 100,Silver (2) 8
+11_12_13_14_20:5;4;3;CouncilRoom (11) 1,Province (6) 4,Gold (3) 98,Silver (2) 9,Duchy (5) 9,Festival (13) 3,Festival (13) 4,Gardens (14) 11,Festival (13) 7
+11_12_13_14_21:7;6;4;Gold (3) 2,Province (6) 8,Gold (3) 100,CouncilRoom (11) 1,Silver (2) 10,Festival (13) 9,Duchy (5) 8,Mine (21) 10
+11_12_13_14_22:9;5;2;Gold (3) 7,Gold (3) 3,Silver (2) 4,CouncilRoom (11) 3,Province (6) 6,Gold (3) 98,Gold (3) 8,CouncilRoom (11) 3,Province (6) 2,Province (6) 2,Gardens (14) 8,Feast (12) 7,Silver (2) 8,Moat (22) 4
+11_12_13_14_23:7;4;3;CouncilRoom (11) 1,Province (6) 8,Gold (3) 101,Silver (2) 10,CouncilRoom (11) 7,Silver (2) 4,Festival (13) 4,Gardens (14) 7,Duchy (5) 2,Gardens (14) 7,Silver (2) 7
+11_12_13_14_24:8;4;1;CouncilRoom (11) 1,Silver (2) 5,Province (6) 5,Gold (3) 5,Gardens (14) 7,Duchy (5) 6,Gold (3) 99,Silver (2) 5,Copper (1) 4,Silver (2) 10,Duchy (5) 10,Province (6) 2,Gold (3) 9,Estate (4) 6,Gardens (14) 7
+11_12_13_14_25:6;5;0;Province (6) 7,Gold (3) 9,CouncilRoom (11) 1,Silver (2) 3,Gardens (14) 7,Smithy (25) 1,CouncilRoom (11) 2,Silver (2) 5,Festival (13) 99,Silver (2) 11,Copper (1) 4,Duchy (5) 1,Estate (4) 4,Festival (13) 2,Silver (2) 1,Province (6) 7,Smithy (25) 1,Copper (1) 9
+11_12_13_14_26:6;5;0;CouncilRoom (11) 2,Province (6) 7,Gold (3) 100,Copper (1) 1,Gold (3) 7,Silver (2) 5,Province (6) 6,Duchy (5) 10,Gardens (14) 12,Estate (4) 8,Copper (1) 11,Feast (12) 2
+11_12_13_14_27:8;5;2;Province (6) 2,Gold (3) 98,CouncilRoom (11) 9,Silver (2) 3,Gardens (14) 8,Thief (27) 9,Copper (1) 3,Silver (2) 11,Copper (1) 9,Feast (12) 2
+11_12_13_14_28:7;6;3;CouncilRoom (11) 1,Gold (3) 2,Province (6) 9,Gold (3) 5,Silver (2) 12,Silver (2) 8,CouncilRoom (11) 8,Gardens (14) 7,Duchy (5) 6,Silver (2) 7
+11_12_13_14_29:7;2;-1;Festival (13) 3,Gardens (14) 8,Province (6) 2,Duchy (5) 6,Silver (2) 3,Copper (1) 4,Estate (4) 9,Copper (1) 5,Copper (1) 4,Festival (13) 9,Gold (3) 99,Village (29) 1,Estate (4) 4,Feast (12) 5,Feast (12) 1
+11_12_13_14_30:6;4;0;Province (6) 4,Witch (30) 2,Gold (3) 3,Province (6) 8,Province (6) 8,Silver (2) 7,Gardens (14) 10,Duchy (5) 5,Gold (3) 100,Duchy (5) 7,Silver (2) 10,Festival (13) 6
+11_12_13_14_31:-1;6;3;Festival (13) 4,Province (6) 8,Gardens (14) 6,Duchy (5) 5,Duchy (5) 2,Silver (2) 2,Copper (1) 8,Estate (4) 11,Woodcutter (31) 7,Gold (3) 99,Silver (2) 8,Copper (1) 7,CouncilRoom (11) 2
+11_12_13_14_32:7;5;1;Province (6) 10,Gold (3) 100,CouncilRoom (11) 1,Silver (2) 3,Gardens (14) 6,Copper (1) 5,Estate (4) 6,Silver (2) 9,Copper (1) 11,Feast (12) 1,Estate (4) 7
+11_12_13_15_16:8;5;3;Province (6) 5,CouncilRoom (11) 1,Gold (3) 98,Silver (2) 1,Silver (2) 10,Feast (12) 9,Silver (2) 11,CouncilRoom (11) 5,Copper (1) 8,Chapel (16) 10,Chapel (16) 10
+11_12_13_15_17:6;5;4;Gold (3) 2,CouncilRoom (11) 1,Province (6) 99,Gold (3) 6,Silver (2) 2,Silver (2) 10,Duchy (5) 10,Laboratory (17) 10
+11_12_13_15_18:7;7;4;Gold (3) 4,Province (6) 6,CouncilRoom (11) 1,Province (6) 5,Gold (3) 101,Gold (3) 9,Silver (2) 6,Duchy (5) 1,Gold (3) 8,Duchy (5) 4,Festival (13) 1
+11_12_13_15_19:7;4;3;Province (6) 8,Gold (3) 101,CouncilRoom (11) 1,Silver (2) 10,Silver (2) 7,Market (19) 8,Duchy (5) 11,CouncilRoom (11) 6,Copper (1) 5,Estate (4) 6
+11_12_13_15_20:5;5;-5;CouncilRoom (11) 1,Province (6) 6,Gold (3) 98,Silver (2) 6,Copper (1) 2,Estate (4) 4,Province (6) 4,Festival (13) 7,Festival (13) 8,Silver (2) 10,Estate (4) 6,Militia (20) 3,Chancellor (15) 10,Province (6) 3
+11_12_13_15_21:9;6;4;Province (6) 8,Gold (3) 7,Mine (21) 1,Festival (13) 10,Silver (2) 6,Duchy (5) 4,Silver (2) 10,Feast (12) 10,Chancellor (15) 9,Duchy (5) 7,CouncilRoom (11) 6,Duchy (5) 97,Province (6) 7
+11_12_13_15_22:9;4;3;CouncilRoom (11) 1,Province (6) 7,Gold (3) 98,Province (6) 11,Silver (2) 10,Gold (3) 6,Feast (12) 3,Duchy (5) 2,CouncilRoom (11) 10,Silver (2) 5,Chancellor (15) 4,Feast (12) 2,CouncilRoom (11) 4
+11_12_13_15_23:10;5;3;Province (6) 3,Gold (3) 7,CouncilRoom (11) 1,Silver (2) 1,Silver (2) 9,Moneylender (23) 11,Copper (1) 101,Estate (4) 9,Duchy (5) 3,Silver (2) 6,Copper (1) 4,Festival (13) 9,Feast (12) 5,CouncilRoom (11) 8,Feast (12) 4
+11_12_13_15_24:10;4;3;Gold (3) 6,CouncilRoom (11) 1,Silver (2) 9,Duchy (5) 6,Remodel (24) 9,Gold (3) 3,Silver (2) 10,Silver (2) 7,Duchy (5) 5,Gold (3) 99,Duchy (5) 3,Province (6) 10
+11_12_13_15_25:8;8;3;Gold (3) 4,Province (6) 3,CouncilRoom (11) 7,Province (6) 11,Festival (13) 9,Duchy (5) 8,Duchy (5) 1,Silver (2) 9,Province (6) 8,Chancellor (15) 1,Gold (3) 100
+11_12_13_15_26:5;4;3;CouncilRoom (11) 1,Province (6) 6,Gold (3) 100,Silver (2) 10,Festival (13) 11,Gold (3) 8,Feast (12) 2,Duchy (5) 8,Chancellor (15) 5,Spy (26) 8,Duchy (5) 5,Gold (3) 4,Silver (2) 4
+11_12_13_15_27:8;6;3;Gold (3) 2,CouncilRoom (11) 1,Province (6) 12,Gold (3) 100,Silver (2) 7,Duchy (5) 6,Feast (12) 9,Festival (13) 7,Duchy (5) 9,Gold (3) 9,Festival (13) 5,Silver (2) 12,Duchy (5) 11
+11_12_13_15_28:7;6;4;Gold (3) 2,Province (6) 4,CouncilRoom (11) 1,Gold (3) 99,Silver (2) 9,Feast (12) 8,Copper (1) 5,ThroneRoom (28) 3,Province (6) 10,Estate (4) 2,Estate (4) 5
+11_12_13_15_29:6;4;3;CouncilRoom (11) 1,Province (6) 5,Gold (3) 10,Silver (2) 9,Gold (3) 98,Province (6) 6,Silver (2) 9,Festival (13) 10,Chancellor (15) 5,Duchy (5) 4,Gold (3) 6
+11_12_13_15_30:-4;8;8;Witch (30) 2,Copper (1) 1,Duchy (5) 13,Silver (2) 4,Estate (4) 98,Festival (13) 3,Feast (12) 6,Copper (1) 8,Festival (13) 9,Copper (1) 5,Curse (7) 6,CouncilRoom (11) 10,Curse (7) 2,Gold (3) 7,Festival (13) 1
+11_12_13_15_31:8;5;3;Gold (3) 9,CouncilRoom (11) 1,Province (6) 4,Silver (2) 3,Festival (13) 7,Silver (2) 6,Chancellor (15) 3,Gold (3) 100,Province (6) 10,Province (6) 3,Duchy (5) 7
+11_12_13_15_32:5;4;4;Province (6) 7,CouncilRoom (11) 1,Gold (3) 99,Silver (2) 7,CouncilRoom (11) 9,Silver (2) 10
+11_12_13_16_17:8;6;4;CouncilRoom (11) 1,Gold (3) 6,Province (6) 4,Laboratory (17) 7,Silver (2) 8,Festival (13) 10,Duchy (5) 5,Laboratory (17) 8,Laboratory (17) 2,Silver (2) 8,Feast (12) 8,Silver (2) 8,Gold (3) 97,CouncilRoom (11) 1
+11_12_13_16_18:6;6;4;Silver (2) 1,Gold (3) 2,Province (6) 6,Gold (3) 99,CouncilRoom (11) 9,Silver (2) 12,Gold (3) 3,CouncilRoom (11) 6,CouncilRoom (11) 8,Feast (12) 5,Duchy (5) 7
+11_12_13_16_19:5;4;3;Province (6) 8,CouncilRoom (11) 1,Gold (3) 101,Silver (2) 9,Duchy (5) 7,Feast (12) 5,Duchy (5) 4,Festival (13) 8,Feast (12) 11,Market (19) 4
+11_12_13_16_20:6;5;3;Gold (3) 2,Province (6) 6,CouncilRoom (11) 1,Gold (3) 7,Silver (2) 10,CouncilRoom (11) 3,Militia (20) 2,CouncilRoom (11) 2,Silver (2) 9,Duchy (5) 8,Duchy (5) 99
+11_12_13_16_21:12;6;3;Province (6) 5,Mine (21) 1,Gold (3) 99,CouncilRoom (11) 8,Silver (2) 10,Duchy (5) 9,Silver (2) 9,Silver (2) 9,Duchy (5) 7,Festival (13) 10,CouncilRoom (11) 3,Gold (3) 3,Copper (1) 4,Copper (1) 4,Silver (2) 6
+11_12_13_16_22:7;5;5;Province (6) 10,Gold (3) 99,Festival (13) 3,CouncilRoom (11) 9,Gold (3) 4,Silver (2) 11,Duchy (5) 7,Silver (2) 11,Duchy (5) 10,Feast (12) 3,Moat (22) 7,Province (6) 6,Feast (12) 4,Feast (12) 4
+11_12_13_16_23:11;5;3;Gold (3) 98,Silver (2) 13,CouncilRoom (11) 6,Province (6) 8,Province (6) 6,Chapel (16) 1,Copper (1) 1,Gold (3) 1,Moneylender (23) 2,Silver (2) 9,Moneylender (23) 9,Feast (12) 2,Festival (13) 4,Chapel (16) 7
+11_12_13_16_24:8;5;2;Gold (3) 100,CouncilRoom (11) 1,Duchy (5) 6,Silver (2) 6,Silver (2) 10,Copper (1) 7,Estate (4) 7,Copper (1) 4,Feast (12) 9,Duchy (5) 8
+11_12_13_16_25:10;5;3;Province (6) 2,Gold (3) 102,Smithy (25) 1,Silver (2) 4,CouncilRoom (11) 4,Duchy (5) 6,Silver (2) 9,Copper (1) 4,Estate (4) 5,Silver (2) 5
+11_12_13_16_26:8;5;4;Gold (3) 101,Province (6) 6,Province (6) 11,CouncilRoom (11) 1,Silver (2) 9,Silver (2) 9,CouncilRoom (11) 10,Festival (13) 5
+11_12_13_16_27:8;5;3;Province (6) 8,Gold (3) 99,Silver (2) 3,CouncilRoom (11) 2,Silver (2) 10,Duchy (5) 6,Chapel (16) 1,Thief (27) 8,Feast (12) 2,Duchy (5) 2,Thief (27) 9,Province (6) 5,Silver (2) 6
+11_12_13_16_28:6;6;4;Province (6) 8,Gold (3) 97,Silver (2) 12,Chapel (16) 9,Gold (3) 8,Feast (12) 6,Chapel (16) 9,Duchy (5) 6,Silver (2) 7,Festival (13) 7,ThroneRoom (28) 8,Gold (3) 1
+11_12_13_16_29:9;5;3;Province (6) 5,Gold (3) 99,CouncilRoom (11) 1,Gold (3) 2,Silver (2) 10,Copper (1) 1,Copper (1) 5,CouncilRoom (11) 9,Gold (3) 10,Silver (2) 9,Province (6) 7,Feast (12) 9,Village (29) 4,Silver (2) 3,Gold (3) 3,Copper (1) 3,Silver (2) 1,Duchy (5) 6,Duchy (5) 7,Estate (4) 2
+11_12_13_16_30:-2;7;7;Province (6) 4,Gold (3) 5,Witch (30) 2,Festival (13) 4,Duchy (5) 8,Silver (2) 9,CouncilRoom (11) 3,Province (6) 99,CouncilRoom (11) 6,Chapel (16) 1,Silver (2) 6,Witch (30) 7
+11_12_13_16_31:10;5;3;Province (6) 10,Gold (3) 11,Silver (2) 11,Festival (13) 4,Chapel (16) 1,Woodcutter (31) 1,Feast (12) 2,Silver (2) 10,Duchy (5) 10,Copper (1) 11,Estate (4) 11,Silver (2) 5,Feast (12) 2
+11_12_13_16_32:5;5;4;Festival (13) 1,Province (6) 8,Gold (3) 9,Gold (3) 99,Chapel (16) 1,Silver (2) 11,Duchy (5) 5,Duchy (5) 7,Gold (3) 6
+11_12_13_17_18:9;5;3;Province (6) 8,Gold (3) 97,Silver (2) 1,CouncilRoom (11) 7,Laboratory (17) 3,Gold (3) 5,Laboratory (17) 2,Province (6) 9,Library (18) 9,Festival (13) 4,CouncilRoom (11) 9,Silver (2) 10,Festival (13) 4
+11_12_13_17_19:4;4;3;Province (6) 7,Gold (3) 4,CouncilRoom (11) 1,Silver (2) 12,Festival (13) 5,Feast (12) 7,Market (19) 9,CouncilRoom (11) 3,Gold (3) 1
+11_12_13_17_20:5;5;3;Province (6) 9,Gold (3) 5,Laboratory (17) 5,Laboratory (17) 100,Festival (13) 4,Militia (20) 2,Silver (2) 11,Gold (3) 4,CouncilRoom (11) 11,Festival (13) 2,Laboratory (17) 8
+11_12_13_17_21:8;6;5;Province (6) 8,Gold (3) 100,Mine (21) 1,Laboratory (17) 9,CouncilRoom (11) 8,Silver (2) 8,Gold (3) 2,Silver (2) 10,Silver (2) 2,Province (6) 3,Feast (12) 4
+11_12_13_17_22:9;6;4;Gold (3) 10,Silver (2) 3,CouncilRoom (11) 8,Laboratory (17) 6,Silver (2) 12,Moat (22) 4,Duchy (5) 7,Gold (3) 97,Province (6) 7
+11_12_13_17_23:7;6;4;Gold (3) 3,CouncilRoom (11) 1,Province (6) 4,Gold (3) 98,Silver (2) 6,Festival (13) 11,Silver (2) 10,Gold (3) 4,Moneylender (23) 4
+11_12_13_17_24:7;6;5;Gold (3) 3,Province (6) 3,Gold (3) 99,CouncilRoom (11) 5,Silver (2) 10,Remodel (24) 9,Province (6) 4,Feast (12) 2,Laboratory (17) 11,Duchy (5) 10,Duchy (5) 9,Feast (12) 8
+11_12_13_17_25:8;6;3;Gold (3) 8,Province (6) 6,CouncilRoom (11) 1,Silver (2) 6,Festival (13) 3,Silver (2) 6,Duchy (5) 6,Silver (2) 10,Gold (3) 99,Duchy (5) 6
+11_12_13_17_26:9;5;3;Province (6) 10,Gold (3) 3,Laboratory (17) 5,Duchy (5) 7,Silver (2) 9,Silver (2) 1,Silver (2) 3,Festival (13) 3,Duchy (5) 3,Feast (12) 8,Spy (26) 10
+11_12_13_17_27:8;4;3;Province (6) 7,Gold (3) 7,CouncilRoom (11) 2,Silver (2) 11,Silver (2) 7,Duchy (5) 1,Laboratory (17) 3,CouncilRoom (11) 8,Festival (13) 6,Festival (13) 8,Feast (12) 8,Gold (3) 93
+11_12_13_17_28:8;5;3;CouncilRoom (11) 1,Gold (3) 100,Province (6) 5,Silver (2) 2,Duchy (5) 10,Silver (2) 5,Silver (2) 9,ThroneRoom (28) 3,Silver (2) 4,Laboratory (17) 15
+11_12_13_17_29:6;5;3;Gold (3) 2,Province (6) 11,CouncilRoom (11) 1,Gold (3) 100,Silver (2) 5,Silver (2) 5,Village (29) 2,Province (6) 4
+11_12_13_17_30:3;1;0;Witch (30) 2,Province (6) 5,Duchy (5) 8,Copper (1) 1,Silver (2) 8,Estate (4) 7,Gold (3) 4,Witch (30) 8,Feast (12) 8,Silver (2) 10
+11_12_13_17_31:8;7;3;CouncilRoom (11) 1,Gold (3) 3,Province (6) 9,Silver (2) 1,Gold (3) 96,Silver (2) 5,Woodcutter (31) 7,Gold (3) 12,Woodcutter (31) 5,Laboratory (17) 7,CouncilRoom (11) 10
+11_12_13_17_32:7;7;4;Gold (3) 3,Province (6) 5,Gold (3) 98,CouncilRoom (11) 12,Festival (13) 5,Silver (2) 10,Workshop (32) 7,Silver (2) 8,Duchy (5) 12
+11_12_13_18_19:10;5;2;Province (6) 4,Gold (3) 7,Province (6) 2,Province (6) 2,CouncilRoom (11) 1,Silver (2) 7,Silver (2) 5,Silver (2) 1
+11_12_13_18_20:7;5;3;Province (6) 6,Gold (3) 8,Library (18) 2,Silver (2) 9,Silver (2) 6,Copper (1) 7,Gold (3) 98,Militia (20) 3,Silver (2) 9,Festival (13) 4,Estate (4) 3,Copper (1) 3,Library (18) 5,CouncilRoom (11) 5,Duchy (5) 7
+11_12_13_18_21:8;5;3;CouncilRoom (11) 1,Gold (3) 11,Province (6) 7,Silver (2) 9,Copper (1) 3,Estate (4) 3,Feast (12) 4,Duchy (5) 7,Province (6) 5,Estate (4) 9,Library (18) 1,Province (6) 8,Gold (3) 97
+11_12_13_18_22:10;5;3;Gold (3) 7,Library (18) 1,Festival (13) 8,Duchy (5) 3,Duchy (5) 4,Province (6) 6,Silver (2) 11
+11_12_13_18_23:7;6;3;CouncilRoom (11) 1,Gold (3) 2,Province (6) 9,Gold (3) 10,Silver (2) 5,Silver (2) 10,Gold (3) 98,CouncilRoom (11) 3,Province (6) 9,Moneylender (23) 4,Province (6) 6,Festival (13) 2,CouncilRoom (11) 6
+11_12_13_18_24:7;5;3;Province (6) 7,Province (6) 8,Gold (3) 100,CouncilRoom (11) 1,Gold (3) 7,Silver (2) 7,Silver (2) 6,Duchy (5) 11,Copper (1) 7,Estate (4) 5,Festival (13) 5,Duchy (5) 6,Duchy (5) 7,Festival (13) 9,CouncilRoom (11) 3
+11_12_13_18_25:11;5;4;Gold (3) 6,Province (6) 8,Gold (3) 98,Library (18) 1,Festival (13) 6,Festival (13) 4,Silver (2) 10,Gold (3) 3,CouncilRoom (11) 4,Library (18) 4,Feast (12) 3,Duchy (5) 4
+11_12_13_18_26:7;7;3;Gold (3) 4,CouncilRoom (11) 1,Province (6) 8,Silver (2) 5,Library (18) 4,Gold (3) 6,Duchy (5) 7,Gold (3) 99,Silver (2) 12,Duchy (5) 3,Festival (13) 3,Library (18) 5
+11_12_13_18_27:7;5;3;Library (18) 1,Province (6) 10,Gold (3) 98,Silver (2) 7,Festival (13) 5,Copper (1) 11,Thief (27) 13,Gold (3) 1,Estate (4) 10,Duchy (5) 3,CouncilRoom (11) 8,Feast (12) 1
+11_12_13_18_28:12;5;3;Province (6) 5,Gold (3) 6,Gold (3) 8,Library (18) 1,Gold (3) 100,Festival (13) 6,Duchy (5) 2,CouncilRoom (11) 10,Silver (2) 9,ThroneRoom (28) 5,Festival (13) 9,Duchy (5) 8,CouncilRoom (11) 4
+11_12_13_18_29:6;5;3;Library (18) 1,Province (6) 5,Gold (3) 101,Silver (2) 3,CouncilRoom (11) 6,Silver (2) 11,Village (29) 10,Festival (13) 2,CouncilRoom (11) 10,CouncilRoom (11) 10,Duchy (5) 4
+11_12_13_18_30:7;6;6;Province (6) 6,Gold (3) 3,Witch (30) 2,Gold (3) 1,Province (6) 1,Gold (3) 12,Festival (13) 3,Province (6) 5,Gold (3) 99,Library (18) 3,Gold (3) 10,Silver (2) 9
+11_12_13_18_31:8;5;3;Province (6) 9,Silver (2) 1,Province (6) 3,Gold (3) 8,Province (6) 7,CouncilRoom (11) 8,Silver (2) 10,Library (18) 4,Gold (3) 98,Duchy (5) 3,Feast (12) 9,Woodcutter (31) 5
+11_12_13_18_32:7;6;3;Gold (3) 2,Province (6) 2,CouncilRoom (11) 1,Gold (3) 6,Silver (2) 5,Duchy (5) 8,Silver (2) 13,Gold (3) 97,Library (18) 7,Feast (12) 11,CouncilRoom (11) 5
+11_12_13_19_20:8;6;3;CouncilRoom (11) 1,Gold (3) 4,Province (6) 4,Silver (2) 5,CouncilRoom (11) 3,Militia (20) 4,Gold (3) 99,Duchy (5) 8
+11_12_13_19_21:10;6;4;Gold (3) 6,Mine (21) 1,Market (19) 4,Market (19) 9,Duchy (5) 3,Festival (13) 13,Duchy (5) 9,Silver (2) 7,Feast (12) 4,Silver (2) 8,Gold (3) 98
+11_12_13_19_22:9;5;3;Silver (2) 1,Gold (3) 11,Market (19) 4,Festival (13) 11,Silver (2) 11,Feast (12) 7,Festival (13) 9,Feast (12) 3,Moat (22) 2,Gold (3) 99,Gold (3) 4
+11_12_13_19_23:10;5;3;Gold (3) 6,CouncilRoom (11) 7,Gold (3) 101,Gold (3) 5,Silver (2) 10,Copper (1) 4,Copper (1) 7,Feast (12) 6,Silver (2) 6,Market (19) 9
+11_12_13_19_24:8;4;3;Gold (3) 8,CouncilRoom (11) 1,Silver (2) 10,Gold (3) 2,Silver (2) 6,Gold (3) 4,Gold (3) 8,Gold (3) 99,Duchy (5) 5

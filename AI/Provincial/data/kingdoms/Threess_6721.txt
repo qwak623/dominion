@@ -1,0 +1,1 @@
+21_22_23:8;6;4;Mine (21) 1,Province (6) 8,Gold (3) 102,Silver (2) 4,Silver (2) 11,Duchy (5) 7,Moat (22) 6,Copper (1) 8,Copper (1) 6,Copper (1) 4,Gold (3) 6,Silver (2) 9,Duchy (5) 4,Estate (4) 4,Moneylender (23) 1

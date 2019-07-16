@@ -1,0 +1,5 @@
+20_27_32:9;7;6;Province (6) 2,Gold (3) 99,Militia (20) 11,Silver (2) 7,Province (6) 11,Silver (2) 4,Silver (2) 12,Militia (20) 10,Militia (20) 2
+20_28_32:9;8;8;Province (6) 7,Gold (3) 99,Province (6) 3,Militia (20) 5,Duchy (5) 8,Silver (2) 9,Silver (2) 4,Copper (1) 9,Estate (4) 8
+20_29_32:0;-1;1;Gold (3) 2,Militia (20) 3,Silver (2) 7,Province (6) 6,Duchy (5) 11,Estate (4) 2,Estate (4) 9,Province (6) 13,Gold (3) 96,Estate (4) 10,Militia (20) 4,Province (6) 1,Workshop (32) 8
+20_30_32:2;-2;2;Witch (30) 2,Province (6) 1,Duchy (5) 8,Silver (2) 4,Copper (1) 1,Estate (4) 8,Silver (2) 8,Gold (3) 100,Workshop (32) 3,Militia (20) 10
+20_31_32:1;1;-4;Province (6) 7,Gold (3) 8,Militia (20) 4,Duchy (5) 3,Province (6) 2,Gold (3) 99,Duchy (5) 6,Silver (2) 9,Copper (1) 4,Silver (2) 10,Silver (2) 6,Workshop (32) 10,Workshop (32) 6,Estate (4) 8,Province (6) 1,Estate (4) 8

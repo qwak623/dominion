@@ -1,0 +1,9 @@
+10_12_14_16_17_27_29_30_31_32:4;2;6;Silver (2) 6,Duchy (5) 9,Gardens (14) 8,Duchy (5) 3,Estate (4) 8,Estate (4) 8,Gold (3) 100,Feast (12) 9,Witch (30) 3,Cellar (10) 3
+10_19_20_21_22_24_25_29_31_32:7;5;3;Province (6) 7,Gold (3) 4,Silver (2) 7,Silver (2) 5,Market (19) 2,Market (19) 2,Moat (22) 4,Market (19) 6,Gold (3) 100,Woodcutter (31) 6,Smithy (25) 2
+firstGameOld:9;5;3;Province (6) 5,Gold (3) 6,Gold (3) 100,Silver (2) 10,Remodel (24) 7,Moat (22) 5,Woodcutter (31) 7,Smithy (25) 8,Gold (3) 5,Estate (4) 4,Cellar (10) 9,Woodcutter (31) 11,Duchy (5) 8
+sizeDistortionOld:12;11;8;Workshop (32) 2,Gardens (14) 99,Gardens (14) 8,Province (6) 6,Gold (3) 6,Silver (2) 2,Silver (2) 10,Witch (30) 6,Feast (12) 4,Silver (2) 3,Cellar (10) 4,Copper (1) 8,Cellar (10) 8,Gardens (14) 1,Silver (2) 5
+10_19_20_21_22_24_25_29_31_32:6;6;4;Province (6) 9,Gold (3) 99,Market (19) 6,Militia (20) 2,Silver (2) 9,Duchy (5) 4,Mine (21) 4,Workshop (32) 8,Militia (20) 5,Moat (22) 9,Moat (22) 7,Village (29) 1,Gold (3) 10,Moat (22) 9,Militia (20) 4
+firstGame:12;6;3;Mine (21) 1,Gold (3) 95,Market (19) 5,Militia (20) 2,Silver (2) 11,Silver (2) 9,Silver (2) 7,Duchy (5) 5,Village (29) 11,Village (29) 2,Mine (21) 6,Smithy (25) 6
+sizeDistortion:6;4;1;Laboratory (17) 8,Province (6) 5,Silver (2) 5,Duchy (5) 7,Duchy (5) 6,Gardens (14) 99,Cellar (10) 10,Thief (27) 4
+10_19_20_21_22_24_25_29_31_32:12;6;4;Gold (3) 99,Mine (21) 1,Market (19) 3,Silver (2) 12,Cellar (10) 9,Moat (22) 7,Gold (3) 4,Estate (4) 7,Remodel (24) 8,Estate (4) 5,Workshop (32) 1,Cellar (10) 5,Silver (2) 4,Duchy (5) 3,Duchy (5) 4,Woodcutter (31) 4,Cellar (10) 4,Gold (3) 3,Militia (20) 12,Estate (4) 5
+10_12_14_16_17_27_29_30_31_32:1;8;1;Province (6) 12,Gold (3) 96,Witch (30) 9,Gardens (14) 9,Workshop (32) 3,Laboratory (17) 5,Laboratory (17) 7,Silver (2) 8,Silver (2) 8,Cellar (10) 1,Laboratory (17) 4,Estate (4) 8,Copper (1) 9,Woodcutter (31) 8

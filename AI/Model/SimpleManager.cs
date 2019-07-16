@@ -89,10 +89,20 @@ namespace AI.Model
             FileInfo[] files = new DirectoryInfo($"{directoryPath}").GetFiles($"{prefix}*.txt");
 
             lock (_lock)
+            {
                 foreach (var f in files)
+                {
                     using (var reader = f.OpenText())
+                    {
                         while (!reader.EndOfStream)
-                            list.Add(reader.ReadLine().Split(':')[0].ToCardList());
+                        {
+                            var cards = reader.ReadLine().Split(':')[0].ToCardList();
+                            if (cards != null)
+                                list.Add(cards);
+                        }
+                    }
+                }
+            }
             return list[new ThreadSafeRandom().Next(list.Count)];
         }
 
