@@ -121,6 +121,10 @@ namespace AI.Model
             }
             Console.WriteLine("AgendaCount " + agendas.Count);
 
+            // if there are no agendas fitting with this kingdom
+            if (agendas.Count == 0)
+                return null;
+
             //agendas.Add(new Tuple { Agenda = new Tens(directoryPath).Load(k), Wins = 0, Cards = k });
 
             sw.Stop();

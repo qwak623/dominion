@@ -471,7 +471,10 @@ namespace Window
 
         void AddToKingdom(object sender, EventArgs e)
         {
-            gameParams.Cards.Add((sender as Control)?.Tag as Card);
+            if (gameParams.Cards.Count >= 12)
+                MessageBox.Show("Kingdom cannot have more than 12 cards.");
+            else
+                gameParams.Cards.Add((sender as Control)?.Tag as Card);
             ShowCurrentKingdomCards();
             ShowExtensionCards();
         }
