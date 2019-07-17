@@ -1,5 +1,0 @@
-13_27_32:11;5;5;Gold (3) 8,Province (6) 7,Festival (13) 5,Duchy (5) 6,Gold (3) 2,Gold (3) 99,Silver (2) 9,Silver (2) 1,Gold (3) 7,Workshop (32) 3,Thief (27) 3,Gold (3) 9,Workshop (32) 11,Thief (27) 3,Thief (27) 9,Duchy (5) 4
-13_28_32:9;6;4;Province (6) 8,Gold (3) 100,Festival (13) 8,Silver (2) 8,Silver (2) 11,ThroneRoom (28) 11,Workshop (32) 4,ThroneRoom (28) 2,Workshop (32) 4,Festival (13) 6,Gold (3) 8,Duchy (5) 5
-13_29_32:14;6;3;Gold (3) 98,Gold (3) 7,Festival (13) 4,Silver (2) 11,Province (6) 5,Village (29) 4,Festival (13) 5,Province (6) 9,Duchy (5) 2
-13_30_32:8;8;7;Witch (30) 2,Province (6) 3,Gold (3) 98,Gold (3) 3,Festival (13) 11,Province (6) 7,Silver (2) 11,Duchy (5) 3,Copper (1) 3,Province (6) 3,Estate (4) 5
-13_31_32:9;6;4;Province (6) 7,Gold (3) 98,Gold (3) 11,Province (6) 10,Festival (13) 7,Silver (2) 9,Duchy (5) 3,Festival (13) 7,Gold (3) 7,Duchy (5) 7,Woodcutter (31) 5,Province (6) 2,Province (6) 2,Silver (2) 6

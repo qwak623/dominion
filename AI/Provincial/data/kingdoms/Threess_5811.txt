@@ -1,4 +1,0 @@
-11_28_32:8;6;4;Gold (3) 3,Province (6) 4,CouncilRoom (11) 1,Gold (3) 100,Silver (2) 5,CouncilRoom (11) 3,Silver (2) 8,Silver (2) 4,CouncilRoom (11) 13,Workshop (32) 1,ThroneRoom (28) 6,Silver (2) 5,Silver (2) 12
-11_29_32:10;5;3;Gold (3) 9,Silver (2) 1,CouncilRoom (11) 6,Silver (2) 8,CouncilRoom (11) 4,Gold (3) 97,Workshop (32) 3,Silver (2) 5
-11_30_32:10;8;8;Province (6) 3,Gold (3) 1,Witch (30) 2,Gold (3) 97,Silver (2) 10,Copper (1) 10,Silver (2) 4,Witch (30) 5,Silver (2) 4,CouncilRoom (11) 7,CouncilRoom (11) 4,Estate (4) 8,Curse (7) 10,Estate (4) 1,Duchy (5) 11,Copper (1) 1,Silver (2) 6
-11_31_32:8;7;4;CouncilRoom (11) 1,Gold (3) 3,Province (6) 10,Province (6) 4,Gold (3) 8,Silver (2) 9,Duchy (5) 9,Silver (2) 3,CouncilRoom (11) 7,Woodcutter (31) 2

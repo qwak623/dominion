@@ -1,6 +1,0 @@
-21_22_28:7;5;3;Province (6) 11,Province (6) 3,Gold (3) 95,Silver (2) 7,Duchy (5) 1,Duchy (5) 8,Gold (3) 7,Silver (2) 11,ThroneRoom (28) 11,Province (6) 3,Moat (22) 5,Gold (3) 2
-21_23_28:6;6;4;Province (6) 9,Gold (3) 96,Gold (3) 1,Mine (21) 1,Province (6) 5,Silver (2) 7,Silver (2) 8,Silver (2) 4,Gold (3) 3,Mine (21) 7,Gold (3) 8
-21_24_28:6;6;3;Mine (21) 1,Province (6) 8,Province (6) 9,Gold (3) 101,Silver (2) 11,Duchy (5) 11,ThroneRoom (28) 3,Mine (21) 10,Mine (21) 9,Gold (3) 6,Silver (2) 2,Remodel (24) 6,Duchy (5) 11
-21_25_28:7;6;4;Mine (21) 1,Province (6) 7,Gold (3) 6,Copper (1) 1,Silver (2) 3,Smithy (25) 1,Gold (3) 98,Silver (2) 10,Smithy (25) 10,Duchy (5) 4,Copper (1) 5,Copper (1) 2,ThroneRoom (28) 4
-21_26_28:6;6;4;Mine (21) 1,Province (6) 7,Gold (3) 98,Spy (26) 7,Duchy (5) 8,Silver (2) 6,Spy (26) 7,Silver (2) 9,Duchy (5) 11,Gold (3) 8,Duchy (5) 4,ThroneRoom (28) 10,ThroneRoom (28) 11
-21_27_28:11;7;5;Gold (3) 10,Province (6) 6,Mine (21) 1,Gold (3) 99,Province (6) 4,Silver (2) 5,Silver (2) 10,Duchy (5) 6,Gold (3) 3,Thief (27) 5,Mine (21) 9,ThroneRoom (28) 6,Duchy (5) 8,Silver (2) 7

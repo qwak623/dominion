@@ -1,6 +1,5 @@
 ﻿namespace GameCore.Cards.GeneralCards
 {
-    // TODO v nekterych rozsirenich je rozdil protoze curse neni victorycard a nevztahuji se na ni nejake veci... ale ted to pro zjednoduseni nejakych veci nebudu resit
     public class Curse : Card
     {
         static Curse curse = null;

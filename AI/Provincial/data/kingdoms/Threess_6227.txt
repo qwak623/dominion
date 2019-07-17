@@ -1,1 +1,0 @@
-27_28_29:9;6;3;Province (6) 8,Gold (3) 100,Silver (2) 10,Gold (3) 4,Village (29) 3,ThroneRoom (28) 9,Copper (1) 7,Copper (1) 2,Gold (3) 10,Gold (3) 8,Estate (4) 2,Silver (2) 7

@@ -70,7 +70,7 @@ namespace GameCore.Cards
         private void Reset(int players)
         {
             for (int i = 0; i < piles.Count; i++)
-            {// todo dodelat kolonie a platinu
+            {
                 // replaces all piles with standart size pile for game start.
                 var card = piles[i].Card;
                 int count = 10;

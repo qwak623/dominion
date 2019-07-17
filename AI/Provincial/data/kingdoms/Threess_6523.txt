@@ -1,1 +1,0 @@
-23_24_25:6;5;-3;Province (6) 4,Province (6) 2,Smithy (25) 1,Gold (3) 100,Silver (2) 5,Duchy (5) 12,Silver (2) 9,Moneylender (23) 5,Gold (3) 9,Remodel (24) 6,Moneylender (23) 2,Remodel (24) 4

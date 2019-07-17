@@ -1,5 +1,0 @@
-19_27_32:8;6;4;Gold (3) 2,Province (6) 5,Gold (3) 7,Market (19) 7,Province (6) 6,Silver (2) 6,Duchy (5) 99,Gold (3) 3,Thief (27) 3,Silver (2) 9,Gold (3) 8
-19_28_32:6;5;3;Province (6) 5,Gold (3) 98,Market (19) 10,Market (19) 5,Silver (2) 12,Gold (3) 12
-19_29_32:7;5;4;Province (6) 9,Gold (3) 6,Market (19) 6,Silver (2) 12,Silver (2) 3,Workshop (32) 3
-19_30_32:8;7;6;Gold (3) 2,Witch (30) 2,Province (6) 11,Gold (3) 6,Silver (2) 10,Silver (2) 12,Witch (30) 99,Market (19) 11
-19_31_32:5;5;4;Gold (3) 2,Province (6) 6,Gold (3) 6,Gold (3) 104,Market (19) 8,Duchy (5) 4,Silver (2) 9

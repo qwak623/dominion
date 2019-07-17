@@ -1,1 +1,0 @@
-18_19_20_22_23_24_25_27_30_32:0;-3;-2;Province (6) 7,Gold (3) 5,Witch (30) 8,Duchy (5) 6,Province (6) 5,Gold (3) 100,Silver (2) 12,Gold (3) 11,Library (18) 9,Thief (27) 6,Smithy (25) 8

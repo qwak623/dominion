@@ -1,2 +1,0 @@
-10_19_20_21_22_24_25_29_31_32:6;6;5;Gold (3) 2,Province (6) 3,Gold (3) 98,Market (19) 7,Province (6) 3,Militia (20) 8,Province (6) 8,Duchy (5) 9,Silver (2) 9,Village (29) 7,Moat (22) 6,Cellar (10) 9,Duchy (5) 9,Remodel (24) 7,Village (29) 2
-10_12_14_16_17_27_29_30_31_32:7;6;1;Province (6) 3,Witch (30) 2,Gold (3) 99,Silver (2) 5,Gold (3) 7,Workshop (32) 1,Gardens (14) 8,Duchy (5) 4,Silver (2) 3,Village (29) 6

@@ -1,2 +1,0 @@
-28_29_31:10;6;3;Province (6) 7,Gold (3) 99,Gold (3) 7,Woodcutter (31) 1,Silver (2) 9,Village (29) 3,Woodcutter (31) 1,Woodcutter (31) 8,Gold (3) 7,Duchy (5) 3,Woodcutter (31) 5,Village (29) 7,Silver (2) 11
-28_30_31:7;7;7;Province (6) 6,Province (6) 6,Gold (3) 102,Witch (30) 2,Silver (2) 8,Gold (3) 5,Duchy (5) 9,Woodcutter (31) 1,Duchy (5) 6

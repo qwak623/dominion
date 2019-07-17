@@ -1,1 +1,0 @@
-16_17_18:7;5;2;Province (6) 5,Gold (3) 101,Laboratory (17) 5,Province (6) 5,Gold (3) 9,Silver (2) 10,Silver (2) 4,Chapel (16) 1,Silver (2) 4,Laboratory (17) 2

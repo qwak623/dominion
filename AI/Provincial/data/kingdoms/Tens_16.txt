@@ -1,4 +1,7 @@
-16_17_18_20_21_23_24_26_28_31:12;5;3;Province (6) 9,Gold (3) 100,Laboratory (17) 8,Militia (20) 11,Silver (2) 10,Library (18) 3,Militia (20) 7,Remodel (24) 5,ThroneRoom (28) 1,Militia (20) 6,Woodcutter (31) 5,Spy (26) 4,Mine (21) 3
-16_17_19_21_22_25_26_28_29_30:5;5;2;Gold (3) 1,Province (6) 10,Smithy (25) 1,Gold (3) 98,Silver (2) 11,Silver (2) 8,Moat (22) 1,ThroneRoom (28) 10,Copper (1) 1,Spy (26) 8,Estate (4) 12
-16_17_18_19_20_21_22_24_28_29:6;5;3;Province (6) 4,Gold (3) 101,Market (19) 4,Moat (22) 1,Market (19) 10,Library (18) 11,Silver (2) 7,Silver (2) 12,Remodel (24) 8
-16_19_20_21_23_25_26_28_29_30:3;6;3;Witch (30) 3,Duchy (5) 6,Silver (2) 5,Gold (3) 99,Silver (2) 9,Gold (3) 10,Village (29) 4,Gold (3) 9,Militia (20) 9
+16_17_18_19_20_21_27_28_29_32:5;5;3;Province (6) 4,Gold (3) 8,Library (18) 2,Gold (3) 99,Silver (2) 9,Copper (1) 1,Gold (3) 8,Silver (2) 10,Village (29) 6,Mine (21) 8,ThroneRoom (28) 4,Copper (1) 3,Estate (4) 8,Chapel (16) 10,Militia (20) 7
+16_17_18_19_21_23_27_29_30_32:4;4;4;Witch (30) 2,Province (6) 9,Gold (3) 4,Silver (2) 10,Duchy (5) 5,Witch (30) 3,Silver (2) 8,Chapel (16) 6,Thief (27) 8,Laboratory (17) 5,Silver (2) 2
+16_17_18_19_22_23_26_30_31_32:10;5;4;Province (6) 2,Gold (3) 95,Witch (30) 1,Laboratory (17) 5,Duchy (5) 2,Silver (2) 12,Duchy (5) 5,Chapel (16) 3,Spy (26) 1,Witch (30) 7,Silver (2) 13,Duchy (5) 7
+16_18_19_21_23_25_27_28_31_32:12;6;4;Mine (21) 1,Gold (3) 100,Market (19) 8,Duchy (5) 2,Silver (2) 6,Silver (2) 10,Library (18) 8,Province (6) 3,ThroneRoom (28) 6,Moneylender (23) 8
+16_18_19_23_24_25_26_29_30_32:11;5;-4;Gold (3) 8,Gold (3) 98,Witch (30) 2,Chapel (16) 1,Silver (2) 11,Gold (3) 4,Silver (2) 7,Spy (26) 6,Workshop (32) 4,Village (29) 10,Moneylender (23) 6
+16_18_19_23_25_26_28_29_30_31:6;4;7;Witch (30) 2,Duchy (5) 7,Silver (2) 4,Copper (1) 1,Gold (3) 98,Estate (4) 9,Copper (1) 6,ThroneRoom (28) 3,Village (29) 4
+16_19_20_21_23_26_27_30_31_32:1;9;5;Province (6) 8,Gold (3) 5,Witch (30) 10,Duchy (5) 5,Silver (2) 8,Gold (3) 3,Woodcutter (31) 2,Copper (1) 9,Estate (4) 99,Gold (3) 7,Workshop (32) 7,Thief (27) 9,Moneylender (23) 7,Militia (20) 6

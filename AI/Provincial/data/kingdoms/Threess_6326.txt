@@ -1,1 +1,0 @@
-26_27_28:6;6;3;Province (6) 10,Gold (3) 100,Silver (2) 10,Spy (26) 6,Duchy (5) 5,Duchy (5) 11,Thief (27) 8,Spy (26) 12,Silver (2) 10,Silver (2) 7,Gold (3) 9,ThroneRoom (28) 8,Thief (27) 4

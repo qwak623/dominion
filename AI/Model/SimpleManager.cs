@@ -62,25 +62,24 @@ namespace AI.Model
             var id = cards.ToId();
             int i = cards.OrderBy(p => p.Type).Select(p => (int)p.Type).First();
 
-            // todo odkomentovat pred odevzdanim
-            //if (Load(cards) == null)
+            if (Load(cards) == null)
                 lock (_lock)
                     using (var writer = File.AppendText($"{directoryPath}{prefix}{i}.txt"))
                         writer.WriteLine(agenda.ToString(id));
-            //else
-            //{
-            //    var dict = new Dictionary<string, string>();
-            //    lock (_lock)
-            //    {
-            //        if (File.Exists($"{directoryPath}{prefix}{i}.txt"))
-            //            foreach (var line in File.ReadAllLines($"{directoryPath}{prefix}{i}.txt").Select(l => l.Split(':')))
-            //                dict[line[0]] = $"{line[0]}:{line[1]}";
-            //        dict[id] = agenda.ToString(id);
-            //        using (var writer = new StreamWriter($"{directoryPath}{prefix}{i}.txt"))
-            //            foreach (var a in dict.OrderBy(d => d.Key))
-            //                writer.WriteLine(a.Value);
-            //    }
-            //}
+            else
+            {
+                var dict = new Dictionary<string, string>();
+                lock (_lock)
+                {
+                    if (File.Exists($"{directoryPath}{prefix}{i}.txt"))
+                        foreach (var line in File.ReadAllLines($"{directoryPath}{prefix}{i}.txt").Select(l => l.Split(':')))
+                            dict[line[0]] = $"{line[0]}:{line[1]}";
+                    dict[id] = agenda.ToString(id);
+                    using (var writer = new StreamWriter($"{directoryPath}{prefix}{i}.txt"))
+                        foreach (var a in dict.OrderBy(d => d.Key))
+                            writer.WriteLine(a.Value);
+                }
+            }
         }
 
         public List<Card> RandomKingdom()

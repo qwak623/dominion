@@ -1,1 +1,1 @@
-19_20_21_22_23_25_26_29_30_32:3;8;4;Province (6) 5,Witch (30) 99,Silver (2) 10,Silver (2) 9,Market (19) 9,Duchy (5) 7,Copper (1) 2,Smithy (25) 1,Spy (26) 6,Estate (4) 8,Moneylender (23) 8
+19_20_21_22_23_24_26_27_30_32:9;7;6;Gold (3) 100,Province (6) 8,Witch (30) 2,Silver (2) 6,Market (19) 7,Silver (2) 11,Province (6) 3,Moneylender (23) 1

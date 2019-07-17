@@ -1,1 +1,0 @@
-28_29_30:10;8;7;Province (6) 4,Gold (3) 6,Gold (3) 99,Witch (30) 2,Silver (2) 11,Copper (1) 10,Witch (30) 7,Copper (1) 2,Witch (30) 5,Curse (7) 3,Duchy (5) 4,ThroneRoom (28) 3

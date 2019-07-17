@@ -1,2 +1,0 @@
-24_25_27:10;5;3;Gold (3) 100,Province (6) 8,Province (6) 6,Smithy (25) 1,Silver (2) 11,Gold (3) 4,Silver (2) 2,Remodel (24) 3,Thief (27) 3
-24_26_27:12;6;3;Gold (3) 100,Silver (2) 13,Spy (26) 5,Gold (3) 3,Remodel (24) 1,Thief (27) 8,Silver (2) 9,Duchy (5) 8,Thief (27) 3,Spy (26) 4,Spy (26) 5,Gold (3) 7,Remodel (24) 9

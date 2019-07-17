@@ -1,4 +1,0 @@
-12_28_32:8;6;3;Province (6) 11,Gold (3) 97,Silver (2) 10,Feast (12) 3,Province (6) 9,Copper (1) 6,Workshop (32) 5,Silver (2) 4,Feast (12) 8,Province (6) 4,Silver (2) 3,Duchy (5) 10,Estate (4) 7
-12_29_32:10;6;4;Province (6) 2,Province (6) 6,Gold (3) 99,Silver (2) 9,Province (6) 8,Village (29) 5,Gold (3) 6,Province (6) 4,Feast (12) 8,Duchy (5) 11
-12_30_32:-1;-2;1;Province (6) 8,Gold (3) 102,Witch (30) 2,Silver (2) 7,Gold (3) 10,Duchy (5) 10,Feast (12) 7,Silver (2) 10,Province (6) 7
-12_31_32:9;6;3;Province (6) 6,Gold (3) 99,Silver (2) 10,Woodcutter (31) 6,Feast (12) 9,Feast (12) 12,Workshop (32) 3,Province (6) 4,Feast (12) 6,Province (6) 4,Gold (3) 4,Copper (1) 5,Estate (4) 7,Woodcutter (31) 5

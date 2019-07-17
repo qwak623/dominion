@@ -26,7 +26,6 @@ namespace AI.Provincial
                         return -1;
                     if (card.Type == CardType.Mine && !(ps.Hand.Contains(CardType.Copper) || ps.Hand.Contains(CardType.Silver)))
                         return -1;  
-                     // todo ostatni karty co tam ma (soubor playerHeuristics.cpp)
                     return Data.GetPriorityList()[(int)card.Type];
                 case Phase.Attack:
                     if (card.Type == CardType.Gold)

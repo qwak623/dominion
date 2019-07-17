@@ -1,1 +1,0 @@
-25_26_27:11;5;3;Gold (3) 99,Smithy (25) 1,Gold (3) 3,Silver (2) 8,Silver (2) 12,Province (6) 9,Copper (1) 8,Silver (2) 4,Smithy (25) 1,Gold (3) 3,Spy (26) 5,Gold (3) 7,Estate (4) 5,Estate (4) 2,Silver (2) 6

@@ -27,8 +27,7 @@ namespace Eva
             char sep = Path.DirectorySeparatorChar;
             string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms{sep}";
             string subsetFile = null;
-            string filePrefix = ""; // TODO smazat
-            BuyAgendaManager manager = new SimpleManager(directoryPath, "TensProgress_");
+            BuyAgendaManager manager = new SimpleManager(directoryPath, "Tens_");
 
             IEnumerator<string> kingdoms = null;
 
@@ -37,7 +36,6 @@ namespace Eva
             {
                 if (args[i][0] != '-')
                     continue;
-                // todo ten try moc nefunguje tento radek pada na index outof rangde nebo null poitner
                 for (int j = 1; j < args[i].Length; j++)
                 {
                     try
@@ -49,22 +47,19 @@ namespace Eva
                                 break;
                             case 'd':
                                 et = EvolutionType.Tens;
-                                manager = new SimpleManager(directoryPath, "Tens_" + filePrefix);
+                                manager = new SimpleManager(directoryPath, "Tens_");
                                 break;
                             case 'f':
                                 et = EvolutionType.Subsets;
                                 //manager = new CachedManager(directoryPath, 5, "Fives_");
-                                manager = new SimpleManager(directoryPath, "LastFives_" + filePrefix); // TODO
+                                manager = new SimpleManager(directoryPath, "Fives_");
                                 subsetFile = "missingFives";
                                 break;
                             case 'h':
                                 et = EvolutionType.Subsets;
                                 //manager = new CachedManager(directoryPath, 3, "Threes_");
-                                manager = new SimpleManager(directoryPath, "LastThrees_" + filePrefix); // TODO
+                                manager = new SimpleManager(directoryPath, "Threes_");
                                 subsetFile = "missingThrees";
-                                break;
-                            case 'p':
-                                filePrefix = args[++i];
                                 break;
                             case 'n':
                                 et = EvolutionType.NamedGames;

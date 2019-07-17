@@ -41,28 +41,26 @@ namespace AI.Evolution
         {
             SetUp();
 
-            // todo smazat stopwatch
-            var sw = new System.Diagnostics.Stopwatch();
-            // var smazat stopwatch
+            //var sw = new System.Diagnostics.Stopwatch();
 
             for (int gen = 0; gen < par.Generations; gen++)
             {
-                sw.Reset();
-                sw.Start();
+            //    sw.Reset();
+            //    sw.Start();
             
                 // evolution step
                 GenerateNewPool();
                 Evaluate();
                 SetNewLeaders();
 
-                sw.Stop();
-                var elapsed = sw.Elapsed;
+            //    sw.Stop();
+            //    var elapsed = sw.Elapsed;
 
                 if (referenceAgenda != null)
                     ComputeFitness(leaders[0], gen);
                 //referenceAgenda = leaders[0];
 
-                logger?.Log($"Generation {gen}: elapsed time {elapsed.TotalSeconds.ToString("0.00")}s");
+            //    logger?.Log($"Generation {gen}: elapsed time {elapsed.TotalSeconds.ToString("0.00")}s");
             }
 
             return leaders[0];
@@ -79,7 +77,6 @@ namespace AI.Evolution
 
         void Evaluate()
         {
-            // todo parallel
             //for (int i = 0; i < pool.Length; i++)
             Parallel.For(0, pool.Length, new ParallelOptions { MaxDegreeOfParallelism = par.ParallelDegreeExt}, i => 
                 pool[i].Fitness = par.Evaluator.Evaluate(pool[i].Agenda, leaders, par.Kingdom, par.MinGames, par.MaxGames, par.ParallelDegreeInt));

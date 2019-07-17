@@ -1,4 +1,0 @@
-23_24_28:8;5;4;Province (6) 8,Remodel (24) 1,Gold (3) 7,Province (6) 2,Silver (2) 12,Moneylender (23) 8,Gold (3) 101,Gold (3) 1,Remodel (24) 11
-23_25_28:7;5;-5;Province (6) 7,Gold (3) 5,Silver (2) 4,Smithy (25) 6,Silver (2) 8,Duchy (5) 9,Duchy (5) 10,Province (6) 102,Moneylender (23) 11,Duchy (5) 8,Moneylender (23) 4
-23_26_28:8;6;3;Province (6) 7,Gold (3) 2,Silver (2) 2,Gold (3) 99,Silver (2) 8,Silver (2) 8,Duchy (5) 1,ThroneRoom (28) 2,Spy (26) 4,Moneylender (23) 8,Province (6) 8,Duchy (5) 7
-23_27_28:7;6;3;Province (6) 9,Gold (3) 99,Silver (2) 7,Silver (2) 9,Copper (1) 4,Silver (2) 8,Copper (1) 3,Estate (4) 6,Duchy (5) 10,Moneylender (23) 10,Moneylender (23) 9,Gold (3) 7

@@ -53,7 +53,6 @@ namespace GameCore
             };
 
 
-            // TODO 3-4 zacatek taky
             // gain estate
             for (int i = 0; i < 3; i++)
                 ps.DrawPile.Add(Cards.GeneralCards.Estate.Get());
@@ -326,7 +325,6 @@ namespace GameCore
             {
                 if (reactions.Count == 0)
                     break;
-                // TODO chtělo by to jinou metodu na obranu (kvuli AI) ale ted na tom nesejde
                 card = User.PlayCard(reactions, ps, Game.Kingdom, Phase.Reaction, attackCard);
                 reactions.Remove(card);
                 if (card == null)

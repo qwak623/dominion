@@ -1,1 +1,0 @@
-12_13_16_19_21_23_24_29_31_32:6;5;4;Remodel (24) 1,Province (6) 4,Gold (3) 98,Gold (3) 8,Market (19) 9,Silver (2) 15,Workshop (32) 5,Village (29) 5,Market (19) 5,Mine (21) 7,Festival (13) 9,Festival (13) 5,Province (6) 4,Festival (13) 8

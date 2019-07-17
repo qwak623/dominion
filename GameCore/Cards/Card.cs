@@ -123,7 +123,6 @@ namespace GameCore.Cards
         /// <returns></returns>
         public static Card Get(CardType cardType)
         {
-            // TODO vymyslet nejaky hezci zpusob, ale pokud nechci pouzivat reflection asi zadny nebude
             switch (cardType)
             {
                 case CardType.NotDefined:

@@ -1,2 +1,0 @@
-22_23_24:7;5;3;Province (6) 8,Gold (3) 99,Silver (2) 11,Moat (22) 4,Copper (1) 7,Gold (3) 6,Copper (1) 10,Moat (22) 6,Moneylender (23) 2,Estate (4) 11,Moneylender (23) 2,Remodel (24) 1,Moneylender (23) 9,Gold (3) 2
-22_23_25:8;6;3;Gold (3) 2,Province (6) 3,Gold (3) 99,Silver (2) 4,Smithy (25) 8,Moneylender (23) 10,Silver (2) 10,Moat (22) 5,Gold (3) 8,Copper (1) 4,Province (6) 9,Moneylender (23) 3,Duchy (5) 7,Silver (2) 9

@@ -25,35 +25,42 @@ namespace FilesToFile
 
         static void Main(string[] args)
         {
-            DirectoryInfo dir = new DirectoryInfo($"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms");
-            FileInfo[] files = dir.GetFiles("Tenss_*.txt");
+            var manager = new SimpleManager(directoryPath, "FinalFives_");
             var dict = new Dictionary<string, BuyAgenda>();
 
+            foreach (var agenda in manager)
+                dict[agenda.Id] = agenda;
+
+            //DirectoryInfo dir = new DirectoryInfo($"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms");
+            //FileInfo[] files = dir.GetFiles("LastThrees_*.txt");
             int i = 0;
 
-            i = foreachFiles(files, dict, i);
-            WriteLine("Tenss " + i);
-            i = 0;
+            //i = foreachFiles(files, dict, i);
+            //WriteLine("Last " + i);
+            //i = 0;
+            
             //files = dir.GetFiles("Fives_*.txt");
             //i = foreachFiles(files, dict, i);
             //WriteLine("Fives " + i);
 
             WriteLine(dict.Count);
 
-            var manager = new SimpleManager(directoryPath, "FinalTens_");
+            var finalManager = new SimpleManager(directoryPath, "Fives_");
             foreach (var item in dict.OrderBy(a => a.Key))
-            {
-                try
-                {
-                    manager.Save(item.Key.ToCardList(), item.Value);
-                }
-                catch
-                {
-                    WriteLine(item.Value.ToString(item.Key));
-                }
-            }
+                finalManager.Save(item.Key.ToCardList(), item.Value);
 
-            //int i = 0;
+            //foreach (var item in dict.OrderBy(a => a.Key))
+            //{
+            //    try
+            //    {
+            //        manager.Save(item.Key.ToCardList(), item.Value);
+            //    }
+            //    catch
+            //    {
+            //        WriteLine(item.Value.ToString(item.Key));
+            //    }
+            //}
+
             //var manager = new SimpleManager(directoryPath, "AFThrees_");
             //WriteLine(manager.Count());
             //foreach (var item in manager)
@@ -94,7 +101,6 @@ namespace FilesToFile
 
             WriteLine(i);
             ReadLine();
-
 
             //var manager = new SimpleManager(directoryPath, "Fives_");
             //var dict = new Dictionary<string, BuyAgenda>();
@@ -146,9 +152,7 @@ namespace FilesToFile
             //}
 
             // ukladani zpetne
-            //foreach (var item in dict)
-            //    manager.Save(item.Key.ToCardList(), item.Value);
-
+            
             // loading files
         }
 

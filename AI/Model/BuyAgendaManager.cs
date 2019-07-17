@@ -4,7 +4,6 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-// todo hodit model asi do ai, novou slozku
 namespace AI.Model
 {
     public abstract class BuyAgendaManager : IEnumerable<BuyAgenda>

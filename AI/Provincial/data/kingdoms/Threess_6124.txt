@@ -1,5 +1,0 @@
-24_25_30:2;-5;0;Province (6) 4,Province (6) 10,Gold (3) 4,Witch (30) 3,Silver (2) 6,Duchy (5) 99,Duchy (5) 4,Silver (2) 3,Copper (1) 5,Estate (4) 11,Witch (30) 5,Remodel (24) 2
-24_26_30:12;3;5;Witch (30) 2,Duchy (5) 9,Silver (2) 6,Province (6) 4,Estate (4) 1,Estate (4) 8,Silver (2) 8,Gold (3) 100,Estate (4) 6,Gold (3) 8,Remodel (24) 4,Copper (1) 7
-24_27_30:8;7;6;Province (6) 10,Gold (3) 101,Witch (30) 2,Gold (3) 5,Silver (2) 9,Silver (2) 8,Thief (27) 5,Remodel (24) 9,Remodel (24) 7,Duchy (5) 5,Duchy (5) 4
-24_28_30:14;8;7;Province (6) 1,Gold (3) 4,Witch (30) 2,Silver (2) 11,Copper (1) 3,Copper (1) 2,Copper (1) 4,Estate (4) 7,Curse (7) 7,Witch (30) 4,Gold (3) 98,Remodel (24) 3
-24_29_30:9;8;7;Province (6) 7,Gold (3) 5,Witch (30) 2,Gold (3) 101,Silver (2) 9,Silver (2) 8,Copper (1) 4,Village (29) 11,Duchy (5) 4,Silver (2) 5,Estate (4) 8,Curse (7) 12,Remodel (24) 6

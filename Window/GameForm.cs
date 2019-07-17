@@ -147,7 +147,6 @@ namespace Window
             {
                 RefreshWindow(ps, kingdom, phase, attackCard);
 
-                // todo tohle je nutné opravdu předělat jinak se to rozbije při resize
                 int y = 0, x = 0;
                 foreach (var card in cards.OrderBy(b => b.Price).ThenBy(b => b.Name))
                 {
@@ -199,7 +198,6 @@ namespace Window
                 this.max = max;
                 RefreshWindow(ps, kingdom, phase, attackCard);
 
-                // todo tohle je nutné opravdu předělat jinak se to rozbije při resize
                 int y = 8, x = 0;
                 foreach (var card in cards.OrderBy(b => b.Name).OrderBy(b => b.Price))
                 {

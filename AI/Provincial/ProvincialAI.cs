@@ -30,7 +30,6 @@ namespace AI.Provincial
             Card bestCard = null;
             foreach (var c in cards)
             {
-                // todo vypsat score a ruku pro testovani
                 var neco = Data.GetPriorityList()[(int)c.Type];
 
                 float score = c.Score(cards, ps, phase);
@@ -74,9 +73,8 @@ namespace AI.Provincial
                 else
                     buyAgenda.BuyMenu[i] = tuple; // this is a value type, i have to return the value back
 
-                // todo vyresit na pricitani a odcitani pri trash / gain
                 if (card.IsTreasure)
-                    playerInfo.TreasureTotal += card.Coins; // todo u moneylendera se nesnizi
+                    playerInfo.TreasureTotal += card.Coins; 
                 if (card.Type == CardType.Moneylender)
                     playerInfo.TreasureTotal -= 1;
                 else if (card.Type == CardType.Bureaucrat)
@@ -148,8 +146,6 @@ namespace AI.Provincial
 
         public override List<Card> MilitiaDiscard(PlayerState ps, Kingdom k, int discardCount)
         {
-            // TODO mozna by slo odebirat rovnou z ruky... je to rychlejsi ale neni to uplne korektni navrh
-
             var hand = ps.Hand.ToList();
             var discards = new List<Card>();
             while (discards.Count < discardCount)
@@ -196,7 +192,7 @@ namespace AI.Provincial
         }
 
         public override bool SpyDiscard(PlayerState ps, Kingdom k, Card c, Phase p)
-        {  // todo is victory nebude fungovat az tu budou body s akcemi a tak
+        { 
             if (p == Phase.Attack)
                 return !(c.IsVictory || c.Type == CardType.Copper);
             else // if (p == Phase.Action)

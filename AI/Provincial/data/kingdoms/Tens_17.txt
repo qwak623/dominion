@@ -1,1 +1,0 @@
-17_18_20_24_26_27_28_29_30_32:8;5;2;Province (6) 11,Gold (3) 9,Library (18) 6,Gold (3) 101,Silver (2) 10,ThroneRoom (28) 9,Spy (26) 1,Province (6) 1

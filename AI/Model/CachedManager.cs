@@ -119,6 +119,7 @@ namespace AI.Model
                 if (agenda != null)
                     agendas.Add(new BuyAgendaTournament.Tuple { Agenda = agenda, Wins = 0, Id = cards.ToId() });
             }
+            Console.WriteLine("AgendaCount " + agendas.Count);
 
             //agendas.Add(new Tuple { Agenda = new Tens(directoryPath).Load(k), Wins = 0, Cards = k });
 
