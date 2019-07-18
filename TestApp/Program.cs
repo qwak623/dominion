@@ -13,11 +13,13 @@ namespace TestApp
 {
     class Program
     {
-        static readonly char sep = Path.DirectorySeparatorChar;
-        static string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms{sep}";
+        //static readonly char sep = Path.DirectorySeparatorChar;
+        //static string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms{sep}";
+        //static string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}";
 
         static void Main(string[] args)
         {
+            string directoryPath = BuyAgenda.DirectoryPath;
             List<int> numbers = new List<int>{ -1, 2, 4, 7, 10 };
 
             foreach (var item in new Subsets(numbers, 2))

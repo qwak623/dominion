@@ -72,6 +72,67 @@
       <Version>4.5.0</Version>
     </PackageReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Provincial\data\priority.txt" />
+    <None Include="Provincial\data\kingdoms\threes.txt" />
+    <None Include="Provincial\data\kingdoms\fives.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_30.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_29.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_28.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_27.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_26.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_25.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_24.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_23.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_22.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_21.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_20.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_19.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_18.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_17.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_16.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_15.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_14.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_13.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_12.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_11.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_10.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_9.txt" />
+    <None Include="Provincial\data\kingdoms\Threes_8.txt" />
+    <None Include="Provincial\data\kingdoms\Tens_19.txt" />
+    <None Include="Provincial\data\kingdoms\Tens_18.txt" />
+    <None Include="Provincial\data\kingdoms\Tens_16.txt" />
+    <None Include="Provincial\data\kingdoms\Tens_15.txt" />
+    <None Include="Provincial\data\kingdoms\Tens_14.txt" />
+    <None Include="Provincial\data\kingdoms\Tens_13.txt" />
+    <None Include="Provincial\data\kingdoms\Tens_12.txt" />
+    <None Include="Provincial\data\kingdoms\Tens_11.txt" />
+    <None Include="Provincial\data\kingdoms\Tens_10.txt" />
+    <None Include="Provincial\data\kingdoms\Tens_9.txt" />
+    <None Include="Provincial\data\kingdoms\Tens_8.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_28.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_27.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_26.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_25.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_24.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_23.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_22.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_21.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_20.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_19.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_18.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_17.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_16.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_15.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_14.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_13.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_12.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_11.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_10.txt" />
+    <None Include="Provincial\data\kingdoms\Fives_9.txt" />
+    <AdditionalFiles Include="Provincial\data\kingdoms\Fives_8.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </AdditionalFiles>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

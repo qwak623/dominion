@@ -7,7 +7,6 @@ using System.Linq;
 using GameCore;
 using GameCore.Cards;
 using System.Threading.Tasks;
-using System.IO;
 using Utils;
 using AI.Provincial;
 using AI.Model;
@@ -21,9 +20,11 @@ namespace Window
         Job job = new Job();
         int min, max;
         const int dy = 30, dx = 145;
-        static readonly char sep = Path.DirectorySeparatorChar;
-        string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms{sep}";
+        //static readonly char sep = Path.DirectorySeparatorChar;
+        //string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms{sep}";
+        //string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}";
         CancellationTokenSource tokenSource = new CancellationTokenSource();
+        string directoryPath = BuyAgenda.DirectoryPath;
 
         public GameForm()
         {

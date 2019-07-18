@@ -24,8 +24,11 @@ namespace Eva
             int startIndex = 0, count = 1, parallelDegreeExt = -1, parallelDegreeInt = -1;
 
             var rnd = new ThreadSafeRandom();
-            char sep = Path.DirectorySeparatorChar;
-            string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms{sep}";
+            //char sep = Path.DirectorySeparatorChar;
+            //string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms{sep}";
+            //string directoryPath = $"..{sep}..{sep}..{sep}AI{sep}";
+            string directoryPath = BuyAgenda.DirectoryPath;
+
             string subsetFile = null;
             BuyAgendaManager manager = new SimpleManager(directoryPath, "Tens_");
 
@@ -86,7 +89,7 @@ namespace Eva
 
             if (et == EvolutionType.Subsets)
             {
-                kingdoms = File.ReadAllLines($"{directoryPath}{sep}{subsetFile}.txt").Skip(startIndex).Take(count).GetEnumerator();
+                kingdoms = File.ReadAllLines($"{directoryPath}{BuyAgenda.sep}{subsetFile}.txt").Skip(startIndex).Take(count).GetEnumerator();
                 WriteLine($"count: {count}");
                 WriteLine($"start index: {startIndex}");
             }

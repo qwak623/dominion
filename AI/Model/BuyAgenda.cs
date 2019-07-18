@@ -2,6 +2,7 @@
 using GameCore.Cards;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using Utils;
 
@@ -9,6 +10,9 @@ namespace AI.Model
 {
     public class BuyAgenda
     {
+        public static char sep = Path.DirectorySeparatorChar;
+        public static string DirectoryPath = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}kingdoms{sep}";
+
         private BuyAgenda(string id) => Id = id;
 
         public string Id { get; set; }
@@ -17,6 +21,7 @@ namespace AI.Model
         public int Duchies { get; set; }
         public int Estates { get; set; }
         public bool Loaded { get; set; }
+
 
         public static BuyAgenda FromString(string str)
         {
@@ -40,7 +45,7 @@ namespace AI.Model
 
                 return agenda;
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 return null;
             }
@@ -63,6 +68,12 @@ namespace AI.Model
             };
         }
 
+
+        /// <summary>
+        /// Creates random individual with length max 10. on index 2 is (gold, 99) and on index 7 is (silver, 10).
+        /// </summary>
+        /// <param name="k"></param>
+        /// <returns></returns>
         public static BuyAgenda CreateRandom(List<Card> k)
         {
             string id = k.Where(c => c.Type > CardType.Curse).OrderBy(c => c.Type).Select(c => ((int)c.Type).ToString()).Aggregate((a, b) => a + "_" + b);

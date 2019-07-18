@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using AI.Model;
 using GameCore.Cards;
 
 namespace AI.Provincial
@@ -10,8 +11,10 @@ namespace AI.Provincial
         static float[] priorityList;
         static object obj = new object();
 
-        static char sep = Path.DirectorySeparatorChar;
-        static string path = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}priority.txt";
+        //static char sep = Path.DirectorySeparatorChar;
+        //static string path = $"..{sep}..{sep}..{sep}AI{sep}Provincial{sep}data{sep}priority.txt";
+        //static string path = $"..{sep}..{sep}..{sep}AI{sep}priority.txt";
+        static string path = BuyAgenda.DirectoryPath + BuyAgenda.sep + ".." + BuyAgenda.sep + "priority.txt";
 
         // list is indexed by CardType
         // priority list is computed only once

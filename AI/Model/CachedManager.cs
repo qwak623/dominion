@@ -47,7 +47,7 @@ namespace AI.Model
                 lock (locks[i])
                     return BuyAgenda.FromString(files[i][id]);
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 return null;
             }
