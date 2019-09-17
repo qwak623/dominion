@@ -54,13 +54,17 @@ namespace GameCore
 
 
             // gain estate
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < 2; i++)
                 ps.DrawPile.Add(Cards.GeneralCards.Estate.Get());
 
             // gain copper
             for (int i = 0; i < 7; i++)
                 ps.DrawPile.Add(Cards.GeneralCards.Copper.Get());
-            }
+
+            // gain estate
+            for (int i = 0; i < 1; i++)
+                ps.DrawPile.Add(Cards.GeneralCards.Estate.Get());
+        }
 
         /// <summary>
         ///     Null pointer indicates that player cand or doesnt want to play any action card.

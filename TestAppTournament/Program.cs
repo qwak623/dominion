@@ -22,6 +22,40 @@ namespace TestApp
         static void Main(string[] args)
         {
             string directoryPath = BuyAgenda.DirectoryPath;
+            var array = new List<int[]>();
+            for (int i = 0; i < 33; i++)
+            {
+                array.Add(new int[3]);
+                array[i][2] = i;
+            }
+
+            var threes43 = new CachedManager(directoryPath, 3, "Threes43_");
+
+            for (int i = 0; i < 100; i++)
+            {
+                var Cards = Enumerable.Range((int)CardType.Adventurer, 25)
+                .Select(t => ((t, r: new ThreadSafeRandom().NextDouble())))
+                .OrderBy(a => a.r)
+                .Take(10)
+                .Select(((int type, double) a) => Card.Get((CardType)a.type))
+                .OrderBy(a => a.Price)
+                .ThenBy(a => a.Name)
+                .ToList();
+
+                foreach (var c in threes43.LoadBest(Cards).Id.ToCardList())
+                    array[(int)c.Type][0]++;
+
+                foreach (var c in Cards)
+                    array[(int)c.Type][1]++;
+
+            }
+
+            foreach (var c in array.OrderBy(a => (double)a[0] / a[1]))
+                WriteLine($"{(CardType)c[2]} {c[0]}/{c[1]}");
+
+            ReadLine();
+            return;
+
 
             var tens = new SimpleManager(directoryPath, "Tens_");
             var cards = tens.RandomKingdom();

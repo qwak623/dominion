@@ -50,19 +50,19 @@ namespace Eva
                                 break;
                             case 'd':
                                 et = EvolutionType.Tens;
-                                manager = new SimpleManager(directoryPath, "Tens_");
+                                manager = new SimpleManager(directoryPath, "Tens_"); 
                                 break;
                             case 'f':
                                 et = EvolutionType.Subsets;
                                 //manager = new CachedManager(directoryPath, 5, "Fives_");
-                                manager = new SimpleManager(directoryPath, "Fives_");
-                                subsetFile = "missingFives";
+                                manager = new SimpleManager(directoryPath, "Fives_"); 
+                                subsetFile = "fives";
                                 break;
                             case 'h':
                                 et = EvolutionType.Subsets;
                                 //manager = new CachedManager(directoryPath, 3, "Threes_");
-                                manager = new SimpleManager(directoryPath, "Threes_");
-                                subsetFile = "missingThrees";
+                                manager = new SimpleManager(directoryPath, "Threes43_"); // TODO 43
+                                subsetFile = "threes";
                                 break;
                             case 'n':
                                 et = EvolutionType.NamedGames;
@@ -176,13 +176,13 @@ namespace Eva
                                 //cards = PresetGames.Get(Games.FirstGame).AddRequiredCards();
                                 List<(List<Card> Cards, string Name)> games = new List<(List<Card>, string)>
                                 {
-                                    //(PresetGames.Get(Games.BigMoney), "bigMoneyGame"),
-                                    //(PresetGames.Get(Games.Interaction), "interaction"),
+                                    (PresetGames.Get(Games.BigMoney), "bigMoneyGame"),
+                                    (PresetGames.Get(Games.Interaction), "interaction"),
                                     (PresetGames.Get(Games.FirstGame), "firstGame"),
                                     (PresetGames.Get(Games.SizeDistortion), "sizeDistortion"),
                                     (PresetGames.Get(Games.ThrashHeap), "trasheap"),
-                                    //(PresetGames.Get(Games.VillageSquare), "village"),
-                                    ((new int[]{ 9, 12, 15, 18, 22, 24, 27, 28, 31, 32}.Select(c => Card.Get((CardType)c)).ToList()), "badCards")
+                                    (PresetGames.Get(Games.VillageSquare), "village"),
+                                    //((new int[]{ 9, 12, 15, 18, 22, 24, 27, 28, 31, 32}.Select(c => Card.Get((CardType)c)).ToList()), "badCards")
                                     //(new List<Card>{Card.Get(CardType.Curse)}, "bigMoney")
                                 };
 
@@ -196,8 +196,8 @@ namespace Eva
                                         Evaluator = new ProvincialEvaluator(),
                                         LeaderCount = 10,
                                         PoolCount = 50,
-                                        Generations = 100,
-                                    }, new Logger(), manager.First(a => a.Id == item.Name));
+                                        Generations = 50,
+                                    }, new Logger()); //manager.First(a => a.Id == item.Name));
                                     var agenda = evolution.Run();
                                     manager.Save(item.Cards, agenda);
                                 });

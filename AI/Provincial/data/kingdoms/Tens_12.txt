@@ -83,3 +83,4 @@
 12_17_18_19_21_26_27_28_30_32:11;6;6;Province (6) 5,Gold (3) 9,Witch (30) 2,Silver (2) 6,Duchy (5) 9,Silver (2) 11,Silver (2) 100,Duchy (5) 7,Workshop (32) 7,Spy (26) 10
 12_17_18_22_24_25_27_28_30_31:-2;-1;-2;Gold (3) 1,Province (6) 2,Province (6) 4,Province (6) 3,Gold (3) 4,Witch (30) 2,Laboratory (17) 2,Duchy (5) 7,Gold (3) 102,Silver (2) 11,Feast (12) 8,ThroneRoom (28) 10
 12_19_22_23_24_26_27_28_29_31:5;5;3;Province (6) 10,Gold (3) 99,Silver (2) 7,Spy (26) 6,Duchy (5) 3,Moat (22) 2,Estate (4) 3,Moneylender (23) 6,Copper (1) 9,Market (19) 5,Duchy (5) 6,Estate (4) 7,Thief (27) 9,Duchy (5) 9,Silver (2) 10,Estate (4) 8,Market (19) 5,Moneylender (23) 9,Remodel (24) 7,Spy (26) 3
+12_13_16_19_21_23_24_29_31_32:14;7;4;Gold (3) 7,Gold (3) 102,Mine (21) 7,Silver (2) 10,Woodcutter (31) 6,Province (6) 1,Duchy (5) 6,Silver (2) 8,Silver (2) 8,Festival (13) 5

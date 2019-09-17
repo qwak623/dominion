@@ -421,3 +421,5 @@
 9_18_19_21_22_25_26_29_31_32:5;5;3;Province (6) 9,Gold (3) 8,Library (18) 4,Silver (2) 12,Library (18) 98,Market (19) 6,Bureaucrat (9) 3,Bureaucrat (9) 7,Copper (1) 5,Village (29) 12,Estate (4) 3
 9_18_20_21_23_24_25_29_30_32:9;7;6;Province (6) 6,Gold (3) 99,Witch (30) 2,Silver (2) 8,Gold (3) 4,Duchy (5) 8,Smithy (25) 3
 9_18_20_22_24_26_28_29_30_32:6;6;-2;Witch (30) 2,Province (6) 8,Gold (3) 100,Silver (2) 11,Library (18) 8,Copper (1) 4,Estate (4) 4,Village (29) 9,Estate (4) 5,ThroneRoom (28) 11
+9_11_13_15_18_20_22_26_27_29:9;6;5;Bureaucrat (9) 1,Gold (3) 6,Gold (3) 97,CouncilRoom (11) 1,Silver (2) 7,Library (18) 7,Silver (2) 10,Village (29) 1,Province (6) 10,Village (29) 5
+9_10_13_18_19_24_25_28_29_31:9;5;3;Province (6) 6,Province (6) 4,Smithy (25) 1,Gold (3) 99,Silver (2) 11,Remodel (24) 11,Bureaucrat (9) 7,Market (19) 2,Woodcutter (31) 7

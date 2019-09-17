@@ -64,6 +64,7 @@ namespace GameCore
                     Logger?.Log("\n");
                     if (i == 0)
                         Logger?.Log($"Round {turn}:");
+                    Logger?.Log($"{Players[i].Name}'s turn:");
                     Logger?.Log($"Action phase");
                     Logger?.Log("Hand: " + string.Join(", ", Players[i].ps.Hand.Select(c => c.Name)));
 

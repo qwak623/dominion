@@ -12,6 +12,6 @@ namespace Window
     {
         Action<string> log;
         public WindowLogger(Action<string> log) => this.log = log;
-        public void Log(string str) => log(str + "\n");
+        public void Log(string str) => log(str + Environment.NewLine);
     }
 }

@@ -41,26 +41,26 @@ namespace AI.Evolution
         {
             SetUp();
 
-            //var sw = new System.Diagnostics.Stopwatch();
+            var sw = new System.Diagnostics.Stopwatch();
 
             for (int gen = 0; gen < par.Generations; gen++)
             {
-            //    sw.Reset();
-            //    sw.Start();
-            
+                sw.Reset();
+                sw.Start();
+
                 // evolution step
                 GenerateNewPool();
                 Evaluate();
                 SetNewLeaders();
 
-            //    sw.Stop();
-            //    var elapsed = sw.Elapsed;
+                sw.Stop();
+                var elapsed = sw.Elapsed;
 
                 if (referenceAgenda != null)
                     ComputeFitness(leaders[0], gen);
                 //referenceAgenda = leaders[0];
 
-            //    logger?.Log($"Generation {gen}: elapsed time {elapsed.TotalSeconds.ToString("0.00")}s");
+                logger?.Log($"Generation {gen}: elapsed time {elapsed.TotalSeconds.ToString("0.00")}s");
             }
 
             return leaders[0];

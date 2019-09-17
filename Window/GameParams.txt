@@ -1,4 +1,4 @@
-AIType=Fives
+AIType=Threes
 User1Name=Honza
 User2Name=Friend
 Cards=Cellar,Moat,Village,Woodcutter,Workshop,Militia,Remodel,Smithy,Market,Mine

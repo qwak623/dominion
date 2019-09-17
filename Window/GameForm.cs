@@ -35,6 +35,7 @@ namespace Window
             SettingsPanel.Location = new Point(0, 36);
 
             PlayerNameTextBox.Text = gameParams.User1Name;
+            LogTextBox.Height = LogTextBox.Height - 15;
 
             switch (gameParams.AIType)
             {
@@ -85,13 +86,13 @@ namespace Window
                 switch (gameParams.AIType)
                 {
                     case AIType.Tens:
-                        manager = new SimpleManager(directoryPath, "Tens_");
+                        manager = new SimpleManager(directoryPath, "Tens_"); 
                         break;
                     case AIType.Fives:
                         manager = new CachedManager(directoryPath, 5, "Fives_");    
                         break;
                     case AIType.Threes:
-                        manager = new CachedManager(directoryPath, 3, "Threes_");
+                        manager = new CachedManager(directoryPath, 3, "Threes43_"); // TODO
                         break;
                     default:
                         break;
